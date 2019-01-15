@@ -1,6 +1,6 @@
 ## Links
-- [blogging links](https://github.com/John-Lee-Cooper/hello-world/Blogging.md)
-- [git scenarios](https://github.com/John-Lee-Cooper/hello-world/git_Scenarios.md)
+- [blogging links](Blogging.md)
+- [git scenarios](git_Scenarios.md)
 
 ## Welcome to GitHub Pages
 
