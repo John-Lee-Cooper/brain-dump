@@ -1,3 +1,7 @@
+## Links
+- [blogging links](https://github.com/John-Lee-Cooper/hello-world/Blogging.md)
+- [git scenarios](https://github.com/John-Lee-Cooper/hello-world/git_Scenarios.md)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/John-Lee-Cooper/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
