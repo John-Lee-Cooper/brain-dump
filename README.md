@@ -1,5 +1,5 @@
 ## Links
-- [blogging links](Blogging.md)
+- [Links](links.md)
 - [git scenarios](git_Scenarios.md)
 
 ## Welcome to [GitHub Pages](https://john-lee-cooper.github.io/hello-world/)
