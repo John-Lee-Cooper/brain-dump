@@ -20,6 +20,7 @@
 
 ### Android
 
+[Supporting Multiple Screens | Android Developers](https://developer.android.com/guide/practices/screens_support.html)
 [Android Development](http://www.vogella.com/tutorials/android.html)
 [Android Wi-Fi](https://www.tutorialspoint.com/android/android_wi_fi.htm)
 [Using Network Service Discovery | Android Developers](https://stuff.mit.edu/afs/sipb/project/android/docs/training/connect-devices-wirelessly/nsd.html)
@@ -72,10 +73,6 @@ Recognition](http://cs231n.stanford.edu/)
 [Getting Started - Google Maps JavaScript API v3 — Google Developers](https://developers.google.com/maps/documentation/javascript/tutorial)
 [gmaps.js — Google Maps API with less pain and more fun](http://hpneo.github.com/gmaps/documentation.html)
 [Home | OpenTripPlanner](http://www.opentripplanner.org/)
-
-### Android
-
-[Supporting Multiple Screens | Android Developers](https://developer.android.com/guide/practices/screens_support.html)
 
 ### IOS
 
@@ -130,6 +127,9 @@ Recognition](http://cs231n.stanford.edu/)
 
 [Jupyter Notebook Viewer](http://nbviewer.jupyter.org/github/rlabbe/Kalman- and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)
 [Favorites](http://nbviewer.ipython.org/)
+[The IPython Notebook — IPython](http://ipython.org/notebook.html)
+[A gallery of interesting IPython Notebooks · ipython/ipython Wiki](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+[Favorites](http://nbviewer.ipython.org/)
 
 ### Ubuntu and Free Software links
 
@@ -147,7 +147,8 @@ Recognition](http://cs231n.stanford.edu/)
 [How to use Visual Basic for Applications (VBA) to change UserForms in Excel](https://support.microsoft.com/en-us/kb/829070)
 [Shapes.AddFormControl Method (Excel)](https://msdn.microsoft.com/EN-US/library/office/ff838642.aspx)
 
-### web
+
+## web
 
 [Google Chart Tools — Google Developers](https://developers.google.com/chart/)
 [What Is Google App Engine? - Google App Engine - Google Code](https://code.google.com/appengine/docs/whatisgoogleappengine.html)
@@ -206,7 +207,8 @@ Recognition](http://cs231n.stanford.edu/)
 [Getting Started: Python - Google App Engine - Google Code](https://code.google.com/appengine/docs/python/gettingstarted/)
 [The Track West | Lee's Blog](http://leecooperblog.wordpress.com/)
 
-### Personal
+
+## Personal
 
 [Blackberry Syrup Recipe | MyRecipes.com](http://www.myrecipes.com/recipe/blackberry-syrup-50400000122158/)
 [The Track West | Lee's Blog](http://leecooperblog.wordpress.com/)
@@ -237,53 +239,6 @@ Recognition](http://cs231n.stanford.edu/)
 [youtu.be/zmSOnKkm8Y0](http://youtu.be/zmSOnKkm8Y0)
 [youtu.be/nq0KNfS_M44](http://youtu.be/nq0KNfS_M44)
 
-### Other
-
-[What is TDM? — Mobility Lab](http://mobilitylab.org/about-us/what-is-tdm/)
-[kpath.tex](http://www.ics.uci.edu/~eppstein/pubs/Epp-SJC-98.pdf)
-[Instapaper: Read Later](javascript:var%20d%3Ddocument%2Cw%3Dwindow%2Cf%3D%27http%3A%2F%2Fwww.instapaper.com%2Fb%27%2Cl%3Dd.location%2Ce%3DencodeURIComponent%2Cp%3D%27%3Fv%3D4%26iphone%3D%26k%3D%26u%3D%27%2Be%28l.href%29%2B%27%26t%3D%27%2Be%28d.title%29%2Cu%3Df%2Bp%3Bif%28%2Finstapaper%2F.test%28l.host%29%29iptstbt%28%29%3Belse%20w.open%28u%2C%27t%27%29%3Bvoid%280%29)
-[Dashboard](https://www.google.com/dashboard/b/0/)
-[Graphite - Scalable Realtime Graphing - Graphite](http://graphite.wikidot.com/start)
-[Weblog Posts in category Web2py - ThadeusB](http://www.thadeusb.com/weblog/category/Web2py)
-[MVC : The Official Microsoft ASP.NET Site](http://www.asp.net/mvc)
-[OCI_SAR_Tool_v2.pdf](https://www.systemsmadesimple.com/docs/appraisalProcessModule/jobAids/OCI_SAR_Tool_v2.pdf)
-[Sensei: An Agile Retrospective Tool to Drive Continuous Improvement](http://beta.senseitool.com/)
-[about:config](about:config)
-[python remove directory - Google Search](http://www.google.com/search?q=python+remove+directory&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs)
-[Computer World | Jdoe's Throwaway](http://jdoe.asidev.com/category/computer-world/)
-[DesignPatterns - selenium - Design Patterns that have worked well on WebDriver projects - Browser automation framework - Google Project Hosting](https://code.google.com/p/selenium/wiki/DesignPatterns)
-[Your Products - O'Reilly Media](https://members.oreilly.com/account/emedia?filter=print-books&sort=added&order=asc&isbn=9781449305468)
-[Home | OpenTripPlanner](http://www.opentripplanner.org/)
-[Google](https://www.google.com/)
-[What Is Vagrant and Why Should I Care? ◆ 24 ways](https://24ways.org/2014/what-is-vagrant-and-why-should-i-care/)
-[Food - Human GIS](http://jacoop.weebly.com/food.html)
-[Using your new Raspberry Pi 3 as a WiFi access point with hostapd](https://frillip.com/using-your-raspberry-pi-3-as-a-wifi-access-point-with-hostapd/)
-[Index of /](http://blacksburg.transit.org/)
-[Kahoot!](https://kahoot.it/#/)
-[goo](https://stackoverflow.com/questions/19482317/bellman-ford-vs-dijkstra-under-what-circumstances-is-bellman-ford-better)
-[Microsoft365](https://portal.office.com/?username=lee.cooper%40aciwebs.onmicrosoft.com)
-[Problem loading page](http://www.verizon.com/)
-[Kivy: Crossplatform Framework for NUI](http://kivy.org/#home)
-[12 Days of Performance - REVSYS](http://www.revsys.com/12days/)
-[parking](http://216.252.195.87/parking/events/index)
-[28 of the Best Motivational TED Talk Videos to Inspire You](http://blog.hubspot.com/marketing/15-phenomenal-ted-talks#sm.001uyv8uw15swfp4ucw1ieuknol7k)
-[Cythnia Epps in Comer, GA | Intelius](http://www.intelius.com/Find-Phone-Address/Comer-GA/Cythnia-Epps.html)
-[Tactical Rock-Paper- Scissors - TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/TacticalRockPaperScissors)
-[parking](https://www.athdparking.com/gateways)
-[Exploring the new Android ConstraintLayout – Exploring Android – Medium](https://medium.com/exploring-android/exploring-the-new-android-constraintlayout-eed37fe8d8f1)
-[scrooloose/syntastic](https://github.com/scrooloose/syntastic)
-[PyTorch](http://pytorch.org/)
-[Automated deployment with Ubuntu, Fabric and Django | ilian.io](http://www.ilian.io/automated-deployment-with-ubuntu-fabric-and-django/)
-[cs231n-CNNs : Free Download & Streaming : Internet Archive](https://archive.org/details/cs231n-CNNs)
-[Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
-[Regex Tutorial - Literal Characters and Special Characters](http://www.regular-expressions.info/characters.html)
-[windows 7 - How to Remove ODBC Data Source if Driver is Removed - Super User](http://superuser.com/questions/713258/how-to-remove-odbc-data-source-if-driver-is-removed)
-[Emoji and Markdown Everywhere | Trello Blog](http://blog.trello.com/emoji-and-markdown-everywhere/)
-[(6) PyCon 2017 - YouTube](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg)
-[Android Tutorial](https://www.tutorialspoint.com/android/index.htm)
-[Google Sync](https://m.google.com/sync/settings/iconfig/welcome?source=mobileproducts)
-[Google Voice](http://www.google.com/googlevoice/about.html)
-
 ### Education
 
 [Eigenvalues and Eigenvectors | Unit II: Least Squares, Determinants and Eigenvalues | Linear Algebra | Mathematics | MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors/) 
@@ -298,6 +253,9 @@ Recognition](http://cs231n.stanford.edu/)
 [Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 [macOS Development Tutorials | Ray Wenderlich](https://www.raywenderlich.com/category/macos)
 [30 Auto Layout Best Practices for Xcode 9 and iOS 11 - Super Easy Apps](https://blog.supereasyapps.com/30-auto-layout-best-practices/)
+
+
+## Computer Vision
 
 ### Tutorial
 
@@ -364,17 +322,12 @@ Recognition](http://cs231n.stanford.edu/)
 [How to make your own Python dev-server with Raspberry Pi](https://medium.freecodecamp.org/how-to-make-your-own-python-dev-server-with-raspberry-pi-37651156379f)
 [Tutorial: Remote Development on Raspberry Pi - Help | PyCharm](https://www.jetbrains.com/help/pycharm/remote-development-on-raspberry-pi.html)
 [Connect JetBrains PyCharm to Raspberry pi - Hackster.io](https://www.hackster.io/Jolley71717/connect-jetbrains-pycharm-to-raspberry-pi-72be15)
+[Using your new Raspberry Pi 3 as a WiFi access point with hostapd](https://frillip.com/using-your-raspberry-pi-3-as-a-wifi-access-point-with-hostapd/)
 
 ### QT
 
 [The PyQt4 tutorial](http://zetcode.com/tutorials/pyqt4/)
 [PyQt4 tutorial](http://zetcode.com/gui/pyqt4/)
-
-### Notebooks
-
-[The IPython Notebook — IPython](http://ipython.org/notebook.html)
-[A gallery of interesting IPython Notebooks · ipython/ipython Wiki](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
-[Favorites](http://nbviewer.ipython.org/)
 
 ### PyCharm
 
@@ -449,3 +402,47 @@ Recognition](http://cs231n.stanford.edu/)
 [HP Pavilion 15 P Series Hard Drive Replacement - iFixit Repair Guide](https://www.ifixit.com/Guide/HP+Pavilion+15+P+Series+Hard+Drive+Replacement/87988)
 [fontweight](https://matplotlib.org/api/font_manager_api.html)
 [Links | hello- world](https://john-lee-cooper.github.io/hello-world/)
+[What is TDM? — Mobility Lab](http://mobilitylab.org/about-us/what-is-tdm/)
+[kpath.tex](http://www.ics.uci.edu/~eppstein/pubs/Epp-SJC-98.pdf)
+[Instapaper: Read Later](javascript:var%20d%3Ddocument%2Cw%3Dwindow%2Cf%3D%27http%3A%2F%2Fwww.instapaper.com%2Fb%27%2Cl%3Dd.location%2Ce%3DencodeURIComponent%2Cp%3D%27%3Fv%3D4%26iphone%3D%26k%3D%26u%3D%27%2Be%28l.href%29%2B%27%26t%3D%27%2Be%28d.title%29%2Cu%3Df%2Bp%3Bif%28%2Finstapaper%2F.test%28l.host%29%29iptstbt%28%29%3Belse%20w.open%28u%2C%27t%27%29%3Bvoid%280%29)
+[Dashboard](https://www.google.com/dashboard/b/0/)
+[Graphite - Scalable Realtime Graphing - Graphite](http://graphite.wikidot.com/start)
+[Weblog Posts in category Web2py - ThadeusB](http://www.thadeusb.com/weblog/category/Web2py)
+[MVC : The Official Microsoft ASP.NET Site](http://www.asp.net/mvc)
+[OCI_SAR_Tool_v2.pdf](https://www.systemsmadesimple.com/docs/appraisalProcessModule/jobAids/OCI_SAR_Tool_v2.pdf)
+[Sensei: An Agile Retrospective Tool to Drive Continuous Improvement](http://beta.senseitool.com/)
+[about:config](about:config)
+[python remove directory - Google Search](http://www.google.com/search?q=python+remove+directory&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs)
+[Computer World | Jdoe's Throwaway](http://jdoe.asidev.com/category/computer-world/)
+[DesignPatterns - selenium - Design Patterns that have worked well on WebDriver projects - Browser automation framework - Google Project Hosting](https://code.google.com/p/selenium/wiki/DesignPatterns)
+[Your Products - O'Reilly Media](https://members.oreilly.com/account/emedia?filter=print-books&sort=added&order=asc&isbn=9781449305468)
+[Home | OpenTripPlanner](http://www.opentripplanner.org/)
+[Google](https://www.google.com/)
+[What Is Vagrant and Why Should I Care? ◆ 24 ways](https://24ways.org/2014/what-is-vagrant-and-why-should-i-care/)
+[Food - Human GIS](http://jacoop.weebly.com/food.html)
+[Index of /](http://blacksburg.transit.org/)
+[Kahoot!](https://kahoot.it/#/)
+[goo](https://stackoverflow.com/questions/19482317/bellman-ford-vs-dijkstra-under-what-circumstances-is-bellman-ford-better)
+[Microsoft365](https://portal.office.com/?username=lee.cooper%40aciwebs.onmicrosoft.com)
+[Problem loading page](http://www.verizon.com/)
+[Kivy: Crossplatform Framework for NUI](http://kivy.org/#home)
+[12 Days of Performance - REVSYS](http://www.revsys.com/12days/)
+[parking](http://216.252.195.87/parking/events/index)
+[28 of the Best Motivational TED Talk Videos to Inspire You](http://blog.hubspot.com/marketing/15-phenomenal-ted-talks#sm.001uyv8uw15swfp4ucw1ieuknol7k)
+[Cythnia Epps in Comer, GA | Intelius](http://www.intelius.com/Find-Phone-Address/Comer-GA/Cythnia-Epps.html)
+[Tactical Rock-Paper- Scissors - TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/TacticalRockPaperScissors)
+[parking](https://www.athdparking.com/gateways)
+[Exploring the new Android ConstraintLayout – Exploring Android – Medium](https://medium.com/exploring-android/exploring-the-new-android-constraintlayout-eed37fe8d8f1)
+[scrooloose/syntastic](https://github.com/scrooloose/syntastic)
+[PyTorch](http://pytorch.org/)
+[Automated deployment with Ubuntu, Fabric and Django | ilian.io](http://www.ilian.io/automated-deployment-with-ubuntu-fabric-and-django/)
+[cs231n-CNNs : Free Download & Streaming : Internet Archive](https://archive.org/details/cs231n-CNNs)
+[Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+[Regex Tutorial - Literal Characters and Special Characters](http://www.regular-expressions.info/characters.html)
+[windows 7 - How to Remove ODBC Data Source if Driver is Removed - Super User](http://superuser.com/questions/713258/how-to-remove-odbc-data-source-if-driver-is-removed)
+[Emoji and Markdown Everywhere | Trello Blog](http://blog.trello.com/emoji-and-markdown-everywhere/)
+[(6) PyCon 2017 - YouTube](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg)
+[Android Tutorial](https://www.tutorialspoint.com/android/index.htm)
+[Google Sync](https://m.google.com/sync/settings/iconfig/welcome?source=mobileproducts)
+[Google Voice](http://www.google.com/googlevoice/about.html)
+
