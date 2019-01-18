@@ -323,6 +323,13 @@ Keras: With GPU support, so you can leverage your GPU, CUDA Toolkit, cuDNN,
 etc., for faster network training. Without GPU support, so even if you do not
 have a GPU […]
 
+### [Getting Started with Deep Learning and Python](https://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python)
+Update – January 27, 2015: Based on the feedback from commenters, I have
+updated the source code in the download to include the original MNIST dataset!
+No external downloads required! Update – March 2015, 2015: The nolearn package
+has now deprecated and removed the dbn  module. When you go to install the
+nolearn package, be sure […]
+
 
 
 ## Face
@@ -431,6 +438,58 @@ Python bindings on both macOS and Ubuntu. I highly encourage you to take the
 time to install dlib on your system over the next couple of days. Starting
 next week we’ll […]
 
+### [Creating a face detection API with Python and OpenCV (in just 5 minutes)](https://www.pyimagesearch.com/2015/05/11/creating-a-face-detection-api-with-python-and-opencv-in-just-5-minutes)
+So you’ve just built your first awesome computer vision app. Maybe it can
+detect faces in images. Or maybe your app can recognize prescription pills in
+photos. Or maybe your computer vision app can identify the covers of top
+selling books, all while displaying the latest reader reviews and the cheapest
+websites online to purchase them. So the big […]
+
+### [Detecting cats in images with OpenCV](https://www.pyimagesearch.com/2016/06/20/detecting-cats-in-images-with-opencv)
+Did you know that OpenCV can detect cat faces in images…right out-of-the-box
+with no extras? I didn’t either. But after Kendrick Tan broke the story, I had
+to check it out for myself…and do a little investigative work to see how this
+cat detector seemed to sneak its way into the OpenCV repository without me
+noticing (much […]
+
+
+## GPIO 
+
+### [Compiling OpenCV with CUDA support](https://www.pyimagesearch.com/2016/07/11/compiling-opencv-with-cuda-support)
+Alight, so you have the NVIDIA CUDA Toolkit and cuDNN library installed on
+your GPU-enabled system. What next? Let’s get OpenCV installed with CUDA
+support as well. While OpenCV itself doesn’t play a critical role in deep
+learning, it is used by other deep learning libraries such as Caffe,
+specifically in “utility” programs (such as building a dataset […]
+
+### [How to install CUDA Toolkit and cuDNN for deep learning](https://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning)
+If you’re serious about doing any type of deep learning, you should be
+utilizing your GPU rather than your CPU. And the more GPUs you have, the
+better off you are. If you already have an NVIDIA supported GPU, then the next
+logical step is to install two important libraries: The NVIDIA CUDA Toolkit: A
+development environment for building […]
+
+
+### [OpenCV, RPi.GPIO, and GPIO Zero on the Raspberry Pi](https://www.pyimagesearch.com/2016/05/09/opencv-rpi-gpio-and-gpio-zero-on-the-raspberry-pi)
+Last week we learned a bit about Python virtual environments and how to access
+the RPi.GPIO and GPIO Zero libraries along with OpenCV. Today we are going to
+build on that knowledge and create an “alarm” that triggers both an LED light
+to turn on and a buzzer to go off whenever a specific visual action takes
+place. […]
+
+### [Accessing RPi.GPIO and GPIO Zero with OpenCV + Python](https://www.pyimagesearch.com/2016/05/02/accessing-rpi-gpio-and-gpio-zero-with-opencv-python)
+I can’t believe this is the first time I am writing a blog post on GPIO and
+the Raspberry Pi. It’s a pretty big mistake on my part. I should have written
+this post much earlier. You see, on average, I receive 1-3 emails per week
+along the lines of: When I use the ‘cv’ […]
+
+### [Deep Learning on Amazon EC2 GPU with Python and nolearn](https://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn)
+Last week I wrote a post detailing my experience with CUDAMat, Deep Belief
+Networks, and Python using my MacBook Pro. The post is fairly long and full of
+screenshots to document my experience. But the gist of it is this: Even after
+installing the NVIDIA Cuda SDK and configuring CUDAMat, my CPU was training my
+Deep Belief […]
+
 
 ## Installation
 
@@ -508,6 +567,67 @@ tutorials detailing the required steps to install OpenCV (with Python
 bindings) on Ubuntu. You can find the two tutorials here: Install OpenCV 3.0
 and Python 2.7+ on Ubuntu 14.04 Install OpenCV 3.0 and Python 3.4+ on Ubuntu
 14.04 However, with support of Ubuntu […]
+
+### [Install guide: Raspberry Pi 3 + Raspbian Jessie + OpenCV 3](https://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3)
+Can you believe it’s been over four years since the original Raspberry Pi
+model B was released? Back then the Pi Model B shipped with only 256MB of RAM
+and a 700MHz single core processor. Just over one year ago the Raspberry Pi 2
+was unleashed on the world. And man, for something called a “Pi”, this beast
+made an […]
+
+### [How to install OpenCV 3 on Raspbian Jessie](https://www.pyimagesearch.com/2015/10/26/how-to-install-opencv-3-on-raspbian-jessie)
+A few weeks ago Raspbian Jessie was released, bringing in a ton of new, great
+features. However, the update to Jessie also broke the previous OpenCV +
+Python install instructions for Raspbian Wheezy: Install OpenCV 2.4 with
+Python 2.7 bindings on Raspbian Wheezy. Install OpenCV 3.0 with Python
+2.7/Python 3+ bindings on Raspbian Wheezy. Since […]
+
+### [Install OpenCV and Python on your Raspberry Pi 2 and B+](https://www.pyimagesearch.com/2015/02/23/install-opencv-and-python-on-your-raspberry-pi-2-and-b)
+My Raspberry Pi 2 just arrived in the mail yesterday, and man is this berry
+sweet. This tiny little PC packs a real punch with a 900mhz quadcore processor
+and 1gb of RAM. To give some perspective, the Raspberry Pi 2 is faster than
+the majority of the desktops in my high school computer lab. […]
+
+### [Installing OpenCV 3.0 for both Python 2.7 and Python 3+ on your Raspberry Pi 2](https://www.pyimagesearch.com/2015/07/27/installing-opencv-3-0-for-both-python-2-7-and-python-3-on-your-raspberry-pi-2)
+Honestly, I love the Raspberry Pi for teaching computer vision — it is perhaps
+one of the best teaching tools to expose programmers, developers, and students
+to the world of computer vision. It’s great for hobbyists and garage-room
+hackers, as you get to learn on a cheap, but super fun piece of hardware. It’s
+awesome for […]
+
+### [Install OpenCV 3.0 and Python 3.4+ on Ubuntu](https://www.pyimagesearch.com/2015/07/20/install-opencv-3-0-and-python-3-4-on-ubuntu)
+A couple weeks ago I provided step-by-step install instructions to setup
+OpenCV 3.0 and Python 2.7+ on your Ubuntu machine. However, one of the huge
+benefits of migrating to OpenCV 3.0 is the new Python 3.4+ support. In the
+previous 2.4.X releases of OpenCV, only Python 2.7+ was supported. But now, we
+can finally leverage Python 3.4+ […]
+
+### [Install OpenCV 3.0 and Python 3.4+ on OSX](https://www.pyimagesearch.com/2015/06/29/install-opencv-3-0-and-python-3-4-on-osx)
+Two weeks ago we kicked off the OpenCV 3.0 install-fest with a tutorial on how
+to install OpenCV 3.0 and Python 2.7 on OSX. Today I’m back again with another
+OSX tutorial — only this time we are going to compile OpenCV 3.0 with Python
+3.4+ bindings! That’s right! With the OpenCV 3.0 gold release, we […]
+
+### [Install OpenCV 3.0 and Python 2.7+ on Ubuntu](https://www.pyimagesearch.com/2015/06/22/install-opencv-3-0-and-python-2-7-on-ubuntu)
+Last week we kicked-off the OpenCV 3.0 install fest by detailing how to
+install OpenCV 3.0 and Python 2.7+ on the OSX platform. Today we are going to
+continue the OpenCV 3.0 install instruction series by moving over to the
+Ubuntu operating system. In the remainder of the post I will provide
+instructions on how […]
+
+### [Install OpenCV 3.0 and Python 2.7+ on OSX](https://www.pyimagesearch.com/2015/06/15/install-opencv-3-0-and-python-2-7-on-osx)
+As I mentioned last week, OpenCV 3.0 is finally here! And if you’ve been
+paying attention to my Twitter stream, you may have noticed a bunch of tweets
+regarding installing OpenCV on OSX and Ubuntu (yep, I’ve been tweeting a lot
+lately, but that’s just because I’m so excited about the 3.0 release!) To
+celebrate OpenCV 3.0, […]
+
+### [Installing OpenCV on your Raspberry Pi Zero](https://www.pyimagesearch.com/2015/12/14/installing-opencv-on-your-raspberry-pi-zero)
+In this blog post I’ll demonstrate how to install OpenCV 3 on the Raspberry Pi
+Zero. Since I’ve covered how to install OpenCV on the Raspberry Pi in
+multiple, previous blog posts, I’ll keep this post on the shorter side and
+detail only the relevant commands necessary to get OpenCV up and running. For
+a more […]
 
 
 
@@ -590,6 +710,34 @@ vision and image processing techniques. And while I’ve been having a lot of
 fun doing this series on machine learning and deep learning, I’d be lying if I
 said this little […]
 
+### [Detecting Barcodes in Images with Python and OpenCV](https://www.pyimagesearch.com/2014/11/24/detecting-barcodes-images-python-opencv)
+UPDATE: The introduction to this post may seen a little “out there”. For some
+context, I had just finished watching the South Park Black Friday episodes
+prior to writing this post so I definitely had some inspiration regarding
+zombie shoppers, Black Friday chaos, and Game of Thrones. Black Friday is
+coming. Hordes of angry shoppers. […]
+
+### [How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes)
+Building a document scanner with OpenCV can be accomplished in just three
+simple steps: Step 1: Detect edges. Step 2: Use the edges in the image to find
+the contour (outline) representing the piece of paper being scanned. Step 3:
+Apply a perspective transform to obtain the top-down view of the document.
+Really. That’s it. Only three steps […]
+
+### [Real-time barcode detection in video with Python and OpenCV](https://www.pyimagesearch.com/2014/12/15/real-time-barcode-detection-video-python-opencv)
+Today’s post is a followup to a previous (extremely popular) article on
+detecting barcodes in images using Python and OpenCV. In the previous post we
+explored how to detect and find barcodes in images. But today we are going to
+refactor the code to detect barcodes in video. As an example, check out the
+screenshot below […]
+
+### [Detecting machine-readable zones in passport images](https://www.pyimagesearch.com/2015/11/30/detecting-machine-readable-zones-in-passport-images)
+Today’s blog post wouldn’t be possible without PyImageSearch Gurus member,
+Hans Boone. Hans is working on a computer vision project to automatically
+detect Machine-readable Zones (MRZs) in passport images — much like the region
+detected in the image above. The MRZ region in passports or travel cards fall
+into two classes: Type 1 and Type 3. Type 1 […]
+
 
 
 ## Tracking
@@ -624,6 +772,7 @@ the initial detections […]
 
 
 
+## OpenCV
 
 ### [OpenCV Tutorial: A Guide to Learn OpenCV](https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv)
 Whether you’re interested in learning how to apply facial recognition to video
@@ -639,15 +788,55 @@ January 12th 2014. Since then over 230 posts have been published, along with
 two books and a full-fledged course. At the beginning of every New Year I take
 some quiet […]
 
+### [How-To: OpenCV Load an Image](https://www.pyimagesearch.com/2014/06/02/opencv-load-image)
+A few months ago, I was teaching an online seminar on the basics of computer
+vision. And do you know what the most common question I got asked was? How do
+I use OpenCV to load an image and display it on my screen? It’s a pretty basic
+concept, but I think many instructors (myself included) […]
+
+### [Displaying a video feed with OpenCV and Tkinter](https://www.pyimagesearch.com/2016/05/30/displaying-a-video-feed-with-opencv-and-tkinter)
+I said it in last week’s blog post and I’ll say it again here today — I am
+not, by any stretch of the imagination, a GUI developer. I think my aversion
+to GUI development started back in early-High school when I was teaching
+myself Java; specifically, how to write Java applets (remember what god damn
+nightmares applets […]
+
+### [OpenCV with Tkinter](https://www.pyimagesearch.com/2016/05/23/opencv-with-tkinter)
+I’ll be honest with you. I’m not much of a GUI developer. Never was one, never
+will be. I enjoy creating the occasional user interface with HTML + CSS, or
+hacking up a WordPress plugin to make it more aesthetically pleasing — but
+writing full-fledged GUIs was never something I enjoyed. That said, I do try
+
+### [How to Display a Matplotlib RGB Image](https://www.pyimagesearch.com/2014/11/03/display-matplotlib-rgb-image)
+So we know that matplotlib is awesome for generating graphs and figures. But
+what if we wanted to display a simple RGB image? Can we do that with
+matplotlib? Of course! This blog post will show you how to display a
+Matplotlib RGB image in only a few lines of code…as well as clear up […]
+
+### [Unifying picamera and cv2.VideoCapture into a single class with OpenCV](https://www.pyimagesearch.com/2016/01/04/unifying-picamera-and-cv2-videocapture-into-a-single-class-with-opencv)
+Over the past two weeks on the PyImageSearch blog, we have discussed how to
+use threading to increase our FPS processing rate on both built-in/USB
+webcams, along with the Raspberry Pi camera module. By utilizing threading, we
+learned that we can substantially reduce the affects of I/O latency, leaving
+the main thread to run without being blocked as […]
+
+### [Increasing Raspberry Pi FPS with Python and OpenCV](https://www.pyimagesearch.com/2015/12/28/increasing-raspberry-pi-fps-with-python-and-opencv)
+Today is the second post in our three part series on milking every last bit of
+performance out of your webcam or Raspberry Pi camera. Last week we discussed
+how to: Increase the FPS rate of our video processing pipeline. Reduce the
+affects of I/O latency on standard USB and built-in webcams using threading.
+This week we’ll continue […]
+
+### [Increasing webcam FPS with Python and OpenCV](https://www.pyimagesearch.com/2015/12/21/increasing-webcam-fps-with-python-and-opencv)
+Over the next few weeks, I’ll be doing a series of blog posts on how to
+improve your frames per second (FPS) from your webcam using Python, OpenCV,
+and threading. Using threading to handle I/O-heavy tasks (such as reading
+frames from a camera sensor) is a programming model that has existed for
+decades. For example, […]
 
 
-### [OpenCV Saliency Detection](https://www.pyimagesearch.com/2018/07/16/opencv-saliency-detection)
-Today’s tutorial is on saliency detection, the process of applying image
-processing and computer vision algorithms to automatically locate the most
-“salient” regions of an image. In essence, saliency is what “stands out” in a
-photo or scene, enabling your eye-brain connection to quickly (and essentially
-unconsciously) focus on the most important regions. For example — […]
 
+## Python/Numpy
 
 ### [Python, argparse, and command line arguments](https://www.pyimagesearch.com/2018/03/12/python-argparse-command-line-arguments)
 Today we are going to discuss a fundamental developer, engineer, and computer
@@ -662,6 +851,9 @@ OpenCV? If so, you know that it’s a painfully slow operation even though
 images are internally represented by NumPy arrays. So why is this? Why are
 individual pixel accesses in NumPy so slow? You see, NumPy operations are
 implemented in C. This […]
+
+
+## Video
 
 ### [Faster video file FPS with cv2.VideoCapture and OpenCV](https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv)
 Have you ever worked with a video file via OpenCV’s cv2.VideoCapture  function
@@ -682,15 +874,76 @@ using OpenCV and Python. The first part of this series will focus on a
 question emailed in by PyImageSearch reader, Alex. Alex asks: I need to count
 the total number of frames in a video file with OpenCV. The only […]
 
+### [Saving key event video clips with OpenCV](https://www.pyimagesearch.com/2016/02/29/saving-key-event-video-clips-with-opencv)
+Last week’s blog post taught us how to write videos to file using OpenCV and
+Python. This is a great skill to have, but it also raises the question: How do
+I write video clips containing interesting events to file rather than the
+entire video? In this case, the overall goal is to construct a video synopsis,
+distilling […]
+
+### [Writing to video with OpenCV](https://www.pyimagesearch.com/2016/02/22/writing-to-video-with-opencv)
+Let me just start this blog post by saying that writing to video with OpenCV
+can be a huge pain in the ass. My intention with this tutorial is to help you
+get started writing videos to file with OpenCV 3, provide (and explain) some
+boilerplate code, and detail how I got video writing to work on […]
+
+
+## Misc
+
+### [OpenCV Saliency Detection](https://www.pyimagesearch.com/2018/07/16/opencv-saliency-detection)
+Today’s tutorial is on saliency detection, the process of applying image
+processing and computer vision algorithms to automatically locate the most
+“salient” regions of an image. In essence, saliency is what “stands out” in a
+photo or scene, enabling your eye-brain connection to quickly (and essentially
+unconsciously) focus on the most important regions. For example — […]
+
+
+## Contours
+
+### [Finding extreme points in contours with OpenCV](https://www.pyimagesearch.com/2016/04/11/finding-extreme-points-in-contours-with-opencv)
+A few weeks ago, I demonstrated how to order the (x, y)-coordinates of a
+rotated bounding box in a clockwise fashion — an extremely useful skill that
+is critical in many computer vision applications, including (but not limited
+to) perspective transforms and computing the dimensions of an object in an
+image. One PyImageSearch reader emailed in, […]
+
+### [OpenCV shape detection](https://www.pyimagesearch.com/2016/02/08/opencv-shape-detection)
+This tutorial is the second post in our three part series on shape detection
+and analysis. Last week we learned how to compute the center of a contour
+using OpenCV. Today, we are going to leverage contour properties to actually
+label and identify shapes in an image, just like in the figure at the top of
+this post. […]
+
+### [OpenCV center of contour](https://www.pyimagesearch.com/2016/02/01/opencv-center-of-contour)
+Today, we are going to start a new 3-part series of tutorials on shape
+detection and analysis. Throughout this series, we’ll learn how to: Compute
+the center of a contour/shape region. Recognize various shapes, such as
+circles, squares, rectangles, triangles, and pentagons using only contour
+properties. Label the color of a shape. While today’s post is […]
+
+### [Sorting Contours using Python and OpenCV](https://www.pyimagesearch.com/2015/04/20/sorting-contours-using-python-and-opencv)
+Alright, so at this point you have been exposed to contours pretty heavily on
+the PyImageSearch blog. We used contours to build a kick-ass mobile document
+scanner. Contours enabled us detect barcodes in images. And we even leveraged
+the power of contours to find the distance from a camera to object or marker.
+But there […]
+
+### [Removing contours from an image using Python and OpenCV](https://www.pyimagesearch.com/2015/02/09/removing-contours-image-using-python-opencv)
+Awhile back I was going through /r/computervision when I stumbled across a
+question asking how to remove contours from an image using OpenCV. Intrigued,
+I posted a reply. The basic algorithm for removing contours from an image goes
+something like this: Step 1: Detect and find contours in your image. Step 2:
+Loop over contours individually. Step […]
+
+
+## Image Processing
+
 ### [Rotate images (correctly) with OpenCV and Python](https://www.pyimagesearch.com/2017/01/02/rotate-images-correctly-with-opencv-and-python)
 Let me tell you an embarrassing story of how I wasted three weeks of research
 time during graduate school six years ago. It was the end of my second
 semester of coursework. I had taken all of my exams early and all my projects
 for the semester had been submitted. Since my school obligations were
 essentially nil, I started experimenting […]
-
-
-## Image Processing
 
 ### [Image hashing with OpenCV and Python](https://www.pyimagesearch.com/2017/11/27/image-hashing-opencv-python)
 Today’s blog post is on image hashing — and it’s the hardest blog post I’ve
@@ -712,13 +965,6 @@ Stephan, a PyImageSearch reader, left a comment on the tutorial asking if
 there was a method to compute the colorfulness of specific regions of an image
 (rather than the entire image). There are multiple ways of attacking this
 problem. The first could be to apply […]
-
-### [Image Difference with OpenCV and Python](https://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python)
-In a previous PyImageSearch blog post, I detailed how to compare two images
-with Python using the Structural Similarity Index (SSIM). Using this method,
-we were able to easily determine if two images were identical or had
-differences due to slight image manipulations, compression artifacts, or
-purposeful tampering. Today we are going to extend the […]
 
 ### [Computing image “colorfulness” with OpenCV and Python](https://www.pyimagesearch.com/2017/06/05/computing-image-colorfulness-with-opencv-and-python)
 Today’s blog post is inspired by a question I received from a PyImageSearch
@@ -754,54 +1000,6 @@ finding the brightest spot in an image. My previous tutorial assumed there was
 only one bright spot in the image that you wanted to detect… …but what if
 there were multiple bright spots? If you want to detect more than […]
 
-
-### [Compiling OpenCV with CUDA support](https://www.pyimagesearch.com/2016/07/11/compiling-opencv-with-cuda-support)
-Alight, so you have the NVIDIA CUDA Toolkit and cuDNN library installed on
-your GPU-enabled system. What next? Let’s get OpenCV installed with CUDA
-support as well. While OpenCV itself doesn’t play a critical role in deep
-learning, it is used by other deep learning libraries such as Caffe,
-specifically in “utility” programs (such as building a dataset […]
-
-### [How to install CUDA Toolkit and cuDNN for deep learning](https://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning)
-If you’re serious about doing any type of deep learning, you should be
-utilizing your GPU rather than your CPU. And the more GPUs you have, the
-better off you are. If you already have an NVIDIA supported GPU, then the next
-logical step is to install two important libraries: The NVIDIA CUDA Toolkit: A
-development environment for building […]
-
-### [Detecting cats in images with OpenCV](https://www.pyimagesearch.com/2016/06/20/detecting-cats-in-images-with-opencv)
-Did you know that OpenCV can detect cat faces in images…right out-of-the-box
-with no extras? I didn’t either. But after Kendrick Tan broke the story, I had
-to check it out for myself…and do a little investigative work to see how this
-cat detector seemed to sneak its way into the OpenCV repository without me
-noticing (much […]
-
-### [Displaying a video feed with OpenCV and Tkinter](https://www.pyimagesearch.com/2016/05/30/displaying-a-video-feed-with-opencv-and-tkinter)
-I said it in last week’s blog post and I’ll say it again here today — I am
-not, by any stretch of the imagination, a GUI developer. I think my aversion
-to GUI development started back in early-High school when I was teaching
-myself Java; specifically, how to write Java applets (remember what god damn
-nightmares applets […]
-
-### [OpenCV with Tkinter](https://www.pyimagesearch.com/2016/05/23/opencv-with-tkinter)
-I’ll be honest with you. I’m not much of a GUI developer. Never was one, never
-will be. I enjoy creating the occasional user interface with HTML + CSS, or
-hacking up a WordPress plugin to make it more aesthetically pleasing — but
-writing full-fledged GUIs was never something I enjoyed. That said, I do try
-
-### [OpenCV, RPi.GPIO, and GPIO Zero on the Raspberry Pi](https://www.pyimagesearch.com/2016/05/09/opencv-rpi-gpio-and-gpio-zero-on-the-raspberry-pi)
-Last week we learned a bit about Python virtual environments and how to access
-the RPi.GPIO and GPIO Zero libraries along with OpenCV. Today we are going to
-build on that knowledge and create an “alarm” that triggers both an LED light
-to turn on and a buzzer to go off whenever a specific visual action takes
-place. […]
-
-### [Accessing RPi.GPIO and GPIO Zero with OpenCV + Python](https://www.pyimagesearch.com/2016/05/02/accessing-rpi-gpio-and-gpio-zero-with-opencv-python)
-I can’t believe this is the first time I am writing a blog post on GPIO and
-the Raspberry Pi. It’s a pretty big mistake on my part. I should have written
-this post much earlier. You see, on average, I receive 1-3 emails per week
-along the lines of: When I use the ‘cv’ […]
-
 ### [Watermarking images with OpenCV and Python](https://www.pyimagesearch.com/2016/04/25/watermarking-images-with opencv-and-python)
 A few weeks ago, I wrote a blog post on creating transparent overlays with
 OpenCV. This post was meant to be a gentle introduction to a neat little trick
@@ -809,19 +1007,22 @@ you can use to improve the aesthetics of your processed image(s), such as
 creating a Heads-up Display (HUD) on live video streams. But there’s another,
 more practical […]
 
-### [Install guide: Raspberry Pi 3 + Raspbian Jessie + OpenCV 3](https://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3)
-Can you believe it’s been over four years since the original Raspberry Pi
-model B was released? Back then the Pi Model B shipped with only 256MB of RAM
-and a 700MHz single core processor. Just over one year ago the Raspberry Pi 2
-was unleashed on the world. And man, for something called a “Pi”, this beast
-made an […]
+### [Transparent overlays with OpenCV](https://www.pyimagesearch.com/2016/03/07/transparent-overlays-with-opencv)
+One of my favorite aspects of running the PyImageSearch blog is sharing little
+bitesize OpenCV tips and tricks that I’ve learned after nearly 7 years of
+using the OpenCV library. Today’s tip comes from my bag of experiences:
+constructing transparent overlays with OpenCV. In order to construct a
+transparent overlay, you need two images: Your original image. An […]
 
-### [Finding extreme points in contours with OpenCV](https://www.pyimagesearch.com/2016/04/11/finding-extreme-points-in-contours-with-opencv)
-A few weeks ago, I demonstrated how to order the (x, y)-coordinates of a
-rotated bounding box in a clockwise fashion — an extremely useful skill that
-is critical in many computer vision applications, including (but not limited
-to) perspective transforms and computing the dimensions of an object in an
-image. One PyImageSearch reader emailed in, […]
+
+## Measure
+
+### [Ordering coordinates clockwise with Python and OpenCV](https://www.pyimagesearch.com/2016/03/21/ordering-coordinates-clockwise-with-python-and-opencv)
+Today we are going to kick-off a three part series on calculating the size of
+objects in images along with measuring the distances between them. These
+tutorials have been some of the most heavily requested lessons on the
+PyImageSearch blog. I’m super excited to get them underway — and I’m sure you
+are too. However, before we start learning how to […]
 
 ### [Measuring distance between objects in an image with OpenCV](https://www.pyimagesearch.com/2016/04/04/measuring-distance-between-objects-in-an-image-with-opencv)
 We have now reached the final installment in our three part series on
@@ -836,53 +1037,12 @@ requested tutorial on the PyImageSearch blog for some time now — and it feels
 great to get this post online and share it with you. Today’s post is the
 second in a three part series on measuring the size of objects in an […]
 
-### [Ordering coordinates clockwise with Python and OpenCV](https://www.pyimagesearch.com/2016/03/21/ordering-coordinates-clockwise-with-python-and-opencv)
-Today we are going to kick-off a three part series on calculating the size of
-objects in images along with measuring the distances between them. These
-tutorials have been some of the most heavily requested lessons on the
-PyImageSearch blog. I’m super excited to get them underway — and I’m sure you
-are too. However, before we start learning how to […]
-
-### [Transparent overlays with OpenCV](https://www.pyimagesearch.com/2016/03/07/transparent-overlays-with-opencv)
-One of my favorite aspects of running the PyImageSearch blog is sharing little
-bitesize OpenCV tips and tricks that I’ve learned after nearly 7 years of
-using the OpenCV library. Today’s tip comes from my bag of experiences:
-constructing transparent overlays with OpenCV. In order to construct a
-transparent overlay, you need two images: Your original image. An […]
-
-### [Saving key event video clips with OpenCV](https://www.pyimagesearch.com/2016/02/29/saving-key-event-video-clips-with-opencv)
-Last week’s blog post taught us how to write videos to file using OpenCV and
-Python. This is a great skill to have, but it also raises the question: How do
-I write video clips containing interesting events to file rather than the
-entire video? In this case, the overall goal is to construct a video synopsis,
-distilling […]
-
-### [Writing to video with OpenCV](https://www.pyimagesearch.com/2016/02/22/writing-to-video-with-opencv)
-Let me just start this blog post by saying that writing to video with OpenCV
-can be a huge pain in the ass. My intention with this tutorial is to help you
-get started writing videos to file with OpenCV 3, provide (and explain) some
-boilerplate code, and detail how I got video writing to work on […]
-
 ### [Determining object color with OpenCV](https://www.pyimagesearch.com/2016/02/15/determining-object-color-with-opencv)
 This is the final post in our three part series on shape detection and
 analysis. Previously, we learned how to: Compute the center of a contour
 Perform shape detection & identification Today we are going to perform both
 shape detection and color labeling on objects in images. At this point, we
 understand that regions of an image […]
-
-### [OpenCV shape detection](https://www.pyimagesearch.com/2016/02/08/opencv-shape-detection)
-This tutorial is the second post in our three part series on shape detection
-and analysis. Last week we learned how to compute the center of a contour
-using OpenCV. Today, we are going to leverage contour properties to actually
-label and identify shapes in an image, just like in the figure at the top of
-this post. […]
-
-### [OpenCV center of contour](https://www.pyimagesearch.com/2016/02/01/opencv-center-of-contour)
-Today, we are going to start a new 3-part series of tutorials on shape
-detection and analysis. Throughout this series, we’ll learn how to: Compute
-the center of a contour/shape region. Recognize various shapes, such as
-circles, squares, rectangles, triangles, and pentagons using only contour
-properties. Label the color of a shape. While today’s post is […]
 
 ### [Real-time panorama and image stitching with OpenCV](https://www.pyimagesearch.com/2016/01/25/real-time-panorama-and-image-stitching-with-opencv)
 One of my favorite parts of running the PyImageSearch blog is a being able to
@@ -904,46 +1064,11 @@ panorama construction using Python and OpenCV. Given two images, we’ll
 above. To construct our image panorama, we’ll utilize computer vision and
 image processing techniques such as: keypoint detection and local invariant
 
-### [Unifying picamera and cv2.VideoCapture into a single class with OpenCV](https://www.pyimagesearch.com/2016/01/04/unifying-picamera-and-cv2-videocapture-into-a-single-class-with-opencv)
-Over the past two weeks on the PyImageSearch blog, we have discussed how to
-use threading to increase our FPS processing rate on both built-in/USB
-webcams, along with the Raspberry Pi camera module. By utilizing threading, we
-learned that we can substantially reduce the affects of I/O latency, leaving
-the main thread to run without being blocked as […]
-
-### [Increasing Raspberry Pi FPS with Python and OpenCV](https://www.pyimagesearch.com/2015/12/28/increasing-raspberry-pi-fps-with-python-and-opencv)
-Today is the second post in our three part series on milking every last bit of
-performance out of your webcam or Raspberry Pi camera. Last week we discussed
-how to: Increase the FPS rate of our video processing pipeline. Reduce the
-affects of I/O latency on standard USB and built-in webcams using threading.
-This week we’ll continue […]
-
-### [Increasing webcam FPS with Python and OpenCV](https://www.pyimagesearch.com/2015/12/21/increasing-webcam-fps-with-python-and-opencv)
-Over the next few weeks, I’ll be doing a series of blog posts on how to
-improve your frames per second (FPS) from your webcam using Python, OpenCV,
-and threading. Using threading to handle I/O-heavy tasks (such as reading
-frames from a camera sensor) is a programming model that has existed for
-decades. For example, […]
-
-### [Installing OpenCV on your Raspberry Pi Zero](https://www.pyimagesearch.com/2015/12/14/installing-opencv-on-your-raspberry-pi-zero)
-In this blog post I’ll demonstrate how to install OpenCV 3 on the Raspberry Pi
-Zero. Since I’ve covered how to install OpenCV on the Raspberry Pi in
-multiple, previous blog posts, I’ll keep this post on the shorter side and
-detail only the relevant commands necessary to get OpenCV up and running. For
-a more […]
-
 ### [Local Binary Patterns with Python & OpenCV](https://www.pyimagesearch.com/2015/12/07/local-binary-patterns-with-python-opencv)
 Well. I’ll just come right out and say it. Today is my 27th birthday. As a kid
 I was always super excited about my birthday. It was another year closer to
 being able to drive a car. Go to R rated movies. Or buy alcohol. But now as an
 adult, I don’t care too much for my […]
-
-### [Detecting machine-readable zones in passport images](https://www.pyimagesearch.com/2015/11/30/detecting-machine-readable-zones-in-passport-images)
-Today’s blog post wouldn’t be possible without PyImageSearch Gurus member,
-Hans Boone. Hans is working on a computer vision project to automatically
-detect Machine-readable Zones (MRZs) in passport images — much like the region
-detected in the image above. The MRZ region in passports or travel cards fall
-into two classes: Type 1 and Type 3. Type 1 […]
 
 ### [HOG detectMultiScale parameters explained](https://www.pyimagesearch.com/2015/11/16/hog-detectmultiscale-parameters-explained)
 Last week we discussed how to use OpenCV and Python to perform pedestrian
@@ -965,13 +1090,6 @@ especially useful when extracting touching or overlapping objects in images,
 such as the coins in the figure above. Using traditional image processing
 methods such as thresholding and contour detection, we would be unable to
 extract each individual coin from the image — but by leveraging the […]
-
-### [How to install OpenCV 3 on Raspbian Jessie](https://www.pyimagesearch.com/2015/10/26/how-to-install-opencv-3-on-raspbian-jessie)
-A few weeks ago Raspbian Jessie was released, bringing in a ton of new, great
-features. However, the update to Jessie also broke the previous OpenCV +
-Python install instructions for Raspbian Wheezy: Install OpenCV 2.4 with
-Python 2.7 bindings on Raspbian Wheezy. Install OpenCV 3.0 with Python
-2.7/Python 3+ bindings on Raspbian Wheezy. Since […]
 
 ### [Analyzing 91 years of Time magazine covers for visual trends](https://www.pyimagesearch.com/2015/10/19/analyzing-91-years-of-time-magazine-covers-for-visual-trends)
 Today’s blog post will build on what we learned from last week: how to
@@ -1034,40 +1152,6 @@ OSX on your MacBook Pro. Apparently, the 13in MacBook Pro that I use when I’m
 traveling decided to shit the bed. No worries though, I use Carbon Copy Cloner
 and Backblaze, so no data was lost. And to be honest, I was […]
 
-### [Installing OpenCV 3.0 for both Python 2.7 and Python 3+ on your Raspberry Pi 2](https://www.pyimagesearch.com/2015/07/27/installing-opencv-3-0-for-both-python-2-7-and-python-3-on-your-raspberry-pi-2)
-Honestly, I love the Raspberry Pi for teaching computer vision — it is perhaps
-one of the best teaching tools to expose programmers, developers, and students
-to the world of computer vision. It’s great for hobbyists and garage-room
-hackers, as you get to learn on a cheap, but super fun piece of hardware. It’s
-awesome for […]
-
-### [Install OpenCV 3.0 and Python 3.4+ on Ubuntu](https://www.pyimagesearch.com/2015/07/20/install-opencv-3-0-and-python-3-4-on-ubuntu)
-A couple weeks ago I provided step-by-step install instructions to setup
-OpenCV 3.0 and Python 2.7+ on your Ubuntu machine. However, one of the huge
-benefits of migrating to OpenCV 3.0 is the new Python 3.4+ support. In the
-previous 2.4.X releases of OpenCV, only Python 2.7+ was supported. But now, we
-can finally leverage Python 3.4+ […]
-
-### [Install OpenCV 3.0 and Python 3.4+ on OSX](https://www.pyimagesearch.com/2015/06/29/install-opencv-3-0-and-python-3-4-on-osx)
-Two weeks ago we kicked off the OpenCV 3.0 install-fest with a tutorial on how
-to install OpenCV 3.0 and Python 2.7 on OSX. Today I’m back again with another
-OSX tutorial — only this time we are going to compile OpenCV 3.0 with Python
-3.4+ bindings! That’s right! With the OpenCV 3.0 gold release, we […]
-
-### [Install OpenCV 3.0 and Python 2.7+ on Ubuntu](https://www.pyimagesearch.com/2015/06/22/install-opencv-3-0-and-python-2-7-on-ubuntu)
-Last week we kicked-off the OpenCV 3.0 install fest by detailing how to
-install OpenCV 3.0 and Python 2.7+ on the OSX platform. Today we are going to
-continue the OpenCV 3.0 install instruction series by moving over to the
-Ubuntu operating system. In the remainder of the post I will provide
-instructions on how […]
-
-### [Install OpenCV 3.0 and Python 2.7+ on OSX](https://www.pyimagesearch.com/2015/06/15/install-opencv-3-0-and-python-2-7-on-osx)
-As I mentioned last week, OpenCV 3.0 is finally here! And if you’ve been
-paying attention to my Twitter stream, you may have noticed a bunch of tweets
-regarding installing OpenCV on OSX and Ubuntu (yep, I’ve been tweeting a lot
-lately, but that’s just because I’m so excited about the 3.0 release!) To
-celebrate OpenCV 3.0, […]
-
 ### [Home surveillance and motion detection with the Raspberry Pi, Python, OpenCV, and Dropbox](https://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv)
 Wow, last week’s blog post on building a basic motion detection system was
 awesome. It was a lot of fun to write and the feedback I got from readers like
@@ -1080,26 +1164,12 @@ never, ever have to say. But I muttered them to myself in an exasperated sigh
 of disgust as I closed the door to my refrigerator. You see, I had just spent
 over 12 hours writing content for the upcoming […]
 
-### [Creating a face detection API with Python and OpenCV (in just 5 minutes)](https://www.pyimagesearch.com/2015/05/11/creating-a-face-detection-api-with-python-and-opencv-in-just-5-minutes)
-So you’ve just built your first awesome computer vision app. Maybe it can
-detect faces in images. Or maybe your app can recognize prescription pills in
-photos. Or maybe your computer vision app can identify the covers of top
-selling books, all while displaying the latest reader reviews and the cheapest
-websites online to purchase them. So the big […]
-
 ### [Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV](https://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-
 and-opencv)
 I’m going to start this post by clueing you in on a piece of personal history
 that very few people know about me: as a kid in early high school, I used to
 spend nearly every single Saturday at the local RC (Remote Control) track
 about 25 miles from my house. You see, I used to […]
-
-### [Sorting Contours using Python and OpenCV](https://www.pyimagesearch.com/2015/04/20/sorting-contours-using-python-and-opencv)
-Alright, so at this point you have been exposed to contours pretty heavily on
-the PyImageSearch blog. We used contours to build a kick-ass mobile document
-scanner. Contours enabled us detect barcodes in images. And we even leveraged
-the power of contours to find the distance from a camera to object or marker.
-But there […]
 
 ### [Implementing RootSIFT in Python and OpenCV](https://www.pyimagesearch.com/2015/04/13/implementing-rootsift-in-python-and-opencv)
 Still using the original, plain ole’ implementation of SIFT by David Lowe?
@@ -1148,25 +1218,12 @@ functions. Over the past month I’ve gotten a handful of PyImageSearch readers
 emailing in and asking how to download an image from a URL and then convert it
 to OpenCV format (without writing it to disk and then reading it back) — and
 
-### [Install OpenCV and Python on your Raspberry Pi 2 and B+](https://www.pyimagesearch.com/2015/02/23/install-opencv-and-python-on-your-raspberry-pi-2-and-b)
-My Raspberry Pi 2 just arrived in the mail yesterday, and man is this berry
-sweet. This tiny little PC packs a real punch with a 900mhz quadcore processor
-and 1gb of RAM. To give some perspective, the Raspberry Pi 2 is faster than
-the majority of the desktops in my high school computer lab. […]
-
 ### [(Faster) Non-Maximum Suppression in Python](https://www.pyimagesearch.com/2015/02/16/faster-non-maximum-suppression-python)
 I have issues — I can’t stop thinking about object detection. You see, last
 night I was watching The Walking Dead and instead of enjoying the zombie
 brutality, the forced cannibalism, or the enthralling storyline, all I wanted
 to do was build an object detection system to recognize zombies. Would it be
 very useful? Probably not. I mean, it’s […]
-
-### [Removing contours from an image using Python and OpenCV](https://www.pyimagesearch.com/2015/02/09/removing-contours-image-using-python-opencv)
-Awhile back I was going through /r/computervision when I stumbled across a
-question asking how to remove contours from an image using OpenCV. Intrigued,
-I posted a reply. The basic algorithm for removing contours from an image goes
-something like this: Step 1: Detect and find contours in your image. Step 2:
-Loop over contours individually. Step […]
 
 ### [Multi-scale Template Matching using Python and OpenCV](https://www.pyimagesearch.com/2015/01/26/multi-scale-template-matching-using-python-opencv)
 This past weekend I’ve been really sick with the flu. I haven’t done much
@@ -1188,34 +1245,6 @@ died on May 18th, 1980, the day of the catastrophic eruption of Mount St.
 Helens in Washington state. He was the first to report the eruption,
 exclaiming “Vancouver! […]
 
-### [Real-time barcode detection in video with Python and OpenCV](https://www.pyimagesearch.com/2014/12/15/real-time-barcode-detection-video-python-opencv)
-Today’s post is a followup to a previous (extremely popular) article on
-detecting barcodes in images using Python and OpenCV. In the previous post we
-explored how to detect and find barcodes in images. But today we are going to
-refactor the code to detect barcodes in video. As an example, check out the
-screenshot below […]
-
-### [Adding a web interface to our image search engine with Flask](https://www.pyimagesearch.com/2014/12/08/adding-web-interface-image-search-engine-flask)
-This is a guest post by Michael Herman from Real Python – learn Python
-programming and web development through hands-on, interesting examples that
-are useful and fun! In this tutorial, we’ll take the command line image search
-engine from the previous tutorial and turn it into a full-blown web
-application using Python and Flask. More specifically, […]
-
-### [The complete guide to building an image search engine with Python and OpenCV](https://www.pyimagesearch.com/2014/12/01/complete-guide-building-image-search-engine-python-opencv)
-Let’s face it. Trying to search for images based on text and tags sucks.
-Whether you are tagging and categorizing your personal images, searching for
-stock photos for your company website, or simply trying to find the right
-image for your next epic blog post, trying to use text and keywords to
-describe something that […]
-
-### [Detecting Barcodes in Images with Python and OpenCV](https://www.pyimagesearch.com/2014/11/24/detecting-barcodes-images-python-opencv)
-UPDATE: The introduction to this post may seen a little “out there”. For some
-context, I had just finished watching the South Park Black Friday episodes
-prior to writing this post so I definitely had some inspiration regarding
-zombie shoppers, Black Friday chaos, and Game of Thrones. Black Friday is
-coming. Hordes of angry shoppers. […]
-
 ### [Non-Maximum Suppression for Object Detection in Python](https://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python)
 Connecticut is cold. Very cold. Sometimes it’s hard to even get out of bed in
 the morning. And honestly, without the aide of copious amounts of pumpkin
@@ -1228,12 +1257,6 @@ noticed one or two teasers of what I’ve been working on — a Python
 framework/package to rapidly construct object detectors using Histogram of
 Oriented Gradients and Linear Support Vector Machines. Honestly, I really
 can’t stand using the Haar cascade classifiers provided by OpenCV […]
-
-### [How to Display a Matplotlib RGB Image](https://www.pyimagesearch.com/2014/11/03/display-matplotlib-rgb-image)
-So we know that matplotlib is awesome for generating graphs and figures. But
-what if we wanted to display a simple RGB image? Can we do that with
-matplotlib? Of course! This blog post will show you how to display a
-Matplotlib RGB image in only a few lines of code…as well as clear up […]
 
 ### [OpenCV Shape Descriptor: Hu Moments Example](https://www.pyimagesearch.com/2014/10/27/opencv-shape-descriptor-hu-moments-example)
 So what type of shape descriptors does OpenCV provide? The most notable are Hu
@@ -1249,13 +1272,6 @@ dedicated PyImageSearch reader. He is just getting started in computer vision
 your own projects and solving them. Oscar picked up a copy of my book,
 Practical Python and […]
 
-### [Deep Learning on Amazon EC2 GPU with Python and nolearn](https://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn)
-Last week I wrote a post detailing my experience with CUDAMat, Deep Belief
-Networks, and Python using my MacBook Pro. The post is fairly long and full of
-screenshots to document my experience. But the gist of it is this: Even after
-installing the NVIDIA Cuda SDK and configuring CUDAMat, my CPU was training my
-Deep Belief […]
-
 ### [Finding the Brightest Spot in an Image using Python and OpenCV](https://www.pyimagesearch.com/2014/09/29/finding-brightest-spot-image-using-python-opencv)
 Originally I had intended on doing a followup post on my Getting Started with
 Deep Learning Guide, but due to some unfortunate personal events, I wasn’t
@@ -1263,32 +1279,12 @@ able to complete the blog post. But don’t worry…I still have a really great
 tutorial for you today! Bad tutorials are worse than warm beer. You want to
 know […]
   
-### [Getting Started with Deep Learning and Python](https://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python)
-Update – January 27, 2015: Based on the feedback from commenters, I have
-updated the source code in the download to include the original MNIST dataset!
-No external downloads required! Update – March 2015, 2015: The nolearn package
-has now deprecated and removed the dbn  module. When you go to install the
-nolearn package, be sure […]
-
-### [How-To: Python Compare Two Images](https://www.pyimagesearch.com/2014/09/15/python-compare-two-images)
-Would you have guessed that I’m a stamp collector? Just kidding. I’m not. But
-let’s play a little game of pretend. Let’s pretend that we have a huge dataset
-of stamp images. And we want to take two arbitrary stamp images and compare
-them to determine if they are identical, or near identical in some […]
-
 ### [Thresholding: Simple Image Segmentation using OpenCV](https://www.pyimagesearch.com/2014/09/08/thresholding-simple-image-segmentation-using-opencv)
 Tragic. Heartbreaking. Unbearable. These are the three words that I would use
 to describe my past week. About a week ago, a close childhood friend of mine
 passed away in a tragic car accident. I went to elementary school and middle
 school with him. We spent our summers skateboarding on my driveway and the
 winters […]
-
-### [How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes)
-Building a document scanner with OpenCV can be accomplished in just three
-simple steps: Step 1: Detect edges. Step 2: Use the edges in the image to find
-the contour (outline) representing the piece of paper being scanned. Step 3:
-Apply a perspective transform to obtain the top-down view of the document.
-Really. That’s it. Only three steps […]
 
 ### [4 Point OpenCV getPerspective Transform Example](https://www.pyimagesearch.com/2014/08/25/4-point-opencv-getperspective-transform-example)
 4:18am. Alarm blaring. Still dark outside. The bed is warm. And the floor will
@@ -1322,13 +1318,6 @@ on detecting rectangles/squares in images, but I was wondering, how do you
 detect circles in images using OpenCV? Thanks. Great question. As you’ve
 probably already […]
 
-### [How-To: 3 Ways to Compare Histograms using OpenCV and Python](https://www.pyimagesearch.com/2014/07/14/3-ways-compare-histograms-using-opencv-python)
-So you’ve extracted color histograms from a set of images… But how are you
-going to compare them for similarity? You’ll need a distance function to
-handle that. But which one? How you choose? And how do you compare histograms
-using Python and OpenCV? Don’t worry, I’ve got you covered. In this blog post
-I’ll […]
-
 ### [Color Quantization with OpenCV using K-Means Clustering](https://www.pyimagesearch.com/2014/07/07/color-quantization-opencv-using-k-means-clustering)
 feel was given to it in the post-processing steps — but it was a painstaking
 process. For each frame in the movie, animators traced over the original
@@ -1346,12 +1335,6 @@ about computer vision, image processing, and image search engines, I’ve been
 behind the scenes, working on a second book. And you may be thinking, hey,
 didn’t you just finish up Practical Python and OpenCV? Yep. I did. Now, don’t
 get […]
-
-### [How-To: OpenCV Load an Image](https://www.pyimagesearch.com/2014/06/02/opencv-load-image)
-A few months ago, I was teaching an online seminar on the basics of computer
-vision. And do you know what the most common question I got asked was? How do
-I use OpenCV to load an image and display it on my screen? It’s a pretty basic
-concept, but I think many instructors (myself included) […]
 
 ### [OpenCV and Python K-Means Color Clustering](https://www.pyimagesearch.com/2014/05/26/opencv-python-k-means-color-clustering)
 Take a second to look at the Jurassic Park movie poster above. What are the
@@ -1399,6 +1382,29 @@ That’s exactly what I’m telling you. The next series of blog posts will be
 dedicated to building a Pokedex that can visually recognize Pokemon from the
 […]
 
+
+## Image compare
+
+### [Image Difference with OpenCV and Python](https://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python)
+In a previous PyImageSearch blog post, I detailed how to compare two images
+with Python using the Structural Similarity Index (SSIM). Using this method,
+we were able to easily determine if two images were identical or had
+differences due to slight image manipulations, compression artifacts, or
+purposeful tampering. Today we are going to extend the […]
+
+### [How-To: Python Compare Two Images](https://www.pyimagesearch.com/2014/09/15/python-compare-two-images)
+Would you have guessed that I’m a stamp collector? Just kidding. I’m not. But
+let’s play a little game of pretend. Let’s pretend that we have a huge dataset
+of stamp images. And we want to take two arbitrary stamp images and compare
+them to determine if they are identical, or near identical in some […]
+
+### [How-To: 3 Ways to Compare Histograms using OpenCV and Python](https://www.pyimagesearch.com/2014/07/14/3-ways-compare-histograms-using-opencv-python)
+So you’ve extracted color histograms from a set of images… But how are you
+going to compare them for similarity? You’ll need a distance function to
+handle that. But which one? How you choose? And how do you compare histograms
+using Python and OpenCV? Don’t worry, I’ve got you covered. In this blog post
+I’ll […]
+
 ### [Hobbits and Histograms – A How-To Guide to Building Your First Image Search Engine in Python](https://www.pyimagesearch.com/2014/01/27/hobbits-and-
 histograms-a-how-to-guide-to-building-your-first-image-search-engine-in-
 python)
@@ -1406,3 +1412,18 @@ One Ring to rule them all, One ring to find them; One ring to bring them all
 and in the darkness bind them. The image search engine we are about to build
 is going to be so awesome, it could have destroyed The One Ring itself,
 without the help of the fires of Mt. Doom. […]
+
+### [Adding a web interface to our image search engine with Flask](https://www.pyimagesearch.com/2014/12/08/adding-web-interface-image-search-engine-flask)
+This is a guest post by Michael Herman from Real Python – learn Python
+programming and web development through hands-on, interesting examples that
+are useful and fun! In this tutorial, we’ll take the command line image search
+engine from the previous tutorial and turn it into a full-blown web
+application using Python and Flask. More specifically, […]
+
+### [The complete guide to building an image search engine with Python and OpenCV](https://www.pyimagesearch.com/2014/12/01/complete-guide-building-image-search-engine-python-opencv)
+Let’s face it. Trying to search for images based on text and tags sucks.
+Whether you are tagging and categorizing your personal images, searching for
+stock photos for your company website, or simply trying to find the right
+image for your next epic blog post, trying to use text and keywords to
+describe something that […]
+
