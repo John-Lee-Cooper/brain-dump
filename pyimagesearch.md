@@ -2,6 +2,35 @@
 
 ## Deep Learning
 
+## [Machine Learning in Python](https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/) 
+Struggling to get started with machine learning using Python? In this step-by-
+step, hands-on tutorial you will learn how to perform machine learning using
+Python on numerical data and image data. By the time you are finished reading
+this post, you will be able to get your start in machine learning. To launch
+your machine learning […]
+
+## [Auto-Keras and AutoML: A Getting Started Guide](https://www.pyimagesearch.com/2019/01/07/auto-keras-and-automl-a-getting-started-guide/)
+
+In this tutorial, you will learn how to use Auto-Keras, an open source
+alternative to Google’s AutoML, for automated machine learning and deep
+learning. When training a neural network on a dataset there are two primary
+objectives a deep learning practitioner is trying to optimize and balance:
+Defining a neural network architecture that lends itself […]
+
+## [Keras Conv2D and Convolutional Layers](https://www.pyimagesearch.com/2018/12/31/keras-conv2d-and-convolutional-layers/) 
+In today’s tutorial, we are going to discuss the Keras Conv2D class, including
+the most important parameters you need to tune when training your own
+Convolutional Neural Networks (CNNs). From there we are going to use the Keras
+Conv2D class to implement a simple CNN. We’ll then train and evaluate this CNN
+on the CALTECH-101 […]
+
+## [How to use Keras fit and fit_generator (a hands-on-tutorial)](https://www.pyimagesearch.com/2018/12/24/how-to-use-keras-fit-and-fit_generator-a-hands-on-tutorial/) 
+In this tutorial, you will learn how the Keras .fit  and .fit_generator
+functions work, including the differences between them. To help you gain
+hands-on experience, I’ve included a full example showing you how to implement
+a Keras data generator from scratch. Today’s blog post is inspired by
+PyImageSearch reader, Shey. Shey asks: Hi Adrian, thanks […]
+
 ### [Keras – Save and Load Your Deep Learning Models](https://www.pyimagesearch.com/2018/12/10/keras-save-and-load-your-deep-learning-models)
 In this tutorial, you will learn how to save and load your Keras deep learning
 models. This blog post was inspired by PyImageSearch reader, Mason, who
@@ -112,8 +141,7 @@ writes: Hi Adrian, thanks for the PyImageSearch blog and sharing your
 knowledge each week. I’m building an image fashion search engine and need
 help. Using my app a user will upload a photo […]
 
-### [A fun, hands-on deep learning project for beginners, students, and hobbyists](https://www.pyimagesearch.com/2018/04/30/a-fun-hands-on-deep-
-learning-project-for-beginners-students-and-hobbyists)
+### [A fun, hands-on deep learning project for beginners, students, and hobbyists](https://www.pyimagesearch.com/2018/04/30/a-fun-hands-on-deep-learning-project-for-beginners-students-and-hobbyists)
 Today’s blog post is a “bonus tutorial” in our most recent series on building
 a complete, end-to-end deep learning application: Part 1: How to (quickly)
 build a deep learning image dataset Part 2: Keras and Convolutional Neural
@@ -1044,6 +1072,11 @@ Perform shape detection & identification Today we are going to perform both
 shape detection and color labeling on objects in images. At this point, we
 understand that regions of an image […]
 
+
+
+### [Image Stitching with OpenCV and Python](https://www.pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python)
+In this tutorial, you will learn how to perform image stitching using Python, OpenCV, and the cv2.createStitcher  and cv2.Stitcher_create  functions. Using today’s code you’ll be able to stitch multiple images together, creating a panorama of stitched images. Just under two years ago I published two guides on image stitching and panorama construction: Fundamentals of image […]
+
 ### [Real-time panorama and image stitching with OpenCV](https://www.pyimagesearch.com/2016/01/25/real-time-panorama-and-image-stitching-with-opencv)
 One of my favorite parts of running the PyImageSearch blog is a being able to
 link together previous blog posts and create a solution to a particular
@@ -1164,8 +1197,7 @@ never, ever have to say. But I muttered them to myself in an exasperated sigh
 of disgust as I closed the door to my refrigerator. You see, I had just spent
 over 12 hours writing content for the upcoming […]
 
-### [Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV](https://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-
-and-opencv)
+### [Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV](https://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv)
 I’m going to start this post by clueing you in on a piece of personal history
 that very few people know about me: as a kid in early high school, I used to
 spend nearly every single Saturday at the local RC (Remote Control) track
@@ -1405,9 +1437,7 @@ handle that. But which one? How you choose? And how do you compare histograms
 using Python and OpenCV? Don’t worry, I’ve got you covered. In this blog post
 I’ll […]
 
-### [Hobbits and Histograms – A How-To Guide to Building Your First Image Search Engine in Python](https://www.pyimagesearch.com/2014/01/27/hobbits-and-
-histograms-a-how-to-guide-to-building-your-first-image-search-engine-in-
-python)
+### [Hobbits and Histograms – A How-To Guide to Building Your First Image Search Engine in Python](https://www.pyimagesearch.com/2014/01/27/hobbits-and-histograms-a-how-to-guide-to-building-your-first-image-search-engine-in-python)
 One Ring to rule them all, One ring to find them; One ring to bring them all
 and in the darkness bind them. The image search engine we are about to build
 is going to be so awesome, it could have destroyed The One Ring itself,
