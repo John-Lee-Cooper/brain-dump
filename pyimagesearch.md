@@ -1028,7 +1028,7 @@ finding the brightest spot in an image. My previous tutorial assumed there was
 only one bright spot in the image that you wanted to detect… …but what if
 there were multiple bright spots? If you want to detect more than […]
 
-### [Watermarking images with OpenCV and Python](https://www.pyimagesearch.com/2016/04/25/watermarking-images-with opencv-and-python)
+### [Watermarking images with OpenCV and Python](https://www.pyimagesearch.com/2016/04/25/watermarking-images-with-opencv-and-python)
 A few weeks ago, I wrote a blog post on creating transparent overlays with
 OpenCV. This post was meant to be a gentle introduction to a neat little trick
 you can use to improve the aesthetics of your processed image(s), such as
@@ -1191,7 +1191,7 @@ awesome. It was a lot of fun to write and the feedback I got from readers like
 yourself made it well worth the effort to put together. For those of you who
 are just tuning it, last week’s post on building a motion detection […]
 
-### [Basic motion detection and tracking with Python and OpenCV](https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and tracking-with-python-and-opencv)
+### [Basic motion detection and tracking with Python and OpenCV](https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv)
 That son of a bitch. I knew he took my last beer. These are words a man should
 never, ever have to say. But I muttered them to myself in an exasperated sigh
 of disgust as I closed the door to my refrigerator. You see, I had just spent
