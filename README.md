@@ -1,7 +1,7 @@
 ## Links
-- [Links](links.md)
-- [PyImageSearch Links](pyimagesearch.md)
-- [Firefox Links](firefox.md)
+- [Links](/links.md)
+- [PyImageSearch Links](/pyimagesearch.md)
+- [Firefox Links](/firefox.md)
 - [git scenarios](/git_Scenarios.md)
 
 ## Welcome to [GitHub Pages](https://john-lee-cooper.github.io/hello-world/)
