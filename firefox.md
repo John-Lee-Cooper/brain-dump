@@ -24,9 +24,7 @@
 
 [The Generic Frame Protocol](http://www.ai.sri.com/~gfp/spec/paper/paper.html)
 
-[josephmisiti/awesome-machine-learning · GitHub](https://github.com/josephmisiti/awesome-machine-learning#python)
-
-[machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python)
+[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python)
 
 
 ### Android
@@ -43,8 +41,7 @@
 
 [Varying regularization in Multi-layer Perceptron — scikit-learn 0.19.0 documentation](http://scikit-learn.org/stable/auto_examples/neural_networks/plot_mlp_alpha.html)
 
-[Stanford University CS231n: Convolutional Neural Networks for Visual
-Recognition](http://cs231n.stanford.edu/)
+[Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
 [GitHub - kjw0612/awesome-deep-vision: A curated list of deep learning resources for computer vision](https://github.com/kjw0612/awesome-deep-vision#books)
 
@@ -165,8 +162,6 @@ Recognition](http://cs231n.stanford.edu/)
 
 ### QT
 
-[Qt 4.7: Qt Designer Manual](http://doc.qt.nokia.com/4.7-snapshot/designer- manual.html)
-
 [GUI Programming with PyQT](http://www.commandprompt.com/community/pyqt/)
 
 [The Independent Qt Tutorial - Chapter 3](http://www.digitalfanatics.org/projects/qt_tutorial/chapter03.html)
@@ -175,10 +170,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 [Eli Bendersky's website » Passing extra arguments to PyQt slots](http://eli.thegreenplace.net/2011/04/25/passing-extra-arguments-to-pyqt-slot/)
 
-[PyQt by Example (Session 3)
-](http://lateral.netmanagers.com.ar/stories/BBS49.html)
-
-[Training Materials — Qt - A cross-platform application and UI framework](http://qt.nokia.com/learning/online/training)
+[PyQt by Example (Session 3)](http://lateral.netmanagers.com.ar/stories/BBS49.html)
 
 [Developer Guides Qt Wiki](http://qt-project.org/wiki/Developer-Guides)
 
@@ -188,9 +180,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 [PyQt4 tutorial](http://zetcode.com/gui/pyqt4/)
 
-[Learn Qt — Qt - A cross- platform application and UI framework](http://qt.nokia.com/learning/)
-
-[Qt - Cross-platform application and UI framework — Qt - A cross-platform application and UI framework](http://qt.nokia.com/)
+[Qt - Cross-platform application and UI framework](http://qt.nokia.com/)
 
 [Qt 5.0: Model/View Tutorial](http://doc-snapshot.qt-project.org/5.0/modelview.html)
 
@@ -216,8 +206,6 @@ Recognition](http://cs231n.stanford.edu/)
 
 [Jupyter Notebook Viewer](http://nbviewer.jupyter.org/github/rlabbe/Kalman- and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)
 
-[Favorites](http://nbviewer.ipython.org/)
-
 [The IPython Notebook — IPython](http://ipython.org/notebook.html)
 
 [A gallery of interesting IPython Notebooks · ipython/ipython Wiki](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
@@ -229,31 +217,24 @@ Recognition](http://cs231n.stanford.edu/)
 
 [Ubuntu](http://www.ubuntu.com/)
 
-[Ubuntu Wiki (community-edited website)
-](http://wiki.ubuntu.com/)
+[Ubuntu Wiki (community-edited website)](http://wiki.ubuntu.com/)
 
 [Make a Support Request to the Ubuntu Community](https://answers.launchpad.net/ubuntu/+addquestion)
 
-[Debian (Ubuntu is based on Debian)
-](http://www.debian.org/)
+[Debian (Ubuntu is based on Debian)](http://www.debian.org/)
 
 [Ubuntu One - The personal cloud that brings your digital life together](https://one.ubuntu.com/)
 
 [11 Ubuntu One Features You May Not Be Aware Of - How-To Geek](http://www.howtogeek.com/118496/11-ubuntu-one-features-you-may-not-be-aware-of/)
-
-[Bug #892727 in network-manager (Ubuntu)
-: “Ubuntu 11.10, very slow to register to a wireless network when using WPA”](https://bugs.launchpad.net/ubuntu/+source/network-manager/+bug/892727)
 
 
 ### VBA Visual Basic
 
 [Excel VBA Userform - Easy Excel Macros](http://www.excel-easy.com/vba/userform.html)
 
-[How to use Visual Basic for Applications (VBA)
- to change UserForms in Excel](https://support.microsoft.com/en-us/kb/829070)
+[How to use Visual Basic for Applications (VBA) to change UserForms in Excel](https://support.microsoft.com/en-us/kb/829070)
 
-[Shapes.AddFormControl Method (Excel)
-](https://msdn.microsoft.com/EN-US/library/office/ff838642.aspx)
+[Shapes.AddFormControl Method (Excel)](https://msdn.microsoft.com/EN-US/library/office/ff838642.aspx)
 
 
 
@@ -266,8 +247,6 @@ Recognition](http://cs231n.stanford.edu/)
 [Learn Web Development](http://killer-web-development.com/)
 
 [Terminology, Syntax, & Introduction - A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/terminology-syntax-intro)
-
-[Defining the web applications structure](http://killer-web-development.com/section/4/1)
 
 [Markmin markup language](http://web2py.com/examples/static/markmin.html)
 
@@ -346,8 +325,6 @@ Recognition](http://cs231n.stanford.edu/)
 
 [Getting Started: Python - Google App Engine - Google Code](https://code.google.com/appengine/docs/python/gettingstarted/)
 
-[The Track West](http://leecooperblog.wordpress.com/)
-
 
 
 ## Personal
@@ -405,6 +382,8 @@ Recognition](http://cs231n.stanford.edu/)
 
 ### Education
 
+[Electrical Engineering and Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+
 [Eigenvalues and Eigenvectors](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors/)
  
 [Recent Tags](place:type=6&sort=14&maxResults=10)
@@ -422,8 +401,6 @@ Recognition](http://cs231n.stanford.edu/)
 [Advance Your Education With Free College Courses Online - Udacity](https://www.udacity.com/)
 
 [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
-
-[Electrical Engineering and Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 
 [macOS Development Tutorials](https://www.raywenderlich.com/category/macos)
 
@@ -491,7 +468,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 [Simple video stabilization using OpenCV](http://nghiaho.com/?p=2093)
 
-[» CSS – Curvature Scale Space in OpenCV](http://vgg.fiit.stuba.sk/2013-04/css-%e2%80%93-curvature-scale-space-in-opencv/)
+[Curvature Scale Space in OpenCV](http://vgg.fiit.stuba.sk/2013-04/css-%e2%80%93-curvature-scale-space-in-opencv/)
 
 [Watermarking images with OpenCV and Python - PyImageSearch](https://www.pyimagesearch.com/2016/04/25/watermarking-images-with-opencv-and-python/)
 
@@ -530,8 +507,6 @@ Recognition](http://cs231n.stanford.edu/)
 
 [12-Factor App](https://12factor.net/)
 
-[AIMA Python Code](http://aima.cs.berkeley.edu/python/readme.html)
-
 [Defining Traits: Initialization and Validation — Traits 4 User Manual](http://docs.enthought.com/traits/traits_user_manual/defining.html)
 
 
@@ -564,11 +539,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 ### Libraries
 
-[Architectural Overview — Kivy 1.8.0-dev documentation](http://kivy.org/docs/guide/architecture.html)
-
 [vispy](http://api.vispy.org/en/latest/)
-
-[Kivy: Crossplatform Framework for NUI](http://kivy.org/#home)
 
 [PyToolz API Documentation — Toolz 0.6.0 documentation](http://toolz.readthedocs.org/en/latest/)
 
@@ -644,11 +615,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 [iCloud](https://www.icloud.com/#)
 
-[Computer Books](http://www.onlineprogrammingbooks.com/)
-
 [HP ePrint](https://support.hp.com/us-en/document/c03721293)
-
-[Free Courses](http://www.openculture.com/computer_science_free_courses)
 
 [Avoiding Ten Big Mistakes iOS Developers Make with Core Data](http://www.informit.com/articles/article.aspx?p=2160906)
 
@@ -662,10 +629,6 @@ Recognition](http://cs231n.stanford.edu/)
 
 
 ### Other Bookmarks
-
-[macOS Development Tutorials](https://www.raywenderlich.com/category/macos)
-
-[30 Auto Layout Best Practices for Xcode 9 and iOS 11 - Super Easy Apps](https://blog.supereasyapps.com/30-auto-layout-best-practices/)
 
 [Keyboard Control Functions — PyAutoGUI 1.0.0 documentation](https://pyautogui.readthedocs.io/en/latest/keyboard.html)
 
@@ -693,8 +656,6 @@ Recognition](http://cs231n.stanford.edu/)
 
 [Weblog Posts in category Web2py - ThadeusB](http://www.thadeusb.com/weblog/category/Web2py)
 
-[MVC : The Official Microsoft ASP.NET Site](http://www.asp.net/mvc)
-
 [OCI_SAR_Tool_v2.pdf](https://www.systemsmadesimple.com/docs/appraisalProcessModule/jobAids/OCI_SAR_Tool_v2.pdf)
 
 [Sensei: An Agile Retrospective Tool to Drive Continuous Improvement](http://beta.senseitool.com/)
@@ -709,10 +670,6 @@ Recognition](http://cs231n.stanford.edu/)
 
 [Your Products - O'Reilly Media](https://members.oreilly.com/account/emedia?filter=print-books&sort=added&order=asc&isbn=9781449305468)
 
-[OpenTripPlanner](http://www.opentripplanner.org/)
-
-[Google](https://www.google.com/)
-
 [What Is Vagrant and Why Should I Care? ◆ 24 ways](https://24ways.org/2014/what-is-vagrant-and-why-should-i-care/)
 
 [Food - Human GIS](http://jacoop.weebly.com/food.html)
@@ -726,8 +683,6 @@ Recognition](http://cs231n.stanford.edu/)
 [Microsoft365](https://portal.office.com/?username=lee.cooper%40aciwebs.onmicrosoft.com)
 
 [Problem loading page](http://www.verizon.com/)
-
-[Kivy: Crossplatform Framework for NUI](http://kivy.org/#home)
 
 [12 Days of Performance - REVSYS](http://www.revsys.com/12days/)
 
@@ -751,15 +706,13 @@ Recognition](http://cs231n.stanford.edu/)
 
 [cs231n-CNNs : Free Download & Streaming : Internet Archive](https://archive.org/details/cs231n-CNNs)
 
-[Electrical Engineering and Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
-
 [Regex Tutorial - Literal Characters and Special Characters](http://www.regular-expressions.info/characters.html)
 
 [windows 7 - How to Remove ODBC Data Source if Driver is Removed - Super User](http://superuser.com/questions/713258/how-to-remove-odbc-data-source-if-driver-is-removed)
 
 [Emoji and Markdown Everywhere](http://blog.trello.com/emoji-and-markdown-everywhere/)
 
-[(6) PyCon 2017 - YouTube](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg)
+[PyCon 2017 - YouTube](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg)
 
 [Android Tutorial](https://www.tutorialspoint.com/android/index.htm)
 
