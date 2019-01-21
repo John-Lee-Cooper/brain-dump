@@ -15,7 +15,7 @@
 
 [Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)
 
-[Scrum Task Board Training | Mountain Goat Software](http://www.mountaingoatsoftware.com/scrum/task-boards)
+[Scrum Task Board Training](http://www.mountaingoatsoftware.com/scrum/task-boards)
 
 
 ### AI
@@ -31,15 +31,15 @@
 
 ### Android
 
-[Supporting Multiple Screens | Android Developers](https://developer.android.com/guide/practices/screens_support.html)
+[Supporting Multiple Screens](https://developer.android.com/guide/practices/screens_support.html)
 
 [Android Development](http://www.vogella.com/tutorials/android.html)
 
 [Android Wi-Fi](https://www.tutorialspoint.com/android/android_wi_fi.htm)
 
-[Using Network Service Discovery | Android Developers](https://stuff.mit.edu/afs/sipb/project/android/docs/training/connect-devices-wirelessly/nsd.html)
+[Using Network Service Discovery](https://stuff.mit.edu/afs/sipb/project/android/docs/training/connect-devices-wirelessly/nsd.html)
 
-[Security with HTTPS and SSL | Android Developers](https://developer.android.com/training/articles/security-ssl.html)
+[Security with HTTPS and SSL](https://developer.android.com/training/articles/security-ssl.html)
 
 [Varying regularization in Multi-layer Perceptron — scikit-learn 0.19.0 documentation](http://scikit-learn.org/stable/auto_examples/neural_networks/plot_mlp_alpha.html)
 
@@ -61,9 +61,9 @@ Recognition](http://cs231n.stanford.edu/)
 
 [Quickstart — Flask-SQLAlchemy 0.16 documentation](https://pythonhosted.org/Flask-SQLAlchemy/quickstart.html)
 
-[Starting web projects using Flask, virtualenv, pip | enigmeta](http://www.enigmeta.com/2012/08/16/starting-flask/)
+[Starting web projects using Flask, virtualenv, pip](http://www.enigmeta.com/2012/08/16/starting-flask/)
 
-[Delightful testing with pytest and Flask- SQLAlchemy | Alex Michael](http://alexmic.net/flask-sqlalchemy-pytest/)
+[Delightful testing with pytest and Flask- SQLAlchemy](http://alexmic.net/flask-sqlalchemy-pytest/)
 
 [Category: flask - Real Python](https://realpython.com/blog/categories/flask/)
 
@@ -90,7 +90,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 [WarpWar Rules](http://www.contrib.andrew.cmu.edu/~gc00/reviews/warpwar.html)
 
-[Rick's Warp War rules | WarpWar | BoardGameGeek](http://boardgamegeek.com/thread/627066/ricks-warp-war-rules)
+[Rick's Warp War rules](http://boardgamegeek.com/thread/627066/ricks-warp-war-rules)
 
 
 ### Git
@@ -111,7 +111,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)
 
-[Free Mercurial and Git Client for Windows and Mac | Atlassian SourceTree](http://www.sourcetreeapp.com/)
+[Free Mercurial and Git Client for Windows and Mac](http://www.sourcetreeapp.com/)
 
 [Importing from Subversion · github:help](https://help.github.com/articles/importing-from-subversion)
 
@@ -122,7 +122,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 [gmaps.js — Google Maps API with less pain and more fun](http://hpneo.github.com/gmaps/documentation.html)
 
-[Home | OpenTripPlanner](http://www.opentripplanner.org/)
+[Home](http://www.opentripplanner.org/)
 
 
 ### IOS
@@ -142,9 +142,9 @@ Recognition](http://cs231n.stanford.edu/)
 
 [OpenGL](http://www.songho.ca/opengl/index.html)
 
-[Open Technology Experts For Your Business | experts4solutions](http://experts4solutions.com/e4s/default/technologies)
+[Open Technology Experts For Your Business](http://experts4solutions.com/e4s/default/technologies)
 
-[Adventures in OpenCL Part 2: Particles with OpenGL | enj](http://enja.org/2010/08/27/adventures-in-opencl-part-2-particles-with-opengl/)
+[Adventures in OpenCL Part 2: Particles with OpenGL](http://enja.org/2010/08/27/adventures-in-opencl-part-2-particles-with-opengl/)
 
 [Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/)
 
@@ -152,7 +152,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 [OpenGL tutorials - News](http://www.belanecbn.sk/opengl_tutorialy/)
 
-[SIGGRAPH 2012: Mobile, OpenGL 4.3 and Python | Enthought](http://blog.enthought.com/general/siggraph-2012-mobile-opengl-4-3-and-python/)
+[SIGGRAPH 2012: Mobile, OpenGL 4.3 and Python](http://blog.enthought.com/general/siggraph-2012-mobile-opengl-4-3-and-python/)
 
 [Untitled](http://bentonian.com/teaching/AdvGraph0809/Advanced%20Graphics%2008x01%20-%20OpenGL,%20scene%20graphs%20and%20data%20structures.ppt)
 
@@ -180,7 +180,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 [Training Materials — Qt - A cross-platform application and UI framework](http://qt.nokia.com/learning/online/training)
 
-[Developer Guides | Qt Wiki | Qt Developer Network](http://qt-project.org/wiki/Developer-Guides)
+[Developer Guides Qt Wiki](http://qt-project.org/wiki/Developer-Guides)
 
 [Layout management in Qt4](http://zetcode.com/gui/qt4/layoutmanagement/)
 
@@ -196,7 +196,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 [Bites of Code](http://bitesofcode.blogspot.com/)
 
-[QFileSystemModel - Adding Custom Columns | Qt DevNet forums | Qt Developer Network](http://qt-project.org/forums/viewthread/13094)
+[QFileSystemModel - Adding Custom Columns](http://qt-project.org/forums/viewthread/13094)
 
 [The PyQt4 tutorial](http://zetcode.com/tutorials/pyqt4/)
 
@@ -280,22 +280,11 @@ Recognition](http://cs231n.stanford.edu/)
 [Install Google App Engine - Problem Set 1 Help - Web Development - Udacity](https://www.udacity.com/course/viewer#!/c-cs253/l-48756010/m-48403788)
 
 
-### React
-
-[enaqx/awesome-react](https://github.com/enaqx/awesome-react)
-
-[Flux | Application Architecture for Building User Interfaces](https://facebook.github.io/flux/docs/overview.html)
-
-[Tutorial | React](http://facebook.github.io/react/docs/tutorial.html)
-
-[christianalfoni WebApp Enthusiast](http://christianalfoni.github.io/javascript/2014/08/15/react-js-workflow.html)
-
-
 ### MVC
 
 [Brad Wilson: ASP.NET MVC 2 Templates, Part 4: Custom Object Templates](http://bradwilson.typepad.com/blog/2009/10/aspnet-mvc-2-templates-part-4-custom-object-templates.html)
 
-[Using Web.config Transformation in Web Site Projects | The Public Void](http://andrewtwest.com/2010/02/25/using-web-config-transformations-in-web-site-projects/)
+[Using Web.config Transformation in Web Site Projects](http://andrewtwest.com/2010/02/25/using-web-config-transformations-in-web-site-projects/)
 
 [ASP.NET](http://www.w3schools.com/aspnet/webpages_webgrid.asp)
 
@@ -307,7 +296,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 [LINQ](http://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
 
-[How we do MVC – View models | Jimmy Bogard's Blog](http://lostechies.com/jimmybogard/2009/06/30/how-we-do-mvc-view-models/)
+[How we do MVC – View models](http://lostechies.com/jimmybogard/2009/06/30/how-we-do-mvc-view-models/)
 
 
 ### jQuery
@@ -341,7 +330,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 [Bootstrap 2.x to 3.0 Migration Guide](http://www.bootply.com/bootstrap-3-migration-guide)
 
-[Twitter Bootstrap Button Generator | PlugoLabs](http://www.plugolabs.com/twitter-bootstrap-button-generator/)
+[Twitter Bootstrap Button Generator](http://www.plugolabs.com/twitter-bootstrap-button-generator/)
 
 [The Big Badass List of Twitter Bootstrap Resources](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
 
@@ -351,23 +340,23 @@ Recognition](http://cs231n.stanford.edu/)
 
 [5 Easy Ways to Modify Your Bootstrap Button Styles - BootstrapBay](https://bootstrapbay.com/blog/bootstrap-button-styles/)
 
-[Home of free code snippets for Bootstrap | Bootsnipp.com](http://www.bootsnipp.com/)
+[Home of free code snippets for Bootstrap](http://www.bootsnipp.com/)
 
 [Highcharts Demo Gallery](http://www.highcharts.com/demo/)
 
 [Getting Started: Python - Google App Engine - Google Code](https://code.google.com/appengine/docs/python/gettingstarted/)
 
-[The Track West | Lee's Blog](http://leecooperblog.wordpress.com/)
+[The Track West](http://leecooperblog.wordpress.com/)
 
 
 
 ## Personal
 
-[Blackberry Syrup Recipe | MyRecipes.com](http://www.myrecipes.com/recipe/blackberry-syrup-50400000122158/)
+[Blackberry Syrup Recipe](http://www.myrecipes.com/recipe/blackberry-syrup-50400000122158/)
 
-[The Track West | Lee's Blog](http://leecooperblog.wordpress.com/)
+[The Track West](http://leecooperblog.wordpress.com/)
 
-[Replacement Wet/dry vacuum filter #17884 for CRAFTSMAN Hardware and Tools #338179370 | SearsPartsDirect](http://www.searspartsdirect.com/partsdirect/part-number/craftsman-parts/vacuum-parts/17884/0009/338/Model-338179370/0247/0646000?keySuffixId=&pathTaken=partSearch&pathRender=modelComponent&documentCompId=P0311099&diagramPageId=00001&productTypeId=&searchModelNumber=338179370&subCompDesc=8%20gallon%20wet/dry%20vac&brandDesc=CRAFTSMAN&modelDesc=8%20GALLON%20WET/DRY%20VAC&blt=11&shdMod=&keyId=10)
+[Replacement Wet/dry vacuum filter #17884 for CRAFTSMAN Hardware and Tools #338179370](http://www.searspartsdirect.com/partsdirect/part-number/craftsman-parts/vacuum-parts/17884/0009/338/Model-338179370/0247/0646000?keySuffixId=&pathTaken=partSearch&pathRender=modelComponent&documentCompId=P0311099&diagramPageId=00001&productTypeId=&searchModelNumber=338179370&subCompDesc=8%20gallon%20wet/dry%20vac&brandDesc=CRAFTSMAN&modelDesc=8%20GALLON%20WET/DRY%20VAC&blt=11&shdMod=&keyId=10)
 
 [Coca-cola Ribs Recipe](http://www.grouprecipes.com/41365/coca-cola-ribs.html)
 
@@ -416,27 +405,27 @@ Recognition](http://cs231n.stanford.edu/)
 
 ### Education
 
-[Eigenvalues and Eigenvectors | Unit II: Least Squares, Determinants and Eigenvalues | Linear Algebra | Mathematics | MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors/)
+[Eigenvalues and Eigenvectors](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors/)
  
 [Recent Tags](place:type=6&sort=14&maxResults=10)
 
 [Recently Bookmarked](place:parent=menu________&parent=unfiled_____&parent=toolbar_____&queryType=1&sort=12&maxResults=10&excludeQueries=1)
 
-[Learn to Code | Codementor Learning](https://www.codementor.io/learn/coding)
+[Learn to Code](https://www.codementor.io/learn/coding)
 
 [Server-side web programming - YouTube](https://www.youtube.com/playlist?list=PL978B2CE2D788F745)
 
-[Core units | code school](http://codeschool.org/core-units/)
+[Core units](http://codeschool.org/core-units/)
 
-[Download Free Computer Books and Programming eBooks | OnlineProgrammingBooks.com](http://www.onlineprogrammingbooks.com/)
+[Download Free Computer Books and Programming eBooks](http://www.onlineprogrammingbooks.com/)
 
 [Advance Your Education With Free College Courses Online - Udacity](https://www.udacity.com/)
 
-[Computer Science: Free Courses | Open Culture](http://www.openculture.com/computer_science_free_courses)
+[Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
 
-[Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+[Electrical Engineering and Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 
-[macOS Development Tutorials | Ray Wenderlich](https://www.raywenderlich.com/category/macos)
+[macOS Development Tutorials](https://www.raywenderlich.com/category/macos)
 
 [30 Auto Layout Best Practices for Xcode 9 and iOS 11 - Super Easy Apps](https://blog.supereasyapps.com/30-auto-layout-best-practices/)
 
@@ -463,7 +452,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 [OpenCV-Python: Image Derivatives and its Applications](http://opencvpython.blogspot.com/2012/06/image-derivatives-sobel-and-scharr.html)
 
-[Canny Edge Detection | CyroForge](https://cyroforge.wordpress.com/canny-edge-detection/)
+[Canny Edge Detection](https://cyroforge.wordpress.com/canny-edge-detection/)
 
 [Canny Tutorial](http://www.pages.drexel.edu/~nk752/cannyTut2.html)
 
@@ -481,28 +470,26 @@ Recognition](http://cs231n.stanford.edu/)
 
 [2.6. Image manipulation and processing using Numpy and Scipy — Scipy lecture notes](https://scipy-lectures.github.io/advanced/image_processing/index.html)
 
-[Blob Detection Using OpenCV ( Python, C++ )
- | Learn OpenCV](http://www.learnopencv.com/blob-detection-using-opencv-python-c/)
+[Blob Detection Using OpenCV](http://www.learnopencv.com/blob-detection-using-opencv-python-c/)
 
 
 ### Tracking
 
 [Basic motion detection and tracking with Python and OpenCV - PyImageSearch](http://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/)
 
-[Object Tracking using OpenCV (C++/Python)
- | Learn OpenCV](https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/)
+[Object Tracking using OpenCV (C++/Python)](https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/)
 
 [» Tracking moving object](http://vgg.fiit.stuba.sk/2015-02/tracking-moving-object/)
 
-[How to Detect and Track Object With OpenCV | Into Robotics](https://www.intorobotics.com/how-to-detect-and-track-object-with-opencv/)
+[How to Detect and Track Object With OpenCV](https://www.intorobotics.com/how-to-detect-and-track-object-with-opencv/)
 
 [Mastering OpenCV with Practical Computer Vision Projects - Daniel Lélis Baggio - Google Books](https://books.google.com/books?id=UjWoIFHcr58C&pg=PT67&lpg=PT67&dq=android+opencv+gallery&source=bl&ots=S9k2Gsss0A&sig=9qwKA7sxT6qYUoWuB3ft2S6BoiA&hl=en&sa=X&ved=0ahUKEwim37Gy5rDRAhUp9IMKHcfwAxEQ6AEISDAH#v=onepage&q=android%20opencv%20gallery&f=false)
 
 [Comparing the Top Five Computer Vision APIs – Gaurav Oberoi](https://goberoi.com/comparing-the-top-five-computer-vision-apis-98e3e3d7c647)
 
-[Computer Vision with Raspberry Pi and the Camera Pi module | Open Electronics](http://www.open-electronics.org/computer-vision-with-raspberry-pi-and-the-camera-pi-module/)
+[Computer Vision with Raspberry Pi and the Camera Pi module](http://www.open-electronics.org/computer-vision-with-raspberry-pi-and-the-camera-pi-module/)
 
-[Simple video stabilization using OpenCV | Nghia Ho](http://nghiaho.com/?p=2093)
+[Simple video stabilization using OpenCV](http://nghiaho.com/?p=2093)
 
 [» CSS – Curvature Scale Space in OpenCV](http://vgg.fiit.stuba.sk/2013-04/css-%e2%80%93-curvature-scale-space-in-opencv/)
 
@@ -525,7 +512,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 [Python Programming Language -- Official Website](https://www.python.org/)
 
-[The definitive guide on how to use static, class or abstract methods in Python | Julien Danjou](http://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods)
+[The definitive guide on how to use static, class or abstract methods in Python](http://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods)
 
 [Python Continuous Documentation - Rackspace Developer Center](http://developer.rackspace.com/blog/python-continuous-documentation.html?cm_mmc=SMBIB-_-NL-_-June2013-_-9&mkt_tok=3RkMMJWWfF9wsRonu6TNcu%2FhmjTEU5z16u8kWa62hp941El3fuXBP2XqjvpVQcNhPLjMRxEFEaBzxQpRAr2HfYNL6eVcCEQ%3D)
 
@@ -533,11 +520,11 @@ Recognition](http://cs231n.stanford.edu/)
 
 [Good logging practice in Python – Fang's coding note](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/)
 
-[Free Python books | Bite Sized Python Tips](http://freepythontips.wordpress.com/2014/02/04/free-python-books/#more-432)
+[Bite Sized Python Tips](http://freepythontips.wordpress.com/2014/02/04/free-python-books/#more-432)
 
 [IPython as a system shell — IPython 3.2.1 documentation](https://ipython.org/ipython-doc/3/interactive/shell.html)
 
-[Jenkins and Python | Alex Conrad](http://www.alexconrad.org/2011/10/jenkins-and-python.html)
+[Jenkins and Python](http://www.alexconrad.org/2011/10/jenkins-and-python.html)
 
 [pyvideo.org](http://www.pyvideo.org/)
 
@@ -552,7 +539,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 [How to make your own Python dev-server with Raspberry Pi](https://medium.freecodecamp.org/how-to-make-your-own-python-dev-server-with-raspberry-pi-37651156379f)
 
-[Tutorial: Remote Development on Raspberry Pi - Help | PyCharm](https://www.jetbrains.com/help/pycharm/remote-development-on-raspberry-pi.html)
+[Tutorial: Remote Development on Raspberry Pi - Help](https://www.jetbrains.com/help/pycharm/remote-development-on-raspberry-pi.html)
 
 [Connect JetBrains PyCharm to Raspberry pi - Hackster.io](https://www.hackster.io/Jolley71717/connect-jetbrains-pycharm-to-raspberry-pi-72be15)
 
@@ -588,7 +575,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 ### Blogs
 
-[10 python blogs worth following | Bite Sized Python Tips](http://freepythontips.wordpress.com/2013/07/31/10-python-blogs-worth-following/)
+[10 python blogs worth following](http://freepythontips.wordpress.com/2013/07/31/10-python-blogs-worth-following/)
 
 [Import Python Weekly Newsletter. Subscribe Now.](http://importpython.com/newsletter/)
 
@@ -622,7 +609,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 [GitHub - floodsung/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
-[Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/)
+[Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 [Machine Learning Resources](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1)
 
@@ -663,7 +650,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 [Free Courses](http://www.openculture.com/computer_science_free_courses)
 
-[Avoiding Ten Big Mistakes iOS Developers Make with Core Data | | InformIT](http://www.informit.com/articles/article.aspx?p=2160906)
+[Avoiding Ten Big Mistakes iOS Developers Make with Core Data](http://www.informit.com/articles/article.aspx?p=2160906)
 
 [Daring Fireball: Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax)
 
@@ -676,7 +663,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 ### Other Bookmarks
 
-[macOS Development Tutorials | Ray Wenderlich](https://www.raywenderlich.com/category/macos)
+[macOS Development Tutorials](https://www.raywenderlich.com/category/macos)
 
 [30 Auto Layout Best Practices for Xcode 9 and iOS 11 - Super Easy Apps](https://blog.supereasyapps.com/30-auto-layout-best-practices/)
 
@@ -686,13 +673,13 @@ Recognition](http://cs231n.stanford.edu/)
 
 [Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python)
 
-[Connect devices wirelessly | Android Developers](https://developer.android.com/training/connect-devices-wirelessly/)
+[Connect devices wirelessly](https://developer.android.com/training/connect-devices-wirelessly/)
 
 [HP Pavilion 15 P Series Hard Drive Replacement - iFixit Repair Guide](https://www.ifixit.com/Guide/HP+Pavilion+15+P+Series+Hard+Drive+Replacement/87988)
 
 [fontweight](https://matplotlib.org/api/font_manager_api.html)
 
-[Links | hello- world](https://john-lee-cooper.github.io/hello-world/)
+[Links hello- world](https://john-lee-cooper.github.io/hello-world/)
 
 [What is TDM? — Mobility Lab](http://mobilitylab.org/about-us/what-is-tdm/)
 
@@ -716,13 +703,13 @@ Recognition](http://cs231n.stanford.edu/)
 
 [python remove directory - Google Search](http://www.google.com/search?q=python+remove+directory&ie=utf-8&oe=utf-8&client=ubuntu&channel=fs)
 
-[Computer World | Jdoe's Throwaway](http://jdoe.asidev.com/category/computer-world/)
+[Computer World](http://jdoe.asidev.com/category/computer-world/)
 
 [DesignPatterns - selenium - Design Patterns that have worked well on WebDriver projects - Browser automation framework - Google Project Hosting](https://code.google.com/p/selenium/wiki/DesignPatterns)
 
 [Your Products - O'Reilly Media](https://members.oreilly.com/account/emedia?filter=print-books&sort=added&order=asc&isbn=9781449305468)
 
-[Home | OpenTripPlanner](http://www.opentripplanner.org/)
+[OpenTripPlanner](http://www.opentripplanner.org/)
 
 [Google](https://www.google.com/)
 
@@ -748,7 +735,7 @@ Recognition](http://cs231n.stanford.edu/)
 
 [28 of the Best Motivational TED Talk Videos to Inspire You](http://blog.hubspot.com/marketing/15-phenomenal-ted-talks#sm.001uyv8uw15swfp4ucw1ieuknol7k)
 
-[Cythnia Epps in Comer, GA | Intelius](http://www.intelius.com/Find-Phone-Address/Comer-GA/Cythnia-Epps.html)
+[Cythnia Epps in Comer, GA](http://www.intelius.com/Find-Phone-Address/Comer-GA/Cythnia-Epps.html)
 
 [Tactical Rock-Paper- Scissors - TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/TacticalRockPaperScissors)
 
@@ -760,17 +747,17 @@ Recognition](http://cs231n.stanford.edu/)
 
 [PyTorch](http://pytorch.org/)
 
-[Automated deployment with Ubuntu, Fabric and Django | ilian.io](http://www.ilian.io/automated-deployment-with-ubuntu-fabric-and-django/)
+[Automated deployment with Ubuntu, Fabric and Django](http://www.ilian.io/automated-deployment-with-ubuntu-fabric-and-django/)
 
 [cs231n-CNNs : Free Download & Streaming : Internet Archive](https://archive.org/details/cs231n-CNNs)
 
-[Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+[Electrical Engineering and Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 
 [Regex Tutorial - Literal Characters and Special Characters](http://www.regular-expressions.info/characters.html)
 
 [windows 7 - How to Remove ODBC Data Source if Driver is Removed - Super User](http://superuser.com/questions/713258/how-to-remove-odbc-data-source-if-driver-is-removed)
 
-[Emoji and Markdown Everywhere | Trello Blog](http://blog.trello.com/emoji-and-markdown-everywhere/)
+[Emoji and Markdown Everywhere](http://blog.trello.com/emoji-and-markdown-everywhere/)
 
 [(6) PyCon 2017 - YouTube](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg)
 
