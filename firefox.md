@@ -15,11 +15,7 @@
 
 [Security with HTTPS and SSL](https://developer.android.com/training/articles/security-ssl.html)
 
-[Varying regularization in Multi-layer Perceptron — scikit-learn 0.19.0 documentation](http://scikit-learn.org/stable/auto_examples/neural_networks/plot_mlp_alpha.html)
 
-[Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-
-[GitHub - kjw0612/awesome-deep-vision: A curated list of deep learning resources for computer vision](https://github.com/kjw0612/awesome-deep-vision#books)
 
 [Connect devices wirelessly](https://developer.android.com/training/connect-devices-wirelessly/)
 
@@ -244,6 +240,14 @@
 ### Deep Learning
 
 [GitHub - floodsung/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+
+[Varying regularization in Multi-layer Perceptron — scikit-learn 0.19.0 documentation](http://scikit-learn.org/stable/auto_examples/neural_networks/plot_mlp_alpha.html)
+
+[Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+
+[GitHub - kjw0612/awesome-deep-vision: A curated list of deep learning resources for computer vision](https://github.com/kjw0612/awesome-deep-vision#books)
+
+[cs231n-CNNs : Free Download & Streaming : Internet Archive](https://archive.org/details/cs231n-CNNs)
 
 
 ### Data
@@ -493,6 +497,9 @@
 
 [parking](https://www.athdparking.com/gateways)
 
+[Kahoot!](https://kahoot.it/#/)
+
+[Dashboard](https://www.google.com/dashboard/b/0/)
 
 
 ### GT
@@ -544,62 +551,15 @@
 
 [Rick's Warp War rules](http://boardgamegeek.com/thread/627066/ricks-warp-war-rules)
 
+[Tactical Rock-Paper- Scissors - TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/TacticalRockPaperScissors)
 
 
 ### YouTube – lcooper’s iPhone
 
-[youtu.be/7ezeYJUz-84](http://youtu.be/7ezeYJUz-84)
+[Grocery Store Wars](http://youtu.be/hVrIyEu6h_E)
 
-[youtu.be/5S8RkqUg7F0](http://youtu.be/5S8RkqUg7F0)
+[Battlestar Galactica Vs Star Wars Vs Star Trek Vs Babylon 5](http://youtu.be/JXnPG19npW8)
 
-[youtu.be/Kmnm8U3OoOo](http://youtu.be/Kmnm8U3OoOo)
+[Princess Bride Lightsaber Battle](http://youtu.be/SWXcDZNgOWs)
 
-[youtu.be/hVrIyEu6h_E](http://youtu.be/hVrIyEu6h_E)
-
-[youtu.be/hNxhrPaaCA4](http://youtu.be/hNxhrPaaCA4)
-
-[youtu.be/gFRqamwii94](http://youtu.be/gFRqamwii94)
-
-[youtu.be/JXnPG19npW8](http://youtu.be/JXnPG19npW8)
-
-[youtu.be/XiDmMBIyfsU](http://youtu.be/XiDmMBIyfsU)
-
-[youtu.be/2T1LIrzsgqA](http://youtu.be/2T1LIrzsgqA)
-
-[youtu.be/SWXcDZNgOWs](http://youtu.be/SWXcDZNgOWs)
-
-[youtu.be/zmSOnKkm8Y0](http://youtu.be/zmSOnKkm8Y0)
-
-[youtu.be/nq0KNfS_M44](http://youtu.be/nq0KNfS_M44)
-
-
-
-### Other Bookmarks
-
-[What is TDM? — Mobility Lab](http://mobilitylab.org/about-us/what-is-tdm/)
-
-[kpath.tex](http://www.ics.uci.edu/~eppstein/pubs/Epp-SJC-98.pdf)
-
-[Dashboard](https://www.google.com/dashboard/b/0/)
-
-[What Is Vagrant and Why Should I Care? ◆ 24 ways](https://24ways.org/2014/what-is-vagrant-and-why-should-i-care/)
-
-[Kahoot!](https://kahoot.it/#/)
-
-[goo](https://stackoverflow.com/questions/19482317/bellman-ford-vs-dijkstra-under-what-circumstances-is-bellman-ford-better)
-
-[12 Days of Performance - REVSYS](http://www.revsys.com/12days/)
-
-[28 of the Best Motivational TED Talk Videos to Inspire You](http://blog.hubspot.com/marketing/15-phenomenal-ted-talks#sm.001uyv8uw15swfp4ucw1ieuknol7k)
-
-[Tactical Rock-Paper- Scissors - TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/TacticalRockPaperScissors)
-
-[scrooloose/syntastic](https://github.com/scrooloose/syntastic)
-
-[cs231n-CNNs : Free Download & Streaming : Internet Archive](https://archive.org/details/cs231n-CNNs)
-
-[Regex Tutorial - Literal Characters and Special Characters](http://www.regular-expressions.info/characters.html)
-
-[Google Sync](https://m.google.com/sync/settings/iconfig/welcome?source=mobileproducts)
-
-[Google Voice](http://www.google.com/googlevoice/about.html)
+[Political Borders of Europe from 1519 to 2006](http://youtu.be/nq0KNfS_M44)
