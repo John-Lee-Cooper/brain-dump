@@ -233,25 +233,6 @@
 [IPython Notebook with PyCharm](https://www.jetbrains.com/help/pycharm/2016.1/tutorial-using-ipython-jupyter-notebook-with-pycharm.html)
 
 
-### Git
-
-[Git - GUI Clients](http://git-scm.com/downloads/guis)
-
-[Git Tutorial: Basics](https://www.atlassian.com/git/glossary)
-
-[The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
-
-[A successful Git branching model » nvie.com](http://nvie.com/posts/a-successful-git-branching-model/)
-
-[Bitbucket](https://bitbucket.org/dashboard/overview)
-
-[git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)
-
-[Free Mercurial and Git Client for Windows and Mac](http://www.sourcetreeapp.com/)
-
-[Importing from Subversion · github:help](https://help.github.com/articles/importing-from-subversion)
-
-
 ### Markdown
 
 [Emoji and Markdown Everywhere](http://blog.trello.com/emoji-and-markdown-everywhere/)
