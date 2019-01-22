@@ -3,154 +3,15 @@
 [Links hello- world](https://john-lee-cooper.github.io/hello-world/)
 
 
-### Android
-
-[Supporting Multiple Screens](https://developer.android.com/guide/practices/screens_support.html)
-
-[Android Development](http://www.vogella.com/tutorials/android.html)
-
-[Android Wi-Fi](https://www.tutorialspoint.com/android/android_wi_fi.htm)
-
-[Using Network Service Discovery](https://stuff.mit.edu/afs/sipb/project/android/docs/training/connect-devices-wirelessly/nsd.html)
-
-[Security with HTTPS and SSL](https://developer.android.com/training/articles/security-ssl.html)
-
-
-
-[Connect devices wirelessly](https://developer.android.com/training/connect-devices-wirelessly/)
-
-[Exploring the new Android ConstraintLayout – Exploring Android – Medium](https://medium.com/exploring-android/exploring-the-new-android-constraintlayout-eed37fe8d8f1)
-
-[Android Tutorial](https://www.tutorialspoint.com/android/index.htm)
-
-
-### IOS
-
-[Start Developing iOS Apps Today](https://developer.apple.com/library/ios/ipad/#documentation/iPhone/Conceptual/iPhone101/index.html)
-
-[Quick Start Guide - iPhone 3D Programming - OFPS - O'Reilly Media](http://ofps.oreilly.com/titles/9780596804824/chquick.html)
-
-[App Engine Python Overview - Google App Engine - Google Code](https://code.google.com/appengine/docs/python/overview.html)
-
-[Your First iOS App](http://developer.apple.com/library/ios/ipad/#DOCUMENTATION/iPhone/Conceptual/iPhone101/Articles/01_CreatingProject.html)
-
-[30 Auto Layout Best Practices for Xcode 9 and iOS 11 - Super Easy Apps](https://blog.supereasyapps.com/30-auto-layout-best-practices/)
-
-[Avoiding Ten Big Mistakes iOS Developers Make with Core Data](http://www.informit.com/articles/article.aspx?p=2160906)
-
-
-### Ubuntu
-
-[Ubuntu](http://www.ubuntu.com/)
-
-[Ubuntu Wiki (community-edited website)](https://wiki.ubuntu.com/)
-
-[Make a Support Request to the Ubuntu Community](https://answers.launchpad.net/ubuntu/+addquestion)
-
-[Debian (Ubuntu is based on Debian)](http://www.debian.org/)
-
-
-### VBA Visual Basic
-
-[Excel VBA Userform - Easy Excel Macros](http://www.excel-easy.com/vba/userform.html)
-
-[How to use Visual Basic for Applications (VBA) to change UserForms in Excel](https://support.microsoft.com/en-us/kb/829070)
-
-[Shapes.AddFormControl Method (Excel)](https://msdn.microsoft.com/EN-US/library/office/ff838642.aspx)
-
-
-
-## web
-
-[Learn Web Development](http://killer-web-development.com/)
-
-[Terminology, Syntax, & Introduction - A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/terminology-syntax-intro)
-
-[Font Awesome](http://fortawesome.github.io/Font-Awesome/cheatsheet/)
-
-[Install Google App Engine - Problem Set 1 Help - Web Development - Udacity](https://www.udacity.com/course/viewer#!/c-cs253/l-48756010/m-48403788)
-
-[What Is Google App Engine? - Google App Engine - Google Code](https://code.google.com/appengine/docs/whatisgoogleappengine.html)
-
-[Google Chart Tools — Google Developers](https://developers.google.com/chart/)
-
-
-### MVC
-
-[Brad Wilson: ASP.NET MVC 2 Templates, Part 4: Custom Object Templates](http://bradwilson.typepad.com/blog/2009/10/aspnet-mvc-2-templates-part-4-custom-object-templates.html)
-
-[Using Web.config Transformation in Web Site Projects](http://andrewtwest.com/2010/02/25/using-web-config-transformations-in-web-site-projects/)
-
-[MVC : The Official Microsoft ASP.NET Site](http://www.asp.net/mvc)
-
-[MVC Tips](http://www.codeproject.com/Articles/635324/Another-set-of-ASP-NET-MVC-4-tips)
-
-[Razor](http://haacked.com/archive/2011/01/06/razor-syntax-quick-reference.aspx)
-
-[LINQ](http://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
-
-[How we do MVC – View models](http://lostechies.com/jimmybogard/2009/06/30/how-we-do-mvc-view-models/)
-
-
-### jQuery
-
-[brandonaaron/jquery-mousewheel · GitHub](https://github.com/brandonaaron/jquery-mousewheel)
-
-[Adding a Timepicker to jQuery UI Datepicker](http://trentrichardson.com/examples/timepicker/)
-
-[Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html)
-
-[Ajaxload - Ajax loading gif generator](http://www.ajaxload.info/)
-
-[Graphic JavaScript Tree with Layout - CodeProject®](http://www.codeproject.com/Articles/16192/Graphic-JavaScript-Tree-with-Layout)
-
-[jQuery4u](http://www.jquery4u.com/plugins/10-jquery-time-picker-plugins/)
-
-[Flot: Attractive JavaScript plotting for jQuery](http://www.flotcharts.org/)
-
-[jQuery: The Write Less, Do More, JavaScript Library](http://jquery.com/)
-
-[jQuery Fundamentals :: A guide to the basics of jQuery](http://jqfundamentals.com/)
-
-
-### Bootstrap
-
-[Bootstrap CDN by MaxCDN](http://bootstrapcdn.com/)
-
-[Bootstrap 2.x to 3.0 Migration Guide](http://www.bootply.com/bootstrap-3-migration-guide)
-
-[Twitter Bootstrap Button Generator](http://www.plugolabs.com/twitter-bootstrap-button-generator/)
-
-[The Big Badass List of Twitter Bootstrap Resources](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
-
-[38 Useful Resources for Twitter BootStrap Fans : Webdistortion](http://www.webdistortion.com/2012/11/06/resources-twitter-bootstrap/)
-
-[5 Easy Ways to Modify Your Bootstrap Button Styles - BootstrapBay](https://bootstrapbay.com/blog/bootstrap-button-styles/)
-
-[Home of free code snippets for Bootstrap](http://www.bootsnipp.com/)
-
-[Bootstrap google maps template](http://www.bootstrapzero.com/bootstrap-template/google-maps)
-
-
-### GoogleMaps
-
-[Getting Started - Google Maps JavaScript API v3 — Google Developers](https://developers.google.com/maps/documentation/javascript/tutorial)
-
-[gmaps.js — Google Maps API with less pain and more fun](http://hpneo.github.com/gmaps/documentation.html)
-
-[Home](http://www.opentripplanner.org/)
-
-
-
 ## Computer Vision
 
 ### Tutorial
 
-[Image Processing 101](https://codewords.recurse.com/issues/six/image-processing-101)
+[OpenCV: OpenCV-Python Tutorials](http://docs.opencv.org/3.1.0/d6/d00/tutorial_py_root.html)
 
 [OpenCV-Python Tutorials — OpenCV-Python Tutorials 1 documentation](http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_tutorials.html)
 
-[OpenCV: OpenCV-Python Tutorials](http://docs.opencv.org/3.1.0/d6/d00/tutorial_py_root.html)
+[Image Processing 101](https://codewords.recurse.com/issues/six/image-processing-101)
 
 
 ### Edge Detect
@@ -195,7 +56,7 @@
 
 [Object Tracking using OpenCV (C++/Python)](https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/)
 
-[» Tracking moving object](http://vgg.fiit.stuba.sk/2015-02/tracking-moving-object/)
+[Tracking moving object](http://vgg.fiit.stuba.sk/2015-02/tracking-moving-object/)
 
 [How to Detect and Track Object With OpenCV](https://www.intorobotics.com/how-to-detect-and-track-object-with-opencv/)
 
@@ -214,7 +75,6 @@
 [Chapter 7. Automatic color adjustments](https://pippin.gimp.org/image-processing/chapter-automaticadjustments.html)
 
 [Python Programming Tutorials](https://pythonprogramming.net/raspberry-pi-camera-opencv-face-detection-tutorial/)
-
 
 
 ### AI
@@ -360,6 +220,17 @@
 [PyCharm Tutorials - PyCharm - Confluence](http://confluence.jetbrains.com/display/PYH/PyCharm+Tutorials)
 
 
+### Jupyter
+
+[Jupyter Notebook Viewer](http://nbviewer.jupyter.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)
+
+[The IPython Notebook — IPython](http://ipython.org/notebook.html)
+
+[A gallery of interesting IPython Notebooks · ipython/ipython Wiki](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+
+[Favorites](http://nbviewer.ipython.org/)
+
+[IPython Notebook with PyCharm](https://www.jetbrains.com/help/pycharm/2016.1/tutorial-using-ipython-jupyter-notebook-with-pycharm.html)
 
 
 ### Git
@@ -459,18 +330,145 @@
 [MQTT Essentials Part 1: Introducing MQTT](http://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt)
 
 
-### Jupyter
 
-[Jupyter Notebook Viewer](http://nbviewer.jupyter.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)
 
-[The IPython Notebook — IPython](http://ipython.org/notebook.html)
 
-[A gallery of interesting IPython Notebooks · ipython/ipython Wiki](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+### Android
 
-[Favorites](http://nbviewer.ipython.org/)
+[Supporting Multiple Screens](https://developer.android.com/guide/practices/screens_support.html)
 
-[IPython Notebook with PyCharm](https://www.jetbrains.com/help/pycharm/2016.1/tutorial-using-ipython-jupyter-notebook-with-pycharm.html)
+[Android Development](http://www.vogella.com/tutorials/android.html)
 
+[Android Wi-Fi](https://www.tutorialspoint.com/android/android_wi_fi.htm)
+
+[Using Network Service Discovery](https://stuff.mit.edu/afs/sipb/project/android/docs/training/connect-devices-wirelessly/nsd.html)
+
+[Security with HTTPS and SSL](https://developer.android.com/training/articles/security-ssl.html)
+
+
+
+[Connect devices wirelessly](https://developer.android.com/training/connect-devices-wirelessly/)
+
+[Exploring the new Android ConstraintLayout – Exploring Android – Medium](https://medium.com/exploring-android/exploring-the-new-android-constraintlayout-eed37fe8d8f1)
+
+[Android Tutorial](https://www.tutorialspoint.com/android/index.htm)
+
+
+### IOS
+
+[Start Developing iOS Apps Today](https://developer.apple.com/library/ios/ipad/#documentation/iPhone/Conceptual/iPhone101/index.html)
+
+[Quick Start Guide - iPhone 3D Programming - OFPS - O'Reilly Media](http://ofps.oreilly.com/titles/9780596804824/chquick.html)
+
+[App Engine Python Overview - Google App Engine - Google Code](https://code.google.com/appengine/docs/python/overview.html)
+
+[Your First iOS App](http://developer.apple.com/library/ios/ipad/#DOCUMENTATION/iPhone/Conceptual/iPhone101/Articles/01_CreatingProject.html)
+
+[30 Auto Layout Best Practices for Xcode 9 and iOS 11 - Super Easy Apps](https://blog.supereasyapps.com/30-auto-layout-best-practices/)
+
+[Avoiding Ten Big Mistakes iOS Developers Make with Core Data](http://www.informit.com/articles/article.aspx?p=2160906)
+
+
+### Ubuntu
+
+[Ubuntu](http://www.ubuntu.com/)
+
+[Ubuntu Wiki (community-edited website)](https://wiki.ubuntu.com/)
+
+[Make a Support Request to the Ubuntu Community](https://answers.launchpad.net/ubuntu/+addquestion)
+
+[Debian (Ubuntu is based on Debian)](http://www.debian.org/)
+
+
+### VBA Visual Basic
+
+[Excel VBA Userform - Easy Excel Macros](http://www.excel-easy.com/vba/userform.html)
+
+[How to use Visual Basic for Applications (VBA) to change UserForms in Excel](https://support.microsoft.com/en-us/kb/829070)
+
+[Shapes.AddFormControl Method (Excel)](https://msdn.microsoft.com/EN-US/library/office/ff838642.aspx)
+
+
+
+## web
+
+[Learn Web Development](http://killer-web-development.com/)
+
+[Terminology, Syntax, & Introduction - A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/terminology-syntax-intro)
+
+[Font Awesome](http://fortawesome.github.io/Font-Awesome/cheatsheet/)
+
+[Install Google App Engine - Problem Set 1 Help - Web Development - Udacity](https://www.udacity.com/course/viewer#!/c-cs253/l-48756010/m-48403788)
+
+[What Is Google App Engine? - Google App Engine - Google Code](https://code.google.com/appengine/docs/whatisgoogleappengine.html)
+
+[Google Chart Tools — Google Developers](https://developers.google.com/chart/)
+
+
+### MVC
+
+[Brad Wilson: ASP.NET MVC 2 Templates, Part 4: Custom Object Templates](http://bradwilson.typepad.com/blog/2009/10/aspnet-mvc-2-templates-part-4-custom-object-templates.html)
+
+[Using Web.config Transformation in Web Site Projects](http://andrewtwest.com/2010/02/25/using-web-config-transformations-in-web-site-projects/)
+
+[MVC : The Official Microsoft ASP.NET Site](http://www.asp.net/mvc)
+
+[MVC Tips](http://www.codeproject.com/Articles/635324/Another-set-of-ASP-NET-MVC-4-tips)
+
+[Razor](http://haacked.com/archive/2011/01/06/razor-syntax-quick-reference.aspx)
+
+[LINQ](http://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
+
+[How we do MVC – View models](http://lostechies.com/jimmybogard/2009/06/30/how-we-do-mvc-view-models/)
+
+
+### jQuery
+
+[brandonaaron/jquery-mousewheel · GitHub](https://github.com/brandonaaron/jquery-mousewheel)
+
+[Adding a Timepicker to jQuery UI Datepicker](http://trentrichardson.com/examples/timepicker/)
+
+[Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html)
+
+[Ajaxload - Ajax loading gif generator](http://www.ajaxload.info/)
+
+[Graphic JavaScript Tree with Layout - CodeProject®](http://www.codeproject.com/Articles/16192/Graphic-JavaScript-Tree-with-Layout)
+
+[jQuery4u](http://www.jquery4u.com/plugins/10-jquery-time-picker-plugins/)
+
+[Flot: Attractive JavaScript plotting for jQuery](http://www.flotcharts.org/)
+
+[jQuery: The Write Less, Do More, JavaScript Library](http://jquery.com/)
+
+[jQuery Fundamentals :: A guide to the basics of jQuery](http://jqfundamentals.com/)
+
+
+### Bootstrap
+
+[Bootstrap CDN by MaxCDN](http://bootstrapcdn.com/)
+
+[Bootstrap 2.x to 3.0 Migration Guide](http://www.bootply.com/bootstrap-3-migration-guide)
+
+[Twitter Bootstrap Button Generator](http://www.plugolabs.com/twitter-bootstrap-button-generator/)
+
+[The Big Badass List of Twitter Bootstrap Resources](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
+
+[38 Useful Resources for Twitter BootStrap Fans : Webdistortion](http://www.webdistortion.com/2012/11/06/resources-twitter-bootstrap/)
+
+[5 Easy Ways to Modify Your Bootstrap Button Styles - BootstrapBay](https://bootstrapbay.com/blog/bootstrap-button-styles/)
+
+[Home of free code snippets for Bootstrap](http://www.bootsnipp.com/)
+
+[Bootstrap google maps template](http://www.bootstrapzero.com/bootstrap-template/google-maps)
+
+
+### GoogleMaps
+
+[Getting Started - Google Maps JavaScript API v3 — Google Developers](https://developers.google.com/maps/documentation/javascript/tutorial)
+
+[gmaps.js — Google Maps API with less pain and more fun](http://hpneo.github.com/gmaps/documentation.html)
+
+[Home](http://www.opentripplanner.org/)
 
 
 ## Personal
