@@ -3,6 +3,318 @@
 [Links hello- world](https://john-lee-cooper.github.io/hello-world/)
 
 
+## Computer Vision
+
+### Tutorial
+
+
+[OpenCV: OpenCV-Python Tutorials](http://docs.opencv.org/3.4.5/d6/d00/tutorial_py_root.html)
+
+[OpenCV-Python Tutorials — OpenCV-Python Tutorials 1 documentation](http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_tutorials.html)
+
+[Image Processing 101](https://codewords.recurse.com/issues/six/image-processing-101)
+
+
+### Edge Detect
+
+[Image Gradients — OpenCV 3.0.0-dev documentation](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_gradients/py_gradients.html)
+
+[Image Gradients — OpenCV-Python Tutorials 1 documentation](http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_imgproc/py_gradients/py_gradients.html)
+
+[OpenCV2-Python/sobel.py at master · abidrahmank/OpenCV2-Python](https://github.com/abidrahmank/OpenCV2-Python/blob/master/Official_Tutorial_Python_Codes/3_imgproc/sobel.py)
+
+[OpenCV-Python: Image Derivatives and its Applications](http://opencvpython.blogspot.com/2012/06/image-derivatives-sobel-and-scharr.html)
+
+[Canny Edge Detection](https://cyroforge.wordpress.com/canny-edge-detection/)
+
+[Canny Tutorial](http://www.pages.drexel.edu/~nk752/cannyTut2.html)
+
+[OpenCV: Canny Edge Detection](http://docs.opencv.org/master/da/d22/tutorial_py_canny.html#gsc.tab=0)
+
+
+### Contours
+
+[Contours : Getting Started — OpenCV 3.0.0-dev documentation](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_contours/py_contours_begin/py_contours_begin.html)
+
+[OpenCV-Python: Contour features](http://opencvpython.blogspot.com/2012/04/contour-features.html)
+
+
+### Plot 
+
+[fontweight](https://matplotlib.org/api/font_manager_api.html)
+
+
+### Blobs
+
+[2.6. Image manipulation and processing using Numpy and Scipy — Scipy lecture notes](https://scipy-lectures.github.io/advanced/image_processing/index.html)
+
+[Blob Detection Using OpenCV](http://www.learnopencv.com/blob-detection-using-opencv-python-c/)
+
+
+### Tracking
+
+[Basic motion detection and tracking with Python and OpenCV - PyImageSearch](http://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/)
+
+[Object Tracking using OpenCV (C++/Python)](https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/)
+
+[Tracking moving object](http://vgg.fiit.stuba.sk/2015-02/tracking-moving-object/)
+
+[How to Detect and Track Object With OpenCV](https://www.intorobotics.com/how-to-detect-and-track-object-with-opencv/)
+
+[Mastering OpenCV with Practical Computer Vision Projects - Daniel Lélis Baggio - Google Books](https://books.google.com/books?id=UjWoIFHcr58C&pg=PT67&lpg=PT67&dq=android+opencv+gallery&source=bl&ots=S9k2Gsss0A&sig=9qwKA7sxT6qYUoWuB3ft2S6BoiA&hl=en&sa=X&ved=0ahUKEwim37Gy5rDRAhUp9IMKHcfwAxEQ6AEISDAH#v=onepage&q=android%20opencv%20gallery&f=false)
+
+[Comparing the Top Five Computer Vision APIs – Gaurav Oberoi](https://goberoi.com/comparing-the-top-five-computer-vision-apis-98e3e3d7c647/)
+
+[Computer Vision with Raspberry Pi and the Camera Pi module](http://www.open-electronics.org/computer-vision-with-raspberry-pi-and-the-camera-pi-module/)
+
+[Simple video stabilization using OpenCV](http://nghiaho.com/?p=2093)
+
+[Curvature Scale Space in OpenCV](http://vgg.fiit.stuba.sk/2013-04/css-%e2%80%93-curvature-scale-space-in-opencv/)
+
+[Watermarking images with OpenCV and Python - PyImageSearch](https://www.pyimagesearch.com/2016/04/25/watermarking-images-with-opencv-and-python/)
+
+[Chapter 7. Automatic color adjustments](https://pippin.gimp.org/image-processing/chapter-automaticadjustments.html)
+
+[Python Programming Tutorials](https://pythonprogramming.net/raspberry-pi-camera-opencv-face-detection-tutorial/)
+
+
+### AI
+
+[Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
+
+[The Generic Frame Protocol](http://www.ai.sri.com/~gfp/spec/paper/paper.html)
+
+
+### Machine Learning
+
+[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python)
+
+[Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python)
+
+[Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+
+[Machine Learning Resources](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1)
+
+[How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
+
+
+### Deep Learning
+
+[GitHub - floodsung/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+
+[Varying regularization in Multi-layer Perceptron — scikit-learn 0.19.0 documentation](http://scikit-learn.org/stable/auto_examples/neural_networks/plot_mlp_alpha.html)
+
+[Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+
+[GitHub - kjw0612/awesome-deep-vision: A curated list of deep learning resources for computer vision](https://github.com/kjw0612/awesome-deep-vision#books)
+
+[cs231n-CNNs : Free Download & Streaming : Internet Archive](https://archive.org/details/cs231n-CNNs)
+
+
+### Data
+
+[Introducing the Open-Source Big Nerd Ranch Core Data Stack](https://www.bignerdranch.com/blog/introducing-the-big-nerd-ranch-core-data-stack/#shared_store)
+
+
+
+
+
+### Python
+
+[pycon 2018 - YouTube](https://www.youtube.com/results?search_query=pycon+2018)
+
+[Python Tutorials – Real Python](https://realpython.com/)
+
+[9.7. itertools — Functions creating iterators for efficient looping — Python 2.7.9 documentation](https://docs.python.org/2/library/itertools.html)
+
+[PyPI - the Python Package Index : Python Package Index](https://pypi.python.org/pypi)
+
+[Python Programming Language -- Official Website](https://www.python.org/)
+
+[The definitive guide on how to use static, class or abstract methods in Python](http://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods)
+
+[Python Continuous Documentation - Rackspace Developer Center](http://developer.rackspace.com/blog/python-continuous-documentation.html?cm_mmc=SMBIB-_-NL-_-June2013-_-9&mkt_tok=3RkMMJWWfF9wsRonu6TNcu%2FhmjTEU5z16u8kWa62hp941El3fuXBP2XqjvpVQcNhPLjMRxEFEaBzxQpRAr2HfYNL6eVcCEQ%3D)
+
+[Python Tutorial: Network Programming III - SocketServer - 2017](http://www.bogotobogo.com/python/python_network_programming_socketserver_framework_for_network_servers.php)
+
+[Good logging practice in Python – Fang's coding note](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/)
+
+[Bite Sized Python Tips](http://freepythontips.wordpress.com/2014/02/04/free-python-books/#more-432)
+
+[IPython as a system shell — IPython 3.2.1 documentation](https://ipython.org/ipython-doc/3/interactive/shell.html)
+
+[Jenkins and Python](http://www.alexconrad.org/2011/10/jenkins-and-python.html)
+
+[pyvideo.org](http://www.pyvideo.org/)
+
+[12-Factor App](https://12factor.net/)
+
+[Defining Traits: Initialization and Validation — Traits 4 User Manual](http://docs.enthought.com/traits/traits_user_manual/defining.html)
+
+[Keyboard Control Functions — PyAutoGUI 1.0.0 documentation](https://pyautogui.readthedocs.io/en/latest/keyboard.html)
+
+[PCAP Certification](https://pythoninstitute.org/pcap-certification-associate/)
+
+
+### Libraries
+
+[vispy](http://api.vispy.org/en/latest/)
+
+[PyToolz API Documentation — Toolz 0.6.0 documentation](http://toolz.readthedocs.org/en/latest/)
+
+
+### Python Blogs
+
+[10 python blogs worth following](http://freepythontips.wordpress.com/2013/07/31/10-python-blogs-worth-following/)
+
+[Import Python Weekly Newsletter. Subscribe Now.](http://importpython.com/newsletter/)
+
+[Real Python Blog](https://realpython.com/blog/)
+
+[Python Module of the Week - Python Module of the Week](https://pymotw.com/2/contents.html)
+
+[Bites of Code](http://bitesofcode.blogspot.com/)
+
+
+### Flask
+
+[Deployment Options — Flask 0.9dev documentation](http://flask.pocoo.org/docs/deploying/)
+
+[Developing RESTful Web APIs with Python, Flask and MongoDB // Speaker Deck](https://speakerdeck.com/u/nicola/p/developing-restful-web-apis-with-python-flask-and-mongodb)
+
+[The Flask Mega-Tutorial, Part I: Hello, World! - miguelgrinberg.com](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+[Category: Flask - miguelgrinberg.com](http://blog.miguelgrinberg.com/category/Flask)
+
+[Starting web projects using Flask, virtualenv, pip](https://www.enigmeta.com/blog/starting-flask/)
+
+[Delightful testing with pytest and Flask- SQLAlchemy](http://alexmic.net/flask-sqlalchemy-pytest/)
+
+[Category: flask - Real Python](https://realpython.com/blog/categories/flask/)
+
+[Flask - Full Stack Python](http://www.fullstackpython.com/flask.html)
+
+[The Flask Mega-Tutorial, Part II: Templates - miguelgrinberg.com](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates)
+
+[Python Web Applications With Flask - Part I - Real Python](https://realpython.com/blog/python/python-web-applications-with-flask-part-i/#.Uu6GOHddUp8)
+
+[Flask-AppBuilder — Flask AppBuilder](http://flask-appbuilder.readthedocs.io/en/latest/)
+
+[GitHub - humiaozuzu/awesome-flask: A curated list of awesome Flask resources and plugins](https://github.com/humiaozuzu/awesome-flask)
+
+
+### Raspberry pi
+
+[How to make your own Python dev-server with Raspberry Pi](https://medium.freecodecamp.org/how-to-make-your-own-python-dev-server-with-raspberry-pi-37651156379f)
+
+[Tutorial: Remote Development on Raspberry Pi - Help](https://www.jetbrains.com/help/pycharm/remote-development-on-raspberry-pi.html)
+
+[Connect JetBrains PyCharm to Raspberry pi - Hackster.io](https://www.hackster.io/Jolley71717/connect-jetbrains-pycharm-to-raspberry-pi-72be15)
+
+[Using your new Raspberry Pi 3 as a WiFi access point with hostapd](https://frillip.com/using-your-raspberry-pi-3-as-a-wifi-access-point-with-hostapd/)
+
+
+### PyCharm
+
+[Productivity Guide](http://www.jetbrains.com/pycharm/webhelp/productivity-guide.html)
+
+[PyCharm Tutorials - PyCharm - Confluence](http://confluence.jetbrains.com/display/PYH/PyCharm+Tutorials)
+
+
+### Jupyter
+
+[Jupyter Notebook Viewer](http://nbviewer.jupyter.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)
+
+[The IPython Notebook — IPython](http://ipython.org/notebook.html)
+
+[A gallery of interesting IPython Notebooks · ipython/ipython Wiki](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+
+[Favorites](http://nbviewer.ipython.org/)
+
+[IPython Notebook with PyCharm](https://www.jetbrains.com/help/pycharm/2016.1/tutorial-using-ipython-jupyter-notebook-with-pycharm.html)
+
+
+### Markdown
+
+[Emoji and Markdown Everywhere](http://blog.trello.com/emoji-and-markdown-everywhere/)
+
+[Daring Fireball: Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax)
+
+
+### Agile and Scrum
+
+[Effective Sprint Retrospectives](http://msdn.microsoft.com/en-us/library/vstudio/jj620912.aspx)
+
+[Sprint retrospective irrespective - a consistent post-sprint event](http://www.axisagile.com/blog/retrospectives-reviews/sprint-retrospective-irrespective/)
+
+[Estimation Games « The Agile Coach Toolkit](http://www.agilecoach.net/coach-tools/estimation-games/)
+
+[Turn your Sprint Reviews into rave reviews - smooth, stress-free sprint reviews](http://www.axisagile.com/blog/retrospectives-reviews/to-dos-for-your-sprint-reviews/)
+
+[Scrum Task Board Training](http://www.mountaingoatsoftware.com/scrum/task-boards)
+
+[Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)
+
+[NRV Agile Users Group](http://agilenrv.org/#blog)
+
+
+
+### OpenGL
+
+[OpenGL](http://www.songho.ca/opengl/index.html)
+
+[Adventures in OpenCL Part 2: Particles with OpenGL](http://enja.org/2010/08/27/adventures-in-opencl-part-2-particles-with-opengl/)
+
+[Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/)
+
+[OpenGL - The Industry Standard for High Performance Graphics](http://www.opengl.org/)
+
+[SIGGRAPH 2012: Mobile, OpenGL 4.3 and Python](http://blog.enthought.com/general/siggraph-2012-mobile-opengl-4-3-and-python/)
+
+[Untitled](http://bentonian.com/teaching/AdvGraph0809/Advanced%20Graphics%2008x01%20-%20OpenGL,%20scene%20graphs%20and%20data%20structures.ppt)
+
+[2\. Built-in Functions — Python v2.7.6 documentation](https://docs.python.org/2/library/functions.html)
+
+[OpenGLContext Python Tutorials](http://pyopengl.sourceforge.net/context/tutorials/index.html)
+
+
+### QT
+
+[The Independent Qt Tutorial - Chapter 3](http://www.digitalfanatics.org/projects/qt_tutorial/chapter03.html)
+
+[The Independent Qt Tutorial - TOC](http://www.digitalfanatics.org/projects/qt_tutorial/index.html)
+
+[Eli Bendersky's website » Passing extra arguments to PyQt slots](http://eli.thegreenplace.net/2011/04/25/passing-extra-arguments-to-pyqt-slot/)
+
+[Developer Guides Qt Wiki](http://qt-project.org/wiki/Developer-Guides)
+
+[Layout management in Qt4](http://zetcode.com/gui/qt4/layoutmanagement/)
+
+[PyQt4 tutorial](http://zetcode.com/gui/pyqt4/)
+
+[QFileSystemModel - Adding Custom Columns](http://qt-project.org/forums/viewthread/13094)
+
+[The PyQt4 tutorial](http://zetcode.com/tutorials/pyqt4/)
+
+[PyQt4 tutorial](http://zetcode.com/gui/pyqt4/)
+
+[PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
+
+
+### MQTT
+
+[SSL/TLS Client Certs to Secure MQTT - RockingD Labs](http://rockingdlabs.dunmire.org/exercises-experiments/ssl-client-certs-to-secure-mqtt)
+
+[MQTT, Mosquitto TLS Security -Setup and Configuration](http://www.steves-internet-guide.com/mosquitto-tls/)
+
+[eclipse/paho.mqtt.android at develop](https://github.com/eclipse/paho.mqtt.android/tree/develop)
+
+[MQTT Essentials Part 1: Introducing MQTT](http://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt)
+
+
+
+
+
 ### Android
 
 [Supporting Multiple Screens](https://developer.android.com/guide/practices/screens_support.html)
@@ -15,11 +327,7 @@
 
 [Security with HTTPS and SSL](https://developer.android.com/training/articles/security-ssl.html)
 
-[Varying regularization in Multi-layer Perceptron — scikit-learn 0.19.0 documentation](http://scikit-learn.org/stable/auto_examples/neural_networks/plot_mlp_alpha.html)
 
-[Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-
-[GitHub - kjw0612/awesome-deep-vision: A curated list of deep learning resources for computer vision](https://github.com/kjw0612/awesome-deep-vision#books)
 
 [Connect devices wirelessly](https://developer.android.com/training/connect-devices-wirelessly/)
 
@@ -145,330 +453,6 @@
 [Home](http://www.opentripplanner.org/)
 
 
-
-## Computer Vision
-
-### Tutorial
-
-[Image Processing 101](https://codewords.recurse.com/issues/six/image-processing-101)
-
-[OpenCV-Python Tutorials — OpenCV-Python Tutorials 1 documentation](http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_tutorials.html)
-
-[OpenCV: OpenCV-Python Tutorials](http://docs.opencv.org/3.1.0/d6/d00/tutorial_py_root.html)
-
-
-### Edge Detect
-
-[Image Gradients — OpenCV 3.0.0-dev documentation](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_gradients/py_gradients.html)
-
-[Image Gradients — OpenCV-Python Tutorials 1 documentation](http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_imgproc/py_gradients/py_gradients.html)
-
-[OpenCV2-Python/sobel.py at master · abidrahmank/OpenCV2-Python](https://github.com/abidrahmank/OpenCV2-Python/blob/master/Official_Tutorial_Python_Codes/3_imgproc/sobel.py)
-
-[OpenCV-Python: Image Derivatives and its Applications](http://opencvpython.blogspot.com/2012/06/image-derivatives-sobel-and-scharr.html)
-
-[Canny Edge Detection](https://cyroforge.wordpress.com/canny-edge-detection/)
-
-[Canny Tutorial](http://www.pages.drexel.edu/~nk752/cannyTut2.html)
-
-[OpenCV: Canny Edge Detection](http://docs.opencv.org/master/da/d22/tutorial_py_canny.html#gsc.tab=0)
-
-
-### Contours
-
-[Contours : Getting Started — OpenCV 3.0.0-dev documentation](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_contours/py_contours_begin/py_contours_begin.html)
-
-[OpenCV-Python: Contour features](http://opencvpython.blogspot.com/2012/04/contour-features.html)
-
-
-### Plot 
-
-[fontweight](https://matplotlib.org/api/font_manager_api.html)
-
-
-### Blobs
-
-[2.6. Image manipulation and processing using Numpy and Scipy — Scipy lecture notes](https://scipy-lectures.github.io/advanced/image_processing/index.html)
-
-[Blob Detection Using OpenCV](http://www.learnopencv.com/blob-detection-using-opencv-python-c/)
-
-
-### Tracking
-
-[Basic motion detection and tracking with Python and OpenCV - PyImageSearch](http://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/)
-
-[Object Tracking using OpenCV (C++/Python)](https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/)
-
-[» Tracking moving object](http://vgg.fiit.stuba.sk/2015-02/tracking-moving-object/)
-
-[How to Detect and Track Object With OpenCV](https://www.intorobotics.com/how-to-detect-and-track-object-with-opencv/)
-
-[Mastering OpenCV with Practical Computer Vision Projects - Daniel Lélis Baggio - Google Books](https://books.google.com/books?id=UjWoIFHcr58C&pg=PT67&lpg=PT67&dq=android+opencv+gallery&source=bl&ots=S9k2Gsss0A&sig=9qwKA7sxT6qYUoWuB3ft2S6BoiA&hl=en&sa=X&ved=0ahUKEwim37Gy5rDRAhUp9IMKHcfwAxEQ6AEISDAH#v=onepage&q=android%20opencv%20gallery&f=false)
-
-[Comparing the Top Five Computer Vision APIs – Gaurav Oberoi](https://goberoi.com/comparing-the-top-five-computer-vision-apis-98e3e3d7c647/)
-
-[Computer Vision with Raspberry Pi and the Camera Pi module](http://www.open-electronics.org/computer-vision-with-raspberry-pi-and-the-camera-pi-module/)
-
-[Simple video stabilization using OpenCV](http://nghiaho.com/?p=2093)
-
-[Curvature Scale Space in OpenCV](http://vgg.fiit.stuba.sk/2013-04/css-%e2%80%93-curvature-scale-space-in-opencv/)
-
-[Watermarking images with OpenCV and Python - PyImageSearch](https://www.pyimagesearch.com/2016/04/25/watermarking-images-with-opencv-and-python/)
-
-[Chapter 7. Automatic color adjustments](https://pippin.gimp.org/image-processing/chapter-automaticadjustments.html)
-
-[Python Programming Tutorials](https://pythonprogramming.net/raspberry-pi-camera-opencv-face-detection-tutorial/)
-
-
-
-### AI
-
-[Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
-
-[The Generic Frame Protocol](http://www.ai.sri.com/~gfp/spec/paper/paper.html)
-
-
-### Machine Learning
-
-[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python)
-
-[Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python)
-
-[Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-
-[Machine Learning Resources](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1)
-
-[How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
-
-
-### Deep Learning
-
-[GitHub - floodsung/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
-
-
-### Data
-
-[Introducing the Open-Source Big Nerd Ranch Core Data Stack](https://www.bignerdranch.com/blog/introducing-the-big-nerd-ranch-core-data-stack/#shared_store)
-
-
-
-
-
-### Python
-
-[pycon 2018 - YouTube](https://www.youtube.com/results?search_query=pycon+2018)
-
-[Python Tutorials – Real Python](https://realpython.com/)
-
-[9.7. itertools — Functions creating iterators for efficient looping — Python 2.7.9 documentation](https://docs.python.org/2/library/itertools.html)
-
-[PyPI - the Python Package Index : Python Package Index](https://pypi.python.org/pypi)
-
-[Python Programming Language -- Official Website](https://www.python.org/)
-
-[The definitive guide on how to use static, class or abstract methods in Python](http://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods)
-
-[Python Continuous Documentation - Rackspace Developer Center](http://developer.rackspace.com/blog/python-continuous-documentation.html?cm_mmc=SMBIB-_-NL-_-June2013-_-9&mkt_tok=3RkMMJWWfF9wsRonu6TNcu%2FhmjTEU5z16u8kWa62hp941El3fuXBP2XqjvpVQcNhPLjMRxEFEaBzxQpRAr2HfYNL6eVcCEQ%3D)
-
-[Python Tutorial: Network Programming III - SocketServer - 2017](http://www.bogotobogo.com/python/python_network_programming_socketserver_framework_for_network_servers.php)
-
-[Good logging practice in Python – Fang's coding note](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/)
-
-[Bite Sized Python Tips](http://freepythontips.wordpress.com/2014/02/04/free-python-books/#more-432)
-
-[IPython as a system shell — IPython 3.2.1 documentation](https://ipython.org/ipython-doc/3/interactive/shell.html)
-
-[Jenkins and Python](http://www.alexconrad.org/2011/10/jenkins-and-python.html)
-
-[pyvideo.org](http://www.pyvideo.org/)
-
-[12-Factor App](https://12factor.net/)
-
-[Defining Traits: Initialization and Validation — Traits 4 User Manual](http://docs.enthought.com/traits/traits_user_manual/defining.html)
-
-[Keyboard Control Functions — PyAutoGUI 1.0.0 documentation](https://pyautogui.readthedocs.io/en/latest/keyboard.html)
-
-[PCAP Certification](https://pythoninstitute.org/pcap-certification-associate/)
-
-
-### Libraries
-
-[vispy](http://api.vispy.org/en/latest/)
-
-[PyToolz API Documentation — Toolz 0.6.0 documentation](http://toolz.readthedocs.org/en/latest/)
-
-
-### Python Blogs
-
-[10 python blogs worth following](http://freepythontips.wordpress.com/2013/07/31/10-python-blogs-worth-following/)
-
-[Import Python Weekly Newsletter. Subscribe Now.](http://importpython.com/newsletter/)
-
-[Real Python Blog](https://realpython.com/blog/)
-
-[Python Module of the Week - Python Module of the Week](https://pymotw.com/2/contents.html)
-
-[Bites of Code](http://bitesofcode.blogspot.com/)
-
-
-### Flask
-
-[Deployment Options — Flask 0.9dev documentation](http://flask.pocoo.org/docs/deploying/)
-
-[Developing RESTful Web APIs with Python, Flask and MongoDB // Speaker Deck](https://speakerdeck.com/u/nicola/p/developing-restful-web-apis-with-python-flask-and-mongodb)
-
-[The Flask Mega-Tutorial, Part I: Hello, World! - miguelgrinberg.com](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-
-[Category: Flask - miguelgrinberg.com](http://blog.miguelgrinberg.com/category/Flask)
-
-[Starting web projects using Flask, virtualenv, pip](https://www.enigmeta.com/blog/starting-flask/)
-
-[Delightful testing with pytest and Flask- SQLAlchemy](http://alexmic.net/flask-sqlalchemy-pytest/)
-
-[Category: flask - Real Python](https://realpython.com/blog/categories/flask/)
-
-[Flask - Full Stack Python](http://www.fullstackpython.com/flask.html)
-
-[The Flask Mega-Tutorial, Part II: Templates - miguelgrinberg.com](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates)
-
-[Python Web Applications With Flask - Part I - Real Python](https://realpython.com/blog/python/python-web-applications-with-flask-part-i/#.Uu6GOHddUp8)
-
-[Flask-AppBuilder — Flask AppBuilder](http://flask-appbuilder.readthedocs.io/en/latest/)
-
-[GitHub - humiaozuzu/awesome-flask: A curated list of awesome Flask resources and plugins](https://github.com/humiaozuzu/awesome-flask)
-
-
-### Raspberry pi
-
-[How to make your own Python dev-server with Raspberry Pi](https://medium.freecodecamp.org/how-to-make-your-own-python-dev-server-with-raspberry-pi-37651156379f)
-
-[Tutorial: Remote Development on Raspberry Pi - Help](https://www.jetbrains.com/help/pycharm/remote-development-on-raspberry-pi.html)
-
-[Connect JetBrains PyCharm to Raspberry pi - Hackster.io](https://www.hackster.io/Jolley71717/connect-jetbrains-pycharm-to-raspberry-pi-72be15)
-
-[Using your new Raspberry Pi 3 as a WiFi access point with hostapd](https://frillip.com/using-your-raspberry-pi-3-as-a-wifi-access-point-with-hostapd/)
-
-
-### PyCharm
-
-[Productivity Guide](http://www.jetbrains.com/pycharm/webhelp/productivity-guide.html)
-
-[PyCharm Tutorials - PyCharm - Confluence](http://confluence.jetbrains.com/display/PYH/PyCharm+Tutorials)
-
-
-
-
-### Git
-
-[Git - GUI Clients](http://git-scm.com/downloads/guis)
-
-[Git Tutorial: Basics](https://www.atlassian.com/git/glossary)
-
-[The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
-
-[A successful Git branching model » nvie.com](http://nvie.com/posts/a-successful-git-branching-model/)
-
-[Bitbucket](https://bitbucket.org/dashboard/overview)
-
-[git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)
-
-[Free Mercurial and Git Client for Windows and Mac](http://www.sourcetreeapp.com/)
-
-[Importing from Subversion · github:help](https://help.github.com/articles/importing-from-subversion)
-
-
-### Markdown
-
-[Emoji and Markdown Everywhere](http://blog.trello.com/emoji-and-markdown-everywhere/)
-
-[Daring Fireball: Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax)
-
-
-### Agile and Scrum
-
-[Effective Sprint Retrospectives](http://msdn.microsoft.com/en-us/library/vstudio/jj620912.aspx)
-
-[Sprint retrospective irrespective - a consistent post-sprint event](http://www.axisagile.com/blog/retrospectives-reviews/sprint-retrospective-irrespective/)
-
-[Estimation Games « The Agile Coach Toolkit](http://www.agilecoach.net/coach-tools/estimation-games/)
-
-[Turn your Sprint Reviews into rave reviews - smooth, stress-free sprint reviews](http://www.axisagile.com/blog/retrospectives-reviews/to-dos-for-your-sprint-reviews/)
-
-[Scrum Task Board Training](http://www.mountaingoatsoftware.com/scrum/task-boards)
-
-[Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)
-
-[NRV Agile Users Group](http://agilenrv.org/#blog)
-
-
-
-### OpenGL
-
-[OpenGL](http://www.songho.ca/opengl/index.html)
-
-[Adventures in OpenCL Part 2: Particles with OpenGL](http://enja.org/2010/08/27/adventures-in-opencl-part-2-particles-with-opengl/)
-
-[Learning Modern 3D Graphics Programming](http://www.arcsynthesis.org/gltut/)
-
-[OpenGL - The Industry Standard for High Performance Graphics](http://www.opengl.org/)
-
-[SIGGRAPH 2012: Mobile, OpenGL 4.3 and Python](http://blog.enthought.com/general/siggraph-2012-mobile-opengl-4-3-and-python/)
-
-[Untitled](http://bentonian.com/teaching/AdvGraph0809/Advanced%20Graphics%2008x01%20-%20OpenGL,%20scene%20graphs%20and%20data%20structures.ppt)
-
-[2\. Built-in Functions — Python v2.7.6 documentation](https://docs.python.org/2/library/functions.html)
-
-[OpenGLContext Python Tutorials](http://pyopengl.sourceforge.net/context/tutorials/index.html)
-
-
-### QT
-
-[The Independent Qt Tutorial - Chapter 3](http://www.digitalfanatics.org/projects/qt_tutorial/chapter03.html)
-
-[The Independent Qt Tutorial - TOC](http://www.digitalfanatics.org/projects/qt_tutorial/index.html)
-
-[Eli Bendersky's website » Passing extra arguments to PyQt slots](http://eli.thegreenplace.net/2011/04/25/passing-extra-arguments-to-pyqt-slot/)
-
-[Developer Guides Qt Wiki](http://qt-project.org/wiki/Developer-Guides)
-
-[Layout management in Qt4](http://zetcode.com/gui/qt4/layoutmanagement/)
-
-[PyQt4 tutorial](http://zetcode.com/gui/pyqt4/)
-
-[QFileSystemModel - Adding Custom Columns](http://qt-project.org/forums/viewthread/13094)
-
-[The PyQt4 tutorial](http://zetcode.com/tutorials/pyqt4/)
-
-[PyQt4 tutorial](http://zetcode.com/gui/pyqt4/)
-
-[PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
-
-
-### MQTT
-
-[SSL/TLS Client Certs to Secure MQTT - RockingD Labs](http://rockingdlabs.dunmire.org/exercises-experiments/ssl-client-certs-to-secure-mqtt)
-
-[MQTT, Mosquitto TLS Security -Setup and Configuration](http://www.steves-internet-guide.com/mosquitto-tls/)
-
-[eclipse/paho.mqtt.android at develop](https://github.com/eclipse/paho.mqtt.android/tree/develop)
-
-[MQTT Essentials Part 1: Introducing MQTT](http://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt)
-
-
-### Jupyter
-
-[Jupyter Notebook Viewer](http://nbviewer.jupyter.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)
-
-[The IPython Notebook — IPython](http://ipython.org/notebook.html)
-
-[A gallery of interesting IPython Notebooks · ipython/ipython Wiki](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
-
-[Favorites](http://nbviewer.ipython.org/)
-
-[IPython Notebook with PyCharm](https://www.jetbrains.com/help/pycharm/2016.1/tutorial-using-ipython-jupyter-notebook-with-pycharm.html)
-
-
-
 ## Personal
 
 [Blackberry Syrup Recipe](http://www.myrecipes.com/recipe/blackberry-syrup-50400000122158/)
@@ -493,6 +477,9 @@
 
 [parking](https://www.athdparking.com/gateways)
 
+[Kahoot!](https://kahoot.it/#/)
+
+[Dashboard](https://www.google.com/dashboard/b/0/)
 
 
 ### GT
@@ -544,62 +531,15 @@
 
 [Rick's Warp War rules](http://boardgamegeek.com/thread/627066/ricks-warp-war-rules)
 
+[Tactical Rock-Paper- Scissors - TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/TacticalRockPaperScissors)
 
 
 ### YouTube – lcooper’s iPhone
 
-[youtu.be/7ezeYJUz-84](http://youtu.be/7ezeYJUz-84)
+[Grocery Store Wars](http://youtu.be/hVrIyEu6h_E)
 
-[youtu.be/5S8RkqUg7F0](http://youtu.be/5S8RkqUg7F0)
+[Battlestar Galactica Vs Star Wars Vs Star Trek Vs Babylon 5](http://youtu.be/JXnPG19npW8)
 
-[youtu.be/Kmnm8U3OoOo](http://youtu.be/Kmnm8U3OoOo)
+[Princess Bride Lightsaber Battle](http://youtu.be/SWXcDZNgOWs)
 
-[youtu.be/hVrIyEu6h_E](http://youtu.be/hVrIyEu6h_E)
-
-[youtu.be/hNxhrPaaCA4](http://youtu.be/hNxhrPaaCA4)
-
-[youtu.be/gFRqamwii94](http://youtu.be/gFRqamwii94)
-
-[youtu.be/JXnPG19npW8](http://youtu.be/JXnPG19npW8)
-
-[youtu.be/XiDmMBIyfsU](http://youtu.be/XiDmMBIyfsU)
-
-[youtu.be/2T1LIrzsgqA](http://youtu.be/2T1LIrzsgqA)
-
-[youtu.be/SWXcDZNgOWs](http://youtu.be/SWXcDZNgOWs)
-
-[youtu.be/zmSOnKkm8Y0](http://youtu.be/zmSOnKkm8Y0)
-
-[youtu.be/nq0KNfS_M44](http://youtu.be/nq0KNfS_M44)
-
-
-
-### Other Bookmarks
-
-[What is TDM? — Mobility Lab](http://mobilitylab.org/about-us/what-is-tdm/)
-
-[kpath.tex](http://www.ics.uci.edu/~eppstein/pubs/Epp-SJC-98.pdf)
-
-[Dashboard](https://www.google.com/dashboard/b/0/)
-
-[What Is Vagrant and Why Should I Care? ◆ 24 ways](https://24ways.org/2014/what-is-vagrant-and-why-should-i-care/)
-
-[Kahoot!](https://kahoot.it/#/)
-
-[goo](https://stackoverflow.com/questions/19482317/bellman-ford-vs-dijkstra-under-what-circumstances-is-bellman-ford-better)
-
-[12 Days of Performance - REVSYS](http://www.revsys.com/12days/)
-
-[28 of the Best Motivational TED Talk Videos to Inspire You](http://blog.hubspot.com/marketing/15-phenomenal-ted-talks#sm.001uyv8uw15swfp4ucw1ieuknol7k)
-
-[Tactical Rock-Paper- Scissors - TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/TacticalRockPaperScissors)
-
-[scrooloose/syntastic](https://github.com/scrooloose/syntastic)
-
-[cs231n-CNNs : Free Download & Streaming : Internet Archive](https://archive.org/details/cs231n-CNNs)
-
-[Regex Tutorial - Literal Characters and Special Characters](http://www.regular-expressions.info/characters.html)
-
-[Google Sync](https://m.google.com/sync/settings/iconfig/welcome?source=mobileproducts)
-
-[Google Voice](http://www.google.com/googlevoice/about.html)
+[Political Borders of Europe from 1519 to 2006](http://youtu.be/nq0KNfS_M44)

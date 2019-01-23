@@ -137,6 +137,20 @@ use interactive adding
 `git add -i`
 # Git Scenarios
 
+
+### Git
+
+[git - the simple guide](http://rogerdudler.github.io/git-guide/)
+
+[Git Tutorial: Basics](https://www.atlassian.com/git/glossary)
+
+[The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
+
+[A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+
+[Git - GUI Clients](http://git-scm.com/downloads/guis)
+
+
 ## Scenario with add ##
 
 You just want to add files with specific extension in your staging area. Of course you can add all the files one by one. But you can use *.<extension_name> to include all files with that extension. Following command will add all python files.
