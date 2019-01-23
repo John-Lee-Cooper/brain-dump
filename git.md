@@ -1,3 +1,140 @@
+# git - the simple guide
+
+## setup
+[Download git for OSX](http://git-scm.com/download/mac)
+
+[Download git for Windows](http://msysgit.github.io/)
+
+[Download git for Linux](http://git-scm.com/book/en/Getting-Started-Installing-Git)
+
+### Create a new repository
+```
+mkdir <new_directory>
+cd <new_directory>
+git init
+```
+
+### Checkout a repository
+`git clone /path/to/repository`
+
+when using a remote server, your command will be
+`git clone username@host:/path/to/repository`
+
+## Workflow
+Your local repository consists of three _trees_.
+The first one is your _Working Directory_ which holds the actual files.
+The second one is the _Index_ which acts as a staging area.
+Finally, the _HEAD_ points to the last commit you've made.
+
+![](git%20-%20the%20simple%20guide%20-%20no%20deep%20shit!_files/trees.png)
+
+### Add files to _Index_
+`git add <file_path> ...`
+
+or
+
+`git add -A`
+
+### Commit files to _HEAD_
+`git commit -m <commit_message>`
+
+Your changes are now in the __HEAD__ of your local working copy.
+
+### Pushing changes to remote repository
+
+`git push [origin] [branch]`
+
+If you have not cloned an existing repository and want to connect your repository to a remote server:
+
+`git remote add origin <server>`
+
+## Branching
+
+Branches are used to develop features isolated from each other.
+The _master_ branch is the default branch when you create a repository.
+Use other branches for development and merge them back to the master branch upon completion.
+
+![](git%20-%20the%20simple%20guide%20-%20no%20deep%20shit!_files/branches.png)
+
+### Create a new branch and switch to it
+
+`git checkout -b <branch>`
+
+### Switch to branch
+
+`git checkout <branch>`
+
+### Delete a branch
+
+`git branch -d <branch>`
+
+### A branch is _not available to others_ unless you push the branch to your remote repository
+
+`git push origin <branch>`
+
+### Update your local repository to the newest commit
+`git pull`
+
+This will _fetch_ and _merge_ remote changes.
+
+### To merge another branch into your active branch (e.g. master)
+`git merge <branch>`
+
+## Resolving Conflicts
+Git tries to auto-merge changes during pulls and merge.
+Unfortunately, auto-merging is not always possible, resulting in _conflicts_.
+You are responsible for merging _conflicts_ manually by editing the files shown by git.
+After changing, you need to mark them as merged with
+`git add <filename>`
+
+Before merging changes, you can also preview them by using
+`git diff <source_branch> <target_branch>`
+
+## Logging
+
+### View repository history
+`git log`
+
+### To see only the commits of a certain author
+`git log --author=bob`
+
+### To see a log where each commit is one line:
+`git log --pretty=oneline`
+
+### To see an ASCII tree of all the branches, with the names of tags and branches:
+`git log --graph --oneline --decorate --all`
+
+### To see only which files have changed:
+`git log --name-status`
+
+
+### Create a new tag
+
+It's recommended to create tags for software releases.
+`git tag <tagname> <commit-id>`
+
+
+### replace local changes
+
+`git checkout -- <filename>`
+
+This replaces the changes in your working tree with the last content in HEAD.
+Changes already added to _index_, as well as new files, will be kept.
+
+### To drop all local changes and commits, fetch the latest history from the server and point your local master branch at it
+`git fetch origin`
+`git reset --hard origin/master`
+
+## useful hints
+
+built-in git GUI
+`gitk`
+use colorful git output
+`git config color.ui true`
+show log on just one line per commit
+`git config format.pretty oneline`
+use interactive adding
+`git add -i`
 # Git Scenarios
 
 ## Scenario with add ##
