@@ -7,7 +7,8 @@
 
 ### Tutorial
 
-[OpenCV: OpenCV-Python Tutorials](http://docs.opencv.org/3.1.0/d6/d00/tutorial_py_root.html)
+
+[OpenCV: OpenCV-Python Tutorials](http://docs.opencv.org/3.4.5/d6/d00/tutorial_py_root.html)
 
 [OpenCV-Python Tutorials — OpenCV-Python Tutorials 1 documentation](http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_tutorials.html)
 
