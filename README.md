@@ -1,3 +1,7 @@
+# Branin Dump
+
+![Brain Dump](brain_dump.png)
+
 ## Links
 - [Links](/links.md)
 - [PyImageSearch Links](/pyimagesearch.md)
@@ -5,8 +9,6 @@
 - [pyenv and pipenv](/pyenv.md)
 - [git scenarios](/git.md)
 
-
-![Brain Dump](brain_dump.png)
 
 ## Welcome to [GitHub Pages](https://john-lee-cooper.github.io/hello-world/)
 
@@ -18,12 +20,22 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+
+Emphasis, aka italics, with *asterisks* or _underscores_
+
+Strong emphasis, aka bold, with **asterisks** or __underscores__
+
+Combined emphasis with **_asterisks and _underscores_**
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+
+Inline Code with `back ticks`
+
 
 # Header 1
 ## Header 2
 ### Header 3
+
 
 - Bulleted
 - List
@@ -31,15 +43,10 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) 
+[HyperLink](https://www.google.com/maps/@39.3255369,-77.7356725,1775m/data=!3m1!1e3) 
 
-![Image](src)
-```
-
-
-Inline `code blocks` have `back-ticks around` it.
+![AltImage](https://www.oreilly.com/library/view/cissp-for-dummies/9781118417102/images/tip_fmt.png)
 
 
 Blocks of code are either fenced by lines with three back-ticks ```, or are indented with four spaces.
@@ -50,7 +57,22 @@ s = "Python syntax highlighting"
 print s
 ```
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| Column 3 is   | right-aligned | $1600 |
+| Column 2 is   | centered      |   $12 |
+| Zebra stripes | are neat      |    $1 |
+
+
+A horizontal line
+
+---
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
 
 ### Jekyll Themes
 
