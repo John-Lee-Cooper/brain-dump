@@ -2,7 +2,11 @@
 - [Links](/links.md)
 - [PyImageSearch Links](/pyimagesearch.md)
 - [Firefox Links](/firefox.md)
+- [pyenv and pipenv](/pyenv.md)
 - [git scenarios](/git.md)
+
+
+![Brain Dump](brain_dump.png)
 
 ## Welcome to [GitHub Pages](https://john-lee-cooper.github.io/hello-world/)
 
@@ -29,15 +33,30 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) 
+
+![Image](src)
+```
+
+
+Inline `code blocks` have `back-ticks around` it.
+
+
+Blocks of code are either fenced by lines with three back-ticks ```, or are indented with four spaces.
+I recommend only using the fenced code blocks -- they're easier and only they support syntax highlighting.
+
+```python
+s = "Python syntax highlighting"
+print s
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/John-Lee-Cooper/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/John-Lee-Cooper/hello-world/settings).
+The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact).

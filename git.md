@@ -395,3 +395,15 @@ First, you have to switch to the branch that has the commit. Copy the commit id 
 
 >  `git cherry-pick <commit-id>`
 
+
+
+
+----
+
+[git-and-github-tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+
+[Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+
+Rule #1: Create a Git repository for every new project
+Rule #2: Create a new branch for every new feature
+Rule #3: Use Pull Requests to merge code to Master
