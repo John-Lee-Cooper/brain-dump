@@ -1,11 +1,9 @@
 # git - the simple guide
 
 ## setup
-[Download git for OSX](http://git-scm.com/download/mac)
-
-[Download git for Windows](http://msysgit.github.io/)
-
-[Download git for Linux](http://git-scm.com/book/en/Getting-Started-Installing-Git)
+* [Download git for OSX](http://git-scm.com/download/mac)
+* [Download git for Windows](http://msysgit.github.io/)
+* [Download git for Linux](http://git-scm.com/book/en/Getting-Started-Installing-Git)
 
 ### Create a new repository
 ```
@@ -135,20 +133,8 @@ show log on just one line per commit
 `git config format.pretty oneline`
 use interactive adding
 `git add -i`
+
 # Git Scenarios
-
-
-### Git
-
-[git - the simple guide](http://rogerdudler.github.io/git-guide/)
-
-[Git Tutorial: Basics](https://www.atlassian.com/git/glossary)
-
-[The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
-
-[A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
-
-[Git - GUI Clients](http://git-scm.com/downloads/guis)
 
 
 ## Scenario with add ##
@@ -403,6 +389,11 @@ First, you have to switch to the branch that has the commit. Copy the commit id 
 2. Create a new branch for every new feature
 3. Use Pull Requests to merge code to Master
 
-## Links
+## Git Links
 [git-and-github-tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+[git - the simple guide](http://rogerdudler.github.io/git-guide/)
+[Git Tutorial: Basics](https://www.atlassian.com/git/glossary)
+[The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
+[A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+[Git - GUI Clients](http://git-scm.com/downloads/guis)

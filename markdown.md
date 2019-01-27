@@ -2,6 +2,7 @@
 [The Ultimate Guide to Markdown](https://blog.ghost.org/markdown/)
 [Emoji and Markdown Everywhere](http://blog.trello.com/emoji-and-markdown-everywhere/)
 [Daring Fireball: Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax)
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -53,5 +54,3 @@ print s
 A horizontal line
 
 ---
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

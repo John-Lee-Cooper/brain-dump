@@ -77,6 +77,7 @@ pyenv versions
 
 Now whenever you are in project, you’ll automatically use the Python 3.7.0 interpreter.
 
+---
 
 ## pipenv
 

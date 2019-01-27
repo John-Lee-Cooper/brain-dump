@@ -12,12 +12,11 @@
 [How to Use Medium](https://blog.hubspot.com/marketing/how-to-use-medium)
 [How to start a beautiful personal blog using Medium](https://blog.markgrowth.com/how-to-start-a-beautiful-personal-blog-using-medium-ca6d89b7e46)
 [This Is Why You Aren’t Successful Blogging On Medium](https://medium.com/the-mission/this-is-why-you-arent-successful-blogging-on-medium-7f849e1cda3e)
-### Jekyll
 
+### Jekyll
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/John-Lee-Cooper/brain-dump/settings).
 The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
 Check out [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact).

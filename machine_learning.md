@@ -66,4 +66,3 @@ You can see all [Python machine learning posts here](http://machinelearningmaste
 [Astar Pathfinding Algorithm Explained With Python](https://pycoders.com/link/689/bt0qtb8ar0)  
 [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 [The Generic Frame Protocol](http://www.ai.sri.com/~gfp/spec/paper/paper.html)
-  
