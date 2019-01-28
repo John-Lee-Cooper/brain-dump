@@ -1,4 +1,4 @@
-## Welcome to [Branin Dump](https://john-lee-cooper.github.io/brain-dump/)
+## Welcome to [Brain Dump](https://john-lee-cooper.github.io/brain-dump/)
 
 ![Brain Dump](brain_dump.png)
 
