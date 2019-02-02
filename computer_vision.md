@@ -2,8 +2,9 @@
 
 ### Tutorial
 [OpenCV: OpenCV-Python Tutorials](http://docs.opencv.org/3.4.5/d6/d00/tutorial_py_root.html)  
-[OpenCV-Python Tutorials — OpenCV-Python Tutorials 1 documentation](http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_tutorials.html)  
-[Image Processing 101](https://codewords.recurse.com/issues/six/image-processing-101)  
+
+### Contours
+[OpenCV-Python: Contour features](http://opencvpython.blogspot.com/2012/04/contour-features.html)  
 
 ### Edge Detect
 [Image Gradients — OpenCV 3.0.0-dev documentation](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_gradients/py_gradients.html)  
@@ -14,17 +15,8 @@
 [Canny Tutorial](http://www.pages.drexel.edu/~nk752/cannyTut2.html)  
 [OpenCV: Canny Edge Detection](http://docs.opencv.org/master/da/d22/tutorial_py_canny.html#gsc.tab=0)  
 
-### Contours
-[Contours : Getting Started — OpenCV 3.0.0-dev documentation](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_contours/py_contours_begin/py_contours_begin.html)  
-[OpenCV-Python: Contour features](http://opencvpython.blogspot.com/2012/04/contour-features.html)  
-
 ### Image Processing
 [The Watershed Transformation page](http://www.cmm.mines-paristech.fr/~beucher/wtshed.html)  
-
-### Plot 
-[Top 50 matplotlib Visualizations - The Master Plots (w/ Full Python Code) | ML+](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)  
-[Python Matplotlib | Data visualizations In Python With Matplotlib | Edureka](https://www.edureka.co/blog/python-matplotlib-tutorial/)  
-[fontweight](https://matplotlib.org/api/font_manager_api.html)  
 
 ### Blobs
 [2.6. Image manipulation and processing using Numpy and Scipy — Scipy lecture notes](https://scipy-lectures.github.io/advanced/image_processing/index.html)  
@@ -44,11 +36,10 @@
 [Chapter 7. Automatic color adjustments](https://pippin.gimp.org/image-processing/chapter-automaticadjustments.html)  
 [Python Programming Tutorials](https://pythonprogramming.net/raspberry-pi-camera-opencv-face-detection-tutorial/)  
 
+### Plot 
+[Top 50 matplotlib Visualizations - The Master Plots (w/ Full Python Code) | ML+](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)  
+[Python Matplotlib | Data visualizations In Python With Matplotlib | Edureka](https://www.edureka.co/blog/python-matplotlib-tutorial/)  
+[fontweight](https://matplotlib.org/api/font_manager_api.html)  
+
 ### OpenCV QT
 [Using OpenCV in Qt4 GUI using python | Intelligent Easy i.e.Sensor & Robot](http://www.iesensor.com/blog/2014/06/15/using-opencv-in-qt4-gui-using-python/)  
-
-
-### Todo
-[PyramidBlend](https://docs.opencv.org/3.4.5/dc/dff/tutorial_py_pyramids.html)  
-[Contours](https://docs.opencv.org/3.4.5/d3/d05/tutorial_py_table_of_contents_contours.html)  
-[Watershed](https://docs.opencv.org/3.4.5/d3/db4/tutorial_py_watershed.html)  

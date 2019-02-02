@@ -128,3 +128,14 @@ Use a lower-level pip command:
 pipenv run pip freeze
 ```
 
+
+## pip
+
+```
+pip list --uptodate
+pip list --outdated
+pip install <package>
+pip install --upgrade <package>
+pip freeze > requirements.txt
+pip install -r requirements.txt
+```

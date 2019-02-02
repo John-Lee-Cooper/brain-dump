@@ -3,6 +3,7 @@
 ![Brain Dump](brain_dump.png)
 
 ## Links
+- [Todo](/todo.md)
 - [Python](/python.md)
 - [Computer Vision](/computer_vision.md)
 - [PyImageSearch](/pyimagesearch.md)
