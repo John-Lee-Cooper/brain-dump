@@ -3,8 +3,8 @@
 ![Brain Dump](brain_dump.png)
 
 ## Todo
-- [Techiical](/technical_todo.md
-- [Personal](/personal_todo.md
+- [Techiical](/technical_todo.md)
+- [Personal](/personal_todo.md)
 - [Technologies](/technologies.md)
 
 ## Links
