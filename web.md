@@ -21,6 +21,7 @@
 [GitHub - humiaozuzu/awesome-flask: A curated list of awesome Flask resources and plugins](https://github.com/humiaozuzu/awesome-flask)  
 [Python Web Applications with Flask](https://realpython.com/python-web-applications-with-flask-part-i/)  
 [Flaskr - Intro to Flask, Test-Driven Development, and JavaScript](https://github.com/mjhea0/flaskr-tdd)  
+[How to build a web app using Python’s Flask and Google App Engine](https://medium.freecodecamp.org/how-to-build-a-web-app-using-pythons-flask-and-google-app-engine-52b1bb82b221)  
 
 ### MVC
 [Brad Wilson: ASP.NET MVC 2 Templates, Part 4: Custom Object Templates](http://bradwilson.typepad.com/blog/2009/10/aspnet-mvc-2-templates-part-4-custom-object-templates.html)  

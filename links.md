@@ -10,8 +10,21 @@
 [How To Install and Use Docker on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04)  
 [Getting started with Docker](https://medium.com/@dkarlovi/applications-contain-yourselves-getting-started-with-docker-47cafb518bf1)  
 [Dockerizing Python Applications](https://pycoders.com/link/672/bt0qtb8ar0)  
-  
+[Docker run vs exec reference and key differences – The Code Review – Medium](https://medium.com/the-code-review/docker-run-vs-exec-deep-dive-into-their-differences-19a1041735a3)  
+[A little dive into Docker – from-scratch-tutorials – Medium](https://medium.com/from-scratch-tutorials/docker-cli-dockerfile-and-docker-compose-from-scratch-13291656a0ca)  
+[Docker Development WorkFlow — a guide with Flask and Postgres](https://medium.freecodecamp.org/docker-development-workflow-a-guide-with-flask-and-postgres-db1a1843044a)  
+[A short guide to using Docker for your data science environment](https://towardsdatascience.com/a-short-guide-to-using-docker-for-your-data-science-environment-912617b3603e)  
+[Getting Started with Docker – Marcel Jurtz – Medium](https://medium.com/%40jurtzmarcel/getting-started-with-docker-ab43bc00425d)  
+[Docker Commands — The Ultimate Cheat Sheet – Hacker Noon](https://hackernoon.com/docker-commands-the-ultimate-cheat-sheet-994ac78e2888)  
+[Learn Kubernetes in Under 3 Hours A Detailed Guide to Orchestrating Containers](https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882)  
+[Expose vs publish Docker port commands explained simply](https://medium.freecodecamp.org/expose-vs-publish-docker-port-commands-explained-simply-434593dbc9a3)  
+[Docker COPY Dockerfile best practices – ryanwhocodes – Medium](https://medium.com/%40ryanwhocodes/docker-copy-dockerfile-best-practices-503704bee69f)  
+[Handy Docker Aliases – Carlos Justiniano – Medium](https://medium.com/%40cjus/handy-docker-aliases-4bd85089a3b8)  
+[Docker ENTRYPOINT & CMD Dockerfile best practices – freeCodeCamp.org](https://medium.freecodecamp.org/docker-entrypoint-cmd-dockerfile-best-practices-abc591c30e21)  
+[How to build a project inside a Docker container – Bartosz Mikulski](https://mikulskibartosz.name/how-to-build-a-project-inside-a-docker-container-fd575058bf4a)  
+
 ## Agile and Scrum
+[Don’t run project retros, play Dungeons and Dragons](https://uxplanet.org/dont-run-project-retros-play-dungeons-and-dragons-bae43d3df7f3)  
 [Effective Sprint Retrospectives](http://msdn.microsoft.com/en-us/library/vstudio/jj620912.aspx)  
 [Sprint retrospective irrespective - a consistent post-sprint event](http://www.axisagile.com/blog/retrospectives-reviews/sprint-retrospective-irrespective/)  
 [Estimation Games « The Agile Coach Toolkit](http://www.agilecoach.net/coach-tools/estimation-games/)  
@@ -45,6 +58,7 @@
 [Connect devices wirelessly](https://developer.android.com/training/connect-devices-wirelessly/)  
 [Exploring the new Android ConstraintLayout – Exploring Android – Medium](https://medium.com/exploring-android/exploring-the-new-android-constraintlayout-eed37fe8d8f1)  
 [Android Tutorial](https://www.tutorialspoint.com/android/index.htm)  
+[Android JetPack Navigation Architecture Component – Deemaze Writing Wall – Medium](https://medium.com/deemaze-software/android-jetpack-navigation-architecture-component-b603c9a8100c)  
 
 ## IOS
 [Start Developing iOS Apps Today](https://developer.apple.com/library/ios/ipad/#documentation/iPhone/Conceptual/iPhone101/index.html)  
@@ -59,6 +73,7 @@
 [Ubuntu Wiki (community-edited website)](https://wiki.ubuntu.com/)  
 [Make a Support Request to the Ubuntu Community](https://answers.launchpad.net/ubuntu/+addquestion)  
 [Debian (Ubuntu is based on Debian)](http://www.debian.org/)  
+[Make Ubuntu faster(maybe) – NerdOfLinux’s Tech Blog – Medium](https://medium.com/nerdoflinux/make-ubuntu-faster-maybe-7c0ea100c010)  
 
 ## VBA Visual Basic
 [Excel VBA Userform - Easy Excel Macros](http://www.excel-easy.com/vba/userform.html)  
@@ -112,3 +127,5 @@
 [Battlestar Galactica Vs Star Wars Vs Star Trek Vs Babylon 5](http://youtu.be/JXnPG19npW8)  
 [Princess Bride Lightsaber Battle](http://youtu.be/SWXcDZNgOWs)  
 [Political Borders of Europe from 1519 to 2006](http://youtu.be/nq0KNfS_M44)  
+[Build your First Image Classification Model in just 10 Minutes!](https://medium.com/analytics-vidhya/build-your-first-image-classification-model-in-just-10-minutes-8227f8f542ef)  
+[Fast.ai Lesson 1 on Google Colab (Free GPU) – Towards Data Science](https://towardsdatascience.com/fast-ai-lesson-1-on-google-colab-free-gpu-d2af89f53604)  

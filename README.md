@@ -10,13 +10,14 @@
 ## Links
 - [Python](/python.md)
 - [Computer Vision](/computer_vision.md)
-- [Medium](/medium.md)
 - [PyImageSearch](/pyimagesearch.md)
 - [Machine Learning](/machine_learning.md)
+- [Deep Learning Links](/deep.md)
+- [Data Science Links](/data.md)
 - [Web Development](/web.md)
 - [Blogging](/blogging.md)
 - [Misc. Links](/links.md)
-
+- [Career Links](/career.md)
 
 ## Howtos
 - [Git scenarios](/git.md)

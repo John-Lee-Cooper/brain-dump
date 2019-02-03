@@ -40,6 +40,15 @@
 [Defining Traits: Initialization and Validation — Traits 4 User Manual](http://docs.enthought.com/traits/traits_user_manual/defining.html)  
 [Keyboard Control Functions — PyAutoGUI 1.0.0 documentation](https://pyautogui.readthedocs.io/en/latest/keyboard.html)  
 [PCAP Certification](https://pythoninstitute.org/pcap-certification-associate/)  
+[Here’s how you can get a 2–6x speed-up on your data pre-processing with Python](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5)  
+[Automated Feature Engineering in Python – Towards Data Science](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)  
+[Importing Data in Python – Towards Data Science](https://towardsdatascience.com/importing-data-in-python-f6602add57b7)  
+[Running Chi-Square Tests with Die Roll Data in Python](https://towardsdatascience.com/running-chi-square-tests-in-python-with-die-roll-data-b9903817c51b)  
+[Extracting and Transforming Data in Python – Towards Data Science](https://towardsdatascience.com/extracting-and-transforming-data-in-python-63291f63d350)  
+[What’s __init__ for me – Towards Data Science](https://towardsdatascience.com/whats-init-for-me-d70a312da583)  
+[Using Python’s Multiprocessing Module To Evaluate A Set of Algorithms Efficiently.](https://towardsdatascience.com/using-pythons-multiprocessing-module-to-evaluate-a-set-of-algorithms-efficiently-1412d29ff849)  
+[Getting started with Elasticsearch in Python – Towards Data Science](https://towardsdatascience.com/getting-started-with-elasticsearch-in-python-c3598e718380)  
+[Next Steps with Python Type System – Daftcode Blog](https://blog.daftcode.pl/next-steps-with-python-type-system-efc4df5251c9)  
 
 ### Libraries
 [vispy](http://api.vispy.org/en/latest/)  
@@ -63,6 +72,11 @@
 [Favorites](http://nbviewer.ipython.org/)  
 [IPython Notebook with PyCharm](https://www.jetbrains.com/help/pycharm/2016.1/tutorial-using-ipython-jupyter-notebook-with-pycharm.html)  
 [Applied-Deep-Learning-with-Keras](https://github.com/ardendertat/Applied-Deep-Learning-with-Keras/tree/master/notebooks)  
+[Jupyter Notebook for Beginners A Tutorial – Towards Data Science](https://towardsdatascience.com/jupyter-notebook-for-beginners-a-tutorial-f55b57c23ada)  
+[Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)  
+[Unleash the power of Jupyter Notebooks – Towards Data Science](https://towardsdatascience.com/unleash-the-power-of-jupyter-notebooks-4ed452a47895)  
+[How to Setup Your JupyterLab Project Environment – Towards Data Science](https://towardsdatascience.com/how-to-setup-your-jupyterlab-project-environment-74909dade29b)  
+
 
 ### QT
 [The Independent Qt Tutorial - Chapter 3](http://www.digitalfanatics.org/projects/qt_tutorial/chapter03.html)  
@@ -82,3 +96,34 @@
 ### Black and Precommits
 [Black](https://www.mattlayman.com/blog/2018/python-code-black/)  
 [Pre commit](https://pre-commit.com/)  
+
+## Software Engineering  
+[Design Better Forms – UX Collective](https://uxdesign.cc/design-better-forms-96fadca0f49c)  
+[RESTful API Design — Step By Step Guide – Hacker Noon](https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)  
+[How to write a good software design doc – freeCodeCamp](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c)  
+[Pros and cons of functional programming – ITNEXT](https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2)  
+
+## Online resources  
+[Some Essential Hacks and Tricks for Machine Learning with Python](https://heartbeat.fritz.ai/some-essential-hacks-and-tricks-for-machine-learning-with-python-5478bc6593f2)  
+[Newbie’s guide to Deep Learning – Towards Data Science](https://towardsdatascience.com/newbies-guide-to-deep-learning-6bf601c5a98e)  
+[Best (and Free!!) Resources to understand Nuts and Bolts of Deep learning](https://hackernoon.com/best-and-free-resources-to-understand-nuts-and-bolts-of-deep-learning-9c51166ffdf5)  
+[19 Incredibly Useful Websites You’ll Wish You Knew Earlier](https://medium.com/swlh/19-incredibly-useful-websites-youll-wish-you-knew-earlier-aff5d0f8255b)  
+[6 AI Subscriptions to keep you Informed – Becoming Human Artificial Intelligence Magazine](https://becominghuman.ai/6-ai-subscriptions-to-keep-you-informed-4cfc6cb024a)  
+
+
+### Plotting  
+[Simple Method of Creating Animated Graphs – Towards Data Science](https://towardsdatascience.com/simple-method-of-creating-animated-graphs-127c11f58cc5)  
+[5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)  
+[“Artist” in Matplotlib — something I wanted to know before spending tremendous hours on googling…](https://towardsdatascience.com/artist-in-matplotlib-something-i-wanted-to-know-before-spending-tremendous-hours-on-googling-ca3ab05ab08d)  
+[Data Visualization using Matplotlib – Towards Data Science](https://towardsdatascience.com/data-visualization-using-matplotlib-16f1aae5ce70)  
+[Introduction to Matplotlib — Data Visualization in Python](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39)  
+[Histograms and Density Plots in Python – Towards Data Science](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)  
+[Visualizing Data with Pairs Plots in Python – Towards Data Science](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)  
+[Your Ultimate Guide to Matplotlib – Towards Data Science](https://towardsdatascience.com/all-your-matplotlib-questions-answered-420dd95cb4ff)  
+[Introduction to Interactive Time Series Visualizations with Plotly in Python](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)  
+[How to Create Animated Graphs in Python – Towards Data Science](https://towardsdatascience.com/how-to-create-animated-graphs-in-python-bb619cc2dec1)  
+[The Next Level of Data Visualization in Python – Towards Data Science](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)  
+[Data Visualization with Bokeh in Python, Part I Getting Started](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4)  
+
+## Conda  
+[Why You Need Python Environments and How to Manage Them with Conda](https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)  

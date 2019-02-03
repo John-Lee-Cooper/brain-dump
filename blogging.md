@@ -1,6 +1,9 @@
 # Blogging
 [How to write a great technical blog post](https://medium.freecodecamp.org/how-to-write-a-great-technical-blog-post-414c414b67f6)  
 [100 Tools, Links, and Resources to Grow Your Blog](https://justagirlandherblog.com/resources/)  
+[The most important part of a data science project is writing a blog post](https://towardsdatascience.com/the-most-important-part-of-a-data-science-project-is-writing-a-blog-post-50715f37833a)  
+[How to write a great technical blog post – freeCodeCamp.org](https://medium.freecodecamp.org/how-to-write-a-great-technical-blog-post-414c414b67f6)  
+[Tech blogging best practices Search Engine Optimization (SEO) and content sharing](https://heartbeat.fritz.ai/tech-blogging-best-practices-search-engine-optimization-seo-and-content-sharing-2c4aadd6d094)  
 
 ## Github
 [Publishing with GitHub Pages, now as easy as 1, 2, 3](https://blog.github.com/2016-12-09-publishing-with-github-pages-now-as-easy-as-1-2-3/)  
@@ -20,3 +23,4 @@ The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 Check out [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact).
+

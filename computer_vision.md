@@ -1,4 +1,10 @@
 # Computer Vision
+[The 5 Trends That Dominated Computer Vision in 2018](https://heartbeat.fritz.ai/the-5-trends-that-dominated-computer-vision-in-2018-de38fbb9bd86)  
+[The 5 Computer Vision Techniques That Will Change How You See The World](https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b)  
+[ Releasing “Supervisely Person” dataset for teaching machines to segment humans](https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469)  
+[A Doorbell With Facial Recognition – Mangesh Pise – Medium](https://medium.com/%40mppise/a-doorbell-with-facial-recognition-3b132bf9605)  
+[Real-time and video processing object detection using Tensorflow, OpenCV and Docker.](https://towardsdatascience.com/real-time-and-video-processing-object-detection-using-tensorflow-opencv-and-docker-2be1694726e5)  
+[How to build an image duplicate finder – Towards Data Science](https://towardsdatascience.com/how-to-build-an-image-duplicate-finder-f8714ddca9d2)  
 
 ### Tutorial
 [OpenCV: OpenCV-Python Tutorials](http://docs.opencv.org/3.4.5/d6/d00/tutorial_py_root.html)  
@@ -14,6 +20,9 @@
 [Canny Edge Detection](https://cyroforge.wordpress.com/canny-edge-detection/)  
 [Canny Tutorial](http://www.pages.drexel.edu/~nk752/cannyTut2.html)  
 [OpenCV: Canny Edge Detection](http://docs.opencv.org/master/da/d22/tutorial_py_canny.html#gsc.tab=0)  
+
+### HOG  
+[Detecting objects in videos and camera feeds using Keras, OpenCV, and ImageAI](https://heartbeat.fritz.ai/detecting-objects-in-videos-and-camera-feeds-using-keras-opencv-and-imageai-c869fe1ebcdb)  
 
 ### Image Processing
 [The Watershed Transformation page](http://www.cmm.mines-paristech.fr/~beucher/wtshed.html)  
