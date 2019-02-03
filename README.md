@@ -13,7 +13,6 @@
 - [PyImageSearch](/pyimagesearch.md)
 - [Machine Learning](/machine_learning.md)
 - [Web Development](/web.md)
-
 - [Blogging](/blogging.md)
 - [Misc. Links](/links.md)
 
