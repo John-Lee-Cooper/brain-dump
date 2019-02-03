@@ -2,7 +2,10 @@
 
 ![Brain Dump](brain_dump.png)
 
-## [Todo](/todo.md)
+## Todo
+- [Techiical](/technical_todo.md
+- [Personal](/personal_todo.md
+- [Technologies](/technologies.md)
 
 ## Links
 - [Python](/python.md)
