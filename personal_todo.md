@@ -11,7 +11,12 @@ Seal shower
 Fix weedeater and Lawn Mower?  
 Hummer and Bradley models  
 
-## Games  
+### Games  
+Risk  
+Connect4 - Play by camera  
+Warp War  
+SimStratego  
+HexBoard  
 Clue (Flask)  
 - Motive  
 - Means weapon  
@@ -19,29 +24,17 @@ Clue (Flask)
 - People can lie (thief, affair)  
 - Murderer can lie  
 
-Risk  
-Connect4 - Play by camera  
-Warp War  
-SimStratego  
-HexBoard  
 
 
 ## Career  
-Job  
 Update Resume based on Georgia Tech  
 Update linked In  
 Interview book  
+Python or cv user group
+Docker Group
 Salary too low? Find out what you’re worth at work: https://usat.ly/2j2YPD5  
-Work  
-Water Test Improvement  
-- Find crossing lines (two lines and a rectangle)  
-- Adjust hough threshold  
 
-Display Raines properties on google maps  
-python or cv user group / blog  
-
-
-## Blacksburg
+### Blacksburg
 [VT](https://listings.jobs.vt.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&975=&976%5B%5D=1&2266%5B%5D=1&2684=&commit=Search)  
 [VTCRC](http://www.vtcrc.com/careers/)  
 [VT Trasportation](https://www.vtti.vt.edu/about/employment-opportunities.php)  
@@ -59,11 +52,11 @@ python or cv user group / blog
 [Harmonia](https://www.harmonia.com/careers/job-openings/)  
 [Excella](https://careers-excella.icims.com/jobs/search?mode=redo&pr=0&schemaId=%24T%7BJob%7D.%24T%7BJobLocation%7D.%24F%7BCountryStateCity%7D&o=A)  
 
-## Roanoke
+### Roanoke
 [GE, (Meridium)](https://talent.gecareers.com/digital/careers)  
 [Harris Corporation](https://harrisrccorp.peoplefluent.com/res_joblist.html)  
 
-## Other
+### Other
 [Vitech Corporation](http://www.vitechcorp.com/about/careers.shtml)  
 [Draper Aden Associates](https://www.daa.com/careers/)  
 [JPI](https://jpidev.com/careers) Washington, cloud project management?  
@@ -75,6 +68,6 @@ python or cv user group / blog
 [Jensen Hughes, Roanoke]()  
 [Volvo Group, Roanoke]()  
 
-## Staffing
+### Staffing
 Spencer Gray, Blacksburg  
 Search Consulting Network Roanoke  
