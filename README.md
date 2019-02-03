@@ -10,6 +10,7 @@
 ## Links
 - [Python](/python.md)
 - [Computer Vision](/computer_vision.md)
+- [Medium](/medium.md)
 - [PyImageSearch](/pyimagesearch.md)
 - [Machine Learning](/machine_learning.md)
 - [Web Development](/web.md)
