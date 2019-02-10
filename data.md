@@ -4,6 +4,7 @@
 [Introducing the Open-Source Big Nerd Ranch Core Data Stack](https://www.bignerdranch.com/blog/introducing-the-big-nerd-ranch-core-data-stack/#shared_store)  
 
 ## Pandas
+[Excel Diff Pandas](https://pbpython.com/excel-diff-pandas-update.html)  
 [Python Pandas: Tricks & Features You May Not Know](https://pycoders.com/link/521/bt0qtb8ar0)  
 [Reading/Writing CSV Files With Pandas](https://pycoders.com/link/304/bt0qtb8ar0)  
 [Diving Into Pandas Is Faster Than Reinventing It](https://pycoders.com/link/117/bt0qtb8ar0)  

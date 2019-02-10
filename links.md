@@ -7,6 +7,7 @@
 [Using your new Raspberry Pi 3 as a WiFi access point with hostapd](https://frillip.com/using-your-raspberry-pi-3-as-a-wifi-access-point-with-hostapd/)  
 
 ## Docker
+[Building Python Data Science Container Using Docker](https://hackernoon.com/building-python-data-science-container-using-docker-c8e346295669)  
 [How To Install and Use Docker on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04)  
 [Getting started with Docker](https://medium.com/@dkarlovi/applications-contain-yourselves-getting-started-with-docker-47cafb518bf1)  
 [Dockerizing Python Applications](https://pycoders.com/link/672/bt0qtb8ar0)  

@@ -1,5 +1,5 @@
 # Technical TODO  
-Take Papers off of Dropbox and add to links
+Review remaining Papers on Dropbox and add to links
 Convert sprint cards to matplot burndown
 Convert itrc_util to linux -> dropbox
 Display Raines properties on google maps  
@@ -15,6 +15,7 @@ Tutorials
 Water Test Improvement  
 - Find crossing lines (two lines and a rectangle)  
 - Adjust hough threshold  
+
 Make file stream that can go forward and back  
 Use threaded camera string  
 license plate  

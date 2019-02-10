@@ -3,7 +3,7 @@
 ![Brain Dump](brain_dump.png)
 
 ## Todo
-- [Techiical](/technical_todo.md)
+- [Technical](/technical_todo.md)
 - [Personal](/personal_todo.md)
 - [Technologies](/technologies.md)
 

@@ -1,4 +1,6 @@
 # Python
+[Python Requests](https://realpython.com/python-requests)  
+[Working With Files in Python](https://realpython.com/working-with-files-in-python)  
 [Speed Up Your Python Program With Concurrency](https://pycoders.com/link/683/bt0qtb8ar0)  
 [What I’ve Learned About Optimizing Python](https://pycoders.com/link/658/bt0qtb8ar0)  
 [Improve Your Code With Atomic Functions](https://pycoders.com/link/679/bt0qtb8ar0)  
@@ -66,6 +68,7 @@
 [PyCharm Tutorials - PyCharm - Confluence](http://confluence.jetbrains.com/display/PYH/PyCharm+Tutorials)  
 
 ### Jupyter
+[Jupyter Notebook Introduction](https://realpython.com/jupyter-notebook-introduction)  
 [Jupyter Notebook Viewer](http://nbviewer.jupyter.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)  
 [The IPython Notebook — IPython](http://ipython.org/notebook.html)  
 [A gallery of interesting IPython Notebooks · ipython/ipython Wiki](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)  
