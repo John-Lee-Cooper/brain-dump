@@ -4,6 +4,7 @@
 [Introducing the Open-Source Big Nerd Ranch Core Data Stack](https://www.bignerdranch.com/blog/introducing-the-big-nerd-ranch-core-data-stack/#shared_store)  
 
 ## Pandas
+[! Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428?source=linkShare-8a8b134a2c85-1549763977)  
 [Excel Diff Pandas](https://pbpython.com/excel-diff-pandas-update.html)  
 [Python Pandas: Tricks & Features You May Not Know](https://pycoders.com/link/521/bt0qtb8ar0)  
 [Reading/Writing CSV Files With Pandas](https://pycoders.com/link/304/bt0qtb8ar0)  
@@ -34,3 +35,4 @@
 ## Dask  
 [How to Run Parallel Data Analysis in Python using Dask Dataframes](https://towardsdatascience.com/trying-out-dask-dataframes-in-python-for-fast-data-analysis-in-parallel-aa960c18a915)  
 [Why every Data Scientist should use Dask – Towards Data Science](https://towardsdatascience.com/why-every-data-scientist-should-use-dask-81b2b850e15b)  
+

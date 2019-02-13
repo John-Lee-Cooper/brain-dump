@@ -23,3 +23,4 @@
 - [Git scenarios](/git.md)
 - [pyenv and pipenv](/pyenv.md)
 - [Markdown](/markdown.md)
+- [Emoji](/emoji.md)
