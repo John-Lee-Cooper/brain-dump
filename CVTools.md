@@ -54,3 +54,9 @@ Install:
 # 4. Color Space - Histograms
 
 # 5. Color types - Color Picker
+
+# Video Textures
+
+# Sudoku Solver  Maze Solver
+
+
