@@ -1,4 +1,5 @@
 # Python
+[How to Extend Python with C Code](https://medium.com/@matthiasbitzer94/how-to-extend-python-with-c-c-code-aa205417b2aa?source=linkShare-8a8b134a2c85-1550452972)  
 [termtosvg: Record Terminal Sessions as SVG Animations](https://pycoders.com/link/134/bt0qtb8ar0)  
 [Terminals Are Sexy](https://pycoders.com/link/405/bt0qtb8ar0)  
 [Comparing Python Virtual Environment Tools](https://towardsdatascience.com/comparing-python-virtual-environment-tools-9a6543643a44)  
@@ -23,6 +24,8 @@
 [Python Testing 101: Introduction to Testing](https://pycoders.com/link/173/bt0qtb8ar0)  
 [How to Publish a Python Package to PyPI](https://pycoders.com/link/152/bt0qtb8ar0)  
 [Writing Comments in Python (Guide)](https://pycoders.com/link/128/bt0qtb8ar0)  
+[Documentaiton](https://docs.python-guide.org/writing/documentation/)  
+[Generating code documentation](https://realpython.com/generating-code-documentation-with-pycco/)  
 [Python Interview Question Post- Mortem](https://pycoders.com/link/135/bt0qtb8ar0)  
 [Getting Started With Testing in Python](http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiNjIxNDUwMCIsImRlbGl2ZXJ5X2lkIjoiNDExNDU0ODM4MSIsInVybCI6Imh0dHBzOi8vcmVhbHB5dGhvbi5jb20vcHl0aG9uLXRlc3RpbmcvP19fcz13bW9mcGFtdmpxcDVkejdlZzNiOCJ9)  
 [pycon 2018 - YouTube](https://www.youtube.com/results?search_query=pycon+2018)  
@@ -59,6 +62,9 @@
 [Why You Should Be Using Pathlib](https://pycoders.com/link/508/bt0qtb8ar0)  
 [zulu: A Drop-In Replacement for Native Python Datetimes That Embraces UTC](https://pycoders.com/link/113/bt0qtb8ar0)  
 
+### Tools
+[Wily Code Complexity](https://www.podcastinit.com/wily-code-complexity-episode-195/)  
+[wytest Testmon](https://github.com/tarpas/pytest-testmon)  
 
 ### Python Blogs
 [10 python blogs worth following](http://freepythontips.wordpress.com/2013/07/31/10-python-blogs-worth-following/)  
@@ -72,6 +78,8 @@
 [PyCharm Tutorials - PyCharm - Confluence](http://confluence.jetbrains.com/display/PYH/PyCharm+Tutorials)  
 
 ### Jupyter
+[Interactive Controls for Jupyter Notebooks](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6?source=linkShare-8a8b134a2c85-1550444943)  
+[Advanced Jupyter Notebooks a Tutorial](https://towardsdatascience.com/advanced-jupyter-notebooks-a-tutorial-3569d8153057?source=linkShare-8a8b134a2c85-1550453257)  
 [Jupyter Notebook Introduction](https://realpython.com/jupyter-notebook-introduction)  
 [Jupyter Notebook Viewer](http://nbviewer.jupyter.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)  
 [The IPython Notebook — IPython](http://ipython.org/notebook.html)  
@@ -134,8 +142,12 @@
 [How to Create Animated Graphs in Python – Towards Data Science](https://towardsdatascience.com/how-to-create-animated-graphs-in-python-bb619cc2dec1)  
 [The Next Level of Data Visualization in Python – Towards Data Science](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)  
 [Data Visualization with Bokeh in Python, Part I Getting Started](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4)  
+[Introduction to Data Visualization in Python](https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed?source=linkShare-8a8b134a2c85-1550444191)  
+[Pyviz Simplifying The Data Visualisation Process in Python](https://towardsdatascience.com/pyviz-simplifying-the-data-visualisation-process-in-python-1b6d2cb728f1?source=linkShare-8a8b134a2c85-1550444639)  
+[The Simple Yet Practical Data Visualization Codes](https://towardsdatascience.com/the-simple-yet-practical-data-visualization-codes-bca99971cdb2?source=linkShare-8a8b134a2c85-1550453028)  
+
+
 
 ## Conda  
 [Why You Need Python Environments and How to Manage Them with Conda](https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)  
-
 

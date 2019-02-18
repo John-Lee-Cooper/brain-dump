@@ -1,4 +1,5 @@
 ## Welcome to [Brain Dump](https://john-lee-cooper.github.io/brain-dump/)
+My Personal Wiki
 
 ![Brain Dump](brain_dump.png)
 

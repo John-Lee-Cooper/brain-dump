@@ -1,5 +1,18 @@
 # Computer Vision Tools
 
+Goals:
+  Make usable tools
+  Force myself to structure my thinking about various topics
+    Get it up in the cloud instead of down on paper
+      Handwriting is attrocius
+      Too many devces - if it is not in the cloud it didn't happen
+      Make sure it is understandable
+  Explore and Utilize new python techniques and libraries
+    fstrings
+    data classes
+    multiprocess and ansc io
+    pyenv and pipenv
+
 Rules:
   Use fstrings
   Parameter entered via Command Line Arguments (click)
@@ -10,6 +23,13 @@ Rules:
   Code Repeated three or more times pulled into library functions
   Library functions have docstrings and doctests
   Library functions user types
+
+
+Anything that might be slow and can be done in parallel:
+  Multiprocessor for cup bound
+  Asynchronous io for io bound
+
+
 
 
 * Ubuntu 16.04, 18.04, Raspberry Pi
@@ -58,5 +78,6 @@ Install:
 # Video Textures
 
 # Sudoku Solver  Maze Solver
+
 
 

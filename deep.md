@@ -31,7 +31,6 @@
 [Light on Math Machine Learning Intuitive Guide to Convolution Neural Networks](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-convolution-neural-networks-e3f054dd5daa)  
 [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)  
 [Deep Learning Tips and Tricks – Towards Data Science](https://towardsdatascience.com/deep-learning-tips-and-tricks-1ef708ec5f53)  
-[A Comprehensive Design Guide for Image Classification CNNs](https://hackernoon.com/a-comprehensive-design-guide-for-image-classification-cnns-46091260fb92)  
 [A simple 2D CNN for MNIST digit recognition – Towards Data Science](https://towardsdatascience.com/a-simple-2d-cnn-for-mnist-digit-recognition-a998dbc1e79a)  
 [Coding Neural Network — Dropout – Towards Data Science](https://towardsdatascience.com/coding-neural-network-dropout-3095632d25ce)  
 [Understanding Convolutional Neural Networks – Towards Data Science](https://towardsdatascience.com/understanding-convolutional-neural-networks-221930904a8e)  
@@ -41,6 +40,10 @@
 [cs231n-CNNs : Free Download & Streaming : Internet Archive](https://archive.org/details/cs231n-CNNs)  
 
 ### Classification  
+[Five video classification methods implemented in Keras and TensorFlow](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5)  
+[A Comprehensive Design Guide for Image Classification CNNs](https://hackernoon.com/a-comprehensive-design-guide-for-image-classification-cnns-46091260fb92)  
+[How to Build the Best Image Classifier](https://medium.freecodecamp.org/how-to-build-the-best-image-classifier-3c72010b3d55?source=linkShare-8a8b134a2c85-1550444814)  
+[Build your First Image Classification Model in just 10 Minutes](https://medium.com/analytics-vidhya/build-your-first-image-classification-model-in-just-10-minutes-8227f8f542ef?source=linkShare-8a8b134a2c85-1550445024)  
 [Build Your First Deep Learning Classifier using TensorFlow Dog Breed Example](https://towardsdatascience.com/build-your-first-deep-learning-classifier-using-tensorflow-dog-breed-example-964ed0689430)  
 [Deep Learning for Image Recognition why it’s challenging, where we’ve been, and what’s next](https://towardsdatascience.com/deep-learning-for-image-classification-why-its-challenging-where-we-ve-been-and-what-s-next-93b56948fcef)  
 [Going deep into image classification – Towards Data Science](https://towardsdatascience.com/an-overview-of-image-classification-networks-3fb4ff6fa61b)  
@@ -50,11 +53,6 @@
 ### RNN  
 [Data2Vis Automatic Generation of Data Visualizations Using Sequence-to-Sequence Recurrent Neural…](https://towardsdatascience.com/data2vis-automatic-generation-of-data-visualizations-using-sequence-to-sequence-recurrent-neural-5da8e9d3e43e)  
 [Disassembling Recurrent Neural Networks – Veda Sadhak – Medium](https://medium.com/%40vsadhak/disassembling-recurrent-neural-networks-695ce75dddf6)  
-
-### Keras  
-[Five video classification methods implemented in Keras and TensorFlow](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5)  
-[Hyperparameter Optimization with Keras – Towards Data Science](https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53)  
-[How to do Unsupervised Clustering with Keras – Chengwei Zhang – Medium](https://medium.com/%40chengweizhang2012/how-to-do-unsupervised-clustering-with-keras-9e1284448437)  
 
 ### ObjectDetection  
 [Object detection in just 3 lines of R code using Tiny YOLO](https://heartbeat.fritz.ai/object-detection-in-just-3-lines-of-r-code-using-tiny-yolo-b5a16e50e8a0)  
@@ -72,9 +70,10 @@
 [Transfer Learning in Tensorflow Part 2 – Towards Data Science](https://towardsdatascience.com/transfer-learning-in-tensorflow-5d2b6ad495cb)  
 
 ### GAN  
+[Pix2pix GAN](https://towardsdatascience.com/pix2pix-869c17900998?source=linkShare-8a8b134a2c85-1550444473)  
 [GAN — CycleGAN (Playing magic with pictures) – Jonathan Hui – Medium](https://medium.com/%40jonathan_hui/gan-cyclegan-6a50e7600d7)  
 [Only Numpy Implementing GAN (General Adversarial Networks) and Adam Optimizer using Numpy with…](https://towardsdatascience.com/only-numpy-implementing-gan-general-adversarial-networks-and-adam-optimizer-using-numpy-with-2a7e4e032021)  
-[[ICLR][NVIDIA] Progressive generative adversarial networks (GANs) explained with art forgery — Part…](https://towardsdatascience.com/iclr-nvidia-progressive-generative-adversarial-networks-gans-explained-with-art-forgery-part-3ae040801761)  
+[ICLR NVIDIA Progressive generative adversarial networks (GANs) explained with art forgery — Part…](https://towardsdatascience.com/iclr-nvidia-progressive-generative-adversarial-networks-gans-explained-with-art-forgery-part-3ae040801761)  
 [Demystifying Generative Adversarial Networks – Towards Data Science](https://towardsdatascience.com/demystifying-generative-adversarial-networks-c076d8db8f44)  
 [Understanding and optimizing GANs (Going back to first principles)](https://towardsdatascience.com/understanding-and-optimizing-gans-going-back-to-first-principles-e5df8835ae18)  
 [Understanding GRU networks – Towards Data Science](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be)  

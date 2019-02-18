@@ -1,10 +1,12 @@
 ## Data
+[Quality Over Quantity Building The Perfect Data Science Project](https://towardsdatascience.com/quality-over-quantity-building-the-perfect-data-science-project-993ccc0b1241?source=linkShare-8a8b134a2c85-1550444990)  
 [Hitchhiker's guide to Exploratory Data Analysis – Towards Data Science](https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-6e8d896d3f7e)  
 [Understanding Descriptive Statistics – Towards Data Science](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291)  
 [Introducing the Open-Source Big Nerd Ranch Core Data Stack](https://www.bignerdranch.com/blog/introducing-the-big-nerd-ranch-core-data-stack/#shared_store)  
 
 ## Pandas
 [! Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428?source=linkShare-8a8b134a2c85-1549763977)  
+[Feature Selection with Pandas](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b?source=linkShare-8a8b134a2c85-1550431837)  
 [Excel Diff Pandas](https://pbpython.com/excel-diff-pandas-update.html)  
 [Python Pandas: Tricks & Features You May Not Know](https://pycoders.com/link/521/bt0qtb8ar0)  
 [Reading/Writing CSV Files With Pandas](https://pycoders.com/link/304/bt0qtb8ar0)  
@@ -20,11 +22,13 @@
 ### GeoPandas  
 [Getting Started on Geospatial Analysis with Python, GeoJSON and GeoPandas](https://www.twilio.com/blog/2017/08/geospatial-analysis-python-geojson-geopandas.html)  
 [Let’s make a map! Using Geopandas, Pandas and Matplotlib to make a Choropleth map](https://towardsdatascience.com/lets-make-a-map-using-geopandas-pandas-and-matplotlib-to-make-a-chloropleth-map-dddc31c1983d)  
-[Let’s make a map! Using Geopandas, Pandas and Matplotlib to make a Choropleth map2](https://towardsdatascience.com/lets-make-a-map-using-geopandas-pandas-and-matplotlib-to-make-a-chloropleth-map-dddc31c1983d)  
 [GeoPandas 101 Plot any data with a latitude and longitude on a map](https://towardsdatascience.com/geopandas-101-plot-any-data-with-a-latitude-and-longitude-on-a-map-98e01944b972)  
 [How to make a gif map using Python, Geopandas and Matplotlib](https://towardsdatascience.com/how-to-make-a-gif-map-using-python-geopandas-and-matplotlib-cd8827cefbc8)  
+[Using Openstreetmap Tiles for Machine Learning](https://towardsdatascience.com/using-openstreetmap-tiles-for-machine-learning-4a3e41bb3ea6?source=linkShare-8a8b134a2c85-1550444571)  
+[Heat Map your Google Payments with Python](https://towardsdatascience.com/heat-map-your-google-payments-with-python-54ed110854d?source=linkShare-8a8b134a2c85-1550453089)  
 
 ### Maps  
+[A Complete Guide to an Interactive Geographical Map using Python](https://towardsdatascience.com/a-complete-guide-to-an-interactive-geographical-map-using-python-f4c5197e23e0?source=linkShare-8a8b134a2c85-1550431912)  
 [Geographical Data Visualization with Mapbox – Hackers and Slackers](https://hackingandslacking.com/geographical-data-visualization-with-mapbox-6ef564ebc51e)  
 [Satellite Imagery analysis with Python – Analytics Vidhya – Medium](https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32)  
 [Visualizing Geographic Statistical Data with Google Maps](https://medium.com/%40nholmber/gmaps-data-visualization-2b7cc685012d)  

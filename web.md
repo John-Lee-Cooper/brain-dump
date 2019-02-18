@@ -7,6 +7,9 @@
 [Google Chart Tools — Google Developers](https://developers.google.com/chart/)  
 
 ### Flask
+[Manage Database Models with Flask Sqlalchemy](https://hackingandslacking.com/manage-database-models-with-flask-sqlalchemy-237135cbf7cc?source=linkShare-8a8b134a2c85-1550444534)  
+[Flask an Easy Access door to API Development](https://medium.com/@tusharseth93/flask-an-easy-access-door-to-api-development-2147ae694ceb?source=linkShare-8a8b134a2c85-1550444127)  
+[Python Plotting API Expose your Scientific Python Plots through a Flask API](https://towardsdatascience.com/python-plotting-api-expose-your-scientific-python-plots-through-a-flask-api-31ec7555c4a8?source=linkShare-8a8b134a2c85-1550453229)  
 [Deployment Options — Flask 0.9dev documentation](http://flask.pocoo.org/docs/deploying/)  
 [Developing RESTful Web APIs with Python, Flask and MongoDB // Speaker Deck](https://speakerdeck.com/u/nicola/p/developing-restful-web-apis-with-python-flask-and-mongodb)  
 [The Flask Mega-Tutorial, Part I: Hello, World! - miguelgrinberg.com](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)  
@@ -57,3 +60,7 @@
 [Getting Started - Google Maps JavaScript API v3 — Google Developers](https://developers.google.com/maps/documentation/javascript/tutorial)  
 [gmaps.js — Google Maps API with less pain and more fun](http://hpneo.github.com/gmaps/documentation.html)  
 [Home](http://www.opentripplanner.org/)  
+
+
+### SQL
+[Absolute Beginners Guide to SQL](https://medium.com/xavier-code21/absolute-beginners-guide-to-sql-601aad53f6c9?source=linkShare-8a8b134a2c85-1550453132)  

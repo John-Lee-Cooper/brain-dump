@@ -1,12 +1,15 @@
 # Bookmarks
 
 ## Raspberry pi
+[Raspberry pi Ifttt is there Power at Home](https://medium.com/@mntlmaxi/raspberry-pi-ifttt-is-there-power-at-home-fc6eab6b6816?source=linkShare-8a8b134a2c85-1550444707)  
 [How to make your own Python dev-server with Raspberry Pi](https://medium.freecodecamp.org/how-to-make-your-own-python-dev-server-with-raspberry-pi-37651156379f)  
 [Tutorial: Remote Development on Raspberry Pi - Help](https://www.jetbrains.com/help/pycharm/remote-development-on-raspberry-pi.html)  
 [Connect JetBrains PyCharm to Raspberry pi - Hackster.io](https://www.hackster.io/Jolley71717/connect-jetbrains-pycharm-to-raspberry-pi-72be15)  
 [Using your new Raspberry Pi 3 as a WiFi access point with hostapd](https://frillip.com/using-your-raspberry-pi-3-as-a-wifi-access-point-with-hostapd/)  
 
 ## Docker
+[Why Should You Switch to Docker and Kubernetes](https://hackernoon.com/why-should-you-switch-to-docker-and-kubernetes-c7f96eb7ef7d?source=linkShare-8a8b134a2c85-1550453165)  
+[Learn enough Docker to be Useful](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b0b44222eef5?source=linkShare-8a8b134a2c85-1550444849)  
 [Building Python Data Science Container Using Docker](https://hackernoon.com/building-python-data-science-container-using-docker-c8e346295669)  
 [How To Install and Use Docker on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04)  
 [Getting started with Docker](https://medium.com/@dkarlovi/applications-contain-yourselves-getting-started-with-docker-47cafb518bf1)  
@@ -51,6 +54,7 @@
 [MQTT Essentials Part 1: Introducing MQTT](http://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt)  
 
 ## Android
+[Profiling your App with Android Studio](https://heartbeat.fritz.ai/profiling-your-app-with-android-studio-7accc268cb98?source=linkShare-8a8b134a2c85-1550453296)  
 [Supporting Multiple Screens](https://developer.android.com/guide/practices/screens_support.html)  
 [Android Development](http://www.vogella.com/tutorials/android.html)  
 [Android Wi-Fi](https://www.tutorialspoint.com/android/android_wi_fi.htm)  
