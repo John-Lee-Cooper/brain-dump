@@ -132,5 +132,16 @@
 [Battlestar Galactica Vs Star Wars Vs Star Trek Vs Babylon 5](http://youtu.be/JXnPG19npW8)  
 [Princess Bride Lightsaber Battle](http://youtu.be/SWXcDZNgOWs)  
 [Political Borders of Europe from 1519 to 2006](http://youtu.be/nq0KNfS_M44)  
+
 [Build your First Image Classification Model in just 10 Minutes!](https://medium.com/analytics-vidhya/build-your-first-image-classification-model-in-just-10-minutes-8227f8f542ef)  
 [Fast.ai Lesson 1 on Google Colab (Free GPU) – Towards Data Science](https://towardsdatascience.com/fast-ai-lesson-1-on-google-colab-free-gpu-d2af89f53604)  
+
+[Mozart embarrasses Salieri](https://youtu.be/C1czzbk9ITk)  
+[Breakfast at Tiffany's - The Mean Reds](https://youtu.be/4jsUIgchHXU)  
+
+[Van Halen - Right Now](https://youtu.be/xEI7cTBVr2A)  
+[Tom Petty - Don't Come Around Here No More](https://youtu.be/h0JvF9vpqx8)  
+[Aerosmith - Janie's Got A Gun](https://youtu.be/RqQn2ADZE1A)  
+[Soundgarden - Black Hole Sun](https://youtu.be/3mbBbFH9fAg)  
+[Nirvana - Smells Like Teen Spirit](https://youtu.be/hTWKbfoikeg)  
+[Astrud Gilberto & Stan Getz - The Girl From Ipanema](https://www.youtube.com/watch?v=UJkxFhFRFDA&feature=share)  

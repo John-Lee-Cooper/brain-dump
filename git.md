@@ -397,3 +397,4 @@ First, you have to switch to the branch that has the commit. Copy the commit id 
 [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 [Git - GUI Clients](http://git-scm.com/downloads/guis)
+[What is Git how to use it why to use it](https://levelup.gitconnected.com/what-is-git-how-to-use-it-why-to-use-it-explained-in-depth-76a5066abaaa?source=linkShare-8a8b134a2c85-1550717474)   
