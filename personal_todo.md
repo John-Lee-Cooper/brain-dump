@@ -1,15 +1,15 @@
 # Personal TODO
-[ ] Back up Windows computer  
-[ ] Move onto Lenovo  
-[ ] Put all code into repos  
-[ ] GoPro  
-[ ] GT DVD Videos  
-[ ] Buy short hose for humidifier  
-[ ] Craftsman Vacuum Filter  
-[ ] Sharpie label screws  
-[ ] Seal shower  
-[ ] Fix weedeater and Lawn Mower?  
-[ ] Hummer and Bradley models  
+- [ ] Back up Windows computer  
+- [ ] Move onto Lenovo  
+- [ ] Put all code into repos  
+- [ ] GoPro  
+- [ ] GT DVD Videos  
+- [ ] Buy short hose for humidifier  
+- [ ] Craftsman Vacuum Filter  
+- [ ] Sharpie label screws  
+- [ ] Seal shower  
+- [ ] Fix weedeater and Lawn Mower?  
+- [ ] Hummer and Bradley models  
 
 ### Games  
 Risk  
