@@ -1,5 +1,8 @@
 # Bookmarks
 
+[bulletjournal](https://bulletjournal.com/pages/learn)  
+
+
 ## Raspberry pi
 [Raspberry pi Ifttt is there Power at Home](https://medium.com/@mntlmaxi/raspberry-pi-ifttt-is-there-power-at-home-fc6eab6b6816?source=linkShare-8a8b134a2c85-1550444707)  
 [How to make your own Python dev-server with Raspberry Pi](https://medium.freecodecamp.org/how-to-make-your-own-python-dev-server-with-raspberry-pi-37651156379f)  
