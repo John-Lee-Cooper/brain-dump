@@ -96,6 +96,7 @@
 [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)  
 [Unleash the power of Jupyter Notebooks – Towards Data Science](https://towardsdatascience.com/unleash-the-power-of-jupyter-notebooks-4ed452a47895)  
 [How to Setup Your JupyterLab Project Environment – Towards Data Science](https://towardsdatascience.com/how-to-setup-your-jupyterlab-project-environment-74909dade29b)  
+[How to Interact with Jupyter GUI](https://medium.com/@jdchipox/how-to-interact-with-jupyter-33a98686f24e)  
 
 
 ### QT

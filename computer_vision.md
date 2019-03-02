@@ -53,3 +53,8 @@
 
 ### OpenCV QT
 [Using OpenCV in Qt4 GUI using python | Intelligent Easy i.e.Sensor & Robot](http://www.iesensor.com/blog/2014/06/15/using-opencv-in-qt4-gui-using-python/)  
+[sepia filter opencv](http://amin-ahmadi.com/2016/03/24/sepia-filter-opencv/)  
+[how to record videos using opencv](http://amin-ahmadi.com/2016/04/04/how-to-record-videos-using-opencv/)  
+[how to read process and display videos using qt and opencv](http://amin-ahmadi.com/2018/03/29/how-to-read-process-and-display-videos-using-qt-and-opencv/)  
+[how to create an image classifier using qt opencv and tensorflow](http://amin-ahmadi.com/2018/03/15/how-to-create-an-image-classifier-using-qt-opencv-and-tensorflow/)  
+[best way to train and test haar or lbp classifiers](http://amin-ahmadi.com/2016/10/27/best-way-to-train-and-test-haar-or-lbp-classifiers/)  

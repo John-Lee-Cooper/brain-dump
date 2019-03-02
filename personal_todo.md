@@ -2,7 +2,7 @@
 - [ ] Back up Windows computer  
 - [ ] Move onto Lenovo  
 - [ ] Put all code into repos  
-- [ ] GoPro  
+- [x] GoPro  
 - [ ] GT DVD Videos  
 - [ ] Buy short hose for humidifier  
 - [ ] Craftsman Vacuum Filter  
@@ -19,20 +19,21 @@ SimStratego
 HexBoard  
 Clue (Flask)  
 - Motive  
-- Means weapon  
-- Opportunity room time  
+- Means (weapon)
+- Opportunity (room time)
 - People can lie (thief, affair)  
-- Murderer can lie  
+- Murderer can lie
 
 
 
 ## Career  
-Update Resume based on Georgia Tech  
-Update linked In  
-Interview book  
-Python or cv user group
-Docker Group
-Salary too low? Find out what you’re worth at work: https://usat.ly/2j2YPD5  
+- [ ] Update Resume based on Georgia Tech  
+- [ ] Update linked In  
+- [ ] Interview book  
+- [ ] Python or cv user group
+- [ ] Docker Group
+- [ ] Salary too low? Find out what you’re worth at work: https://usat.ly/2j2YPD5  
+
 
 ### Blacksburg
 [VT](https://listings.jobs.vt.edu/postings/search?utf8=%E2%9C%93&query=&query_v0_posted_at_date=&975=&976%5B%5D=1&2266%5B%5D=1&2684=&commit=Search)  

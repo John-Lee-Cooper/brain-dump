@@ -21,6 +21,8 @@ You can see all [Python machine learning posts here](http://machinelearningmaste
 [Watching Modern AI Methods in Action – Towards Data Science](https://towardsdatascience.com/watching-modern-ai-methods-in-action-929e106d6a7c)  
 
 ## Machine Learning
+
+:star: [Machine Learning in Python Step by Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)  
 [Machine Learning from First Principles](https://towardsdatascience.com/machine-learning-from-first-principles-51a5e75a3c47?source=linkShare-8a8b134a2c85-1550452947)  
 [4 Machine Learning Techniques with Python](https://medium.com/@rinu.gour123/4-machine-learning-techniques-with-python-ceee451b0085?source=linkShare-8a8b134a2c85-1550452893)  
 [Top 10 Machine Learning Algorithms](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)  

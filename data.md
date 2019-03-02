@@ -1,4 +1,5 @@
 ## Data
+[Cleaning and prepping data with python for data science best practices and helpful packages](https://medium.com/@rrfd/cleaning-and-prepping-data-with-python-for-data-science-best-practices-and-helpful-packages-af1edfbe2a3)  
 [Quality Over Quantity Building The Perfect Data Science Project](https://towardsdatascience.com/quality-over-quantity-building-the-perfect-data-science-project-993ccc0b1241?source=linkShare-8a8b134a2c85-1550444990)  
 [Hitchhiker's guide to Exploratory Data Analysis – Towards Data Science](https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-6e8d896d3f7e)  
 [Understanding Descriptive Statistics – Towards Data Science](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291)  

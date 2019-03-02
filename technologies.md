@@ -1,4 +1,10 @@
-# TODO  
+# Skills backlog
+
+Prioritize backlog once a week to once a month.
+    - Do I know what the topic is?
+    - Will it be useful to me in the medium-to-long term?
+    - Does it relate to what I’m working on now?
+
 
 convert sprint cards to matplot burndown
 image classification

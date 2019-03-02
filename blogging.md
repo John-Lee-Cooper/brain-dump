@@ -24,3 +24,40 @@ The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 ### Support or Contact
 Check out [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact).
 
+[favicon](https://medium.com/@LazaroIbanez/how-to-add-a-favicon-to-github-pages-403935604460)
+
+
+
+---------------------------------
+
+1. Be conversational
+
+Your writing should be in a conversational tone such that your readers will feel like you’re talking to them personally.
+
+
+2. Be straight to the point
+
+Time is precious and humans have an attention span of nine seconds on average.
+Don’t waste time with lengthy introductions or updates. Start making points and telling your story immediately to deliver what you’ve got for readers.
+This principle works well for crafting your headline to make readers feel it is worth their time to read your article by having a self-explanatory and conversational headline.
+Your article headlines play one of the most important factors to let readers decide if they want to click and read your articles.
+
+
+3. Be real, and tell stories
+
+Write what you know and be authentic. Authenticity always wins.
+Tell stories. Everyone likes stories.
+I often try my best to explain technical concepts through stories — be it my own story or others.
+
+
+4. Be receptive to feedback, including criticism
+
+Always try to seek feedback from your readers — be it positive or negative — to learn how to improve your writing.
+
+
+5. Be consistent
+
+Without consistency, your articles will have a hard time gaining traction and getting noticed by readers.
+A great piece of writing comes from practising the craft of writing consistently through continuous improvement.
+Being consistent also means not giving up despite any obstacles.
+It is hard to start writing everytime as you may feel like you have nothing to share.

@@ -382,6 +382,21 @@ First, you have to switch to the branch that has the commit. Copy the commit id 
 >  `git cherry-pick <commit-id>`
 
 
+--------------------------------------
+
+> git reset --hard HEAD— Discard staged and unstaged changes since the most recent commit.
+  Specify a different commit instead of HEAD to discard changes since that commit.
+  --hard specifies that both the staged and unstaged changes are discarded.
+
+> git checkout my_commit— Discard unstaged changes since my_commit.
+  HEAD is often used for my_commit to discard changes to your local working directory since the most recent commit.
+  checkout is best used for local-only undos. It doesn’t mess up the commit history from a remote branch that your collaborators are depending upon!
+  If you use checkout with a branch instead of a commit, HEAD is switched to the specified branch and the working directory is updated to match. This is the more common use of the checkout command.
+
+> git revert my_commit —Undo the effects of changes in my_commit. revert makes a new commit when it undoes the changes.
+  revert is safe for collaborative projects because it doesn’t overwrite history that other users’ branches might depend upon.
+
+--------------------------------------
 
 
 ## Rules
