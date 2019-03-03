@@ -1,9 +1,4 @@
 
-# Optimize
-[What I’ve Learned About Optimizing Python](https://pycoders.com/link/658/bt0qtb8ar0)  
-[Here’s how you can get a 2–6x speed-up on your data pre-processing with Python](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5)  
-[Speed Up Your Python Program With Concurrency](https://pycoders.com/link/683/bt0qtb8ar0)  
-
 # Python
 [How to Extend Python with C Code](https://medium.com/@matthiasbitzer94/how-to-extend-python-with-c-c-code-aa205417b2aa?source=linkShare-8a8b134a2c85-1550452972)  
 [termtosvg: Record Terminal Sessions as SVG Animations](https://pycoders.com/link/134/bt0qtb8ar0)  
@@ -56,12 +51,25 @@
 :star: [Click Completion](https://github.com/click-contrib/click-completion)  
 :star: [Python Itertools](https://kanoki.org/2019/02/08/python-itertools/)  
 [itertools — Functions creating iterators for efficient looping — Python 2.7.9 documentation](https://docs.python.org/2/library/itertools.html)  
-[Using Python’s Multiprocessing Module To Evaluate A Set of Algorithms Efficiently.](https://towardsdatascience.com/using-pythons-multiprocessing-module-to-evaluate-a-set-of-algorithms-efficiently-1412d29ff849)  
 [vispy](http://api.vispy.org/en/latest/)  
 [PyToolz API Documentation — Toolz 0.6.0 documentation](http://toolz.readthedocs.org/en/latest/)  
 [Python Requests](https://realpython.com/python-requests)  
 [Why You Should Be Using Pathlib](https://pycoders.com/link/508/bt0qtb8ar0)  
 [zulu: A Drop-In Replacement for Native Python Datetimes That Embraces UTC](https://pycoders.com/link/113/bt0qtb8ar0)  
+
+# Optimize
+[What I’ve Learned About Optimizing Python](https://pycoders.com/link/658/bt0qtb8ar0)  
+[Here’s how you can get a 2–6x speed-up on your data pre-processing with Python](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5)  
+[Speed Up Your Python Program With Concurrency](https://pycoders.com/link/683/bt0qtb8ar0)  
+[Using Python’s Multiprocessing Module To Evaluate A Set of Algorithms Efficiently.](https://towardsdatascience.com/using-pythons-multiprocessing-module-to-evaluate-a-set-of-algorithms-efficiently-1412d29ff849)  
+
+## Async
+[async programming in python with asyncio](https://dev.to/welldone2094/async-programming-in-python-with-asyncio-12dl)  
+[article/asyncio in python 3.7/](https://tryexceptpass.org/article/asyncio-in-37/)  
+[asynchronous constraint of memory allocationo](http://www.pythonsandbarracudas.com/blog/2015/12/3/asynchronous-constraint-of-memory-allocationo)  
+[asynchronous video capture in python with opencv/](http://blog.blitzblit.com/2017/12/24/asynchronous-video-capture-in-python-with-opencv/)  
+[async face recognition](https://github.com/dpdornseifer/async_face_recognition)  
+[video capture async](https://github.com/gilbertfrancois/video-capture-async)  
 
 ### Tools
 [Comparing Python Virtual Environment Tools](https://towardsdatascience.com/comparing-python-virtual-environment-tools-9a6543643a44)  

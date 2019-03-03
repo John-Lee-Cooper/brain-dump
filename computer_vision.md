@@ -6,6 +6,8 @@
 [A Doorbell With Facial Recognition – Mangesh Pise – Medium](https://medium.com/%40mppise/a-doorbell-with-facial-recognition-3b132bf9605)  
 [Real-time and video processing object detection using Tensorflow, OpenCV and Docker.](https://towardsdatascience.com/real-time-and-video-processing-object-detection-using-tensorflow-opencv-and-docker-2be1694726e5)  
 [How to build an image duplicate finder – Towards Data Science](https://towardsdatascience.com/how-to-build-an-image-duplicate-finder-f8714ddca9d2)  
+[building an interactive gui with opencv/](https://erget.wordpress.com/2014/03/13/building-an-interactive-gui-with-opencv/)  
+[machine learning for vehicle detection](https://towardsdatascience.com/machine-learning-for-vehicle-detection-fd0f968995cf)  
 
 ### Tutorial
 [OpenCV: OpenCV-Python Tutorials](http://docs.opencv.org/3.4.5/d6/d00/tutorial_py_root.html)  
@@ -14,8 +16,6 @@
 [OpenCV-Python: Contour features](http://opencvpython.blogspot.com/2012/04/contour-features.html)  
 
 ### Edge Detect
-[Image Gradients — OpenCV 3.0.0-dev documentation](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_gradients/py_gradients.html)  
-[Image Gradients — OpenCV-Python Tutorials 1 documentation](http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_imgproc/py_gradients/py_gradients.html)  
 [OpenCV2-Python/sobel.py at master · abidrahmank/OpenCV2-Python](https://github.com/abidrahmank/OpenCV2-Python/blob/master/Official_Tutorial_Python_Codes/3_imgproc/sobel.py)  
 [OpenCV-Python: Image Derivatives and its Applications](http://opencvpython.blogspot.com/2012/06/image-derivatives-sobel-and-scharr.html)  
 [Canny Edge Detection](https://cyroforge.wordpress.com/canny-edge-detection/)  
@@ -32,7 +32,12 @@
 [2.6. Image manipulation and processing using Numpy and Scipy — Scipy lecture notes](https://scipy-lectures.github.io/advanced/image_processing/index.html)  
 [Blob Detection Using OpenCV](http://www.learnopencv.com/blob-detection-using-opencv-python-c/)  
 
+### Face
+[image features.html](https://jakevdp.github.io/PythonDataScienceHandbook/05.14-image-features.html)  
+[traditional face detection python/#what is face detection](https://realpython.com/traditional-face-detection-python/#what-is-face-detection)  
+
 ### Tracking
+[object tracking and following with opencv python/](https://botforge.wordpress.com/2016/07/11/object-tracking-and-following-with-opencv-python/)  
 [Basic motion detection and tracking with Python and OpenCV - PyImageSearch](http://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/)  
 [Object Tracking using OpenCV (C++/Python)](https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/)  
 [Tracking moving object](http://vgg.fiit.stuba.sk/2015-02/tracking-moving-object/)  
