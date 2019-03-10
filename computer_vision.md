@@ -15,13 +15,6 @@
 ### Contours
 [OpenCV-Python: Contour features](http://opencvpython.blogspot.com/2012/04/contour-features.html)  
 
-### Edge Detect
-[OpenCV2-Python/sobel.py at master · abidrahmank/OpenCV2-Python](https://github.com/abidrahmank/OpenCV2-Python/blob/master/Official_Tutorial_Python_Codes/3_imgproc/sobel.py)  
-[OpenCV-Python: Image Derivatives and its Applications](http://opencvpython.blogspot.com/2012/06/image-derivatives-sobel-and-scharr.html)  
-[Canny Edge Detection](https://cyroforge.wordpress.com/canny-edge-detection/)  
-[Canny Tutorial](http://www.pages.drexel.edu/~nk752/cannyTut2.html)  
-[OpenCV: Canny Edge Detection](http://docs.opencv.org/master/da/d22/tutorial_py_canny.html#gsc.tab=0)  
-
 ### HOG  
 [Detecting objects in videos and camera feeds using Keras, OpenCV, and ImageAI](https://heartbeat.fritz.ai/detecting-objects-in-videos-and-camera-feeds-using-keras-opencv-and-imageai-c869fe1ebcdb)  
 
@@ -33,6 +26,8 @@
 [Blob Detection Using OpenCV](http://www.learnopencv.com/blob-detection-using-opencv-python-c/)  
 
 ### Face
+
+[Learn ABC of OpenCV while building a Face and Motion detector](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-8-1078eea3fdcb)  
 [image features.html](https://jakevdp.github.io/PythonDataScienceHandbook/05.14-image-features.html)  
 [traditional face detection python/#what is face detection](https://realpython.com/traditional-face-detection-python/#what-is-face-detection)  
 

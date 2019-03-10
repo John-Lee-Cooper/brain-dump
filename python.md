@@ -1,32 +1,6 @@
 
 # Python
-[How to Extend Python with C Code](https://medium.com/@matthiasbitzer94/how-to-extend-python-with-c-c-code-aa205417b2aa?source=linkShare-8a8b134a2c85-1550452972)  
-[termtosvg: Record Terminal Sessions as SVG Animations](https://pycoders.com/link/134/bt0qtb8ar0)  
-[Improve Your Code With Atomic Functions](https://pycoders.com/link/679/bt0qtb8ar0)  
-[What Python Habits Do You Wish You Unlearned Earlier?](https://pycoders.com/link/673/bt0qtb8ar0)  
-[What Should Be in the Python Standard Library?](https://pycoders.com/link/657/bt0qtb8ar0)  
-[Python Basics: A Practical Introduction to Python 3](https://pycoders.com/link/700/bt0qtb8ar0)  
-[Working With Files in Python](https://realpython.com/working-with-files-in-python)  
-[Filesystem Magic with Python](https://pycoders.com/link/685/bt0qtb8ar0)  
-[PyFilesystem: Filesystem Abstraction for Python](https://pycoders.com/link/677/bt0qtb8ar0)  
-[The Ultimate Guide to Python Type Checking](https://pycoders.com/link/651/bt0qtb8ar0)  
-[Next Steps with Python Type System – Daftcode Blog](https://blog.daftcode.pl/next-steps-with-python-type-system-efc4df5251c9)  
-[Setting Up Vim as a Python IDE](https://pycoders.com/link/636/bt0qtb8ar0)  
-[loguru: Python Logging Made (Stupidly) Simple](https://pycoders.com/link/380/bt0qtb8ar0)  
-[python-colorlog: Colored Formatter for Python’s Logging Module](https://pycoders.com/link/386/bt0qtb8ar0)  
-[Good logging practice in Python – Fang's coding note](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/)  
-[Distributing Standalone Python Applications](https://pycoders.com/link/605/bt0qtb8ar0)  
-[Sending Emails With Python](https://pycoders.com/link/424/bt0qtb8ar0)  
-[Continuous Integration With Python: An Introduction](https://pycoders.com/link/315/bt0qtb8ar0)  
-[Jenkins and Python](http://www.alexconrad.org/2011/10/jenkins-and-python.html)  
-[Python Testing 101: Introduction to Testing](https://pycoders.com/link/173/bt0qtb8ar0)  
-[Getting Started With Testing in Python](http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiNjIxNDUwMCIsImRlbGl2ZXJ5X2lkIjoiNDExNDU0ODM4MSIsInVybCI6Imh0dHBzOi8vcmVhbHB5dGhvbi5jb20vcHl0aG9uLXRlc3RpbmcvP19fcz13bW9mcGFtdmpxcDVkejdlZzNiOCJ9)  
-[How to Publish a Python Package to PyPI](https://pycoders.com/link/152/bt0qtb8ar0)  
-[PyPI - the Python Package Index : Python Package Index](https://pypi.python.org/pypi)  
-[Writing Comments in Python (Guide)](https://pycoders.com/link/128/bt0qtb8ar0)  
-[Documentaiton](https://docs.python-guide.org/writing/documentation/)  
-[Generating code documentation](https://realpython.com/generating-code-documentation-with-pycco/)  
-[Python Continuous Documentation - Rackspace Developer Center](http://developer.rackspace.com/blog/python-continuous-documentation.html?cm_mmc=SMBIB-_-NL-_-June2013-_-9&mkt_tok=3RkMMJWWfF9wsRonu6TNcu%2FhmjTEU5z16u8kWa62hp941El3fuXBP2XqjvpVQcNhPLjMRxEFEaBzxQpRAr2HfYNL6eVcCEQ%3D)  
+
 [IPython as a system shell — IPython 3.2.1 documentation](https://ipython.org/ipython-doc/3/interactive/shell.html)  
 [Python Interview Question Post- Mortem](https://pycoders.com/link/135/bt0qtb8ar0)  
 [pycon 2018 - YouTube](https://www.youtube.com/results?search_query=pycon+2018)  
@@ -40,11 +14,59 @@
 [Defining Traits: Initialization and Validation — Traits 4 User Manual](http://docs.enthought.com/traits/traits_user_manual/defining.html)  
 [Keyboard Control Functions — PyAutoGUI 1.0.0 documentation](https://pyautogui.readthedocs.io/en/latest/keyboard.html)  
 [PCAP Certification](https://pythoninstitute.org/pcap-certification-associate/)  
+[What Should Be in the Python Standard Library?](https://pycoders.com/link/657/bt0qtb8ar0)  
+[Python Basics: A Practical Introduction to Python 3](https://pycoders.com/link/700/bt0qtb8ar0)  
+[What Python Habits Do You Wish You Unlearned Earlier?](https://pycoders.com/link/673/bt0qtb8ar0)  
+[What’s __init__ for me – Towards Data Science](https://towardsdatascience.com/whats-init-for-me-d70a312da583)  
+
+[How to Extend Python with C Code](https://medium.com/@matthiasbitzer94/how-to-extend-python-with-c-c-code-aa205417b2aa?source=linkShare-8a8b134a2c85-1550452972)  
+
+[Record Terminal Sessions as SVG Animations](https://pycoders.com/link/134/bt0qtb8ar0)  
+
+[Improve Your Code With Atomic Functions](https://pycoders.com/link/679/bt0qtb8ar0)  
+
+[Setting Up Vim as a Python IDE](https://pycoders.com/link/636/bt0qtb8ar0)  
+
+[Sending Emails With Python](https://pycoders.com/link/424/bt0qtb8ar0)  
+
+### Type Checking
+[The Ultimate Guide to Python Type Checking](https://pycoders.com/link/651/bt0qtb8ar0)  
+[Next Steps with Python Type System – Daftcode Blog](https://blog.daftcode.pl/next-steps-with-python-type-system-efc4df5251c9)  
+
+### File System
+[Working With Files in Python](https://realpython.com/working-with-files-in-python)  
+[Filesystem Magic with Python](https://pycoders.com/link/685/bt0qtb8ar0)  
+[PyFilesystem: Filesystem Abstraction for Python](https://pycoders.com/link/677/bt0qtb8ar0)  
+
+### Logging
+[loguru: Python Logging Made (Stupidly) Simple](https://pycoders.com/link/380/bt0qtb8ar0)  
+[python-colorlog: Colored Formatter for Python’s Logging Module](https://pycoders.com/link/386/bt0qtb8ar0)  
+[Good logging practice in Python – Fang's coding note](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/)  
+
+### Continous Integration
+:star: [10 Steps to Set Up Your Python Project for Success](https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13)  
+[Continuous Integration With Python: An Introduction](https://pycoders.com/link/315/bt0qtb8ar0)  
+[Jenkins and Python](http://www.alexconrad.org/2011/10/jenkins-and-python.html)  
+
+### Testing
+[Python Testing 101: Introduction to Testing](https://pycoders.com/link/173/bt0qtb8ar0)  
+[Getting Started With Testing in Python](http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiNjIxNDUwMCIsImRlbGl2ZXJ5X2lkIjoiNDExNDU0ODM4MSIsInVybCI6Imh0dHBzOi8vcmVhbHB5dGhvbi5jb20vcHl0aG9uLXRlc3RpbmcvP19fcz13bW9mcGFtdmpxcDVkejdlZzNiOCJ9)  
+
+### Distributing and Publishing
+[Distributing Standalone Python Applications](https://pycoders.com/link/605/bt0qtb8ar0)  
+[How to Publish a Python Package to PyPI](https://pycoders.com/link/152/bt0qtb8ar0)  
+[PyPI - the Python Package Index : Python Package Index](https://pypi.python.org/pypi)  
+
+### Comments and Documentation
+[Writing Comments in Python (Guide)](https://pycoders.com/link/128/bt0qtb8ar0)  
+[Documentaiton](https://docs.python-guide.org/writing/documentation/)  
+[Generating code documentation](https://realpython.com/generating-code-documentation-with-pycco/)  
+[Python Continuous Documentation - Rackspace Developer Center](http://developer.rackspace.com/blog/python-continuous-documentation.html?cm_mmc=SMBIB-_-NL-_-June2013-_-9&mkt_tok=3RkMMJWWfF9wsRonu6TNcu%2FhmjTEU5z16u8kWa62hp941El3fuXBP2XqjvpVQcNhPLjMRxEFEaBzxQpRAr2HfYNL6eVcCEQ%3D)  
+
 [Automated Feature Engineering in Python – Towards Data Science](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)  
 [Importing Data in Python – Towards Data Science](https://towardsdatascience.com/importing-data-in-python-f6602add57b7)  
 [Running Chi-Square Tests with Die Roll Data in Python](https://towardsdatascience.com/running-chi-square-tests-in-python-with-die-roll-data-b9903817c51b)  
 [Extracting and Transforming Data in Python – Towards Data Science](https://towardsdatascience.com/extracting-and-transforming-data-in-python-63291f63d350)  
-[What’s __init__ for me – Towards Data Science](https://towardsdatascience.com/whats-init-for-me-d70a312da583)  
 [Getting started with Elasticsearch in Python – Towards Data Science](https://towardsdatascience.com/getting-started-with-elasticsearch-in-python-c3598e718380)  
 
 ### Libraries
@@ -58,12 +80,14 @@
 [zulu: A Drop-In Replacement for Native Python Datetimes That Embraces UTC](https://pycoders.com/link/113/bt0qtb8ar0)  
 
 # Optimize
+[Speedy CV Pipelines Using Parallelism](https://towardsdatascience.com/speedy-cv-pipelines-using-parallelism-d7bebad2ff5f)  
 [What I’ve Learned About Optimizing Python](https://pycoders.com/link/658/bt0qtb8ar0)  
 [Here’s how you can get a 2–6x speed-up on your data pre-processing with Python](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5)  
 [Speed Up Your Python Program With Concurrency](https://pycoders.com/link/683/bt0qtb8ar0)  
 [Using Python’s Multiprocessing Module To Evaluate A Set of Algorithms Efficiently.](https://towardsdatascience.com/using-pythons-multiprocessing-module-to-evaluate-a-set-of-algorithms-efficiently-1412d29ff849)  
 
 ## Async
+[threaded-asynchronous-magic-and-how-to-wield-it](https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32)  
 [async programming in python with asyncio](https://dev.to/welldone2094/async-programming-in-python-with-asyncio-12dl)  
 [article/asyncio in python 3.7/](https://tryexceptpass.org/article/asyncio-in-37/)  
 [asynchronous constraint of memory allocationo](http://www.pythonsandbarracudas.com/blog/2015/12/3/asynchronous-constraint-of-memory-allocationo)  

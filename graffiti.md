@@ -124,7 +124,6 @@ Always go to other people's funerals, otherwise they won't come to yours.	Yogi B
 Always look out for #1...but don't step in #2 either.
 Always remember that you are unique.  Just like everyone else.
 Always remember to pillage BEFORE you burn.
-Always remember you're unique... Just like everyone else 
 Always try to do things in chronological order; it's less confusing that way.
 Ambition is a poor excuse for not having sense enough to be lazy.	Charlie McCarthy
 America is like a melting pot.  The people at the bottom get burned, and the scum floats to the top.	Charlie King
@@ -370,7 +369,7 @@ Gentlemen prefer blondes, but marry brunettes.	Anita Loos
 Get forgiveness now - tomorrow you may no longer feel guilty.
 Give a man a free hand and he'll run it all over you.	Mae West
 Give a man a match and he'll be warm for an hour... Set him on fire and he'll be warm for the rest of his life.
-Give him 2.54 cm, and he'll take 1.61 km. (an inch, a mile)
+Give him 2.54 cm, and he'll take 1.61 km.
 Give me ambiguity or give me something else.
 Give me the Luxuries, and the Hell with the Necessities!
 Give your child mental blocks for Christmas.
@@ -450,7 +449,6 @@ I am a believer in punctuality though it makes me very lonely.	Edward Verral Luc
 I am a deeply superficial person.	Andy Warhol
 I am a kind of paranoiac in reverse.  I suspect people of plotting to make me happy.	J. D. Salinger
 I am always ready to learn, although I do not always like being taught.	Winston Churchill
-I am at two with nature.	Woody Allen
 I am at two with nature.	Woody Allen 
 I am free of all prejudices.  I hate every one equally.	W. C. Fields
 I am in favor of kissing ladies' hands.  After all, one must start somewhere.
@@ -522,7 +520,6 @@ I like to skate on the other side of the ice.  Steven Wright
 I like work; it fascinates me; I can sit and look at it for hours.	Jermoe K. Jerome
 I lost my phone number.  Can I have yours?
 I love deadlines.  I like the whooshing sound they make as they fly by.	Douglas Adams
-I love deadlines. I like the whooshing sound they make as they fly by.	Douglas Adams 
 I may not be totally perfect, but parts of me are excellent.	Ashleigh Brilliant
 I never forget a face, but in your case I'll be glad to make an exception.	Groucho Marx
 I never repeat gossip, so please listen carefully the first time.
@@ -647,7 +644,6 @@ If you think the problem is bad now, just wait until we've solved it.	Arthur Kas
 If you took all the economists in the world and laid them end-to-end, it would be a pretty good idea.	Anonymous
 If you try to please everybody, nobody will like it.
 Ignorance is when you don't know anything and somebody finds it out.
-I'll beat him within 25.4 mm of his life. (an inch)
 I'll have what the gentleman on the floor is having.	Shoe
 Illegal aliens have always been a problem in the United States. Ask any Indian.
 Illiterate?  Write for help!
@@ -1143,7 +1139,7 @@ There are three kinds of lies: lies, damned lies, and statistics.	Benjamin Disra
 There are three kinds of people: those who can count and those who can't.
 There are three social classes in America: upper middle class, middle class, and lower middle class.	Miss Manners
 There are three ways to get something done: do it yourself, hire someone, or forbid your kids to do it.
-There are two different types of people in this world. 1) Those who finish what they start. 
+There are two types of people in this world. 1) Those who finish what they start. 
 There are two kinds of people in this world, and I am one of them.	 Dave Barry
 There are two kinds of people, those who finish what they start and so on.	Robert Byrne
 There are two major products to come out of Berekley:  LSD and UNIX.  We don't believe this to be a coincidence.

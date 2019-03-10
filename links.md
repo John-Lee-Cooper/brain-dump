@@ -1,6 +1,7 @@
 # Bookmarks
 
 [bulletjournal](https://bulletjournal.com/pages/learn)  
+[How to Approach Problems in Development (and Pretty Much Everywhere Else)](https://weblogs.asp.net/rweigelt/how-to-approach-problems-in-development-and-pretty-much-everywhere-else)  
 
 
 ## Raspberry pi
