@@ -2,6 +2,7 @@
 
 [bulletjournal](https://bulletjournal.com/pages/learn)  
 [How to Approach Problems in Development (and Pretty Much Everywhere Else)](https://weblogs.asp.net/rweigelt/how-to-approach-problems-in-development-and-pretty-much-everywhere-else)  
+[Which Free GPU Provider is Tops?](https://towardsdatascience.com/kaggle-vs-colab-faceoff-which-free-gpu-provider-is-tops-d4f0cd625029?source=safariShare-8a8b134a2c85-1553349799)      
 
 
 ## Raspberry pi

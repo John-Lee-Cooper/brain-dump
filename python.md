@@ -80,6 +80,7 @@
 [zulu: A Drop-In Replacement for Native Python Datetimes That Embraces UTC](https://pycoders.com/link/113/bt0qtb8ar0)  
 
 # Optimize
+[Make Your Python Workers Scale Dynamically](https://dzone.com/articles/how-to-make-your-python-workers-scale-dynamically) 
 [Speedy CV Pipelines Using Parallelism](https://towardsdatascience.com/speedy-cv-pipelines-using-parallelism-d7bebad2ff5f)  
 [What I’ve Learned About Optimizing Python](https://pycoders.com/link/658/bt0qtb8ar0)  
 [Here’s how you can get a 2–6x speed-up on your data pre-processing with Python](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5)  
@@ -87,7 +88,7 @@
 [Using Python’s Multiprocessing Module To Evaluate A Set of Algorithms Efficiently.](https://towardsdatascience.com/using-pythons-multiprocessing-module-to-evaluate-a-set-of-algorithms-efficiently-1412d29ff849)  
 
 ## Async
-[threaded-asynchronous-magic-and-how-to-wield-it](https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32)  
+[Threaded Asynchronous Magic and How to Wield It](https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32)
 [async programming in python with asyncio](https://dev.to/welldone2094/async-programming-in-python-with-asyncio-12dl)  
 [article/asyncio in python 3.7/](https://tryexceptpass.org/article/asyncio-in-37/)  
 [asynchronous constraint of memory allocationo](http://www.pythonsandbarracudas.com/blog/2015/12/3/asynchronous-constraint-of-memory-allocationo)  
@@ -96,6 +97,7 @@
 [video capture async](https://github.com/gilbertfrancois/video-capture-async)  
 
 ### Tools
+[Simplify Your Python Developer Environment](https://medium.com/homeaway-tech-blog/simplify-your-python-developer-environment-aba90f32dddb)  
 [Comparing Python Virtual Environment Tools](https://towardsdatascience.com/comparing-python-virtual-environment-tools-9a6543643a44)  
 [Wily Code Complexity](https://www.podcastinit.com/wily-code-complexity-episode-195/)  
 [wytest Testmon](https://github.com/tarpas/pytest-testmon)  
@@ -165,6 +167,7 @@
 
 
 ### Plotting  
+[Advanced Visualization for Data Scientists with Matplotlib](https://medium.com/sfu-big-data/advanced-visualization-for-data-scientists-with-matplotlib-15c28863c41c?source=safariShare-8a8b134a2c85-1553350259)
 [Simple Method of Creating Animated Graphs – Towards Data Science](https://towardsdatascience.com/simple-method-of-creating-animated-graphs-127c11f58cc5)  
 [5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)  
 [“Artist” in Matplotlib — something I wanted to know before spending tremendous hours on googling…](https://towardsdatascience.com/artist-in-matplotlib-something-i-wanted-to-know-before-spending-tremendous-hours-on-googling-ca3ab05ab08d)  

@@ -6,6 +6,7 @@
 [Introducing the Open-Source Big Nerd Ranch Core Data Stack](https://www.bignerdranch.com/blog/introducing-the-big-nerd-ranch-core-data-stack/#shared_store)  
 
 ## Pandas
+[Did You Know Pandas Can Do So Much?](https://medium.com/fintechexplained/did-you-know-pandas-can-do-so-much-f65dc7db3051?source=safariShare-8a8b134a2c85-1553350499)
 [! Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428?source=linkShare-8a8b134a2c85-1549763977)  
 [Feature Selection with Pandas](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b?source=linkShare-8a8b134a2c85-1550431837)  
 [Excel Diff Pandas](https://pbpython.com/excel-diff-pandas-update.html)  
