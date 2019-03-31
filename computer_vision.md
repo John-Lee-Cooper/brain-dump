@@ -1,6 +1,5 @@
 # Computer Vision
-[Which Free GPU Provider is Tops?](https://towardsdatascience.com/kaggle-vs-colab-faceoff-which-free-gpu-provider-is-tops-d4f0cd625029?source=safariShare-8a8b134a2c85-1553349799)      
-[Speedy CV Pipelines Using Parallelism](https://towardsdatascience.com/sp
+[Speedy CV Pipelines Using Parallelism](https://towardsdatascience.com/sp)  
 [The 5 Trends That Dominated Computer Vision in 2018](https://heartbeat.fritz.ai/the-5-trends-that-dominated-computer-vision-in-2018-de38fbb9bd86)  
 [The 5 Computer Vision Techniques That Will Change How You See The World](https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b)  
 [ Releasing “Supervisely Person” dataset for teaching machines to segment humans](https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469)  
@@ -46,11 +45,6 @@
 [Watermarking images with OpenCV and Python - PyImageSearch](https://www.pyimagesearch.com/2016/04/25/watermarking-images-with-opencv-and-python/)  
 [Chapter 7. Automatic color adjustments](https://pippin.gimp.org/image-processing/chapter-automaticadjustments.html)  
 [Python Programming Tutorials](https://pythonprogramming.net/raspberry-pi-camera-opencv-face-detection-tutorial/)  
-
-### Plot 
-[Top 50 matplotlib Visualizations - The Master Plots (w/ Full Python Code) | ML+](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)  
-[Python Matplotlib | Data visualizations In Python With Matplotlib | Edureka](https://www.edureka.co/blog/python-matplotlib-tutorial/)  
-[fontweight](https://matplotlib.org/api/font_manager_api.html)  
 
 ### OpenCV QT
 [Using OpenCV in Qt4 GUI using python | Intelligent Easy i.e.Sensor & Robot](http://www.iesensor.com/blog/2014/06/15/using-opencv-in-qt4-gui-using-python/)  

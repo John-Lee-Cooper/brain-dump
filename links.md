@@ -13,6 +13,9 @@
 [Using your new Raspberry Pi 3 as a WiFi access point with hostapd](https://frillip.com/using-your-raspberry-pi-3-as-a-wifi-access-point-with-hostapd/)  
 
 ## Docker
+
+:star:[Using Ephermeral Docker Containers as CLI Applications](https://preslav.me/2019/03/18/using-ephemeral-docker-containers-as-cli-applications/)  
+[Elegantly activating a virtualenv in Docker](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/)  
 [Set up Continuous Deployment in your Home Project](https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed)  
 [Why Should You Switch to Docker and Kubernetes](https://hackernoon.com/why-should-you-switch-to-docker-and-kubernetes-c7f96eb7ef7d?source=linkShare-8a8b134a2c85-1550453165)  
 [Learn enough Docker to be Useful](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b0b44222eef5?source=linkShare-8a8b134a2c85-1550444849)  

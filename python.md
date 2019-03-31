@@ -88,13 +88,15 @@
 [Using Python’s Multiprocessing Module To Evaluate A Set of Algorithms Efficiently.](https://towardsdatascience.com/using-pythons-multiprocessing-module-to-evaluate-a-set-of-algorithms-efficiently-1412d29ff849)  
 
 ## Async
-[Threaded Asynchronous Magic and How to Wield It](https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32)
+[Threaded Asynchronous Magic and How to Wield It](https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32)  
 [async programming in python with asyncio](https://dev.to/welldone2094/async-programming-in-python-with-asyncio-12dl)  
 [article/asyncio in python 3.7/](https://tryexceptpass.org/article/asyncio-in-37/)  
 [asynchronous constraint of memory allocationo](http://www.pythonsandbarracudas.com/blog/2015/12/3/asynchronous-constraint-of-memory-allocationo)  
 [asynchronous video capture in python with opencv/](http://blog.blitzblit.com/2017/12/24/asynchronous-video-capture-in-python-with-opencv/)  
 [async face recognition](https://github.com/dpdornseifer/async_face_recognition)  
 [video capture async](https://github.com/gilbertfrancois/video-capture-async)  
+[Async/await for wxPython](https://medium.com/@abulka/async-await-for-wxpython-c78c667e0872)
+
 
 ### Tools
 [Simplify Your Python Developer Environment](https://medium.com/homeaway-tech-blog/simplify-your-python-developer-environment-aba90f32dddb)  
@@ -167,7 +169,10 @@
 
 
 ### Plotting  
-[Advanced Visualization for Data Scientists with Matplotlib](https://medium.com/sfu-big-data/advanced-visualization-for-data-scientists-with-matplotlib-15c28863c41c?source=safariShare-8a8b134a2c85-1553350259)
+[Top 50 matplotlib Visualizations - The Master Plots (w/ Full Python Code) | ML+](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)  
+[Python Matplotlib | Data visualizations In Python With Matplotlib | Edureka](https://www.edureka.co/blog/python-matplotlib-tutorial/)  
+[fontweight](https://matplotlib.org/api/font_manager_api.html)  
+[Advanced Visualization for Data Scientists with Matplotlib](https://medium.com/sfu-big-data/advanced-visualization-for-data-scientists-with-matplotlib-15c28863c41c?source=safariShare-8a8b134a2c85-1553350259)  
 [Simple Method of Creating Animated Graphs – Towards Data Science](https://towardsdatascience.com/simple-method-of-creating-animated-graphs-127c11f58cc5)  
 [5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)  
 [“Artist” in Matplotlib — something I wanted to know before spending tremendous hours on googling…](https://towardsdatascience.com/artist-in-matplotlib-something-i-wanted-to-know-before-spending-tremendous-hours-on-googling-ca3ab05ab08d)  
