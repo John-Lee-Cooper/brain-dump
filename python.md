@@ -1,6 +1,7 @@
 
 # Python
 
+[Ensuring Clean Code: A Look at Python, Parameterized](https://www.toptal.com/python/python-parameterized-design-patterns) 
 [IPython as a system shell — IPython 3.2.1 documentation](https://ipython.org/ipython-doc/3/interactive/shell.html)  
 [Python Interview Question Post- Mortem](https://pycoders.com/link/135/bt0qtb8ar0)  
 [pycon 2018 - YouTube](https://www.youtube.com/results?search_query=pycon+2018)  
@@ -39,6 +40,7 @@
 [PyFilesystem: Filesystem Abstraction for Python](https://pycoders.com/link/677/bt0qtb8ar0)  
 
 ### Logging
+[Python Logging: An In-Depth Tutorial](https://www.toptal.com/python/in-depth-python-logging)  
 [loguru: Python Logging Made (Stupidly) Simple](https://pycoders.com/link/380/bt0qtb8ar0)  
 [python-colorlog: Colored Formatter for Python’s Logging Module](https://pycoders.com/link/386/bt0qtb8ar0)  
 [Good logging practice in Python – Fang's coding note](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/)  
