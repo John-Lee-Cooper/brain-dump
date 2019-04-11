@@ -1,7 +1,7 @@
 
 # Python
 
-[Ensuring Clean Code: A Look at Python, Parameterized](https://www.toptal.com/python/python-parameterized-design-patterns) 
+[Ensuring Clean Code: A Look at Python, Parameterized](https://www.toptal.com/python/python-parameterized-design-patterns)  
 [IPython as a system shell — IPython 3.2.1 documentation](https://ipython.org/ipython-doc/3/interactive/shell.html)  
 [Python Interview Question Post- Mortem](https://pycoders.com/link/135/bt0qtb8ar0)  
 [pycon 2018 - YouTube](https://www.youtube.com/results?search_query=pycon+2018)  
@@ -18,7 +18,7 @@
 [What Should Be in the Python Standard Library?](https://pycoders.com/link/657/bt0qtb8ar0)  
 [Python Basics: A Practical Introduction to Python 3](https://pycoders.com/link/700/bt0qtb8ar0)  
 [What Python Habits Do You Wish You Unlearned Earlier?](https://pycoders.com/link/673/bt0qtb8ar0)  
-[What’s __init__ for me – Towards Data Science](https://towardsdatascience.com/whats-init-for-me-d70a312da583)  
+[What’s init for me – Towards Data Science](https://towardsdatascience.com/whats-init-for-me-d70a312da583)  
 
 [How to Extend Python with C Code](https://medium.com/@matthiasbitzer94/how-to-extend-python-with-c-c-code-aa205417b2aa?source=linkShare-8a8b134a2c85-1550452972)  
 
