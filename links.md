@@ -14,6 +14,7 @@
 
 ## Docker
 
+[A beginner’s guide to Docker — how to create your first Docker application](https://medium.freecodecamp.org/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f)  
 :star:[Using Ephermeral Docker Containers as CLI Applications](https://preslav.me/2019/03/18/using-ephemeral-docker-containers-as-cli-applications/)  
 [Elegantly activating a virtualenv in Docker](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/)  
 [Set up Continuous Deployment in your Home Project](https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed)  

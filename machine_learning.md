@@ -42,6 +42,7 @@ You can see all [Python machine learning posts here](http://machinelearningmaste
 [Common Patterns for Analyzing Data – Towards Data Science](https://towardsdatascience.com/common-patterns-for-analyzing-data-da1908640641)  
 [Dealing with Imbalanced Classes in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2)  
 [Machine Learning Rules in a Nutshell – Towards Data Science](https://towardsdatascience.com/machine-learning-rules-in-a-nutshell-dfc3e6839163)  
+[Markov Chain Monte Carlo in Python ](https://towardsdatascience.com/markov-chain-monte-carlo-in-python-44f7e609be98)  
 [Part of Speech Tagging with Hidden Markov Chain Models](https://towardsdatascience.com/part-of-speech-tagging-with-hidden-markov-chain-models-e9fccc835c0e)  
 [Building Prediction APIs in Python (Part 1) Series Introduction & Basic Example](https://towardsdatascience.com/building-prediction-apis-in-python-part-1-series-introduction-basic-example-fe89e12ffbd3)  
 [A Tour of The Top 10 Algorithms for Machine Learning Newbies](https://medium.com/cracking-the-data-science-interview/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-7228aa8ef541)  

@@ -405,6 +405,7 @@ First, you have to switch to the branch that has the commit. Copy the commit id 
 3. Use Pull Requests to merge code to Master
 
 ## Git Links
+[Intro to Interactive Rebasing in Git and Customizing Vim Preferences](https://medium.com/@lucaspenzeymoog/intro-to-interactive-rebasing-in-git-and-customizing-vim-preferences-b6e2f0309e31)  
 [git-and-github-tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 [git - the simple guide](http://rogerdudler.github.io/git-guide/)

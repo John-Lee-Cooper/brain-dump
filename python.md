@@ -1,6 +1,9 @@
 
 # Python
 
+[Introduction to functional programming with Python examples](https://itnext.io/introduction-to-functional-programming-with-python-examples-83f33308856a)  
+[36 Amazing Python Open Source Projects](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450)  
+[Edit your videos AUTOMATICALLY with this Python code](https://towardsdatascience.com/edit-your-videos-automatically-with-this-python-code-c704cc413a1)  
 [Ensuring Clean Code: A Look at Python, Parameterized](https://www.toptal.com/python/python-parameterized-design-patterns)  
 [IPython as a system shell — IPython 3.2.1 documentation](https://ipython.org/ipython-doc/3/interactive/shell.html)  
 [Python Interview Question Post- Mortem](https://pycoders.com/link/135/bt0qtb8ar0)  
@@ -171,6 +174,7 @@
 
 
 ### Plotting  
+[Animations with Matplotlib](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)  
 [Top 50 matplotlib Visualizations - The Master Plots (w/ Full Python Code) | ML+](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)  
 [Python Matplotlib | Data visualizations In Python With Matplotlib | Edureka](https://www.edureka.co/blog/python-matplotlib-tutorial/)  
 [fontweight](https://matplotlib.org/api/font_manager_api.html)  
