@@ -22,6 +22,8 @@
 [The Simple Yet Practical Data Cleaning Codes – Towards Data Science](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)  
 
 ### GeoPandas  
+[Plotting business locations on maps using multiple Plotting libraries in Python](https://towardsdatascience.com/plotting-business-locations-on-maps-using-multiple-plotting-libraries-in-python-45a00ea770af)  
+[Making 3 Easy Maps With Python](https://towardsdatascience.com/making-3-easy-maps-with-python-fb7dfb1036?source=safariShare-8a8b134a2c85-1557002600)  
 [Getting Started on Geospatial Analysis with Python, GeoJSON and GeoPandas](https://www.twilio.com/blog/2017/08/geospatial-analysis-python-geojson-geopandas.html)  
 [Let’s make a map! Using Geopandas, Pandas and Matplotlib to make a Choropleth map](https://towardsdatascience.com/lets-make-a-map-using-geopandas-pandas-and-matplotlib-to-make-a-chloropleth-map-dddc31c1983d)  
 [GeoPandas 101 Plot any data with a latitude and longitude on a map](https://towardsdatascience.com/geopandas-101-plot-any-data-with-a-latitude-and-longitude-on-a-map-98e01944b972)  

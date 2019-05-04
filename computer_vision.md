@@ -1,4 +1,6 @@
 # Computer Vision
+[A Beginner’s Guide to Setting up OpenCV Android Library on Android Studio](https://android.jlelse.eu/a-beginners-guide-to-setting-up-opencv-android-library-on-android-studio-19794e220f3c)  
+[Setting Up a Simple OCR Server](https://realpython.com/setting-up-a-simple-ocr-server/)  
 [Finding Lane Lines — Simple Pipeline For Lane Detection](https://towardsdatascience.com/finding-lane-lines-simple-pipeline-for-lane-detection-d02b62e7572b)  
 [Visual Deep Computer Vision](https://towardsdatascience.com/visual-deep-computer-vision-f1e9fcca8f3b)  
 [Which Free GPU Provider is Tops?](https://towardsdatascience.com/kaggle-vs-colab-faceoff-which-free-gpu-provider-is-tops-d4f0cd625029?source=safariShare-8a8b134a2c85-1553349799) 
