@@ -1,13 +1,12 @@
-
 # Python
 
-[Introduction to functional programming with Python examples](https://itnext.io/introduction-to-functional-programming-with-python-examples-83f33308856a)  
 [36 Amazing Python Open Source Projects](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450)  
 [Edit your videos AUTOMATICALLY with this Python code](https://towardsdatascience.com/edit-your-videos-automatically-with-this-python-code-c704cc413a1)  
 [Ensuring Clean Code: A Look at Python, Parameterized](https://www.toptal.com/python/python-parameterized-design-patterns)  
 [IPython as a system shell — IPython 3.2.1 documentation](https://ipython.org/ipython-doc/3/interactive/shell.html)  
 [Python Interview Question Post- Mortem](https://pycoders.com/link/135/bt0qtb8ar0)  
 [pycon 2018 - YouTube](https://www.youtube.com/results?search_query=pycon+2018)  
+[Introduction to functional programming with Python examples](https://itnext.io/introduction-to-functional-programming-with-python-examples-83f33308856a)  
 [Python Tutorials – Real Python](https://realpython.com/)  
 [Python Programming Language -- Official Website](https://www.python.org/)  
 [The definitive guide on how to use static, class or abstract methods in Python](http://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods)  
@@ -33,6 +32,8 @@
 
 [Sending Emails With Python](https://pycoders.com/link/424/bt0qtb8ar0)  
 
+[faulthandler — Dump the Python traceback — Python 3.7.3 documentation](https://docs.python.org/3/library/faulthandler.html)  
+
 ### Type Checking
 [The Ultimate Guide to Python Type Checking](https://pycoders.com/link/651/bt0qtb8ar0)  
 [Next Steps with Python Type System – Daftcode Blog](https://blog.daftcode.pl/next-steps-with-python-type-system-efc4df5251c9)  
@@ -54,6 +55,9 @@
 [Jenkins and Python](http://www.alexconrad.org/2011/10/jenkins-and-python.html)  
 
 ### Testing
+
+[Writing Testable Code – Feedzai Techblog](https://medium.com/feedzaitech/writing-testable-code-b3201d4538eb?source=safariShare-8a8b134a2c85-1557003256)  
+[Welcome to Hypothesis! — Hypothesis 4.22.0 documentation](https://hypothesis.readthedocs.io/en/latest/)  
 [Python Testing 101: Introduction to Testing](https://pycoders.com/link/173/bt0qtb8ar0)  
 [Getting Started With Testing in Python](http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiNjIxNDUwMCIsImRlbGl2ZXJ5X2lkIjoiNDExNDU0ODM4MSIsInVybCI6Imh0dHBzOi8vcmVhbHB5dGhvbi5jb20vcHl0aG9uLXRlc3RpbmcvP19fcz13bW9mcGFtdmpxcDVkejdlZzNiOCJ9)  
 
@@ -91,8 +95,10 @@
 [Here’s how you can get a 2–6x speed-up on your data pre-processing with Python](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5)  
 [Speed Up Your Python Program With Concurrency](https://pycoders.com/link/683/bt0qtb8ar0)  
 [Using Python’s Multiprocessing Module To Evaluate A Set of Algorithms Efficiently.](https://towardsdatascience.com/using-pythons-multiprocessing-module-to-evaluate-a-set-of-algorithms-efficiently-1412d29ff849)  
+[Cython: fast as GPUs without GPUs – Stefano Bosis](https://medium.com/@stefanobosisio1/cython-fast-as-gpus-without-gpus-2c2e52cc4c42)  
 
 ## Async
+[Intro to Python Threading](https://realpython.com/intro-to-python-threading/)  
 [Threaded Asynchronous Magic and How to Wield It](https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32)  
 [async programming in python with asyncio](https://dev.to/welldone2094/async-programming-in-python-with-asyncio-12dl)  
 [article/asyncio in python 3.7/](https://tryexceptpass.org/article/asyncio-in-37/)  
@@ -174,6 +180,7 @@
 
 
 ### Plotting  
+[Python’s One Liner graph creation library with animations Hans Rosling Style](https://towardsdatascience.com/pythons-one-liner-graph-creation-library-with-animations-hans-rosling-style-f2cb50490396?source=safariShare-8a8b134a2c85-1557363626)  
 [Animations with Matplotlib](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)  
 [Top 50 matplotlib Visualizations - The Master Plots (w/ Full Python Code) | ML+](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)  
 [Python Matplotlib | Data visualizations In Python With Matplotlib | Edureka](https://www.edureka.co/blog/python-matplotlib-tutorial/)  
