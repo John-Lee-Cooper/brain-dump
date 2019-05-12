@@ -2,7 +2,6 @@
 
 [36 Amazing Python Open Source Projects](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450)  
 [Edit your videos AUTOMATICALLY with this Python code](https://towardsdatascience.com/edit-your-videos-automatically-with-this-python-code-c704cc413a1)  
-[Ensuring Clean Code: A Look at Python, Parameterized](https://www.toptal.com/python/python-parameterized-design-patterns)  
 [IPython as a system shell — IPython 3.2.1 documentation](https://ipython.org/ipython-doc/3/interactive/shell.html)  
 [Python Interview Question Post- Mortem](https://pycoders.com/link/135/bt0qtb8ar0)  
 [pycon 2018 - YouTube](https://www.youtube.com/results?search_query=pycon+2018)  
@@ -28,11 +27,18 @@
 
 [Improve Your Code With Atomic Functions](https://pycoders.com/link/679/bt0qtb8ar0)  
 
-[Setting Up Vim as a Python IDE](https://pycoders.com/link/636/bt0qtb8ar0)  
 
 [Sending Emails With Python](https://pycoders.com/link/424/bt0qtb8ar0)  
 
 [faulthandler — Dump the Python traceback — Python 3.7.3 documentation](https://docs.python.org/3/library/faulthandler.html)  
+
+[Setting Up Vim as a Python IDE](https://pycoders.com/link/636/bt0qtb8ar0)  
+[A guide to modern Web Development with (Neo)vim](https://medium.freecodecamp.org/a-guide-to-modern-web-development-with-neo-vim-333f7efbf8e2)  
+
+### Design Patters
+[Ensuring Clean Code: A Look at Python, Parameterized](https://www.toptal.com/python/python-parameterized-design-patterns)  
+[Python Design Patterns: For Sleek And Fashionable Code](https://www.toptal.com/python/python-design-patterns)  
+[Design Patterns](https://sourcemaking.com/design_patterns)  
 
 ### Type Checking
 [The Ultimate Guide to Python Type Checking](https://pycoders.com/link/651/bt0qtb8ar0)  

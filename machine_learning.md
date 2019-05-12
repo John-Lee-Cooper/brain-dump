@@ -94,6 +94,7 @@ You can see all [Python machine learning posts here](http://machinelearningmaste
 [Learning to optimize a Neural Net – Rik – Medium](https://medium.com/%40mlrik/learning-to-optimize-a-neural-net-d60e85135b49)  
 [Gradient Descent — Demystified – Towards Data Science](https://towardsdatascience.com/gradient-descent-demystified-bc30b26e432a)  
 [Genetic Algorithms + Neural Networks = Best of Both Worlds](https://towardsdatascience.com/gas-and-nns-6a41f1e8146d)  
+[Understanding Genetic Algorithms - Solving a Battleship Board Game as an Optimization Problem](https://towardsdatascience.com/understanding-genetic-algorithms-cd556e9089cb)  
 [Let’s build a simple Neural Net! – Becoming Human Artificial Intelligence Magazine](https://becominghuman.ai/lets-build-a-simple-neural-net-f4474256647f)  
 [Let’s code a Neural Network in plain NumPy – Towards Data Science](https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795)  
 [Batch normalization in Neural Networks – Towards Data Science](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c)  
