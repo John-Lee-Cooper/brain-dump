@@ -1,62 +1,96 @@
-http://www.tngenweb.org/grundy/cwar/regs/44thteninfreg.html
-http://freepages.rootsweb.com/~grundyconnections/military/final44.html
-http://www.tennessee-scv.org/4455/TN55.txt
-https://upload.wikimedia.org/wikipedia/commons/c/cf/Chickamauga_Sep18.png
-https://www.findagrave.com/memorial/25361424/mary-ann-dozier
-https://www.ancestry.co.uk/boards/surnames.williams/14421.1.1/mb.ashx
+http://www.tngenweb.org/grundy/cwar/regs/44thteninfreg.html  
+http://freepages.rootsweb.com/~grundyconnections/military/final44.html  
+http://www.tennessee-scv.org/4455/TN55.txt  
+https://upload.wikimedia.org/wikipedia/commons/c/cf/Chickamauga_Sep18.png  
+https://www.findagrave.com/memorial/25361424/mary-ann-dozier  
+https://www.ancestry.co.uk/boards/surnames.williams/14421.1.1/mb.ashx  
+https://www.genealogy.com/ftm/d/o/z/Lisa-M-Dozier/WEBSITE-0001/UHP-1276.html  
+https://thereevesproject.org/data/tiki-index.php?page=Reeves_Mary_Ann_1934  
+https://www.amazon.com/Historical-Tennessee-Infantry-Regiment-Regimental/dp/1546746714  
+
+
+# A History of Joseph Thomas Dozier.
+
+## Family History
+
+Joseph Thomas Dozier, one of eleven children of Jr Dozier Zachariah and Cintha Ann Johnson, was born February 8, 1829. He was married to Mary Ann Reeves (fifth child of Absolum Reeves and Elizabeth Wheeler Reeves).  His sister, Arabella (Aril) Dozier married Mary Ann's borther, Nathaniel Reeves.  Joseph and Mary Ann resided in Bedford County, Tennessee.  They had six children: Arie, Caldonia, William Franklin, Zachariah, Elliott Lafayette, and Josephine.  Joseph was wounded in Murfreesboro and was home on leave when Josphine was conceived.  When his regiment came through, he rejoined them with a still wounded knee.  Joephine Dozier was born after her father died.  Mary Ann Reeves Dozier was born Feb 23, 1833 and died April 21, 1909.  She is buried in the Reeves/Wheeler family Cemetery near Shelbyville, TN.
+
+  + Arie Dozier
+  + Caldonia Dozier (born 1843).
+  + William Franklin Dozier (born November 25 1855 and died Mar 11 1929).
+  + Zachariah Dozier (born 1857).
+  + Elliott Lafayette Dozier (born between 1857 and 1861).
+  + Josephine Dozier (born February 19, 1864).
+
+Josephine Dozier married Newton Thompson and had the following children:
+
+  + Elliot Thompson.
+  + May Thompson.
+  + Winfred Thompson.
+  + Frank Thompson.
+  + Claudia Thompson.
+  + Alma Thompson.
+  + Mary Thompson.
+  + Annie Thompson.
 
 
 
-Mary Ann Reeves Dozier was the widow of Joseph Thomas Dozier who died in Confederate Army Service during the Civil War.
+## Civil War History
+
+![44th Regiment, Tennessee Infantry](44th_flag.jpg)  
+
+Dozier was a sergent in Bound's company of the Tennessee Infanty 44th Regiment.
+
+Tennessee Infantry, 44th Regiment was organized at Camp Trousdale December 16, 1861; Composed of men from Coffee, Grundy, Franklin, Lincoln and Bedford County.  Captain Williamson C. Haggard led “H” Company from Bedford Country.  It later consolidated with “I” to form “A” company.
 
 
-207. Joseph Thomas DOZIER2,3,159 (Zachariah , Jr, Zachariah, James Ingo, Leonard, Leonard) was born160 Feb 08 1829.
-[Dozier.FTW]
-Joseph Thomas Dozier resided in Bedford Co., Tenn when 1850 census was taken.
-Joseph married2,3 (MRIN:179) Mary Ann REEVES2,3,161.
-They had the following children:
-  345i. Arie DOZIER2,3,162.
-  +346Fii. Caldonia DOZIER was born 1843.
-  +347Miii. William Franklin DOZIER was born Nov 25 1855 and died Mar 11 1929.
-  +348Miv. Zachariah DOZIER was born 1857.
-  +349Mv. Elliott Lafayette DOZIER was born BET 1857 AND 1861.
-  +350Fvi. Josephine DOZIER was born 1859.
-
-Jack, the children of Absalom and Elizabeth nos. 5 and 6 Nathaniel married Arabella Dozier, and Mary Ann Married Joseph Thomas Dozier, also brother and sister.Mary Ann is buried in the Reeves/Wheeler Cemetery near Shelbyville, TN, and I believe her parents are also. Joseph was killed in the Civil War.The other couple are buried in the Rio Vista, TX cemetery.
+Consolidated with 55th (McKoin’s) Tennessee Infantry April 18, 1862 to form 44th Consolidated Tennessee Infantry; reorganized May 5, 1862; field consolidation with 25th Tennessee Infantry October, 1863; paroled at Appomattox Courthouse April 9, 1865.
 
 
+Colonels: John H. Kelly, John S. Fulton
+Lt. Colonel: John L. McEwen, Jr.
+Majors: John S. Fulton, Henry C. Ewin, Gipson M. Crawford.
 
-As excerpted from Tennesseeans in the Civil War
+Captain: Samuel J. Warner, "G" Company (also called "B"). A consolidation of Bound's and Duggan's companies of 55th Regiment. 
 
-Data extracted by Milton L. Campbell; Transcribed by Terryle A. Campbell;
-Copyright 1997, all rights reserved
----------------------------------------------------------------------------
- Notes                      Name                    Rank       Company
-                            Dosier, J.T.            Sgt        Bound's
-
-FIELD OFFICERS
-Colonels - John H. Kelly, John S. Fulton
-Lt. Colonel - John L. McEwen, Jr.
-Majors - John S. Fulton, Henry C. Ewin, Gipson M. Crawford.
-
-CAPTAINS -
-Samuel J. Warner, Co. "G" (also called "B"). A consolidation of Bounds' and Duggan's companies of 55th. 
+-- As excerpted from Tennesseeans in the Civil War
 
 
- As part of this division the brigade was engaged in the Battle of Shiloh April 6-7, 1862. General Wood, in his report, stated the 44th entered the battle with 250 muskets. Doctor Noblitt, Assistant Surgeon for the regiment, said in his account in Lindsley's Annals, that the 44th entered the engagement with 470 men in line, and at roll call Tuesday morning, April 9, 120 answered to their names. Colonel McDaniel and Lieutenant Colonel Shied were both wounded, and Major Johnson had been absent from the regiment for some time because of illness.  As a result, on April 18, 1862, the 44th was permanently consolidated with the 55th (McKoin's) regiment which had also suffered heavy losses, to form the 44th Tennessee Infantry Regiment Consolidated, or the 44th Tennessee Infantry, 2nd Organization. 
+![Chickamauga](chickamauga_map.png)  
 
-    From Charleston the regiment moved to Chickamauga, Georgia on September 8, and was engaged in the Battle of Cbickamauga September 19-20, 1863, as part of General Johnson's Provisional Division. Here Colonel Fulton was in command of the brigade, and the 44th reported 113 casualties out of 294 engaged, including Lieutenant Colonel McEwen who was wounded. Prior to the battle 56 barefoot men had been sent to the rear. 
+As part of this division the brigade was engaged in the Battle of Shiloh April 6-7, 1862. General Wood, in his report, stated the 44th entered the battle with 250 muskets. Doctor Noblitt, Assistant Surgeon for the regiment, said in his account in Lindsley's Annals, that the 44th entered the engagement with 470 men in line, and at roll call Tuesday morning, April 9, 120 answered to their names. Colonel McDaniel and Lieutenant Colonel Shied were both wounded, and Major Johnson had been absent from the regiment for some time because of illness.  As a result, on April 18, 1862, the 44th was permanently consolidated with the 55th (McKoin's) regiment which had also suffered heavy losses, to form the 44th Tennessee Infantry Regiment Consolidated, or the 44th Tennessee Infantry, 2nd Organization. 
+
+From Charleston the regiment moved to Chickamauga, Georgia on September 8, and was engaged in the Battle of Chickamauga September 19-20, 1863, as part of General Johnson's Provisional Division. Here Colonel Fulton was in command of the brigade, and the 44th reported 113 casualties out of 294 engaged, including Lieutenant Colonel McEwen who was wounded. Prior to the battle 56 barefoot men had been sent to the rear. 
+
+
+![Johnson’s Brigade](johnson_brigade.jpg)  
+
+This plaque marks Johnson’s Brigade location on Sunday 20, 1863 at 3:00 PM.  There are seven monuments to the Johnson’s Brigade on the battlefield. (N 34° 55.652 W 085° 16.506)
+
+    Johnson’s Brigade
+    Johnson’s Division, Longstreet’s Corps.
+    Col. John S. Fulton.
+    Sept. 20, 1863, 3 P.M.
+
+    17th Tennessee,           Lieut. Col. Watt W. Floyd.
+    23d Tennessee,            Col. R. H. Keeble.
+    25th Tennessee,           Lieut. Col. R. B. Snowden.
+    44th Tennessee,           Maj. G. M. Crawford.
+    York’s Georgia Battery,   Lieut. Wm. S. Evertt.
+
+_About 2 o’clock this Brigade occupied the spur of Snodgrass Hill overlooking the Vittetoe House. York’s and Dent’s batteries were hauled to the summit and established there. At 3 o’clock Manigault’s Brigade moved up and connected with Johnson’s left. From this time until sundown charge succeeded charge from the extremity of this spur towards the central crest each being repulsed by Steedman’s Division. At sundown Mitchell’s Brigade of Steedman’s Division in front of this position was withdrawn and Johnson’s troops having reached this position in the last charge went forward and occupied the line upon which the Union troops had fought during the afternoon and followed down the northern slope to the bottom of the ridge._
+
+![44th Tennessee, Infantry Regiment](tn44.jpg)  
 
 
 
 
+---
 
-.R.-- SERIES I--VOLUME XXX/2 [S# 51]
-
+'''
 AUGUST 16-SEPTEMBER 22, 1863.--The Chickamauga Campaign.
 No. 414.--Report of Col. John S. Fulton,
 Forty-fourth Tennessee Infantry, commanding Johnson's brigade.
-<ar51_471>
 
 HEADQUARTERS JOHNSON'S BRIGADE,
 September 30,1863.
@@ -96,8 +130,6 @@ In this flank movement of the enemy, the Seventeenth Tennessee Regiment lost 11 
 The brigade built temporary breastworks, behind which it remained during the night in line of battle. Our skirmishers, under Major McCarver, were directed to occupy the Chattanooga and La Fayette road, but this could not be done, the lines on my right and left not conforming thereto. I, however, instructed them to be posted within 50 yards of the road.
 
 Sunday, September 20.--This morning my line connected on the right with McNair's (Gregg being in the next line in our rear) and General Hindman's on the left. Everett's battery took position between my left and the right of Hindman.
-GO BACK TO THE TOP
-
 
 Shortly after 9 a.m. the skirmishers, under direction of Lieuten-ant-Colonel Ready, fell back to the breastworks, bringing those of the enemy after them. A well-directed fire from the Forty-fourth Tennessee drove the enemy's skirmishers back, leaving many of his dead in our front. My skirmishers were sent forward and very soon they became again engaged, the enemy using his artillery.
 
@@ -213,3 +245,4 @@ Colonel, Commanding Johnson's Brigade.
 
 Capt. W. T. BLAKEMORE,
 Acting Assistant Adjutant-General.
+'''

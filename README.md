@@ -19,7 +19,7 @@ My Personal Wiki
 - [Blogging](/blogging.md)
 - [Misc. Links](/links.md)
 - [Career Links](/career.md)
-- [Dozier](/j_dozier.md)
+- [Dozier](/dozier/jt_dozier.md)
 
 ## Howtos
 - [Git scenarios](/git.md)
