@@ -1,12 +1,11 @@
-http://www.tngenweb.org/grundy/cwar/regs/44thteninfreg.html  
-http://freepages.rootsweb.com/~grundyconnections/military/final44.html  
-http://www.tennessee-scv.org/4455/TN55.txt  
-https://upload.wikimedia.org/wikipedia/commons/c/cf/Chickamauga_Sep18.png  
-https://www.findagrave.com/memorial/25361424/mary-ann-dozier  
-https://www.ancestry.co.uk/boards/surnames.williams/14421.1.1/mb.ashx  
-https://www.genealogy.com/ftm/d/o/z/Lisa-M-Dozier/WEBSITE-0001/UHP-1276.html  
-https://thereevesproject.org/data/tiki-index.php?page=Reeves_Mary_Ann_1934  
-https://www.amazon.com/Historical-Tennessee-Infantry-Regiment-Regimental/dp/1546746714  
+[Joesph T Dozier](https://www.genealogy.com/ftm/d/o/z/Lisa-M-Dozier/WEBSITE-0001/UHP-1276.html)  
+[Mary Ann Reeves](https://thereevesproject.org/data/tiki-index.php?page=Reeves_Mary_Ann_1934)  
+[Mary Ann Reeves](https://www.findagrave.com/memorial/25361424/mary-ann-dozier)  
+[Josephine Dozier](https://www.ancestry.co.uk/boards/surnames.williams/14421.1.1/mb.ashx)  
+
+[44th Tennessee](http://www.tngenweb.org/grundy/cwar/regs/44thteninfreg.html)  
+[Role](http://www.tennessee-scv.org/4455/TN55.txt)  
+[Tennessee Infantry Regiment Regimental](https://www.amazon.com/Historical-Tennessee-Infantry-Regiment-Regimental/dp/1546746714) 
 
 
 # A History of Joseph Thomas Dozier.
