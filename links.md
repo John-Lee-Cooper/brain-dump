@@ -4,6 +4,10 @@
 [How to Approach Problems in Development (and Pretty Much Everywhere Else)](https://weblogs.asp.net/rweigelt/how-to-approach-problems-in-development-and-pretty-much-everywhere-else)  
 [Which Free GPU Provider is Tops?](https://towardsdatascience.com/kaggle-vs-colab-faceoff-which-free-gpu-provider-is-tops-d4f0cd625029?source=safariShare-8a8b134a2c85-1553349799)      
 
+## Software Engineering  
+[5 Powerful Habits of Successful Developers.](https://medium.com/swlh/5-powerful-habits-of-successful-developers-1c0e32659ea3)  
+[5 Things Better than a Computer Science Degree – Better Programming](https://medium.com/better-programming/5-things-better-than-computer-science-degree-f8acb8061c09?source=safariShare-8a8b134a2c85-1559349407)  
+
 
 ## Raspberry pi
 [Raspberry pi Ifttt is there Power at Home](https://medium.com/@mntlmaxi/raspberry-pi-ifttt-is-there-power-at-home-fc6eab6b6816?source=linkShare-8a8b134a2c85-1550444707)  
@@ -138,6 +142,7 @@
 [WarpWar Rules](http://www.contrib.andrew.cmu.edu/~gc00/reviews/warpwar.html)  
 [Rick's Warp War rules](http://boardgamegeek.com/thread/627066/ricks-warp-war-rules)  
 [Tactical Rock-Paper- Scissors - TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/TacticalRockPaperScissors)  
+[Implementation of Hex Grids](https://www.redblobgames.com/grids/hexagons/implem
 
 ## YouTube – lcooper’s iPhone
 [Grocery Store Wars](http://youtu.be/hVrIyEu6h_E)  

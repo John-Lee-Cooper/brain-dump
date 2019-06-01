@@ -3,6 +3,9 @@
 [The Software Developer’s Guide to Building an Online Reputation](https://hackernoon.com/the-software-developers-guide-to-building-an-online-reputation-2cb206185af2)  
 [Where do I find software engineering jobs – Job Advice for Software Engineers – Medium](https://medium.com/job-advice-for-software-engineers/where-do-i-find-software-engineering-jobs-253dc08a8e54)  
 [Using the Who process for hiring developers and scrum masters](https://medium.com/the-super-serious-lab/using-the-who-process-78af2c436de6)  
+[Salary too low? Find out what you’re worth at work](https://usat.ly/2j2YPD5)   
+
+
 ### Resume  
 [What I want (and don’t want) to see on your resume – Job Advice for Software Engineers – Medium](https://medium.com/job-advice-for-software-engineers/what-i-want-and-dont-want-to-see-on-your-software-engineering-resume-cbc07913f7f6)  
 [Writing a Resume for a Data Science Career – Towards Data Science](https://towardsdatascience.com/writing-a-resume-for-a-data-science-career-62b9acd11692)  

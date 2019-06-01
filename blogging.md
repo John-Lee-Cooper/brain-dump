@@ -6,6 +6,7 @@
 [Tech blogging best practices Search Engine Optimization (SEO) and content sharing](https://heartbeat.fritz.ai/tech-blogging-best-practices-search-engine-optimization-seo-and-content-sharing-2c4aadd6d094)  
 
 ## Github
+:star: [Two ways to deploy a public GitHub Pages site from a private Hugo repository]( https://medium.com/free-code-camp/two-ways-to-deploy-a-public-github-pages-site-from-a-private-hugo-repository-627312ec63b9?source=safariShare-8a8b134a2c85-1559178106)  
 [Publishing with GitHub Pages, now as easy as 1, 2, 3](https://blog.github.com/2016-12-09-publishing-with-github-pages-now-as-easy-as-1-2-3/)  
 [Github Pages As Blogging Platform](https://medium.com/@tordable/github-pages-as-blogging-platform-320524b1fffa)  
 [Blogging on GitHub Pages: The Pros and Cons](https://www.bloggingpro.com/archives/2018/04/04/42537/)  

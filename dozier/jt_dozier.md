@@ -12,7 +12,8 @@
 
 ## Family History
 
-Joseph Thomas Dozier, one of eleven children of Jr Dozier Zachariah and Cintha Ann Johnson, was born February 8, 1829. He was married to Mary Ann Reeves (fifth child of Absolum Reeves and Elizabeth Wheeler Reeves).  His sister, Arabella (Aril) Dozier married Mary Ann's borther, Nathaniel Reeves.  Joseph and Mary Ann resided in Bedford County, Tennessee.  They had six children: Arie, Caldonia, William Franklin, Zachariah, Elliott Lafayette, and Josephine.  Joseph was wounded in Murfreesboro and was home on leave when Josphine was conceived.  When his regiment came through, he rejoined them with a still wounded knee.  Joephine Dozier was born after her father died.  Mary Ann Reeves Dozier was born Feb 23, 1833 and died April 21, 1909.  She is buried in the Reeves/Wheeler family Cemetery near Shelbyville, TN.
+Joseph Thomas Dozier, one of eleven children of Jr Dozier Zachariah and Cintha Ann Johnson, was born February 8, 1829. He was married to Mary Ann Reeves (fifth child of Absolum Reeves and Elizabeth Wheeler Reeves).  His sister, Arabella (Aril) Dozier married Mary Ann's borther, Nathaniel Reeves.  Nathaniel would also join Bound's company of the 44th.  However, he survied and reloated to Texas after the war.  Joseph and Mary Ann resided in Bedford County, Tennessee.  They had six children: Arie, Caldonia, William Franklin, Zachariah, Elliott Lafayette, and Josephine.  Joseph was wounded in Murfreesboro and was home on leave when Josphine was conceived.  When his regiment came through, he rejoined them with a still wounded knee.  Joephine Dozier was born after her father died.  Mary Ann Reeves Dozier was born Feb 23, 1833 and died April 21, 1909.  She is buried in the Reeves/Wheeler family Cemetery near Shelbyville, TN.
+
 
   + Arie Dozier
   + Caldonia Dozier (born 1843).

@@ -14,6 +14,11 @@
 [building an interactive gui with opencv/](https://erget.wordpress.com/2014/03/13/building-an-interactive-gui-with-opencv/)  
 [machine learning for vehicle detection](https://towardsdatascience.com/machine-learning-for-vehicle-detection-fd0f968995cf)  
 
+### Tools
+[10 Python image manipulation tools – Towards Data Science](https://towardsdatascience.com/image-manipulation-tools-for-python-6eb0908ed61f?source=safariShare-8a8b134a2c85-1559177652)  
+[videoflow: Python framework for complex video analysis](https://github.com/videoflow/videoflow)  
+
+
 ### Tutorial
 [OpenCV: OpenCV-Python Tutorials](http://docs.opencv.org/3.4.5/d6/d00/tutorial_py_root.html)  
 
@@ -52,6 +57,7 @@
 [Python Programming Tutorials](https://pythonprogramming.net/raspberry-pi-camera-opencv-face-detection-tutorial/)  
 
 ### OpenCV QT
+:star: [How to: OpenCV in Qt creator and ImageQ](http://embeddedprogrammer.blogspot.com/2012/10/how-to-opencv-in-qt-creator-and-imageq.html)  
 [Using OpenCV in Qt4 GUI using python | Intelligent Easy i.e.Sensor & Robot](http://www.iesensor.com/blog/2014/06/15/using-opencv-in-qt4-gui-using-python/)  
 [sepia filter opencv](http://amin-ahmadi.com/2016/03/24/sepia-filter-opencv/)  
 [how to record videos using opencv](http://amin-ahmadi.com/2016/04/04/how-to-record-videos-using-opencv/)  

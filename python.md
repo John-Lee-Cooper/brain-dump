@@ -9,7 +9,11 @@
 [Python Tutorials – Real Python](https://realpython.com/)  
 [Python Programming Language -- Official Website](https://www.python.org/)  
 [The definitive guide on how to use static, class or abstract methods in Python](http://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods)  
+
+_network_  
+[select – Wait for I/O Efficiently - Python Module of the Week](https://pymotw.com/2/select/)  
 [Python Tutorial: Network Programming III - SocketServer - 2017](http://www.bogotobogo.com/python/python_network_programming_socketserver_framework_for_network_servers.php)  
+
 [Bite Sized Python Tips](http://freepythontips.wordpress.com/2014/02/04/free-python-books/#more-432)  
 [pyvideo.org](http://www.pyvideo.org/)  
 [12-Factor App](https://12factor.net/)  
@@ -50,6 +54,7 @@
 [PyFilesystem: Filesystem Abstraction for Python](https://pycoders.com/link/677/bt0qtb8ar0)  
 
 ### Logging
+[Python Logging: A Stroll Through the Source Code](https://realpython.com/python-logging-source-code/)  
 [Python Logging: An In-Depth Tutorial](https://www.toptal.com/python/in-depth-python-logging)  
 [loguru: Python Logging Made (Stupidly) Simple](https://pycoders.com/link/380/bt0qtb8ar0)  
 [python-colorlog: Colored Formatter for Python’s Logging Module](https://pycoders.com/link/386/bt0qtb8ar0)  
@@ -85,8 +90,10 @@
 [Getting started with Elasticsearch in Python – Towards Data Science](https://towardsdatascience.com/getting-started-with-elasticsearch-in-python-c3598e718380)  
 
 ### Libraries
+:star: [SQLAlchemy ORM Tutorial for Python Developers](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/)   
 :star: [Click Completion](https://github.com/click-contrib/click-completion)  
 :star: [Python Itertools](https://kanoki.org/2019/02/08/python-itertools/)  
+[Itertools, Generators, and Generator Expressions](https://towardsdatascience.com/python-pro-tip-use-itertools-generators-and-generator-expressions-1b84911c978?source=safariShare-8a8b134a2c85-1559349210)  
 [itertools — Functions creating iterators for efficient looping — Python 2.7.9 documentation](https://docs.python.org/2/library/itertools.html)  
 [vispy](http://api.vispy.org/en/latest/)  
 [PyToolz API Documentation — Toolz 0.6.0 documentation](http://toolz.readthedocs.org/en/latest/)  
@@ -95,6 +102,7 @@
 [zulu: A Drop-In Replacement for Native Python Datetimes That Embraces UTC](https://pycoders.com/link/113/bt0qtb8ar0)  
 
 # Optimize
+[Expensive lessons in Python performance tuning](http://blog.explainmydata.com/2012/07/expensive-lessons-in-python-performance.html)  
 [Make Your Python Workers Scale Dynamically](https://dzone.com/articles/how-to-make-your-python-workers-scale-dynamically) 
 [Speedy CV Pipelines Using Parallelism](https://towardsdatascience.com/speedy-cv-pipelines-using-parallelism-d7bebad2ff5f)  
 [What I’ve Learned About Optimizing Python](https://pycoders.com/link/658/bt0qtb8ar0)  
@@ -211,4 +219,5 @@
 
 ## Conda  
 [Why You Need Python Environments and How to Manage Them with Conda](https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)  
+
 
