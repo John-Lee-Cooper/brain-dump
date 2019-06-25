@@ -1,5 +1,7 @@
 # Computer Vision
-[A Beginner’s Guide to Setting up OpenCV Android Library on Android Studio](https://android.jlelse.eu/a-beginners-guide-to-setting-up-opencv-android-library-on-android-studio-19794e220f3c)  
+[Detecting and Outlining Lakes with Python3 and OpenCV 3](https://itnext.io/detecting-and-outlining-lakes-with-python3-and-opencv-3-9156bdeacbf0?source=safariShare-8a8b134a2c85-1561173534&gi=9b6aedff5923)  
+[DeepPiCar — Part 4: Autonomous Lane Navigation via OpenCV](https://towardsdatascience.com/deeppicar-part-4-lane-following-via-opencv-737dd9e47c96?source=safariShare-8a8b134a2c85-1558138969)
+[Image processing using Python & Open-CV part-2](https://medium.com/datadriveninvestor/image-processing-using-python-open-cv-part-2-72f2b75918e7)  
 [Setting Up a Simple OCR Server](https://realpython.com/setting-up-a-simple-ocr-server/)  
 [Finding Lane Lines — Simple Pipeline For Lane Detection](https://towardsdatascience.com/finding-lane-lines-simple-pipeline-for-lane-detection-d02b62e7572b)  
 [Visual Deep Computer Vision](https://towardsdatascience.com/visual-deep-computer-vision-f1e9fcca8f3b)  
@@ -13,6 +15,15 @@
 [How to build an image duplicate finder – Towards Data Science](https://towardsdatascience.com/how-to-build-an-image-duplicate-finder-f8714ddca9d2)  
 [building an interactive gui with opencv/](https://erget.wordpress.com/2014/03/13/building-an-interactive-gui-with-opencv/)  
 [machine learning for vehicle detection](https://towardsdatascience.com/machine-learning-for-vehicle-detection-fd0f968995cf)  
+
+# Mobile
+[Build Your Own Customized Image Classification Mobile App in 10 Minutes](https://heartbeat.fritz.ai/build-your-customized-vision-app-in-10-minutes-eb0b141c3742?source=user_profile---------4-----------------------)  
+[How to Capture the Best Frame in an iOS Image Processing App](https://heartbeat.fritz.ai/how-to-capture-the-best-frame-in-an-ios-image-processing-app-5a14829a03f1?source=safariShare-8a8b134a2c85-1561174076&gi=650721801261)  
+[A Beginner’s Guide to Setting up OpenCV Android Library on Android Studio](https://android.jlelse.eu/a-beginners-guide-to-setting-up-opencv-android-library-on-android-studio-19794e220f3c)  
+[A Guide to Preparing OpenCV for Android](https://heartbeat.fritz.ai/a-guide-to-preparing-opencv-for-android-4e9532677809?source=safariShare-8a8b134a2c85-1561311035&gi=973a1399a631)  
+
+# Raspberry
+[pishot: Raspberry Pi camera in global exposure mode (instead of rolling shutter)](https://github.com/revalo/pishot)  
 
 ### Tools
 [10 Python image manipulation tools – Towards Data Science](https://towardsdatascience.com/image-manipulation-tools-for-python-6eb0908ed61f?source=safariShare-8a8b134a2c85-1559177652)  
@@ -64,3 +75,7 @@
 [how to read process and display videos using qt and opencv](http://amin-ahmadi.com/2018/03/29/how-to-read-process-and-display-videos-using-qt-and-opencv/)  
 [how to create an image classifier using qt opencv and tensorflow](http://amin-ahmadi.com/2018/03/15/how-to-create-an-image-classifier-using-qt-opencv-and-tensorflow/)  
 [best way to train and test haar or lbp classifiers](http://amin-ahmadi.com/2016/10/27/best-way-to-train-and-test-haar-or-lbp-classifiers/)  
+
+### Kivy
+[Image Classification for Android Devices using NumPy and Kivy](https://heartbeat.fritz.ai/image-classification-for-android-devices-using-numpy-and-kivy-587f65e7e99a?source=safariShare-8a8b134a2c85-1561174384&gi=98ee7127d036)  
+[kivyImageViewer: A python kivy powered image viewer](https://github.com/ohlogic/kivyImageViewer)  

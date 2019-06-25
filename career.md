@@ -24,3 +24,7 @@
 [The Big List of DSML Interview Resources – Towards Data Science](https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63)  
 [Netflix Data Science Interview Questions — Acing the AI Interview](https://medium.com/acing-ai/netflix-data-science-interview-questions-acing-the-ai-interview-176cd3a0009f)  
 [How to Ace the In Person Data Science Interview – Towards Data Science](https://towardsdatascience.com/how-to-ace-the-in-person-data-science-interview-584ca11df08a)  
+
+
+[10 Great Programming Projects to Improve Your Resume](https://medium.com/better-programming/10-great-programming-projects-to-improve-your-resume-and-learn-to-program-74b14d3e9e16)  
+[The Rare and Valuable Senior Software Engineer](https://medium.com/@Wessel/the-rare-and-valuable-senior-software-engineer-2f4f7bdb6b14)  

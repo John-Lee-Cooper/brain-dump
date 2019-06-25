@@ -67,6 +67,7 @@ _network_
 
 ### Testing
 
+[Automation Testing with Pytest](https://medium.com/tenable-techblog/automation-testing-with-pytest-444c8b34ead2)  
 [Writing Testable Code – Feedzai Techblog](https://medium.com/feedzaitech/writing-testable-code-b3201d4538eb?source=safariShare-8a8b134a2c85-1557003256)  
 [Welcome to Hypothesis! — Hypothesis 4.22.0 documentation](https://hypothesis.readthedocs.io/en/latest/)  
 [Python Testing 101: Introduction to Testing](https://pycoders.com/link/173/bt0qtb8ar0)  
@@ -221,3 +222,4 @@ _network_
 [Why You Need Python Environments and How to Manage Them with Conda](https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)  
 
 
+[First Crack - A simple static blogging engine in Python](https://bitbucket.org/zjszewczyk/firstcrack-public/src/master/)  

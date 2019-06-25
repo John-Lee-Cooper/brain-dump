@@ -20,6 +20,9 @@ You can see all [Python machine learning posts here](http://machinelearningmaste
 [Introductory Guide to Artificial Intelligence – Towards Data Science](https://towardsdatascience.com/introductory-guide-to-artificial-intelligence-11fc04cea042)  
 [Watching Modern AI Methods in Action – Towards Data Science](https://towardsdatascience.com/watching-modern-ai-methods-in-action-929e106d6a7c)  
 
+[Introduction to Graphs](https://towardsdatascience.com/introduction-to-graphs-part-1-2de6cda8c5a5)  
+[Graph Algorithms](https://towardsdatascience.com/graph-algorithms-part-2-dce0b2734a1d)  
+
 ## Machine Learning
 
 :star: [Machine Learning in Python Step by Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)  
