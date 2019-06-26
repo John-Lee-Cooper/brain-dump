@@ -18,9 +18,8 @@
 
 ## Docker
 
-[A beginner’s guide to Docker — how to create your first Docker application](https://medium.freecodecamp.org/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f)  
-[Learn enough Docker to be Useful](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b0b44222eef5?source=linkShare-8a8b134a2c85-1550444849)  
 [How To Install and Use Docker on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04)  
+[Learn enough Docker to be Useful](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b0b44222eef5?source=linkShare-8a8b134a2c85-1550444849)  
 [Getting started with Docker](https://medium.com/@dkarlovi/applications-contain-yourselves-getting-started-with-docker-47cafb518bf1)  
 [A little dive into Docker – from-scratch-tutorials – Medium](https://medium.com/from-scratch-tutorials/docker-cli-dockerfile-and-docker-compose-from-scratch-13291656a0ca)  
 [Getting Started with Docker – Marcel Jurtz – Medium](https://medium.com/%40jurtzmarcel/getting-started-with-docker-ab43bc00425d)  
