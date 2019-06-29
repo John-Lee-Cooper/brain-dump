@@ -60,10 +60,6 @@ _network_
 [python-colorlog: Colored Formatter for Python’s Logging Module](https://pycoders.com/link/386/bt0qtb8ar0)  
 [Good logging practice in Python – Fang's coding note](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/)  
 
-### Continous Integration
-:star: [10 Steps to Set Up Your Python Project for Success](https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13)  
-[Continuous Integration With Python: An Introduction](https://pycoders.com/link/315/bt0qtb8ar0)  
-[Jenkins and Python](http://www.alexconrad.org/2011/10/jenkins-and-python.html)  
 
 ### Testing
 
@@ -73,6 +69,10 @@ _network_
 [Python Testing 101: Introduction to Testing](https://pycoders.com/link/173/bt0qtb8ar0)  
 [Getting Started With Testing in Python](http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiNjIxNDUwMCIsImRlbGl2ZXJ5X2lkIjoiNDExNDU0ODM4MSIsInVybCI6Imh0dHBzOi8vcmVhbHB5dGhvbi5jb20vcHl0aG9uLXRlc3RpbmcvP19fcz13bW9mcGFtdmpxcDVkejdlZzNiOCJ9)  
 
+### Continous Integration
+:star: [10 Steps to Set Up Your Python Project for Success]( https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13?source=user_profile---------8-----------------------)  
+[Continuous Integration With Python: An Introduction](https://pycoders.com/link/315/bt0qtb8ar0)  
+[Jenkins and Python](http://www.alexconrad.org/2011/10/jenkins-and-python.html)  
 ### Distributing and Publishing
 [Distributing Standalone Python Applications](https://pycoders.com/link/605/bt0qtb8ar0)  
 [How to Publish a Python Package to PyPI](https://pycoders.com/link/152/bt0qtb8ar0)  

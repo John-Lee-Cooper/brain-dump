@@ -16,29 +16,29 @@
 [Connect JetBrains PyCharm to Raspberry pi - Hackster.io](https://www.hackster.io/Jolley71717/connect-jetbrains-pycharm-to-raspberry-pi-72be15)  
 [Using your new Raspberry Pi 3 as a WiFi access point with hostapd](https://frillip.com/using-your-raspberry-pi-3-as-a-wifi-access-point-with-hostapd/)  
 
-## Docker
+## [Docker](https://docs.docker.com/)
 
 [How To Install and Use Docker on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04)  
-[Learn enough Docker to be Useful](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b0b44222eef5?source=linkShare-8a8b134a2c85-1550444849)  
 [Getting started with Docker](https://medium.com/@dkarlovi/applications-contain-yourselves-getting-started-with-docker-47cafb518bf1)  
 [A little dive into Docker – from-scratch-tutorials – Medium](https://medium.com/from-scratch-tutorials/docker-cli-dockerfile-and-docker-compose-from-scratch-13291656a0ca)  
 [Getting Started with Docker – Marcel Jurtz – Medium](https://medium.com/%40jurtzmarcel/getting-started-with-docker-ab43bc00425d)  
+[Docker ENTRYPOINT & CMD Dockerfile best practices – freeCodeCamp.org](https://blog.eduonix.com/software-development/docker-entrypoint-cmd-docker/)  
+
+[Learn enough Docker to be Useful](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b0b44222eef5?source=linkShare-8a8b134a2c85-1550444849)  
+[Docker Commands — The Ultimate Cheat Sheet – Hacker Noon](https://hackernoon.com/docker-commands-the-ultimate-cheat-sheet-994ac78e2888)  
+[Handy Docker Aliases – Carlos Justiniano – Medium](https://medium.com/%40cjus/handy-docker-aliases-4bd85089a3b8)  
 
 :star:[Using Ephermeral Docker Containers as CLI Applications](https://preslav.me/2019/03/18/using-ephemeral-docker-containers-as-cli-applications/)  
 [Elegantly activating a virtualenv in Docker](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/)  
-[Dockerizing Python Applications](https://pycoders.com/link/672/bt0qtb8ar0)  
-
 [Set up Continuous Deployment in your Home Project](https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed)  
+
+[Dockerizing Python Flask Applications](https://pycoders.com/link/672/bt0qtb8ar0)  
+[Docker Development WorkFlow — a guide with Flask and Postgres](https://medium.freecodecamp.org/docker-development-workflow-a-guide-with-flask-and-postgres-db1a1843044a)  
+
+
 [Building Python Data Science Container Using Docker](https://hackernoon.com/building-python-data-science-container-using-docker-c8e346295669)  
 [A short guide to using Docker for your data science environment](https://towardsdatascience.com/a-short-guide-to-using-docker-for-your-data-science-environment-912617b3603e)  
-[How to build a project inside a Docker container – Bartosz Mikulski](https://mikulskibartosz.name/how-to-build-a-project-inside-a-docker-container-fd575058bf4a)  
-[Docker run vs exec reference and key differences – The Code Review – Medium](https://medium.com/the-code-review/docker-run-vs-exec-deep-dive-into-their-differences-19a1041735a3)  
-[Docker Commands — The Ultimate Cheat Sheet – Hacker Noon](https://hackernoon.com/docker-commands-the-ultimate-cheat-sheet-994ac78e2888)  
-[Expose vs publish Docker port commands explained simply](https://medium.freecodecamp.org/expose-vs-publish-docker-port-commands-explained-simply-434593dbc9a3)  
-[Docker COPY Dockerfile best practices – ryanwhocodes – Medium](https://medium.com/%40ryanwhocodes/docker-copy-dockerfile-best-practices-503704bee69f)  
-[Handy Docker Aliases – Carlos Justiniano – Medium](https://medium.com/%40cjus/handy-docker-aliases-4bd85089a3b8)  
-[Docker ENTRYPOINT & CMD Dockerfile best practices – freeCodeCamp.org](https://medium.freecodecamp.org/docker-entrypoint-cmd-dockerfile-best-practices-abc591c30e21)  
-[Docker Development WorkFlow — a guide with Flask and Postgres](https://medium.freecodecamp.org/docker-development-workflow-a-guide-with-flask-and-postgres-db1a1843044a)  
+
 [Why Should You Switch to Docker and Kubernetes](https://hackernoon.com/why-should-you-switch-to-docker-and-kubernetes-c7f96eb7ef7d?source=linkShare-8a8b134a2c85-1550453165)  
 [Learn Kubernetes in Under 3 Hours A Detailed Guide to Orchestrating Containers](https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882)  
 

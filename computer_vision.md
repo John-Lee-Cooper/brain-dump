@@ -39,6 +39,11 @@
 ### HOG  
 [Detecting objects in videos and camera feeds using Keras, OpenCV, and ImageAI](https://heartbeat.fritz.ai/detecting-objects-in-videos-and-camera-feeds-using-keras-opencv-and-imageai-c869fe1ebcdb)  
 
+### Background Subtraction
+[Background Subtraction - Pysource]( https://pysource.com/2018/05/17/background-subtraction-opencv-3-4-with-python-3-tutorial-32/)  
+[MOG Background Reduction - Python Programming Tutorials]( https://pythonprogramming.net/mog-background-reduction-python-opencv-tutorial/)  
+[Background Subotraction using Running Average]( https://www.geeksforgeeks.org/background-subtraction-in-an-image-using-concept-of-running-average/)  
+
 ### Image Processing
 [The Watershed Transformation page](http://www.cmm.mines-paristech.fr/~beucher/wtshed.html)  
 
@@ -51,6 +56,8 @@
 [Learn ABC of OpenCV while building a Face and Motion detector](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-8-1078eea3fdcb)  
 [image features.html](https://jakevdp.github.io/PythonDataScienceHandbook/05.14-image-features.html)  
 [traditional face detection python/#what is face detection](https://realpython.com/traditional-face-detection-python/#what-is-face-detection)  
+[Simple, accurate eye center tracking in OpenCV - Tristan Hume]( http://thume.ca/projects/2012/11/04/simple-accurate-eye-center-tracking-in-opencv/)  
+
 
 ### Tracking
 [object tracking and following with opencv python/](https://botforge.wordpress.com/2016/07/11/object-tracking-and-following-with-opencv-python/)  
