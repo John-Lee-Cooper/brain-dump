@@ -1,4 +1,11 @@
 # Computer Vision
+
+
+[Three Ways of Storing and Accessing Lots of Images in Python](https://realpython.com/storing-images-in-python/)  
+[OpenCV Tutorials](https://docs.opencv.org/4.1.0/d9/df8/tutorial_root.html)  
+[DeepPiCar Autonomous Lane Navigation](https://towardsdatascience.com/deeppicar-part-4-lane-following-via-opencv-737dd9e47c96?source=safariShare-8a8b134a2c85-1558138969)  
+[Gesture-Controlled-Mouse](https://www.instructables.com/id/Gesture-Controlled-Mouse/)  
+
 [Detecting and Outlining Lakes with Python3 and OpenCV 3](https://itnext.io/detecting-and-outlining-lakes-with-python3-and-opencv-3-9156bdeacbf0?source=safariShare-8a8b134a2c85-1561173534&gi=9b6aedff5923)  
 [DeepPiCar — Part 4: Autonomous Lane Navigation via OpenCV](https://towardsdatascience.com/deeppicar-part-4-lane-following-via-opencv-737dd9e47c96?source=safariShare-8a8b134a2c85-1558138969)
 [Image processing using Python & Open-CV part-2](https://medium.com/datadriveninvestor/image-processing-using-python-open-cv-part-2-72f2b75918e7)  

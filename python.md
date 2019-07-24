@@ -1,5 +1,9 @@
 # Python
 
+[Write More Pythonic Code](https://realpython.com/learning-paths/writing-pythonic-code/)  
+[9 Amazing Articles on Python Programming](https://medium.com/better-programming/10-great-articles-on-python-development-6f54dd38437f)  
+[Practical production python scripts](https://www.madmode.com/2019/python-eng.html) 
+[Writing sustainable Python scripts](https://vincent.bernat.ch/en/blog/2019-sustainable-python-script) 
 [36 Amazing Python Open Source Projects](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450)  
 [Edit your videos AUTOMATICALLY with this Python code](https://towardsdatascience.com/edit-your-videos-automatically-with-this-python-code-c704cc413a1)  
 [IPython as a system shell — IPython 3.2.1 documentation](https://ipython.org/ipython-doc/3/interactive/shell.html)  
@@ -9,6 +13,7 @@
 [Python Tutorials – Real Python](https://realpython.com/)  
 [Python Programming Language -- Official Website](https://www.python.org/)  
 [The definitive guide on how to use static, class or abstract methods in Python](http://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods)  
+[Unicode & Character Encodings in Python: A Painless Guide](https://realpython.com/python-encodings-guide/)  
 
 _network_  
 [select – Wait for I/O Efficiently - Python Module of the Week](https://pymotw.com/2/select/)  
@@ -63,6 +68,8 @@ _network_
 
 ### Testing
 
+[wytest Testmon](https://github.com/tarpas/pytest-testmon)  
+[Advanced Python Testing](https://joshpeak.net/posts/2019-06-18-Advanced-python-testing.html)  
 [Automation Testing with Pytest](https://medium.com/tenable-techblog/automation-testing-with-pytest-444c8b34ead2)  
 [Writing Testable Code – Feedzai Techblog](https://medium.com/feedzaitech/writing-testable-code-b3201d4538eb?source=safariShare-8a8b134a2c85-1557003256)  
 [Welcome to Hypothesis! — Hypothesis 4.22.0 documentation](https://hypothesis.readthedocs.io/en/latest/)  
@@ -90,16 +97,31 @@ _network_
 [Extracting and Transforming Data in Python – Towards Data Science](https://towardsdatascience.com/extracting-and-transforming-data-in-python-63291f63d350)  
 [Getting started with Elasticsearch in Python – Towards Data Science](https://towardsdatascience.com/getting-started-with-elasticsearch-in-python-c3598e718380)  
 
-### Libraries
-:star: [SQLAlchemy ORM Tutorial for Python Developers](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/)   
-:star: [Click Completion](https://github.com/click-contrib/click-completion)  
+### Standard Libraries
 :star: [Python Itertools](https://kanoki.org/2019/02/08/python-itertools/)  
 [Itertools, Generators, and Generator Expressions](https://towardsdatascience.com/python-pro-tip-use-itertools-generators-and-generator-expressions-1b84911c978?source=safariShare-8a8b134a2c85-1559349210)  
 [itertools — Functions creating iterators for efficient looping — Python 2.7.9 documentation](https://docs.python.org/2/library/itertools.html)  
-[vispy](http://api.vispy.org/en/latest/)  
-[PyToolz API Documentation — Toolz 0.6.0 documentation](http://toolz.readthedocs.org/en/latest/)  
-[Python Requests](https://realpython.com/python-requests)  
 [Why You Should Be Using Pathlib](https://pycoders.com/link/508/bt0qtb8ar0)  
+
+### Libraries
+
+[PyOxidizer](https://pythonbytes.fm/episodes/show/138/will-pyoxidizer-weld-shut-one-of-python-s-major-gaps)  
+[Building Standalone Python Applications with PyOxidizer](https://gregoryszorc.com/blog/2019/06/24/building-standalone-python-applications-with-pyoxidizer/)  
+
+[A flake8 plugin to write better comprehensions.](https://github.com/adamchainz/flake8-comprehensions)  
+
+[Celery](https://djangostars.com/blog/the-python-celery-cookbook-small-tool-big-possibilities/)  
+
+:star: [SQLAlchemy ORM Tutorial for Python Developers](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/)   
+
+:star: [Click Completion](https://github.com/click-contrib/click-completion)  
+
+[vispy](http://api.vispy.org/en/latest/)  
+
+[PyToolz API Documentation — Toolz 0.6.0 documentation](http://toolz.readthedocs.org/en/latest/)  
+
+[Python Requests](https://realpython.com/python-requests)  
+
 [zulu: A Drop-In Replacement for Native Python Datetimes That Embraces UTC](https://pycoders.com/link/113/bt0qtb8ar0)  
 
 # Optimize
@@ -113,6 +135,13 @@ _network_
 [Cython: fast as GPUs without GPUs – Stefano Bosis](https://medium.com/@stefanobosisio1/cython-fast-as-gpus-without-gpus-2c2e52cc4c42)  
 
 ## Async
+[High-level API Index — Python 3.7.4 documentatio](https://docs.python.org/3/library/asyncio-api-index.html)  
+[Transports and Protocols — Python 3.7.4 documentation](https://docs.python.org/3/library/asyncio-protocol.html)  
+[Streams — Python 3.7.4 documentation](https://docs.python.org/3/library/asyncio-stream.html)  
+[Producer/consumer — Asyncio Documentation 0.0 documentation](https://asyncio.readthedocs.io/en/latest/producer_consumer.html)  
+[Async IO in Python: A Complete Walkthrough – Real Python](https://realpython.com/async-io-python/)  
+[GitHub - fschr/simpletcp: A minimal non-blocking TCP server written for Python 3.](https://github.com/fschr/simpletcp)  
+[Python simple socket client/server using asyncio - Stack Overflow](https://stackoverflow.com/questions/48506460/python-simple-socket-client-server-using-asyncio)  
 [Intro to Python Threading](https://realpython.com/intro-to-python-threading/)  
 [Threaded Asynchronous Magic and How to Wield It](https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32)  
 [async programming in python with asyncio](https://dev.to/welldone2094/async-programming-in-python-with-asyncio-12dl)  
@@ -125,12 +154,13 @@ _network_
 
 
 ### Tools
+[VIM and Python](https://realpython.com/vim-and-python-a-match-made-in-heaven/#syntax-checkinghighlighting)  
 [Simplify Your Python Developer Environment](https://medium.com/homeaway-tech-blog/simplify-your-python-developer-environment-aba90f32dddb)  
 [Comparing Python Virtual Environment Tools](https://towardsdatascience.com/comparing-python-virtual-environment-tools-9a6543643a44)  
 [Wily Code Complexity](https://www.podcastinit.com/wily-code-complexity-episode-195/)  
-[wytest Testmon](https://github.com/tarpas/pytest-testmon)  
 [Black](https://www.mattlayman.com/blog/2018/python-code-black/)  
 [Pre commit](https://pre-commit.com/)  
+[PyDebug](https://github.com/benmezger/pydebug)  
 
 ### Python Blogs
 [10 python blogs worth following](http://freepythontips.wordpress.com/2013/07/31/10-python-blogs-worth-following/)  
@@ -195,6 +225,7 @@ _network_
 
 
 ### Plotting  
+:star: [Pylustrator is a program to style your Matplotlib](https://pylustrator.readthedocs.io/en/latest/)  
 [Python’s One Liner graph creation library with animations Hans Rosling Style](https://towardsdatascience.com/pythons-one-liner-graph-creation-library-with-animations-hans-rosling-style-f2cb50490396?source=safariShare-8a8b134a2c85-1557363626)  
 [Animations with Matplotlib](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)  
 [Top 50 matplotlib Visualizations - The Master Plots (w/ Full Python Code) | ML+](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)  
@@ -223,3 +254,8 @@ _network_
 
 
 [First Crack - A simple static blogging engine in Python](https://bitbucket.org/zjszewczyk/firstcrack-public/src/master/)  
+
+
+### Command line
+[How to Write Perfect Python Command-line Interfaces](https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2)  
+[Building Beautiful Command Line Interfaces with Python](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df)  

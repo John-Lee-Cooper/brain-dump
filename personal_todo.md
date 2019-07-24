@@ -56,12 +56,13 @@ Clue (Flask)
 ### Roanoke
 [GE, (Meridium)](https://talent.gecareers.com/digital/careers)  
 [Harris Corporation](https://harrisrccorp.peoplefluent.com/res_joblist.html)  
+[Grid Point](https://www.gridpoint.com/careers/)
 
 ### Other
 [Vitech Corporation](http://www.vitechcorp.com/about/careers.shtml)  
 [Draper Aden Associates](https://www.daa.com/careers/)  
 [JPI](https://jpidev.com/careers) Washington, cloud project management?  
-[Moog](http://www.moog.com/careers/find-our-jobs/non-moog-employees.html)  
+[Moog](http://www.moog.com/careers/)  
 [Aerotek](https://www.aerotek.com/jobs/results?page=4&location=Blacksburg,%20VA)  
 [Aeroprobe, Christiansburg](https://www.aeroprobe.com/working-at-aeroprobe/)  
 [BAE Systems, Radford]() Engineering  

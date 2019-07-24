@@ -6,6 +6,7 @@
 [Introducing the Open-Source Big Nerd Ranch Core Data Stack](https://www.bignerdranch.com/blog/introducing-the-big-nerd-ranch-core-data-stack/#shared_store)  
 
 ## Pandas
+[Scalable Python Code with Pandas UDFs](https://towardsdatascience.com/scalable-python-code-with-pandas-udfs-a-data-science-application-dd515a628896)  
 [Did You Know Pandas Can Do So Much?](https://medium.com/fintechexplained/did-you-know-pandas-can-do-so-much-f65dc7db3051?source=safariShare-8a8b134a2c85-1553350499)
 [! Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428?source=linkShare-8a8b134a2c85-1549763977)  
 [Feature Selection with Pandas](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b?source=linkShare-8a8b134a2c85-1550431837)  
@@ -22,6 +23,7 @@
 [The Simple Yet Practical Data Cleaning Codes – Towards Data Science](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)  
 
 ### GeoPandas  
+[Geo libraries in Python](https://blog.goodaudience.com/geo-libraries-in-python-plotting-current-fires-bffef9fe3fb7)  
 [Plotting business locations on maps using multiple Plotting libraries in Python](https://towardsdatascience.com/plotting-business-locations-on-maps-using-multiple-plotting-libraries-in-python-45a00ea770af)  
 [Making 3 Easy Maps With Python](https://towardsdatascience.com/making-3-easy-maps-with-python-fb7dfb1036?source=safariShare-8a8b134a2c85-1557002600)  
 [Getting Started on Geospatial Analysis with Python, GeoJSON and GeoPandas](https://www.twilio.com/blog/2017/08/geospatial-analysis-python-geojson-geopandas.html)  

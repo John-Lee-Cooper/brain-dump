@@ -402,6 +402,8 @@ git revert my_commit —Undo the effects of changes in my_commit. revert makes a
 3. Use Pull Requests to merge code to Master
 
 ## Git Links
+[Using Git Tags To Version Coding Tutorials](https://medium.com/@emmawedekind/using-git-tags-to-version-coding-tutorials-cf9ff28fad4f)  
+[How to Host Your Website On Github Pages For Free](https://medium.com/swlh/how-to-host-your-website-on-github-pages-for-free-3302b0fe8956)  
 [Intro to Interactive Rebasing in Git and Customizing Vim Preferences](https://medium.com/@lucaspenzeymoog/intro-to-interactive-rebasing-in-git-and-customizing-vim-preferences-b6e2f0309e31)  
 [git-and-github-tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)  
 [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)  
