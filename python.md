@@ -1,9 +1,8 @@
 # Python
 
-[Write More Pythonic Code](https://realpython.com/learning-paths/writing-pythonic-code/)  
 [9 Amazing Articles on Python Programming](https://medium.com/better-programming/10-great-articles-on-python-development-6f54dd38437f)  
-[Practical production python scripts](https://www.madmode.com/2019/python-eng.html) 
-[Writing sustainable Python scripts](https://vincent.bernat.ch/en/blog/2019-sustainable-python-script) 
+[Practical production python scripts](https://www.madmode.com/2019/python-eng.html)  
+[Writing sustainable Python scripts](https://vincent.bernat.ch/en/blog/2019-sustainable-python-script)  
 [36 Amazing Python Open Source Projects](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450)  
 [Edit your videos AUTOMATICALLY with this Python code](https://towardsdatascience.com/edit-your-videos-automatically-with-this-python-code-c704cc413a1)  
 [IPython as a system shell — IPython 3.2.1 documentation](https://ipython.org/ipython-doc/3/interactive/shell.html)  
@@ -134,7 +133,18 @@ _network_
 [Using Python’s Multiprocessing Module To Evaluate A Set of Algorithms Efficiently.](https://towardsdatascience.com/using-pythons-multiprocessing-module-to-evaluate-a-set-of-algorithms-efficiently-1412d29ff849)  
 [Cython: fast as GPUs without GPUs – Stefano Bosis](https://medium.com/@stefanobosisio1/cython-fast-as-gpus-without-gpus-2c2e52cc4c42)  
 
+
 ## Async
+### Sockets
+[Using asyncio.Queue for producer-consumer flow](https://stackoverflow.com/questions/52582685/using-asyncio-queue-for-producer-consumer-flow)  
+[Establishing a Websocket PUBSUB server with Redis and Asyncio](https://yeti.co/blog/establishing-a-websocket-pubsub-server-with-redis-and-asyncio-for-the-light-sensor/)  
+[Async IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/)  
+[Asyncio Libraries You Aren’t Using](https://www.oreilly.com/library/view/using-asyncio-in/9781491999691/ch04.html)  
+[Chat Server using asyncio of Python 3.7](https://www.mendrugory.com/post/python3-7-asyncio-chat/)  
+[TCP echo client and server in Python 3.5](https://www.curiousefficiency.org/posts/2015/07/asyncio-tcp-echo-server.html)  
+[An Asyncio socket tutorial](https://medium.com/@pgjones/an-asyncio-socket-tutorial-5e6f3308b8b0)  
+
+### Other
 [High-level API Index — Python 3.7.4 documentatio](https://docs.python.org/3/library/asyncio-api-index.html)  
 [Transports and Protocols — Python 3.7.4 documentation](https://docs.python.org/3/library/asyncio-protocol.html)  
 [Streams — Python 3.7.4 documentation](https://docs.python.org/3/library/asyncio-stream.html)  
@@ -259,3 +269,4 @@ _network_
 ### Command line
 [How to Write Perfect Python Command-line Interfaces](https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2)  
 [Building Beautiful Command Line Interfaces with Python](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df)  
+
