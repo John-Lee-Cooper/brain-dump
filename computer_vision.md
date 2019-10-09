@@ -1,6 +1,7 @@
 # Computer Vision
 
 
+[Ahmed Gad OpenCV Blog](https://heartbeat.fritz.ai/@ahmedfgad)  
 [Three Ways of Storing and Accessing Lots of Images in Python](https://realpython.com/storing-images-in-python/)  
 [OpenCV Tutorials](https://docs.opencv.org/4.1.0/d9/df8/tutorial_root.html)  
 [DeepPiCar Autonomous Lane Navigation](https://towardsdatascience.com/deeppicar-part-4-lane-following-via-opencv-737dd9e47c96?source=safariShare-8a8b134a2c85-1558138969)  
@@ -39,6 +40,9 @@
 
 ### Tutorial
 [OpenCV: OpenCV-Python Tutorials](http://docs.opencv.org/3.4.5/d6/d00/tutorial_py_root.html)  
+
+### Histogram
+[Image Histogram](https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_image_histogram_calcHist.php)  
 
 ### Contours
 [OpenCV-Python: Contour features](http://opencvpython.blogspot.com/2012/04/contour-features.html)  
@@ -93,3 +97,19 @@
 ### Kivy
 [Image Classification for Android Devices using NumPy and Kivy](https://heartbeat.fritz.ai/image-classification-for-android-devices-using-numpy-and-kivy-587f65e7e99a?source=safariShare-8a8b134a2c85-1561174384&gi=98ee7127d036)  
 [kivyImageViewer: A python kivy powered image viewer](https://github.com/ohlogic/kivyImageViewer)  
+
+## New Computer Vision
+
+[Quadtree Images](http://www.codingwithricky.com/2019/08/03/1-quadtree-photo-stylizer-python/)  
+[Horizontal and Vertical Stitching](https://link.medium.com/zMdsoO3ea0)  
+[Cartoon Effect](https://heartbeat.fritz.ai/image-effects-for-android-using-opencv-cartoon-effect-9d1c8c257b2a)  
+[Image Tiler](https://github.com/nuno-faria/tiler?files=1)  
+[Feature Selection Techniques](https://towardsdatascience.com/feature-selection-techniques-1bfab5fe0784)  
+[Computer Vision for Busy developers](https://medium.com/@vad710/cv-for-busy-developers-describing-features-49530f372fbb)  
+[Generating color palettes from movies with Python](https://medium.com/@andrisgauracs/generating-color-palettes-from-movies-with-python-16503077c025)
+[Making Art With A Webcam](https://towardsdatascience.com/making-art-with-your-webcam-ac6d0f5504f4)  
+[Count Number of Cars in Less Than 10 Lines of Code Using Python](https://towardsdatascience.com/count-number-of-cars-in-less-than-10-lines-of-code-using-python-40208b173554)  
+[Human Versus Computer Vision - Austin Startups](https://austinstartups.com/human-versus-computer-vision-94183d6737f6)  
+[Recent Advances in Modern Computer Vision](https://towardsdatascience.com/recent-advances-in-modern-computer-vision-56801edab980)  
+[Introduction to Image Segmentation with K-Means clustering](https://towardsdatascience.com/introduction-to-image-segmentation-with-k-means-clustering-83fd0a9e2fc3)  
+[Object Detection with Less Than 10 Lines of Code Using Python](ttps://towardsdatascience.com/object-detection-with-less-than-10-lines-of-code-using-python-2d28eebc5b11)  

@@ -1,5 +1,12 @@
 # Python
 
+## Python
+
+[Python Tooling Makes a Project Tick](https://medium.com/georgian-impact-blog/python-tooling-makes-a-project-tick-181d567eea44)  
+[Expert python topics](http://dev.libreneitor.com/expert-python-topics-you-should-know/)  
+[Python Development Setup](https://realpython.com/learning-paths/perfect-your-python-development-setup/)  
+[Beginning Python Programming — Part 15](https://medium.com/better-programming/beginning-python-programming-part-15-ae96dd8b9c95)  
+
 [9 Amazing Articles on Python Programming](https://medium.com/better-programming/10-great-articles-on-python-development-6f54dd38437f)  
 [Practical production python scripts](https://www.madmode.com/2019/python-eng.html)  
 [Writing sustainable Python scripts](https://vincent.bernat.ch/en/blog/2019-sustainable-python-script)  
@@ -102,6 +109,8 @@ _network_
 [itertools — Functions creating iterators for efficient looping — Python 2.7.9 documentation](https://docs.python.org/2/library/itertools.html)  
 [Why You Should Be Using Pathlib](https://pycoders.com/link/508/bt0qtb8ar0)  
 
+:star: [GitHub - johannestaas/pire: Python Interactive Regular Expressions](https://github.com/johannestaas/pire)  
+
 ### Libraries
 
 [PyOxidizer](https://pythonbytes.fm/episodes/show/138/will-pyoxidizer-weld-shut-one-of-python-s-major-gaps)  
@@ -112,8 +121,10 @@ _network_
 [Celery](https://djangostars.com/blog/the-python-celery-cookbook-small-tool-big-possibilities/)  
 
 :star: [SQLAlchemy ORM Tutorial for Python Developers](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/)   
+:star: [SQLAlchemy — Python Tutorial](https://towardsdatascience.com/sqlalchemy-python-tutorial-79a577141a91)  
 
 :star: [Click Completion](https://github.com/click-contrib/click-completion)  
+[Building Beautiful Command Line Interfaces with Python](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df)  
 
 [vispy](http://api.vispy.org/en/latest/)  
 
