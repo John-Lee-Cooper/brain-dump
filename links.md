@@ -62,6 +62,8 @@
 [Untitled](http://bentonian.com/teaching/AdvGraph0809/Advanced%20Graphics%2008x01%20-%20OpenGL,%20scene%20graphs%20and%20data%20structures.ppt)  
 [2\. Built-in Functions — Python v2.7.6 documentation](https://docs.python.org/2/library/functions.html)  
 [OpenGLContext Python Tutorials](http://pyopengl.sourceforge.net/context/tutorials/index.html)  
+[ModernGL](https://github.com/moderngl/moderngl)  
+[Python Arcade](http://arcade.academy/)  
 
 ## MQTT
 [SSL/TLS Client Certs to Secure MQTT - RockingD Labs](http://rockingdlabs.dunmire.org/exercises-experiments/ssl-client-certs-to-secure-mqtt)  
@@ -166,3 +168,13 @@
 [Soundgarden - Black Hole Sun](https://youtu.be/3mbBbFH9fAg)  
 [Nirvana - Smells Like Teen Spirit](https://youtu.be/hTWKbfoikeg)  
 [Astrud Gilberto & Stan Getz - The Girl From Ipanema](https://www.youtube.com/watch?v=UJkxFhFRFDA&feature=share)  
+
+## Software Engineering
+
+[Blocky Block Comments: An Easy Way to Improve Code Readability](https://levelup.gitconnected.com/blocky-block-comments-an-easy-way-to-improve-code-readability-563122cd9f75)  
+
+## Python
+
+[3D Vectors in Python](https://stackoverflow.com/questions/43541934/implementing-3d-vectors-in-python-numpy-vs-x-y-z-fields)  
+[Premade AI in the Cloud with Python](https://towardsdatascience.com/premade-ai-in-the-cloud-with-python-6e02d87054b6)  
+[Getting started with Azure Python functions - Katia Gil Guzman](https://medium.com/@k.giguz/getting-started-with-azure-python-functions-abd4d88706f7)  
