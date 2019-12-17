@@ -180,6 +180,7 @@ _network_
 [Comparing Python Virtual Environment Tools](https://towardsdatascience.com/comparing-python-virtual-environment-tools-9a6543643a44)  
 [Wily Code Complexity](https://www.podcastinit.com/wily-code-complexity-episode-195/)  
 [Black](https://www.mattlayman.com/blog/2018/python-code-black/)  
+[Pylint: Making your Python code consistent](https://opensource.com/article/19/10/python-pylint-introduction)  
 [Pre commit](https://pre-commit.com/)  
 [PyDebug](https://github.com/benmezger/pydebug)  
 
@@ -213,6 +214,7 @@ _network_
 
 
 ### QT
+[Python and PyQt: Building a GUI Desktop Calculator](https://realpython.com/python-pyqt-gui-calculator/)  
 :star: [Image Processing with Opencv and PyQT](http://computeraptor.com/projects/image-processing-with-opencv-and-pyqt-using-python/)  
 :star: [Using PyQt to build a GUI for your webcam](https://www.pythonforthelab.com/blog/step-by-step-guide-to-building-a-gui/)  
 [Qt for Python GettingStarted](https://wiki.qt.io/Qt_for_Python/GettingStarted) 
@@ -230,6 +232,7 @@ _network_
 [Create User Interfaces With Python](https://pycoders.com/link/518/bt0qtb8ar0)  
 [Python Qt Tutorial: Create a Simple GUI Chat Client](https://pycoders.com/link/170/bt0qtb8ar0)  
 
+[Build a Mobile Application With the Kivy Python Framework](https://realpython.com/mobile-app-kivy-python/)  
 
 ## Software Engineering  
 [Design Better Forms – UX Collective](https://uxdesign.cc/design-better-forms-96fadca0f49c)  
@@ -280,4 +283,3 @@ _network_
 ### Command line
 [How to Write Perfect Python Command-line Interfaces](https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2)  
 [Building Beautiful Command Line Interfaces with Python](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df)  
-

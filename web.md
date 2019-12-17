@@ -7,11 +7,11 @@
 [Google Chart Tools — Google Developers](https://developers.google.com/chart/)  
 
 ### Flask
+[Build a CRUD App with Flask, Bootstrap & Heroku](https://medium.com/technest/build-a-crud-app-with-flask-bootstrap-heroku-60dfa3a788e8)  
 [Awesome Flask List](https://github.com/mjhea0/awesome-flask)  
 [Setting Up a Flask Application in Visual Studio Code](https://blog.miguelgrinberg.com/post/setting-up-a-flask-application-in-visual-studio-code)  
 [flask-blogging](https://buildmedia.readthedocs.org/media/pdf/flask-blogging/latest/flask-blogging.pdf)  
 [Flask-Blogging: A Markdown Based Python Blog Engine as a Flask Extension.](https://github.com/gouthambs/Flask-Blogging)  
-[Manage Database Models with Flask Sqlalchemy](https://hackingandslacking.com/manage-database-models-with-flask-sqlalchemy-237135cbf7cc?source=linkShare-8a8b134a2c85-1550444534)  
 [Flask an Easy Access door to API Development](https://medium.com/@tusharseth93/flask-an-easy-access-door-to-api-development-2147ae694ceb?source=linkShare-8a8b134a2c85-1550444127)  
 [Python Plotting API Expose your Scientific Python Plots through a Flask API](https://towardsdatascience.com/python-plotting-api-expose-your-scientific-python-plots-through-a-flask-api-31ec7555c4a8?source=linkShare-8a8b134a2c85-1550453229)  
 [Deployment Options — Flask 0.9dev documentation](http://flask.pocoo.org/docs/deploying/)  
@@ -19,7 +19,6 @@
 [The Flask Mega-Tutorial, - miguelgrinberg.com](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)  
 [Flask - miguelgrinberg.com](http://blog.miguelgrinberg.com/category/Flask)  
 [Starting web projects using Flask, virtualenv, pip](https://www.enigmeta.com/blog/starting-flask/)  
-[Delightful testing with pytest and Flask- SQLAlchemy](http://alexmic.net/flask-sqlalchemy-pytest/)  
 [flask - Real Python](https://realpython.com/blog/categories/flask/)  
 [Flask - Full Stack Python](http://www.fullstackpython.com/flask.html)  
 [Python Web Applications With Flask - Part I - Real Python](https://realpython.com/blog/python/python-web-applications-with-flask-part-i/#.Uu6GOHddUp8)  
@@ -29,14 +28,13 @@
 [Flaskr - Intro to Flask, Test-Driven Development, and JavaScript](https://github.com/mjhea0/flaskr-tdd)  
 [How to build a web app using Python’s Flask and Google App Engine](https://medium.freecodecamp.org/how-to-build-a-web-app-using-pythons-flask-and-google-app-engine-52b1bb82b221)  
 
-### MVC
-[Brad Wilson: ASP.NET MVC 2 Templates, Part 4: Custom Object Templates](http://bradwilson.typepad.com/blog/2009/10/aspnet-mvc-2-templates-part-4-custom-object-templates.html)  
-[Using Web.config Transformation in Web Site Projects](http://andrewtwest.com/2010/02/25/using-web-config-transformations-in-web-site-projects/)  
-[MVC : The Official Microsoft ASP.NET Site](http://www.asp.net/mvc)  
-[MVC Tips](http://www.codeproject.com/Articles/635324/Another-set-of-ASP-NET-MVC-4-tips)  
-[Razor](http://haacked.com/archive/2011/01/06/razor-syntax-quick-reference.aspx)  
-[LINQ](http://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)  
-[How we do MVC – View models](http://lostechies.com/jimmybogard/2009/06/30/how-we-do-mvc-view-models/)  
+[SQLAlchemy - Python Tutorial](https://towardsdatascience.com/sqlalchemy-python-tutorial-79a577141a91)  
+[Constructing Database Queries with SQLAlchemy - Hackers and Slackers](https://hackingandslacking.com/constructing-database-queries-with-sqlalchemy-9907f4f8e04b)  
+[Manage Database Models with Flask Sqlalchemy](https://hackingandslacking.com/manage-database-models-with-flask-sqlalchemy-237135cbf7cc?source=linkShare-8a8b134a2c85-1550444534)  
+[Delightful testing with pytest and Flask- SQLAlchemy](http://alexmic.net/flask-sqlalchemy-pytest/)  
+
+### SQL
+[Absolute Beginners Guide to SQL](https://medium.com/xavier-code21/absolute-beginners-guide-to-sql-601aad53f6c9?source=linkShare-8a8b134a2c85-1550453132)  
 
 ### jQuery
 [brandonaaron/jquery-mousewheel · GitHub](https://github.com/brandonaaron/jquery-mousewheel)  
@@ -64,7 +62,11 @@
 [gmaps.js — Google Maps API with less pain and more fun](http://hpneo.github.com/gmaps/documentation.html)  
 [Home](http://www.opentripplanner.org/)  
 
-
-### SQL
-[Absolute Beginners Guide to SQL](https://medium.com/xavier-code21/absolute-beginners-guide-to-sql-601aad53f6c9?source=linkShare-8a8b134a2c85-1550453132)  
-
+### MVC
+[Brad Wilson: ASP.NET MVC 2 Templates, Part 4: Custom Object Templates](http://bradwilson.typepad.com/blog/2009/10/aspnet-mvc-2-templates-part-4-custom-object-templates.html)  
+[Using Web.config Transformation in Web Site Projects](http://andrewtwest.com/2010/02/25/using-web-config-transformations-in-web-site-projects/)  
+[MVC : The Official Microsoft ASP.NET Site](http://www.asp.net/mvc)  
+[MVC Tips](http://www.codeproject.com/Articles/635324/Another-set-of-ASP-NET-MVC-4-tips)  
+[Razor](http://haacked.com/archive/2011/01/06/razor-syntax-quick-reference.aspx)  
+[LINQ](http://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)  
+[How we do MVC – View models](http://lostechies.com/jimmybogard/2009/06/30/how-we-do-mvc-view-models/)  

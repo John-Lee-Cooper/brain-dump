@@ -1,5 +1,19 @@
 # Computer Vision
 
+[Video processing pipeline using OpenCV and python generators](https://medium.com/deepvisionguru/video-processing-pipeline-with-opencv-ac10187d75b)  
+
+[Quadtree Images](http://www.codingwithricky.com/2019/08/03/1-quadtree-photo-stylizer-python/)  
+[Horizontal and Vertical Stitching](https://link.medium.com/zMdsoO3ea0)  
+[Cartoon Effect](https://heartbeat.fritz.ai/image-effects-for-android-using-opencv-cartoon-effect-9d1c8c257b2a)  
+[Image Tiler](https://github.com/nuno-faria/tiler?files=1)  
+[Feature Selection Techniques](https://towardsdatascience.com/feature-selection-techniques-1bfab5fe0784)  
+[Computer Vision for Busy developers](https://medium.com/@vad710/cv-for-busy-developers-describing-features-49530f372fbb)  
+[Generating color palettes from movies with Python](https://medium.com/@andrisgauracs/generating-color-palettes-from-movies-with-python-16503077c025)
+[Making Art With A Webcam](https://towardsdatascience.com/making-art-with-your-webcam-ac6d0f5504f4)  
+[Count Number of Cars in Less Than 10 Lines of Code Using Python](https://towardsdatascience.com/count-number-of-cars-in-less-than-10-lines-of-code-using-python-40208b173554)  
+[Human Versus Computer Vision - Austin Startups](https://austinstartups.com/human-versus-computer-vision-94183d6737f6)  
+[Recent Advances in Modern Computer Vision](https://towardsdatascience.com/recent-advances-in-modern-computer-vision-56801edab980)  
+[Introduction to Image Segmentation with K-Means clustering](https://towardsdatascience.com/introduction-to-image-segmentation-with-k-means-clustering-83fd0a9e2fc3)  
 
 [Ahmed Gad OpenCV Blog](https://heartbeat.fritz.ai/@ahmedfgad)  
 [Three Ways of Storing and Accessing Lots of Images in Python](https://realpython.com/storing-images-in-python/)  
@@ -13,16 +27,18 @@
 [Setting Up a Simple OCR Server](https://realpython.com/setting-up-a-simple-ocr-server/)  
 [Finding Lane Lines — Simple Pipeline For Lane Detection](https://towardsdatascience.com/finding-lane-lines-simple-pipeline-for-lane-detection-d02b62e7572b)  
 [Visual Deep Computer Vision](https://towardsdatascience.com/visual-deep-computer-vision-f1e9fcca8f3b)  
-[Which Free GPU Provider is Tops?](https://towardsdatascience.com/kaggle-vs-colab-faceoff-which-free-gpu-provider-is-tops-d4f0cd625029?source=safariShare-8a8b134a2c85-1553349799) 
-[Speedy CV Pipelines Using Parallelism](https://towardsdatascience.com/sp) 
+[Which Free GPU Provider is Tops?](https://towardsdatascience.com/kaggle-vs-colab-faceoff-which-free-gpu-provider-is-tops-d4f0cd625029?source=safariShare-8a8b134a2c85-1553349799)  
+[Speedy CV Pipelines Using Parallelism](https://towardsdatascience.com/sp)  
 [The 5 Trends That Dominated Computer Vision in 2018](https://heartbeat.fritz.ai/the-5-trends-that-dominated-computer-vision-in-2018-de38fbb9bd86)  
 [The 5 Computer Vision Techniques That Will Change How You See The World](https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b)  
 [ Releasing “Supervisely Person” dataset for teaching machines to segment humans](https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469)  
 [A Doorbell With Facial Recognition – Mangesh Pise – Medium](https://medium.com/%40mppise/a-doorbell-with-facial-recognition-3b132bf9605)  
-[Real-time and video processing object detection using Tensorflow, OpenCV and Docker.](https://towardsdatascience.com/real-time-and-video-processing-object-detection-using-tensorflow-opencv-and-docker-2be1694726e5)  
 [How to build an image duplicate finder – Towards Data Science](https://towardsdatascience.com/how-to-build-an-image-duplicate-finder-f8714ddca9d2)  
 [building an interactive gui with opencv/](https://erget.wordpress.com/2014/03/13/building-an-interactive-gui-with-opencv/)  
 [machine learning for vehicle detection](https://towardsdatascience.com/machine-learning-for-vehicle-detection-fd0f968995cf)  
+
+# Image Processing
+[Image Panorama Stitching with OpenCV](https://towardsdatascience.com/image-panorama-stitching-with-opencv-2402bde6b46c)  
 
 # Mobile
 [Build Your Own Customized Image Classification Mobile App in 10 Minutes](https://heartbeat.fritz.ai/build-your-customized-vision-app-in-10-minutes-eb0b141c3742?source=user_profile---------4-----------------------)  
@@ -45,6 +61,7 @@
 [Image Histogram](https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_image_histogram_calcHist.php)  
 
 ### Contours
+[contours/](https://datacarpentry.org/image-processing/09-contours/)  
 [OpenCV-Python: Contour features](http://opencvpython.blogspot.com/2012/04/contour-features.html)  
 
 ### HOG  
@@ -62,13 +79,13 @@
 [2.6. Image manipulation and processing using Numpy and Scipy — Scipy lecture notes](https://scipy-lectures.github.io/advanced/image_processing/index.html)  
 [Blob Detection Using OpenCV](http://www.learnopencv.com/blob-detection-using-opencv-python-c/)  
 
-### Face
 
-[Learn ABC of OpenCV while building a Face and Motion detector](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-8-1078eea3fdcb)  
-[image features.html](https://jakevdp.github.io/PythonDataScienceHandbook/05.14-image-features.html)  
-[traditional face detection python/#what is face detection](https://realpython.com/traditional-face-detection-python/#what-is-face-detection)  
-[Simple, accurate eye center tracking in OpenCV - Tristan Hume]( http://thume.ca/projects/2012/11/04/simple-accurate-eye-center-tracking-in-opencv/)  
-
+### Object Detection
+[Object Detection with Less Than 10 Lines of Code Using Python](ttps://towardsdatascience.com/object-detection-with-less-than-10-lines-of-code-using-python-2d28eebc5b11)  
+[Exploring OpenCV's Deep Learning Object Detection Library](https://medium.com/@franky07724_57962/exploring-opencvs-deep-learning-object-detection-library-e51fe7c82246)  
+[Demystifying Object Detection and Instance Segmentation for Data Scientists](https://towardsdatascience.com/a-hitchhikers-guide-to-object-detection-and-instance-segmentation-ac0146fe8e11)  
+[On Object Detection Metrics](https://medium.com/swlh/on-object-detection-metrics-ae1e2090bd65)  
+[Real-time and video processing object detection using Tensorflow, OpenCV and Docker.](https://towardsdatascience.com/real-time-and-video-processing-object-detection-using-tensorflow-opencv-and-docker-2be1694726e5)  
 
 ### Tracking
 [object tracking and following with opencv python/](https://botforge.wordpress.com/2016/07/11/object-tracking-and-following-with-opencv-python/)  
@@ -85,6 +102,16 @@
 [Chapter 7. Automatic color adjustments](https://pippin.gimp.org/image-processing/chapter-automaticadjustments.html)  
 [Python Programming Tutorials](https://pythonprogramming.net/raspberry-pi-camera-opencv-face-detection-tutorial/)  
 
+### Face
+
+[Eye detection - Gaze controlled keyboard with Python and Opencv p.1](https://pysource.com/2019/01/07/eye-detection-gaze-controlled-keyboard-with-python-and-opencv-p-1/)  
+[Face swapping - Opencv with Python (part 1)](https://pysource.com/2019/04/04/face-swapping-opencv-with-python-part-1/)  
+[Enhanced Skin Tone Detection using Heuristic Thresholding](https://www.alliedacademies.org/download.php?download=articles/enhanced-skin-tone-detection-using-heuristic-thresholding.pdf)  
+[Learn ABC of OpenCV while building a Face and Motion detector](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-8-1078eea3fdcb)  
+[image features.html](https://jakevdp.github.io/PythonDataScienceHandbook/05.14-image-features.html)  
+[traditional face detection python/#what is face detection](https://realpython.com/traditional-face-detection-python/#what-is-face-detection)  
+[Simple, accurate eye center tracking in OpenCV - Tristan Hume]( http://thume.ca/projects/2012/11/04/simple-accurate-eye-center-tracking-in-opencv/)  
+
 ### OpenCV QT
 :star: [How to: OpenCV in Qt creator and ImageQ](http://embeddedprogrammer.blogspot.com/2012/10/how-to-opencv-in-qt-creator-and-imageq.html)  
 [Using OpenCV in Qt4 GUI using python | Intelligent Easy i.e.Sensor & Robot](http://www.iesensor.com/blog/2014/06/15/using-opencv-in-qt4-gui-using-python/)  
@@ -98,18 +125,9 @@
 [Image Classification for Android Devices using NumPy and Kivy](https://heartbeat.fritz.ai/image-classification-for-android-devices-using-numpy-and-kivy-587f65e7e99a?source=safariShare-8a8b134a2c85-1561174384&gi=98ee7127d036)  
 [kivyImageViewer: A python kivy powered image viewer](https://github.com/ohlogic/kivyImageViewer)  
 
-## New Computer Vision
 
-[Quadtree Images](http://www.codingwithricky.com/2019/08/03/1-quadtree-photo-stylizer-python/)  
-[Horizontal and Vertical Stitching](https://link.medium.com/zMdsoO3ea0)  
-[Cartoon Effect](https://heartbeat.fritz.ai/image-effects-for-android-using-opencv-cartoon-effect-9d1c8c257b2a)  
-[Image Tiler](https://github.com/nuno-faria/tiler?files=1)  
-[Feature Selection Techniques](https://towardsdatascience.com/feature-selection-techniques-1bfab5fe0784)  
-[Computer Vision for Busy developers](https://medium.com/@vad710/cv-for-busy-developers-describing-features-49530f372fbb)  
-[Generating color palettes from movies with Python](https://medium.com/@andrisgauracs/generating-color-palettes-from-movies-with-python-16503077c025)
-[Making Art With A Webcam](https://towardsdatascience.com/making-art-with-your-webcam-ac6d0f5504f4)  
-[Count Number of Cars in Less Than 10 Lines of Code Using Python](https://towardsdatascience.com/count-number-of-cars-in-less-than-10-lines-of-code-using-python-40208b173554)  
-[Human Versus Computer Vision - Austin Startups](https://austinstartups.com/human-versus-computer-vision-94183d6737f6)  
-[Recent Advances in Modern Computer Vision](https://towardsdatascience.com/recent-advances-in-modern-computer-vision-56801edab980)  
-[Introduction to Image Segmentation with K-Means clustering](https://towardsdatascience.com/introduction-to-image-segmentation-with-k-means-clustering-83fd0a9e2fc3)  
-[Object Detection with Less Than 10 Lines of Code Using Python](ttps://towardsdatascience.com/object-detection-with-less-than-10-lines-of-code-using-python-2d28eebc5b11)  
+### Deep Learning
+
+[Build Your First Computer Vision Project - Dog Breed Classification](https://towardsdatascience.com/build-your-first-computer-vision-project-dog-breed-classification-a622d8fc691e)  
+[Traffic Sign Classification with Keras](https://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiNDc2ODQyOSIsImRlbGl2ZXJ5X2lkIjoiODgwMzA4Nzk0NyIsInVybCI6Imh0dHBzOi8vd3d3LnB5aW1hZ2VzZWFyY2guY29tLzIwMTkvMTEvMDQvdHJhZmZpYy1zaWduLWNsYXNzaWZpY2F0aW9uLXdpdGgta2VyYXMtYW5kLWRlZXAtbGVhcm5pbmcvP19fcz1rcmtzYXp0Y2pqN3BwdWQ1NHZrYiJ9)  
+[Non-maximum Suppression (NMS)](https://towardsdatascience.com/non-maximum-suppression-nms-93ce178e177c)  

@@ -163,5 +163,3 @@ data
 
 ## Hyperparameter
 [Hyperparameter Optimization with Keras – Towards Data Science](https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53)  
-
-

@@ -465,3 +465,5 @@ This command will prompt you a question for each part of the code (hunk) you cha
 [Master your git productivity – Ewan Jones](https://medium.com/@ewanjones_23689/master-your-git-productivity-a717fd4adf77?source=safariShare-8a8b134a2c85-1559349881)  
 [Use Git More Efficiently: A Simple Git Workflow](https://medium.com/@negarjf/use-git-more-efficiently-a-simple-git-workflow-c4e650289ec8)  
 [How to use Git submodules](http://blog.joncairns.com/2011/10/how-to-use-git-submodules/)  
+[30 Git CLI options you should know about - Christophe Porteneuve](https://medium.com/@porteneuve/30-git-cli-options-you-should-know-about-15423e8771df)  
+[Git commit practices your future self will thank you for - victoria.dev](https://victoria.dev/blog/git-commit-practices-your-future-self-will-thank-you-for/)  

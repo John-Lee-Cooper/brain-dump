@@ -20,101 +20,73 @@
 
 
 ---------------------------------
+# Blogging
 
-1. Be conversational
+## General:
 
-Your writing should be in a conversational tone such that your readers will feel like you’re talking to them personally.
+  Your writing should be in a conversational tone so that your readers will feel like you’re talking to them personally.
+  Write what you know and be authentic.
+  Explain technical concepts through stories — my own or others.
+  Consider: does this blog post stand apart, and how so? 
+    Unique use case, application, or approach
+    Original research, infographics, videos, pictures, etc.
+  No need to make keyword phrases bold or put them in italics. This can look like a gimmick or a clear attempt at highlighting keyword phrases.
+
+## Topics:
+
+  A step-by-step guide to achieving a specific goal - great for readers looking to get in, do something, and get out fast.
+  An in-depth survey on a particular topic
+  A numbered list of useful facts around a common topic
+
+## Title
+
+  Page Title: Use the primary keyword/phrase in the title once, as close to the beginning of the title as possible.
+    It’s important with tech tutorials, to have highly functional titles that quickly identify “problem” and the “solution” being offered.
+    This encourages searchers to click through to your content, since they have a clear idea of what to expect.
+
+  Meta Description:
+    The meta description is the portion of a search result underneath the title and URL.
+    It serves as a brief summary (~160 characters) that lets your reader know what they can expect to read.
+    This is what people will see when the post is shared on Twitter or Facebook, and it’s your chance to get people interested in reading.
+
+  Include a cover image of relevant gif (Unsplash and Pixabay are great resources)
 
 
-2. Be straight to the point
+## Introduction
 
-Time is precious and humans have an attention span of nine seconds on average.
-Don’t waste time with lengthy introductions or updates. Start making points and telling your story immediately to deliver what you’ve got for readers.
-This principle works well for crafting your headline to make readers feel it is worth their time to read your article by having a self-explanatory and conversational headline.
-Your article headlines play one of the most important factors to let readers decide if they want to click and read your articles.
+  Don’t waste time with lengthy introductions or updates.
+  The first paragraph or two of your post will either convince the reader to stay on or lose their attention.
+  Start off with a little bit of context to help people understand where your post fits into the big picture.
+  Then, tell your audience what they will get out of reading your article.
 
+## Middle
 
-3. Be real, and tell stories
+  Use relevant headers and sub headers:
+    Each step of the way, readers should know what they’re reading.
+    Some might prefer to scroll quickly to the “Implementation” section of a tutorial, and you want it to be clear where these sections start and end.
+  Shorter paragraphs are visually better:  (> 100 words) are likely to lose a reader’s attention. 
+  Now that you’ve told your readers what to expect, give it to them!
+  Feel free to go into as much detail as you need, and leave sign-posts along the way to orient people.
+  Use a lot of headings, numbered lists, and formatting to help people understand where they are, and enable them to skip around to the content they are most interested in.
+  It’s disorienting when a post veers off in a direction you weren’t expecting.
+  Time is precious and humans have an attention span of nine seconds on average.
+  Once you have these, keep your post focused by removing anything that doesn’t contribute, and avoid adding extra detail just because it’s related. A 5 - 10 minute read is the most successful.
 
-Write what you know and be authentic. Authenticity always wins.
-Tell stories. Everyone likes stories.
-I often try my best to explain technical concepts through stories — be it my own story or others.
+## Internal and External Linking:
 
+  Links can help contextualize or expand on your content and show that you’ve consulted respected sources to craft your content.
+  They can also lead readers to other things you’ve written, your GitHub profile, or other projects you’re working on. 
 
-4. Be receptive to feedback, including criticism
+## Conclusion
+
+  Don’t just taper off into the void at the end of the article.
+  If your reader has made it all the way there, they really care.
+  Give them a quick summary of what they learned, a pat on the back for reading, and maybe even something to do next if they’re inspired - a call to action.
+
+## Follow-up
 
 Always try to seek feedback from your readers — be it positive or negative — to learn how to improve your writing.
 
-
-5. Be consistent
-
-Without consistency, your articles will have a hard time gaining traction and getting noticed by readers.
-A great piece of writing comes from practising the craft of writing consistently through continuous improvement.
-Being consistent also means not giving up despite any obstacles.
-It is hard to start writing everytime as you may feel like you have nothing to share.
-
-
----------------------------------
-
-A step-by-step guide to achieving a specific goal.  great for readers that are looking to get in, do a thing, and get out fast.
-    An in-depth survey on a particular topic
-    A numbered list of useful facts around a common topic
-
-Goal
-Adudience
-
-Once you have these, keep your post focused by removing anything that doesn’t contribute, and avoid adding extra detail just because it’s related. I’ve found that relatively concise posts with a 5 - 10 minute read time are the most successful.
-
- Have a beginning, middle, and end
-
-It’s disorienting when a post veers off in a direction you weren’t expecting.
-Introduction
-
-The first paragraph or two of your post will either convince the reader to stay on or lose their attention. Start off with a little bit of context to help people understand where your post fits into the big picture. Then, tell your audience what they will get out of reading your article.
-Middle
-
-Now that you’ve told your readers what to expect, give it to them! Feel free to go into as much detail as you need, and leave sign-posts along the way to orient people. Use a lot of headings, numbered lists, and formatting to help people understand where they are, and enable them to skip around to the content they are most interested in.
-Conclusion
-
-Don’t just taper off into the void at the end of the article. If your reader has made it all the way there, they really care. Give them a quick summary of what they learned, a pat on the back for reading, and maybe even something to do next if they’re inspired - a call to action.
-
-Come up with a great title and subtitle, and make sure your post has at least one image. This is what people will see when the post is shared on Twitter or Facebook, and it’s your chance to get people interested in reading.
-
-
----------------------------------
-
-Unique Value:
-
-Does this blog post stand apart, and how so? 
-
-    Unique use case, application, or approach
-    Original research, infographics, videos, pictures, etc.
-    Well-written with a good organizational structure
-
-
-
-Include a cover image of relevant gif (Unsplash and Pixabay are great resources)
-
-    Use relevant headers and sub headers: Each step of the way, readers should know what they’re reading. Some might prefer to scroll quickly to the “Implementation” section of a tutorial, and you want it to be clear where these sections start and end.
-
-    Shorter paragraphs are visually better:  (> 100 words) are likely to lose a reader’s attention. 
-
-
-Internal and External Linking:
-
-Links can help contextualize or expand on your content and show that you’ve consulted respected sources to craft your content.
-
-They can also lead readers to other things you’ve written, your GitHub profile, or other projects you’re working on. 
-
-
-
-Page Title: Use the primary keyword/phrase in the title once, as close to the beginning of the title as possible. It’s more important, especially with specific tech tutorials, to have titles that are highly functional and quickly identify both the “problem” and the “solution” being offered. This also encourages searchers to click through to your content, since they have a clear idea of what to expect.
-
-Meta Description: The meta description is the portion of a search result underneath the title and URL. It serves as a brief summary (~160 characters) that lets your reader know what they can expect to read.
-
-    Remember the importance of UX here — no need to make keyword phrases bold or put them in italics. This can look like a gimmick or a clear attempt at highlighting keyword phrases. The content should speak for itself.
-
-Meta Description: The meta description is the portion of a search result underneath the title and URL. It serves as a brief summary (~160 characters) that lets your reader know what they can expect to read. This is a chance to highlight why your post is unique. Here are examples of two meta descriptions:  meta description ends with ‘. . . ’ because the owners of the first link did not specify a meta description, so Google used the first words provided on the web page.
-
-Medium makes it easy to do just that. In edit mode, there’s an option to “Change Display Title/Subtitle”.
-
+Be consistent.  Without consistency, your articles will have a hard time gaining traction and getting noticed by readers.
+  A great piece of writing comes from practising the craft of writing consistently through continuous improvement.
+  Being consistent also means not giving up despite any obstacles.

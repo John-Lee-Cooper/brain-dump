@@ -36,7 +36,6 @@
 [Dockerizing Python Flask Applications](https://pycoders.com/link/672/bt0qtb8ar0)  
 [Docker Development WorkFlow — a guide with Flask and Postgres](https://medium.freecodecamp.org/docker-development-workflow-a-guide-with-flask-and-postgres-db1a1843044a)  
 
-
 [Building Python Data Science Container Using Docker](https://hackernoon.com/building-python-data-science-container-using-docker-c8e346295669)  
 [A short guide to using Docker for your data science environment](https://towardsdatascience.com/a-short-guide-to-using-docker-for-your-data-science-environment-912617b3603e)  
 
@@ -84,6 +83,7 @@
 [Android JetPack Navigation Architecture Component – Deemaze Writing Wall – Medium](https://medium.com/deemaze-software/android-jetpack-navigation-architecture-component-b603c9a8100c)  
 
 ## IOS
+[Upgrading Bash on macOS](https://itnext.io/upgrading-bash-on-macos-7138bd1066ba)  
 [Start Developing iOS Apps Today](https://developer.apple.com/library/ios/ipad/#documentation/iPhone/Conceptual/iPhone101/index.html)  
 [Quick Start Guide - iPhone 3D Programming - OFPS - O'Reilly Media](http://ofps.oreilly.com/titles/9780596804824/chquick.html)  
 [App Engine Python Overview - Google App Engine - Google Code](https://code.google.com/appengine/docs/python/overview.html)  
@@ -169,12 +169,25 @@
 [Nirvana - Smells Like Teen Spirit](https://youtu.be/hTWKbfoikeg)  
 [Astrud Gilberto & Stan Getz - The Girl From Ipanema](https://www.youtube.com/watch?v=UJkxFhFRFDA&feature=share)  
 
-## Software Engineering
 
+
+## Software Engineering
 [Blocky Block Comments: An Easy Way to Improve Code Readability](https://levelup.gitconnected.com/blocky-block-comments-an-easy-way-to-improve-code-readability-563122cd9f75)  
 
-## Python
 
 [3D Vectors in Python](https://stackoverflow.com/questions/43541934/implementing-3d-vectors-in-python-numpy-vs-x-y-z-fields)  
 [Premade AI in the Cloud with Python](https://towardsdatascience.com/premade-ai-in-the-cloud-with-python-6e02d87054b6)  
 [Getting started with Azure Python functions - Katia Gil Guzman](https://medium.com/@k.giguz/getting-started-with-azure-python-functions-abd4d88706f7)  
+
+[Making Artistic Maps with Python](https://towardsdatascience.com/making-artistic-maps-with-python-9d37f5ea8af0)  
+
+[20 VS Code Shortcuts for Faster Coding - Better Programming](https://medium.com/better-programming/20-vs-code-shortcuts-for-fast-coding-cheatsheet-10b0e72fd5d)  
+[My 7 Favorite VS Code Extensions (That Aren't Mentioned Yet)](https://medium.com/better-programming/my-7-favorite-vs-code-extensions-that-everyone-hasnt-mentioned-yet-4f3945d82be5)  
+[Toward a Mouse-Free Developer Experience in VSCode](https://medium.com/productivedev/toward-a-mouse-free-developer-experience-in-vscode-97e621d5136e)   
+
+[regex](https://regex101.com/)  
+
+[1](https://learnetto.com/blog/tutorial-how-to-use-amazon-s3-and-cloudfront-cdn-to-serve-images-fast-and-cheap)  
+[2](https://aws-amplify.github.io/docs/?fromawsmobiledocs=true)  
+[3](https://grokonez.com/android/uploaddownload-files-images-amazon-s3-android)  
+[4](https://www.youtube.com/watch?reload=9&v=x3VBosHm7n8)  
