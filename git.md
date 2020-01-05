@@ -467,3 +467,4 @@ This command will prompt you a question for each part of the code (hunk) you cha
 [How to use Git submodules](http://blog.joncairns.com/2011/10/how-to-use-git-submodules/)  
 [30 Git CLI options you should know about - Christophe Porteneuve](https://medium.com/@porteneuve/30-git-cli-options-you-should-know-about-15423e8771df)  
 [Git commit practices your future self will thank you for - victoria.dev](https://victoria.dev/blog/git-commit-practices-your-future-self-will-thank-you-for/)  
+[git add -p Is a Gamechanger in File Management]( https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)  

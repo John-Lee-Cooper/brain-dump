@@ -4,6 +4,7 @@
 [How to Approach Problems in Development (and Pretty Much Everywhere Else)](https://weblogs.asp.net/rweigelt/how-to-approach-problems-in-development-and-pretty-much-everywhere-else)  
 [Which Free GPU Provider is Tops?](https://towardsdatascience.com/kaggle-vs-colab-faceoff-which-free-gpu-provider-is-tops-d4f0cd625029?source=safariShare-8a8b134a2c85-1553349799)      
 
+
 ## Software Engineering  
 [5 Powerful Habits of Successful Developers.](https://medium.com/swlh/5-powerful-habits-of-successful-developers-1c0e32659ea3)  
 [5 Things Better than a Computer Science Degree – Better Programming](https://medium.com/better-programming/5-things-better-than-computer-science-degree-f8acb8061c09?source=safariShare-8a8b134a2c85-1559349407)  
@@ -16,6 +17,7 @@
 [Tutorial: Remote Development on Raspberry Pi - Help](https://www.jetbrains.com/help/pycharm/remote-development-on-raspberry-pi.html)  
 [Connect JetBrains PyCharm to Raspberry pi - Hackster.io](https://www.hackster.io/Jolley71717/connect-jetbrains-pycharm-to-raspberry-pi-72be15)  
 [Using your new Raspberry Pi 3 as a WiFi access point with hostapd](https://frillip.com/using-your-raspberry-pi-3-as-a-wifi-access-point-with-hostapd/)  
+
 
 ## [Docker](https://docs.docker.com/)
 
@@ -42,6 +44,7 @@
 [Why Should You Switch to Docker and Kubernetes](https://hackernoon.com/why-should-you-switch-to-docker-and-kubernetes-c7f96eb7ef7d?source=linkShare-8a8b134a2c85-1550453165)  
 [Learn Kubernetes in Under 3 Hours A Detailed Guide to Orchestrating Containers](https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882)  
 
+
 ## Agile and Scrum
 [Don’t run project retros, play Dungeons and Dragons](https://uxplanet.org/dont-run-project-retros-play-dungeons-and-dragons-bae43d3df7f3)  
 [Effective Sprint Retrospectives](http://msdn.microsoft.com/en-us/library/vstudio/jj620912.aspx)  
@@ -51,6 +54,7 @@
 [Scrum Task Board Training](http://www.mountaingoatsoftware.com/scrum/task-boards)  
 [Extreme Programming Rules](http://www.extremeprogramming.org/rules.html)  
 [NRV Agile Users Group](http://agilenrv.org/#blog)  
+
 
 ## OpenGL
 [OpenGL](http://www.songho.ca/opengl/index.html)  
@@ -64,11 +68,13 @@
 [ModernGL](https://github.com/moderngl/moderngl)  
 [Python Arcade](http://arcade.academy/)  
 
+
 ## MQTT
 [SSL/TLS Client Certs to Secure MQTT - RockingD Labs](http://rockingdlabs.dunmire.org/exercises-experiments/ssl-client-certs-to-secure-mqtt)  
 [MQTT, Mosquitto TLS Security -Setup and Configuration](http://www.steves-internet-guide.com/mosquitto-tls/)  
 [eclipse/paho.mqtt.android at develop](https://github.com/eclipse/paho.mqtt.android/tree/develop)  
 [MQTT Essentials Part 1: Introducing MQTT](http://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt)  
+
 
 ## Android
 [Profiling your App with Android Studio](https://heartbeat.fritz.ai/profiling-your-app-with-android-studio-7accc268cb98?source=linkShare-8a8b134a2c85-1550453296)  
@@ -82,7 +88,9 @@
 [Android Tutorial](https://www.tutorialspoint.com/android/index.htm)  
 [Android JetPack Navigation Architecture Component – Deemaze Writing Wall – Medium](https://medium.com/deemaze-software/android-jetpack-navigation-architecture-component-b603c9a8100c)  
 
+
 ## IOS
+[Alfred - Productivity App for macOS]( https://www.alfredapp.com/)  
 [Upgrading Bash on macOS](https://itnext.io/upgrading-bash-on-macos-7138bd1066ba)  
 [Start Developing iOS Apps Today](https://developer.apple.com/library/ios/ipad/#documentation/iPhone/Conceptual/iPhone101/index.html)  
 [Quick Start Guide - iPhone 3D Programming - OFPS - O'Reilly Media](http://ofps.oreilly.com/titles/9780596804824/chquick.html)  
@@ -91,6 +99,7 @@
 [30 Auto Layout Best Practices for Xcode 9 and iOS 11 - Super Easy Apps](https://blog.supereasyapps.com/30-auto-layout-best-practices/)  
 [Avoiding Ten Big Mistakes iOS Developers Make with Core Data](http://www.informit.com/articles/article.aspx?p=2160906)  
 
+
 ## Ubuntu
 [Ubuntu](http://www.ubuntu.com/)  
 [Ubuntu Wiki (community-edited website)](https://wiki.ubuntu.com/)  
@@ -98,13 +107,14 @@
 [Debian (Ubuntu is based on Debian)](http://www.debian.org/)  
 [Make Ubuntu faster(maybe) – NerdOfLinux’s Tech Blog – Medium](https://medium.com/nerdoflinux/make-ubuntu-faster-maybe-7c0ea100c010)  
 
+
 ## VBA Visual Basic
 [Excel VBA Userform - Easy Excel Macros](http://www.excel-easy.com/vba/userform.html)  
 [How to use Visual Basic for Applications (VBA) to change UserForms in Excel](https://support.microsoft.com/en-us/kb/829070)  
 [Shapes.AddFormControl Method (Excel)](https://msdn.microsoft.com/EN-US/library/office/ff838642.aspx)  
 
-## Personal
 
+## Personal
 [Unstuffed mushrooms](https://www.facebook.com/GinasSkinnytaste/videos/vb.157606644261329/392432894944719/?type=2&theater)  
 [Blackberry Syrup Recipe](http://www.myrecipes.com/recipe/blackberry-syrup-50400000122158/)  
 [Coca-cola Ribs Recipe](http://www.grouprecipes.com/41365/coca-cola-ribs.html)  
@@ -120,6 +130,7 @@
 [Kahoot!](https://kahoot.it/#/)  
 [Dashboard](https://www.google.com/dashboard/b/0/)  
 
+
 ## GT
 [BuzzPort](https://buzzport.gatech.edu/cp/home/displaylogin)  
 [GT- Udacity](https://classroom.udacity.com/courses/ud262)  
@@ -130,6 +141,7 @@
 [T-Square](https://t-square.gatech.edu/portal/site/gtc-f124-a0a9-53d3-a141-e14e52ea77d7/page/4622ec0e-2d84-4678-b378-16cea50b602d)  
 [Piazza](https://piazza.com/class/jby3gthdy111uc)  
 
+
 ## Education
 [Electrical Engineering and Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)  
 [Eigenvalues and Eigenvectors](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors/)  
@@ -139,6 +151,7 @@
 [Advance Your Education With Free College Courses Online - Udacity](https://www.udacity.com/)  
 [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)  
 
+
 ## Gaming
 [Risk Game Strategy Guides](http://www.totaldiplomacy.com/RiskStrategyGuides/tabid/68/Default.aspx)  
 [Strategy :: Lux Wiki](http://sillysoft.net/wiki/?Strategy)  
@@ -146,10 +159,10 @@
 [WarpWar Rules](http://www.contrib.andrew.cmu.edu/~gc00/reviews/warpwar.html)  
 [Rick's Warp War rules](http://boardgamegeek.com/thread/627066/ricks-warp-war-rules)  
 [Tactical Rock-Paper- Scissors - TV Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/TacticalRockPaperScissors)  
-[Implementation of Hex Grids](https://www.redblobgames.com/grids/hexagons/implem
+[Implementation of Hex Grids](https://www.redblobgames.com/grids/hexagons/implem)
+
 
 ## YouTube
-
 [Most Popular Programming Languages on Stack Overflow Bar Chart Race](https://youtu.be/cKzP61Gjf00)  
 [Grocery Store Wars](http://youtu.be/hVrIyEu6h_E)  
 [Battlestar Galactica Vs Star Wars Vs Star Trek Vs Babylon 5](http://youtu.be/JXnPG19npW8)  
@@ -170,8 +183,10 @@
 [Astrud Gilberto & Stan Getz - The Girl From Ipanema](https://www.youtube.com/watch?v=UJkxFhFRFDA&feature=share)  
 
 
-
 ## Software Engineering
+[Everyday Activities to Help You Become a Better Developer]( https://medium.com/better-programming/everyday-activities-to-become-a-better-developer-3d00ec8d14a5)  
+[Do You Know How to Solve These Programming Problems?]( https://medium.com/better-programming/do-you-know-how-to-solve-these-programming-problems-18d04defc05e)  
+[The 7 Habits of Highly Ineffective Programmers]( https://medium.com/young-coder/the-7-habits-of-highly-ineffective-programmers-cdd997769879)  
 [Blocky Block Comments: An Easy Way to Improve Code Readability](https://levelup.gitconnected.com/blocky-block-comments-an-easy-way-to-improve-code-readability-563122cd9f75)  
 
 
@@ -190,4 +205,5 @@
 [1](https://learnetto.com/blog/tutorial-how-to-use-amazon-s3-and-cloudfront-cdn-to-serve-images-fast-and-cheap)  
 [2](https://aws-amplify.github.io/docs/?fromawsmobiledocs=true)  
 [3](https://grokonez.com/android/uploaddownload-files-images-amazon-s3-android)  
-[4](https://www.youtube.com/watch?reload=9&v=x3VBosHm7n8)  
+[4](https://www.youtube.com/watch?reload=9&v=x3VBosHm7n8)  ## SW Developer
+

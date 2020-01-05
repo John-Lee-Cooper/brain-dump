@@ -21,7 +21,7 @@
 [The definitive guide on how to use static, class or abstract methods in Python](http://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods)  
 [Unicode & Character Encodings in Python: A Painless Guide](https://realpython.com/python-encodings-guide/)  
 
-_network_  
+### network
 [select – Wait for I/O Efficiently - Python Module of the Week](https://pymotw.com/2/select/)  
 [Python Tutorial: Network Programming III - SocketServer - 2017](http://www.bogotobogo.com/python/python_network_programming_socketserver_framework_for_network_servers.php)  
 
@@ -42,7 +42,6 @@ _network_
 
 [Improve Your Code With Atomic Functions](https://pycoders.com/link/679/bt0qtb8ar0)  
 
-
 [Sending Emails With Python](https://pycoders.com/link/424/bt0qtb8ar0)  
 
 [faulthandler — Dump the Python traceback — Python 3.7.3 documentation](https://docs.python.org/3/library/faulthandler.html)  
@@ -50,7 +49,7 @@ _network_
 [Setting Up Vim as a Python IDE](https://pycoders.com/link/636/bt0qtb8ar0)  
 [A guide to modern Web Development with (Neo)vim](https://medium.freecodecamp.org/a-guide-to-modern-web-development-with-neo-vim-333f7efbf8e2)  
 
-### Design Patters
+### Design Patterns
 [Ensuring Clean Code: A Look at Python, Parameterized](https://www.toptal.com/python/python-parameterized-design-patterns)  
 [Python Design Patterns: For Sleek And Fashionable Code](https://www.toptal.com/python/python-design-patterns)  
 [Design Patterns](https://sourcemaking.com/design_patterns)  
@@ -85,6 +84,7 @@ _network_
 ### Continous Integration
 :star: [10 Steps to Set Up Your Python Project for Success]( https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13?source=user_profile---------8-----------------------)  
 [Continuous Integration With Python: An Introduction](https://pycoders.com/link/315/bt0qtb8ar0)  
+[jenkinsapi]( https://pypi.org/project/jenkinsapi/)  
 [Jenkins and Python](http://www.alexconrad.org/2011/10/jenkins-and-python.html)  
 ### Distributing and Publishing
 [Distributing Standalone Python Applications](https://pycoders.com/link/605/bt0qtb8ar0)  
@@ -104,6 +104,7 @@ _network_
 [Getting started with Elasticsearch in Python – Towards Data Science](https://towardsdatascience.com/getting-started-with-elasticsearch-in-python-c3598e718380)  
 
 ### Standard Libraries
+[The Ultimate Guide to Data Classes in Python 3.7]( https://realpython.com/python-data-classes/)  
 :star: [Python Itertools](https://kanoki.org/2019/02/08/python-itertools/)  
 [Itertools, Generators, and Generator Expressions](https://towardsdatascience.com/python-pro-tip-use-itertools-generators-and-generator-expressions-1b84911c978?source=safariShare-8a8b134a2c85-1559349210)  
 [itertools — Functions creating iterators for efficient looping — Python 2.7.9 documentation](https://docs.python.org/2/library/itertools.html)  
@@ -134,7 +135,10 @@ _network_
 
 [zulu: A Drop-In Replacement for Native Python Datetimes That Embraces UTC](https://pycoders.com/link/113/bt0qtb8ar0)  
 
-# Optimize
+
+# Optimize - Profile
+[Alternatives to Using Globals in Python]( https://medium.com/better-programming/alternatives-to-using-globals-in-python-a3b2a7d5411b)  
+[Blackfire Profiler for Python Pre-Launch Registration]( https://hello.blackfire.io/python?utm_source=pycoder_weekly&utm_medium=newsletter&utm_campaign=q4_2019)  
 [Expensive lessons in Python performance tuning](http://blog.explainmydata.com/2012/07/expensive-lessons-in-python-performance.html)  
 [Make Your Python Workers Scale Dynamically](https://dzone.com/articles/how-to-make-your-python-workers-scale-dynamically) 
 [Speedy CV Pipelines Using Parallelism](https://towardsdatascience.com/speedy-cv-pipelines-using-parallelism-d7bebad2ff5f)  
@@ -213,7 +217,8 @@ _network_
 [How to Interact with Jupyter GUI](https://medium.com/@jdchipox/how-to-interact-with-jupyter-33a98686f24e)  
 
 
-### QT
+### GUI - QT - Kivy
+[Learn How to Quickly Create UIs in Python]( https://towardsdatascience.com/learn-how-to-quickly-create-uis-in-python-a97ae1394d5)  
 [Python and PyQt: Building a GUI Desktop Calculator](https://realpython.com/python-pyqt-gui-calculator/)  
 :star: [Image Processing with Opencv and PyQT](http://computeraptor.com/projects/image-processing-with-opencv-and-pyqt-using-python/)  
 :star: [Using PyQt to build a GUI for your webcam](https://www.pythonforthelab.com/blog/step-by-step-guide-to-building-a-gui/)  
@@ -231,7 +236,6 @@ _network_
 [Develop Your Python GUI Applications With Qt](https://pycoders.com/link/699/bt0qtb8ar0)  
 [Create User Interfaces With Python](https://pycoders.com/link/518/bt0qtb8ar0)  
 [Python Qt Tutorial: Create a Simple GUI Chat Client](https://pycoders.com/link/170/bt0qtb8ar0)  
-
 [Build a Mobile Application With the Kivy Python Framework](https://realpython.com/mobile-app-kivy-python/)  
 
 ## Software Engineering  
@@ -282,4 +286,5 @@ _network_
 
 ### Command line
 [How to Write Perfect Python Command-line Interfaces](https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2)  
-[Building Beautiful Command Line Interfaces with Python](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df)  
+[Building Beautiful Command Line Interfaces with Python](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df)  ## OpenCV
+
