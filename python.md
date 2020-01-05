@@ -1,6 +1,6 @@
 # Python
 
-## Python
+## General
 
 [Python Tooling Makes a Project Tick](https://medium.com/georgian-impact-blog/python-tooling-makes-a-project-tick-181d567eea44)  
 [Expert python topics](http://dev.libreneitor.com/expert-python-topics-you-should-know/)  
@@ -20,10 +20,7 @@
 [Python Programming Language -- Official Website](https://www.python.org/)  
 [The definitive guide on how to use static, class or abstract methods in Python](http://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods)  
 [Unicode & Character Encodings in Python: A Painless Guide](https://realpython.com/python-encodings-guide/)  
-
-### network
-[select – Wait for I/O Efficiently - Python Module of the Week](https://pymotw.com/2/select/)  
-[Python Tutorial: Network Programming III - SocketServer - 2017](http://www.bogotobogo.com/python/python_network_programming_socketserver_framework_for_network_servers.php)  
+[Alternatives to Using Globals in Python]( https://medium.com/better-programming/alternatives-to-using-globals-in-python-a3b2a7d5411b)  
 
 [Bite Sized Python Tips](http://freepythontips.wordpress.com/2014/02/04/free-python-books/#more-432)  
 [pyvideo.org](http://www.pyvideo.org/)  
@@ -44,10 +41,12 @@
 
 [Sending Emails With Python](https://pycoders.com/link/424/bt0qtb8ar0)  
 
-[faulthandler — Dump the Python traceback — Python 3.7.3 documentation](https://docs.python.org/3/library/faulthandler.html)  
-
 [Setting Up Vim as a Python IDE](https://pycoders.com/link/636/bt0qtb8ar0)  
 [A guide to modern Web Development with (Neo)vim](https://medium.freecodecamp.org/a-guide-to-modern-web-development-with-neo-vim-333f7efbf8e2)  
+
+### Network
+[select – Wait for I/O Efficiently - Python Module of the Week](https://pymotw.com/2/select/)  
+[Python Tutorial: Network Programming III - SocketServer - 2017](http://www.bogotobogo.com/python/python_network_programming_socketserver_framework_for_network_servers.php)  
 
 ### Design Patterns
 [Ensuring Clean Code: A Look at Python, Parameterized](https://www.toptal.com/python/python-parameterized-design-patterns)  
@@ -136,8 +135,8 @@
 [zulu: A Drop-In Replacement for Native Python Datetimes That Embraces UTC](https://pycoders.com/link/113/bt0qtb8ar0)  
 
 
-# Optimize - Profile
-[Alternatives to Using Globals in Python]( https://medium.com/better-programming/alternatives-to-using-globals-in-python-a3b2a7d5411b)  
+## Optimize - Profile
+[Python Timer Functions: Three Ways to Monitor Your Code](https://realpython.com/python-timer/)
 [Blackfire Profiler for Python Pre-Launch Registration]( https://hello.blackfire.io/python?utm_source=pycoder_weekly&utm_medium=newsletter&utm_campaign=q4_2019)  
 [Expensive lessons in Python performance tuning](http://blog.explainmydata.com/2012/07/expensive-lessons-in-python-performance.html)  
 [Make Your Python Workers Scale Dynamically](https://dzone.com/articles/how-to-make-your-python-workers-scale-dynamically) 
@@ -164,7 +163,6 @@
 [Transports and Protocols — Python 3.7.4 documentation](https://docs.python.org/3/library/asyncio-protocol.html)  
 [Streams — Python 3.7.4 documentation](https://docs.python.org/3/library/asyncio-stream.html)  
 [Producer/consumer — Asyncio Documentation 0.0 documentation](https://asyncio.readthedocs.io/en/latest/producer_consumer.html)  
-[Async IO in Python: A Complete Walkthrough – Real Python](https://realpython.com/async-io-python/)  
 [GitHub - fschr/simpletcp: A minimal non-blocking TCP server written for Python 3.](https://github.com/fschr/simpletcp)  
 [Python simple socket client/server using asyncio - Stack Overflow](https://stackoverflow.com/questions/48506460/python-simple-socket-client-server-using-asyncio)  
 [Intro to Python Threading](https://realpython.com/intro-to-python-threading/)  
@@ -187,6 +185,7 @@
 [Pylint: Making your Python code consistent](https://opensource.com/article/19/10/python-pylint-introduction)  
 [Pre commit](https://pre-commit.com/)  
 [PyDebug](https://github.com/benmezger/pydebug)  
+[faulthandler — Dump the Python traceback — Python 3.7.3 documentation](https://docs.python.org/3/library/faulthandler.html)  
 
 ### Python Blogs
 [10 python blogs worth following](http://freepythontips.wordpress.com/2013/07/31/10-python-blogs-worth-following/)  
@@ -288,3 +287,7 @@
 [How to Write Perfect Python Command-line Interfaces](https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2)  
 [Building Beautiful Command Line Interfaces with Python](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df)  ## OpenCV
 
+
+### Unsorted
+[Three Ways of Storing and Accessing Lots of Images in Python] (https://realpython.com/storing-images-in-python/)  
+[Build a Recommendation Engine With Collaborative Filtering] (https://realpython.com/build-recommendation-engine-collaborative-filtering/)  
