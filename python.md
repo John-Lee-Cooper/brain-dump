@@ -123,6 +123,7 @@
 :star: [SQLAlchemy ORM Tutorial for Python Developers](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/)   
 :star: [SQLAlchemy — Python Tutorial](https://towardsdatascience.com/sqlalchemy-python-tutorial-79a577141a91)  
 
+:star: [Typer CLI](https://typer.tiangolo.com/)  
 :star: [Click Completion](https://github.com/click-contrib/click-completion)  
 [Building Beautiful Command Line Interfaces with Python](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df)  
 
@@ -252,6 +253,7 @@
 
 
 ### Plotting  
+[Effectively Using�Matplotlib](https://pbpython.com/effective-matplotlib.html)  
 :star: [Pylustrator is a program to style your Matplotlib](https://pylustrator.readthedocs.io/en/latest/)  
 [Python’s One Liner graph creation library with animations Hans Rosling Style](https://towardsdatascience.com/pythons-one-liner-graph-creation-library-with-animations-hans-rosling-style-f2cb50490396?source=safariShare-8a8b134a2c85-1557363626)  
 [Animations with Matplotlib](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)  
@@ -285,9 +287,13 @@
 
 ### Command line
 [How to Write Perfect Python Command-line Interfaces](https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2)  
-[Building Beautiful Command Line Interfaces with Python](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df)  ## OpenCV
+[Building Beautiful Command Line Interfaces with Python](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df)  
 
 
 ### Unsorted
 [Three Ways of Storing and Accessing Lots of Images in Python] (https://realpython.com/storing-images-in-python/)  
 [Build a Recommendation Engine With Collaborative Filtering] (https://realpython.com/build-recommendation-engine-collaborative-filtering/)  
+[python games by example](https://pypi.org/project/gamesbyexample/)  
+[PyPI Download Stats](https://pypistats.org/)  
+[Ultimate Setup for Your Next Python Project](https://towardsdatascience.com/ultimate-setup-for-your-next-python-project-179bda8a7c2c)  
+[Dashboards in Python for Beginners and Everyone Else using Dash](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644)  

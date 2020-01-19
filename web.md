@@ -7,6 +7,7 @@
 [Google Chart Tools — Google Developers](https://developers.google.com/chart/)  
 
 ### Flask
+[Python: How to show matplotlib in flask](https://stackoverflow.com/questions/50728328/python-how-to-show-matplotlib-in-flask#answer-50728936)  
 [Build a CRUD App with Flask, Bootstrap & Heroku](https://medium.com/technest/build-a-crud-app-with-flask-bootstrap-heroku-60dfa3a788e8)  
 [Awesome Flask List](https://github.com/mjhea0/awesome-flask)  
 [Setting Up a Flask Application in Visual Studio Code](https://blog.miguelgrinberg.com/post/setting-up-a-flask-application-in-visual-studio-code)  

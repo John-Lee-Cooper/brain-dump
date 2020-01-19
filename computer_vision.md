@@ -91,6 +91,7 @@
 [Real-time and video processing object detection using Tensorflow, OpenCV and Docker.](https://towardsdatascience.com/real-time-and-video-processing-object-detection-using-tensorflow-opencv-and-docker-2be1694726e5)  
 
 ### Tracking
+[Build a Motion Heatmap Video Using OpenCV With Python](https://towardsdatascience.com/build-a-motion-heatmap-videousing-opencv-with-python-fd806e8a2340)  
 [object tracking and following with opencv python/](https://botforge.wordpress.com/2016/07/11/object-tracking-and-following-with-opencv-python/)  
 [Basic motion detection and tracking with Python and OpenCV - PyImageSearch](http://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/)  
 [Object Tracking using OpenCV (C++/Python)](https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/)  
