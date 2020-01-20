@@ -45,30 +45,34 @@
 [A guide to modern Web Development with (Neo)vim](https://medium.freecodecamp.org/a-guide-to-modern-web-development-with-neo-vim-333f7efbf8e2)  
 
 ### Network
+
 [select – Wait for I/O Efficiently - Python Module of the Week](https://pymotw.com/2/select/)  
 [Python Tutorial: Network Programming III - SocketServer - 2017](http://www.bogotobogo.com/python/python_network_programming_socketserver_framework_for_network_servers.php)  
 
 ### Design Patterns
+
 [Ensuring Clean Code: A Look at Python, Parameterized](https://www.toptal.com/python/python-parameterized-design-patterns)  
 [Python Design Patterns: For Sleek And Fashionable Code](https://www.toptal.com/python/python-design-patterns)  
 [Design Patterns](https://sourcemaking.com/design_patterns)  
 
 ### Type Checking
+
 [The Ultimate Guide to Python Type Checking](https://pycoders.com/link/651/bt0qtb8ar0)  
 [Next Steps with Python Type System – Daftcode Blog](https://blog.daftcode.pl/next-steps-with-python-type-system-efc4df5251c9)  
 
 ### File System
+
 [Working With Files in Python](https://realpython.com/working-with-files-in-python)  
 [Filesystem Magic with Python](https://pycoders.com/link/685/bt0qtb8ar0)  
 [PyFilesystem: Filesystem Abstraction for Python](https://pycoders.com/link/677/bt0qtb8ar0)  
 
 ### Logging
+
 [Python Logging: A Stroll Through the Source Code](https://realpython.com/python-logging-source-code/)  
 [Python Logging: An In-Depth Tutorial](https://www.toptal.com/python/in-depth-python-logging)  
 [loguru: Python Logging Made (Stupidly) Simple](https://pycoders.com/link/380/bt0qtb8ar0)  
 [python-colorlog: Colored Formatter for Python’s Logging Module](https://pycoders.com/link/386/bt0qtb8ar0)  
 [Good logging practice in Python – Fang's coding note](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/)  
-
 
 ### Testing
 
@@ -81,16 +85,20 @@
 [Getting Started With Testing in Python](http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiNjIxNDUwMCIsImRlbGl2ZXJ5X2lkIjoiNDExNDU0ODM4MSIsInVybCI6Imh0dHBzOi8vcmVhbHB5dGhvbi5jb20vcHl0aG9uLXRlc3RpbmcvP19fcz13bW9mcGFtdmpxcDVkejdlZzNiOCJ9)  
 
 ### Continous Integration
-:star: [10 Steps to Set Up Your Python Project for Success]( https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13?source=user_profile---------8-----------------------)  
+
+:star: [10 Steps to Set Up Your Python Project for Success](https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13?source=user_profile)
 [Continuous Integration With Python: An Introduction](https://pycoders.com/link/315/bt0qtb8ar0)  
 [jenkinsapi]( https://pypi.org/project/jenkinsapi/)  
 [Jenkins and Python](http://www.alexconrad.org/2011/10/jenkins-and-python.html)  
+
 ### Distributing and Publishing
+
 [Distributing Standalone Python Applications](https://pycoders.com/link/605/bt0qtb8ar0)  
 [How to Publish a Python Package to PyPI](https://pycoders.com/link/152/bt0qtb8ar0)  
 [PyPI - the Python Package Index : Python Package Index](https://pypi.python.org/pypi)  
 
 ### Comments and Documentation
+
 [Writing Comments in Python (Guide)](https://pycoders.com/link/128/bt0qtb8ar0)  
 [Documentaiton](https://docs.python-guide.org/writing/documentation/)  
 [Generating code documentation](https://realpython.com/generating-code-documentation-with-pycco/)  
@@ -103,6 +111,7 @@
 [Getting started with Elasticsearch in Python – Towards Data Science](https://towardsdatascience.com/getting-started-with-elasticsearch-in-python-c3598e718380)  
 
 ### Standard Libraries
+
 [The Ultimate Guide to Data Classes in Python 3.7]( https://realpython.com/python-data-classes/)  
 :star: [Python Itertools](https://kanoki.org/2019/02/08/python-itertools/)  
 [Itertools, Generators, and Generator Expressions](https://towardsdatascience.com/python-pro-tip-use-itertools-generators-and-generator-expressions-1b84911c978?source=safariShare-8a8b134a2c85-1559349210)  
@@ -120,7 +129,7 @@
 
 [Celery](https://djangostars.com/blog/the-python-celery-cookbook-small-tool-big-possibilities/)  
 
-:star: [SQLAlchemy ORM Tutorial for Python Developers](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/)   
+:star: [SQLAlchemy ORM Tutorial for Python Developers](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/)  
 :star: [SQLAlchemy — Python Tutorial](https://towardsdatascience.com/sqlalchemy-python-tutorial-79a577141a91)  
 
 :star: [Typer CLI](https://typer.tiangolo.com/)  
@@ -135,12 +144,12 @@
 
 [zulu: A Drop-In Replacement for Native Python Datetimes That Embraces UTC](https://pycoders.com/link/113/bt0qtb8ar0)  
 
-
 ## Optimize - Profile
-[Python Timer Functions: Three Ways to Monitor Your Code](https://realpython.com/python-timer/)
+
+[Python Timer Functions: Three Ways to Monitor Your Code](https://realpython.com/python-timer/)  
 [Blackfire Profiler for Python Pre-Launch Registration]( https://hello.blackfire.io/python?utm_source=pycoder_weekly&utm_medium=newsletter&utm_campaign=q4_2019)  
 [Expensive lessons in Python performance tuning](http://blog.explainmydata.com/2012/07/expensive-lessons-in-python-performance.html)  
-[Make Your Python Workers Scale Dynamically](https://dzone.com/articles/how-to-make-your-python-workers-scale-dynamically) 
+[Make Your Python Workers Scale Dynamically](https://dzone.com/articles/how-to-make-your-python-workers-scale-dynamically)  
 [Speedy CV Pipelines Using Parallelism](https://towardsdatascience.com/speedy-cv-pipelines-using-parallelism-d7bebad2ff5f)  
 [What I’ve Learned About Optimizing Python](https://pycoders.com/link/658/bt0qtb8ar0)  
 [Here’s how you can get a 2–6x speed-up on your data pre-processing with Python](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5)  
@@ -148,9 +157,10 @@
 [Using Python’s Multiprocessing Module To Evaluate A Set of Algorithms Efficiently.](https://towardsdatascience.com/using-pythons-multiprocessing-module-to-evaluate-a-set-of-algorithms-efficiently-1412d29ff849)  
 [Cython: fast as GPUs without GPUs – Stefano Bosis](https://medium.com/@stefanobosisio1/cython-fast-as-gpus-without-gpus-2c2e52cc4c42)  
 
-
 ## Async
+
 ### Sockets
+
 [Using asyncio.Queue for producer-consumer flow](https://stackoverflow.com/questions/52582685/using-asyncio-queue-for-producer-consumer-flow)  
 [Establishing a Websocket PUBSUB server with Redis and Asyncio](https://yeti.co/blog/establishing-a-websocket-pubsub-server-with-redis-and-asyncio-for-the-light-sensor/)  
 [Async IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/)  
@@ -160,6 +170,7 @@
 [An Asyncio socket tutorial](https://medium.com/@pgjones/an-asyncio-socket-tutorial-5e6f3308b8b0)  
 
 ### Other
+
 [High-level API Index — Python 3.7.4 documentatio](https://docs.python.org/3/library/asyncio-api-index.html)  
 [Transports and Protocols — Python 3.7.4 documentation](https://docs.python.org/3/library/asyncio-protocol.html)  
 [Streams — Python 3.7.4 documentation](https://docs.python.org/3/library/asyncio-stream.html)  
@@ -174,10 +185,10 @@
 [asynchronous video capture in python with opencv/](http://blog.blitzblit.com/2017/12/24/asynchronous-video-capture-in-python-with-opencv/)  
 [async face recognition](https://github.com/dpdornseifer/async_face_recognition)  
 [video capture async](https://github.com/gilbertfrancois/video-capture-async)  
-[Async/await for wxPython](https://medium.com/@abulka/async-await-for-wxpython-c78c667e0872)
-
+[Async/await for wxPython](https://medium.com/@abulka/async-await-for-wxpython-c78c667e0872)  
 
 ### Tools
+
 [VIM and Python](https://realpython.com/vim-and-python-a-match-made-in-heaven/#syntax-checkinghighlighting)  
 [Simplify Your Python Developer Environment](https://medium.com/homeaway-tech-blog/simplify-your-python-developer-environment-aba90f32dddb)  
 [Comparing Python Virtual Environment Tools](https://towardsdatascience.com/comparing-python-virtual-environment-tools-9a6543643a44)  
@@ -189,6 +200,7 @@
 [faulthandler — Dump the Python traceback — Python 3.7.3 documentation](https://docs.python.org/3/library/faulthandler.html)  
 
 ### Python Blogs
+
 [10 python blogs worth following](http://freepythontips.wordpress.com/2013/07/31/10-python-blogs-worth-following/)  
 [Import Python Weekly Newsletter. Subscribe Now.](http://importpython.com/newsletter/)  
 [Real Python Blog](https://realpython.com/blog/)  
@@ -196,10 +208,12 @@
 [Bites of Code](http://bitesofcode.blogspot.com/)  
 
 ### PyCharm
+
 [Productivity Guide](http://www.jetbrains.com/pycharm/webhelp/productivity-guide.html)  
 [PyCharm Tutorials - PyCharm - Confluence](http://confluence.jetbrains.com/display/PYH/PyCharm+Tutorials)  
 
 ### Jupyter
+
 [The top 5 Magic Commands for Jupyter Notebooks](https://towardsdatascience.com/the-top-5-magic-commands-for-jupyter-notebooks-2bf0c5ae4bb8?source=linkShare-8a8b134a2c85-1550717520)  
 [Interactive Controls for Jupyter Notebooks](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6?source=linkShare-8a8b134a2c85-1550444943)  
 [Advanced Jupyter Notebooks a Tutorial](https://towardsdatascience.com/advanced-jupyter-notebooks-a-tutorial-3569d8153057?source=linkShare-8a8b134a2c85-1550453257)  
@@ -216,13 +230,13 @@
 [How to Setup Your JupyterLab Project Environment – Towards Data Science](https://towardsdatascience.com/how-to-setup-your-jupyterlab-project-environment-74909dade29b)  
 [How to Interact with Jupyter GUI](https://medium.com/@jdchipox/how-to-interact-with-jupyter-33a98686f24e)  
 
-
 ### GUI - QT - Kivy
+
 [Learn How to Quickly Create UIs in Python]( https://towardsdatascience.com/learn-how-to-quickly-create-uis-in-python-a97ae1394d5)  
 [Python and PyQt: Building a GUI Desktop Calculator](https://realpython.com/python-pyqt-gui-calculator/)  
 :star: [Image Processing with Opencv and PyQT](http://computeraptor.com/projects/image-processing-with-opencv-and-pyqt-using-python/)  
 :star: [Using PyQt to build a GUI for your webcam](https://www.pythonforthelab.com/blog/step-by-step-guide-to-building-a-gui/)  
-[Qt for Python GettingStarted](https://wiki.qt.io/Qt_for_Python/GettingStarted) 
+[Qt for Python GettingStarted](https://wiki.qt.io/Qt_for_Python/GettingStarted)  
 [The Independent Qt Tutorial - Chapter 3](http://www.digitalfanatics.org/projects/qt_tutorial/chapter03.html)  
 [The Independent Qt Tutorial - TOC](http://www.digitalfanatics.org/projects/qt_tutorial/index.html)  
 [Eli Bendersky's website » Passing extra arguments to PyQt slots](http://eli.thegreenplace.net/2011/04/25/passing-extra-arguments-to-pyqt-slot/)  
@@ -239,21 +253,23 @@
 [Build a Mobile Application With the Kivy Python Framework](https://realpython.com/mobile-app-kivy-python/)  
 
 ## Software Engineering  
+
 [Design Better Forms – UX Collective](https://uxdesign.cc/design-better-forms-96fadca0f49c)  
 [RESTful API Design — Step By Step Guide – Hacker Noon](https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)  
 [How to write a good software design doc – freeCodeCamp](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c)  
 [Pros and cons of functional programming – ITNEXT](https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2)  
 
 ## Online resources  
+
 [Some Essential Hacks and Tricks for Machine Learning with Python](https://heartbeat.fritz.ai/some-essential-hacks-and-tricks-for-machine-learning-with-python-5478bc6593f2)  
 [Newbie’s guide to Deep Learning – Towards Data Science](https://towardsdatascience.com/newbies-guide-to-deep-learning-6bf601c5a98e)  
 [Best (and Free!!) Resources to understand Nuts and Bolts of Deep learning](https://hackernoon.com/best-and-free-resources-to-understand-nuts-and-bolts-of-deep-learning-9c51166ffdf5)  
 [19 Incredibly Useful Websites You’ll Wish You Knew Earlier](https://medium.com/swlh/19-incredibly-useful-websites-youll-wish-you-knew-earlier-aff5d0f8255b)  
 [6 AI Subscriptions to keep you Informed – Becoming Human Artificial Intelligence Magazine](https://becominghuman.ai/6-ai-subscriptions-to-keep-you-informed-4cfc6cb024a)  
 
-
 ### Plotting  
-[Effectively Using�Matplotlib](https://pbpython.com/effective-matplotlib.html)  
+
+[Effectively Using�Matplotlib](https://pbpython.com/effective-matplotlib.html)  
 :star: [Pylustrator is a program to style your Matplotlib](https://pylustrator.readthedocs.io/en/latest/)  
 [Python’s One Liner graph creation library with animations Hans Rosling Style](https://towardsdatascience.com/pythons-one-liner-graph-creation-library-with-animations-hans-rosling-style-f2cb50490396?source=safariShare-8a8b134a2c85-1557363626)  
 [Animations with Matplotlib](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)  
@@ -277,22 +293,20 @@
 [Pyviz Simplifying The Data Visualisation Process in Python](https://towardsdatascience.com/pyviz-simplifying-the-data-visualisation-process-in-python-1b6d2cb728f1?source=linkShare-8a8b134a2c85-1550444639)  
 [The Simple Yet Practical Data Visualization Codes](https://towardsdatascience.com/the-simple-yet-practical-data-visualization-codes-bca99971cdb2?source=linkShare-8a8b134a2c85-1550453028)  
 
-
 ## Conda  
+
 [Why You Need Python Environments and How to Manage Them with Conda](https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)  
-
-
 [First Crack - A simple static blogging engine in Python](https://bitbucket.org/zjszewczyk/firstcrack-public/src/master/)  
 
-
 ### Command line
+
 [How to Write Perfect Python Command-line Interfaces](https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2)  
 [Building Beautiful Command Line Interfaces with Python](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df)  
 
-
 ### Unsorted
-[Three Ways of Storing and Accessing Lots of Images in Python] (https://realpython.com/storing-images-in-python/)  
-[Build a Recommendation Engine With Collaborative Filtering] (https://realpython.com/build-recommendation-engine-collaborative-filtering/)  
+
+[Three Ways of Storing and Accessing Lots of Images in Python](https://realpython.com/storing-images-in-python/)  
+[Build a Recommendation Engine With Collaborative Filtering](https://realpython.com/build-recommendation-engine-collaborative-filtering/)  
 [python games by example](https://pypi.org/project/gamesbyexample/)  
 [PyPI Download Stats](https://pypistats.org/)  
 [Ultimate Setup for Your Next Python Project](https://towardsdatascience.com/ultimate-setup-for-your-next-python-project-179bda8a7c2c)  

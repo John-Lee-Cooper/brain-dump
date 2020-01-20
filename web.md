@@ -1,4 +1,5 @@
-## Web
+# Web
+
 [Learn Web Development](http://killer-web-development.com/)  
 [Terminology, Syntax, & Introduction - A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/terminology-syntax-intro)  
 [Font Awesome](http://fortawesome.github.io/Font-Awesome/cheatsheet/)  
@@ -6,7 +7,8 @@
 [What Is Google App Engine? - Google App Engine - Google Code](https://code.google.com/appengine/docs/whatisgoogleappengine.html)  
 [Google Chart Tools — Google Developers](https://developers.google.com/chart/)  
 
-### Flask
+## Flask
+
 [Python: How to show matplotlib in flask](https://stackoverflow.com/questions/50728328/python-how-to-show-matplotlib-in-flask#answer-50728936)  
 [Build a CRUD App with Flask, Bootstrap & Heroku](https://medium.com/technest/build-a-crud-app-with-flask-bootstrap-heroku-60dfa3a788e8)  
 [Awesome Flask List](https://github.com/mjhea0/awesome-flask)  
@@ -34,10 +36,12 @@
 [Manage Database Models with Flask Sqlalchemy](https://hackingandslacking.com/manage-database-models-with-flask-sqlalchemy-237135cbf7cc?source=linkShare-8a8b134a2c85-1550444534)  
 [Delightful testing with pytest and Flask- SQLAlchemy](http://alexmic.net/flask-sqlalchemy-pytest/)  
 
-### SQL
+## SQL
+
 [Absolute Beginners Guide to SQL](https://medium.com/xavier-code21/absolute-beginners-guide-to-sql-601aad53f6c9?source=linkShare-8a8b134a2c85-1550453132)  
 
-### jQuery
+## jQuery
+
 [brandonaaron/jquery-mousewheel · GitHub](https://github.com/brandonaaron/jquery-mousewheel)  
 [Adding a Timepicker to jQuery UI Datepicker](http://trentrichardson.com/examples/timepicker/)  
 [Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html)  
@@ -48,7 +52,8 @@
 [jQuery: The Write Less, Do More, JavaScript Library](http://jquery.com/)  
 [jQuery Fundamentals :: A guide to the basics of jQuery](http://jqfundamentals.com/)  
 
-### Bootstrap
+## Bootstrap
+
 [Bootstrap CDN by MaxCDN](http://bootstrapcdn.com/)  
 [Bootstrap 2.x to 3.0 Migration Guide](http://www.bootply.com/bootstrap-3-migration-guide)  
 [Twitter Bootstrap Button Generator](http://www.plugolabs.com/twitter-bootstrap-button-generator/)  
@@ -58,12 +63,14 @@
 [Home of free code snippets for Bootstrap](http://www.bootsnipp.com/)  
 [Bootstrap google maps template](http://www.bootstrapzero.com/bootstrap-template/google-maps)  
 
-### GoogleMaps
+## GoogleMaps
+
 [Getting Started - Google Maps JavaScript API v3 — Google Developers](https://developers.google.com/maps/documentation/javascript/tutorial)  
 [gmaps.js — Google Maps API with less pain and more fun](http://hpneo.github.com/gmaps/documentation.html)  
 [Home](http://www.opentripplanner.org/)  
 
-### MVC
+## MVC
+
 [Brad Wilson: ASP.NET MVC 2 Templates, Part 4: Custom Object Templates](http://bradwilson.typepad.com/blog/2009/10/aspnet-mvc-2-templates-part-4-custom-object-templates.html)  
 [Using Web.config Transformation in Web Site Projects](http://andrewtwest.com/2010/02/25/using-web-config-transformations-in-web-site-projects/)  
 [MVC : The Official Microsoft ASP.NET Site](http://www.asp.net/mvc)  

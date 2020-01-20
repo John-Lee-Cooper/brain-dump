@@ -1,17 +1,21 @@
 # Machine Learning
 
-2. Discover the ecosystem for Python machine learning.
-  * [Crash Course in Python for Machine Learning Developers](http://machinelearningmastery.com/crash-course-python-machine-learning-developers/)  
-  * [Python Ecosystem for Machine Learning](http://machinelearningmastery.com/python-ecosystem-machine-learning/)  
-  * [Python is the Growing Platform for Applied Machine Learning](http://machinelearningmastery.com/python-growing-platform-applied-machine-learning/)  
-3. Discover how to work through problems using machine learning in Python.
-  * [Your First Machine Learning Project in Python Step-By-Step](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)  
-  * [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)  
-  * [Machine Learning Mastery With Python](http://machinelearningmastery.com/machine-learning-with-python/) (my book)  
+1. Discover the ecosystem for Python machine learning.
+
+* [Crash Course in Python for Machine Learning Developers](http://machinelearningmastery.com/crash-course-python-machine-learning-developers/)  
+* [Python Ecosystem for Machine Learning](http://machinelearningmastery.com/python-ecosystem-machine-learning/)  
+* [Python is the Growing Platform for Applied Machine Learning](http://machinelearningmastery.com/python-growing-platform-applied-machine-learning/)  
+
+1. Discover how to work through problems using machine learning in Python.
+
+* [Your First Machine Learning Project in Python Step-By-Step](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)  
+* [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)  
+* [Machine Learning Mastery With Python](http://machinelearningmastery.com/machine-learning-with-python/) (my book)  
 
 You can see all [Python machine learning posts here](http://machinelearningmastery.com/category/python-machine-learning/)  
 
 ## AI
+
 [15 Artificial Intelligence Books You Should Read](https://towardsdatascience.com/15-artificial-intelligence-books-you-should-read-ab376d718e53)  
 [Astar Pathfinding Algorithm Explained With Python](https://pycoders.com/link/689/bt0qtb8ar0)  
 [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)  
@@ -24,7 +28,7 @@ You can see all [Python machine learning posts here](http://machinelearningmaste
 [Introduction to Graphs](https://towardsdatascience.com/introduction-to-graphs-part-1-2de6cda8c5a5)  
 [Graph Algorithms](https://towardsdatascience.com/graph-algorithms-part-2-dce0b2734a1d)  
 
-## Machine Learning
+## Machine Learning2
 
 :star: [Machine Learning in Python Step by Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)  
 [Machine Learning from First Principles](https://towardsdatascience.com/machine-learning-from-first-principles-51a5e75a3c47?source=linkShare-8a8b134a2c85-1550452947)  
@@ -46,7 +50,7 @@ You can see all [Python machine learning posts here](http://machinelearningmaste
 [Common Patterns for Analyzing Data – Towards Data Science](https://towardsdatascience.com/common-patterns-for-analyzing-data-da1908640641)  
 [Dealing with Imbalanced Classes in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2)  
 [Machine Learning Rules in a Nutshell – Towards Data Science](https://towardsdatascience.com/machine-learning-rules-in-a-nutshell-dfc3e6839163)  
-[Markov Chain Monte Carlo in Python ](https://towardsdatascience.com/markov-chain-monte-carlo-in-python-44f7e609be98)  
+[Markov Chain Monte Carlo in Python](https://towardsdatascience.com/markov-chain-monte-carlo-in-python-44f7e609be98)  
 [Part of Speech Tagging with Hidden Markov Chain Models](https://towardsdatascience.com/part-of-speech-tagging-with-hidden-markov-chain-models-e9fccc835c0e)  
 [Building Prediction APIs in Python (Part 1) Series Introduction & Basic Example](https://towardsdatascience.com/building-prediction-apis-in-python-part-1-series-introduction-basic-example-fe89e12ffbd3)  
 [A Tour of The Top 10 Algorithms for Machine Learning Newbies](https://medium.com/cracking-the-data-science-interview/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-7228aa8ef541)  
@@ -63,6 +67,7 @@ You can see all [Python machine learning posts here](http://machinelearningmaste
 [Precision vs Recall – Towards Data Science](https://towardsdatascience.com/precision-vs-recall-386cf9f89488)  
 
 ### Scikit Learn  
+
 [How to Update Your Scikit-Learn Code for 2018](https://pycoders.com/link/524/bt0qtb8ar0)  
 [Spot-Check Classification Machine Learning Algorithms in Python with scikit-learn](http://machinelearningmastery.com/spot-check-classification-machine-learning-algorithms-python-scikit-learn/)  
 [How To Compare Machine Learning Algorithms in Python with scikit-learn](http://machinelearningmastery.com/compare-machine-learning-algorithms-python-scikit-learn/)  
@@ -72,22 +77,27 @@ You can see all [Python machine learning posts here](http://machinelearningmaste
 [An Introduction to Scikit Learn The Gold Standard of Python Machine Learning](https://towardsdatascience.com/an-introduction-to-scikit-learn-the-gold-standard-of-python-machine-learning-e2b9238a98ab)  
 
 ### Boosting  
+
 [Boosting with AdaBoost and Gradient Boosting – The Making Of… a Data Scientist – Medium](https://medium.com/diogo-menezes-borges/boosting-with-adaboost-and-gradient-boosting-9cbab2a1af81)  
 [An Introduction to the Bootstrap Method](https://towardsdatascience.com/an-introduction-to-the-bootstrap-method-58bcb51b4d60?source=linkShare-8a8b134a2c85-155044427)  
 
 ### Decision Trees  
+
 [Discretisation Using Decision Trees – Towards Data Science](https://towardsdatascience.com/discretisation-using-decision-trees-21910483fa4b)  
 
 ### KNN  
+
 [Building & Improving a K-Nearest Neighbors Algorithm in Python](https://towardsdatascience.com/building-improving-a-k-nearest-neighbors-algorithm-in-python-3b6b5320d2f8)  
 
 ### Support Vector  
+
 [A brief Introduction to Support Vector Machine – Towards Data Science](https://towardsdatascience.com/a-brief-introduction-to-support-vector-machine-adf0f103a80f)  
 [Understanding SVMs’ For Image Classification – DataTurks Data Annotations Made Super Easy – Medium](https://medium.com/%40dataturks/understanding-svms-for-image-classification-cf4f01232700)  
 [Support Vector Machine — Introduction to Machine Learning Algorithms](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)  
 [Support Vector Machines  Part 1 – Gunjan Chhablani – Medium](https://medium.com/%40chhablani.gunjan/support-vector-machines-part-1-a8a0bb32d228)  
 
 ### NeuralNet  
+
 [Optimizing Neural Networks where to Start](https://towardsdatascience.com/optimizing-neural-networks-where-to-start-5a2ed38c8345?source=linkShare-8a8b134a2c85-1550444885)  
 [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)  
 [The Beginner's Guide to Gradient Descent – Towards Data Science](https://towardsdatascience.com/the-beginners-guide-to-gradient-descent-c23534f808fd)  
@@ -105,6 +115,7 @@ You can see all [Python machine learning posts here](http://machinelearningmaste
 [Coding Neural Network — Regularization – Towards Data Science](https://towardsdatascience.com/coding-neural-network-regularization-43d26655982d)  
 
 ### Regression  
+
 [Linear Regression from Scratch with Python](https://medium.com/sigmoid/linear-regression-from-scratch-with-python-5c33712a1cec?source=linkShare-8a8b134a2c85-1550444356)  
 [Spot-Check Regression Machine Learning Algorithms in Python with scikit-learn](http://machinelearningmastery.com/spot-check-regression-machine-learning-algorithms-python-scikit-learn/)  
 [The Logistic Regression Algorithm – Towards Data Science](https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa)  
@@ -112,15 +123,18 @@ You can see all [Python machine learning posts here](http://machinelearningmaste
 [Linear Regression Model – DITI MODI – Medium](https://medium.com/%40diti.modi/linear-regression-model-899558ba0fc4)  
 
 ### Bayes  
+
 [From Scratch Bayesian Inference Markov Chain Monte Carlo and Metropolis Hastings in Python](https://towardsdatascience.com/from-scratch-bayesian-inference-markov-chain-monte-carlo-and-metropolis-hastings-in-python-ef21a29e25a?source=linkShare-8a8b134a2c85-1550453437)  
 [What’s so naive about naive Bayes’ – Towards Data Science](https://towardsdatascience.com/whats-so-naive-about-naive-bayes-58166a6a9eba)  
 [Introduction to Bayesian Networks – Towards Data Science](https://towardsdatascience.com/introduction-to-bayesian-networks-81031eeed94e)  
 
 ### GeneticAlgorithm  
+
 [Evolution of a salesman A complete genetic algorithm tutorial for Python](https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)  
 [Genetic Algorithm Implementation in Python – Towards Data Science](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6)  
 
 ### Reinforcement Learning  
+
 [Reinforcement Learning Q Learning with Decision Trees](https://towardsdatascience.com/reinforcement-learning-q-learning-with-decision-trees-ecb1215d9131?source=linkShare-8a8b134a2c85-1550453060)  
 [Reinforcement Learning Rl 101 with Python](https://towardsdatascience.com/reinforcement-learning-rl-101-with-python-e1aa0d37d43b?source=linkShare-8a8b134a2c85-1550453326)  
 [Reinforcement Learning with Python](https://towardsdatascience.com/reinforcement-learning-with-python-8ef0242a2fa2?source=linkShare-8a8b134a2c85-1550453373)  
@@ -133,11 +147,12 @@ You can see all [Python machine learning posts here](http://machinelearningmaste
 [Spinning Up a Pong AI With Deep Reinforcement Learning](https://pycoders.com/link/382/bt0qtb8ar0)  
 
 ### CloudML  
+
 [How to train Machine Learning models in the cloud using Cloud ML Engine](https://towardsdatascience.com/how-to-train-machine-learning-models-in-the-cloud-using-cloud-ml-engine-3f0d935294b3)  
 [Automated Machine Learning on the Cloud in Python – Towards Data Science](https://m.com/@williamkoehrsen/thanks-let-me-know-if-you-have-any-problems-following-the-code-or-using-the-google-colab-notebook-6524e6344ccd)  
 
-
 ## Projects  
+
 [(Another MNIST)](https://blog.skygate.io/a-must-read-tutorial-when-you-are-starting-your-journey-with-deep-learning-5fa4da071510)
 [Wine Ratings Prediction using Machine Learning – Towards Data Science](https://towardsdatascience.com/wine-ratings-prediction-using-machine-learning-ce259832b321)  
 [Cracking the handwritten digits recognition problem with Scikit-learn](https://medium.com/overfitted-microservices/cracking-the-handwritten-digits-recognition-problem-with-scikit-learn-b5afc28e2c24)  
@@ -149,18 +164,22 @@ You can see all [Python machine learning posts here](http://machinelearningmaste
 [Machine Learning the Myth of Titanic – Jane Yin – Medium](https://medium.com/%40janeyin600/machine-learning-the-myth-of-titanic-ac90c52ff774)  
 
 ## Online resources  
+
 [Some Essential Hacks and Tricks for Machine Learning with Python](https://heartbeat.fritz.ai/some-essential-hacks-and-tricks-for-machine-learning-with-python-5478bc6593f2)  
 [Best (and Free!!) Resources to understand Nuts and Bolts of Deep learning](https://hackernoon.com/best-and-free-resources-to-understand-nuts-and-bolts-of-deep-learning-9c51166ffdf5)  
 [19 Incredibly Useful Websites You’ll Wish You Knew Earlier](https://medium.com/swlh/19-incredibly-useful-websites-youll-wish-you-knew-earlier-aff5d0f8255b)  
 [6 AI Subscriptions to keep you Informed – Becoming Human Artificial Intelligence Magazine](https://becominghuman.ai/6-ai-subscriptions-to-keep-you-informed-4cfc6cb024a)  
 
 ## AlphaGo
+
 [Introduction to Monte Carlo Tree Search the Game Changing Algorithm Behind Deepminds Alphago](https://medium.com/analytics-vidhya/introduction-to-monte-carlo-tree-search-the-game-changing-algorithm-behind-deepminds-alphago-554a9017f0c2?source=linkShare-8a8b134a2c85-1550444762)  
 
 ## Unsupervised
+
 [Hands on with Unsupervised Learning](https://towardsdatascience.com/hands-on-with-unsupervised-learning-93d4d6cad4c7?source=linkShare-8a8b134a2c85-1550452997)  
 data
 [How to do Unsupervised Clustering with Keras – Chengwei Zhang – Medium](https://medium.com/%40chengweizhang2012/how-to-do-unsupervised-clustering-with-keras-9e1284448437)  
 
 ## Hyperparameter
+
 [Hyperparameter Optimization with Keras – Towards Data Science](https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53)  
