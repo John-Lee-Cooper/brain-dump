@@ -9,27 +9,31 @@
 
 ## Flask
 
+[Awesome Flask List](https://github.com/mjhea0/awesome-flask)  
+[A curated list of awesome Flask resources and plugins](https://github.com/humiaozuzu/awesome-flask)  
 [Python: How to show matplotlib in flask](https://stackoverflow.com/questions/50728328/python-how-to-show-matplotlib-in-flask#answer-50728936)  
 [Build a CRUD App with Flask, Bootstrap & Heroku](https://medium.com/technest/build-a-crud-app-with-flask-bootstrap-heroku-60dfa3a788e8)  
-[Awesome Flask List](https://github.com/mjhea0/awesome-flask)  
-[Setting Up a Flask Application in Visual Studio Code](https://blog.miguelgrinberg.com/post/setting-up-a-flask-application-in-visual-studio-code)  
 [flask-blogging](https://buildmedia.readthedocs.org/media/pdf/flask-blogging/latest/flask-blogging.pdf)  
 [Flask-Blogging: A Markdown Based Python Blog Engine as a Flask Extension.](https://github.com/gouthambs/Flask-Blogging)  
-[Flask an Easy Access door to API Development](https://medium.com/@tusharseth93/flask-an-easy-access-door-to-api-development-2147ae694ceb?source=linkShare-8a8b134a2c85-1550444127)  
-[Python Plotting API Expose your Scientific Python Plots through a Flask API](https://towardsdatascience.com/python-plotting-api-expose-your-scientific-python-plots-through-a-flask-api-31ec7555c4a8?source=linkShare-8a8b134a2c85-1550453229)  
 [Deployment Options — Flask 0.9dev documentation](http://flask.pocoo.org/docs/deploying/)  
-[Developing RESTful Web APIs with Python, Flask and MongoDB // Speaker Deck](https://speakerdeck.com/u/nicola/p/developing-restful-web-apis-with-python-flask-and-mongodb)  
 [The Flask Mega-Tutorial, - miguelgrinberg.com](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)  
 [Flask - miguelgrinberg.com](http://blog.miguelgrinberg.com/category/Flask)  
 [Starting web projects using Flask, virtualenv, pip](https://www.enigmeta.com/blog/starting-flask/)  
 [flask - Real Python](https://realpython.com/blog/categories/flask/)  
 [Flask - Full Stack Python](http://www.fullstackpython.com/flask.html)  
-[Python Web Applications With Flask - Part I - Real Python](https://realpython.com/blog/python/python-web-applications-with-flask-part-i/#.Uu6GOHddUp8)  
-[Flask-AppBuilder — Flask AppBuilder](http://flask-appbuilder.readthedocs.io/en/latest/)  
-[GitHub - humiaozuzu/awesome-flask: A curated list of awesome Flask resources and plugins](https://github.com/humiaozuzu/awesome-flask)  
 [Python Web Applications with Flask](https://realpython.com/python-web-applications-with-flask-part-i/)  
 [Flaskr - Intro to Flask, Test-Driven Development, and JavaScript](https://github.com/mjhea0/flaskr-tdd)  
 [How to build a web app using Python’s Flask and Google App Engine](https://medium.freecodecamp.org/how-to-build-a-web-app-using-pythons-flask-and-google-app-engine-52b1bb82b221)  
+[Setting Up a Flask Application in Visual Studio Code](https://blog.miguelgrinberg.com/post/setting-up-a-flask-application-in-visual-studio-code)  
+[Flask-AppBuilder — Flask AppBuilder](http://flask-appbuilder.readthedocs.io/en/latest/)  
+
+### Flask API
+
+[Python Plotting API Expose your Scientific Python Plots through a Flask API](https://towardsdatascience.com/python-plotting-api-expose-your-scientific-python-plots-through-a-flask-api-31ec7555c4a8?source=linkShare-8a8b134a2c85-1550453229)  
+[Flask an Easy Access door to API Development](https://medium.com/@tusharseth93/flask-an-easy-access-door-to-api-development-2147ae694ceb?source=linkShare-8a8b134a2c85-1550444127)  
+[Developing RESTful Web APIs with Python, Flask and MongoDB // Speaker Deck](https://speakerdeck.com/u/nicola/p/developing-restful-web-apis-with-python-flask-and-mongodb)  
+
+### Flask SQL Alchemy
 
 [SQLAlchemy - Python Tutorial](https://towardsdatascience.com/sqlalchemy-python-tutorial-79a577141a91)  
 [Constructing Database Queries with SQLAlchemy - Hackers and Slackers](https://hackingandslacking.com/constructing-database-queries-with-sqlalchemy-9907f4f8e04b)  
