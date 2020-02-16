@@ -9,6 +9,7 @@ My Personal Wiki
 - [Technologies](/technologies.md)
 
 ## Links
+- [Unsorted](/unsorted.md)
 - [Python](/python.md)
 - [Computer Vision](/computer_vision.md)
 - [PyImageSearch](/pyimagesearch.md)
