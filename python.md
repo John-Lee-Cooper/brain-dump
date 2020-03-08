@@ -216,10 +216,10 @@
 
 [The top 5 Magic Commands for Jupyter Notebooks](https://towardsdatascience.com/the-top-5-magic-commands-for-jupyter-notebooks-2bf0c5ae4bb8?source=linkShare-8a8b134a2c85-1550717520)  
 [Interactive Controls for Jupyter Notebooks](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6?source=linkShare-8a8b134a2c85-1550444943)  
+[jupyter widgets](http://www.blog.pythonlibrary.org/2018/10/24/working-with-jupyter-notebook-widgets/)  
 [Advanced Jupyter Notebooks a Tutorial](https://towardsdatascience.com/advanced-jupyter-notebooks-a-tutorial-3569d8153057?source=linkShare-8a8b134a2c85-1550453257)  
 [Jupyter Notebook Introduction](https://realpython.com/jupyter-notebook-introduction)  
 [Jupyter Notebook Viewer](http://nbviewer.jupyter.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)  
-[The IPython Notebook — IPython](http://ipython.org/notebook.html)  
 [A gallery of interesting IPython Notebooks · ipython/ipython Wiki](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)  
 [Favorites](http://nbviewer.ipython.org/)  
 [IPython Notebook with PyCharm](https://www.jetbrains.com/help/pycharm/2016.1/tutorial-using-ipython-jupyter-notebook-with-pycharm.html)  
@@ -229,6 +229,8 @@
 [Unleash the power of Jupyter Notebooks – Towards Data Science](https://towardsdatascience.com/unleash-the-power-of-jupyter-notebooks-4ed452a47895)  
 [How to Setup Your JupyterLab Project Environment – Towards Data Science](https://towardsdatascience.com/how-to-setup-your-jupyterlab-project-environment-74909dade29b)  
 [How to Interact with Jupyter GUI](https://medium.com/@jdchipox/how-to-interact-with-jupyter-33a98686f24e)  
+[Jupyter on Raspberry](https://www.hackster.io/mjrobot/rpi-physical-computing-using-jupyter-notebook-056fa8)  
+[Exploratory comptuing](http://mbakker7.github.io/exploratory_computing_with_python/)  
 
 ### GUI - QT - Kivy
 

@@ -9,6 +9,7 @@
 
 ## Flask
 
+[Explore Flask](http://exploreflask.com/en/latest/)
 [Awesome Flask List](https://github.com/mjhea0/awesome-flask)  
 [A curated list of awesome Flask resources and plugins](https://github.com/humiaozuzu/awesome-flask)  
 [Python: How to show matplotlib in flask](https://stackoverflow.com/questions/50728328/python-how-to-show-matplotlib-in-flask#answer-50728936)  
@@ -18,7 +19,6 @@
 [Deployment Options — Flask 0.9dev documentation](http://flask.pocoo.org/docs/deploying/)  
 [The Flask Mega-Tutorial, - miguelgrinberg.com](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)  
 [Flask - miguelgrinberg.com](http://blog.miguelgrinberg.com/category/Flask)  
-[Starting web projects using Flask, virtualenv, pip](https://www.enigmeta.com/blog/starting-flask/)  
 [flask - Real Python](https://realpython.com/blog/categories/flask/)  
 [Flask - Full Stack Python](http://www.fullstackpython.com/flask.html)  
 [Python Web Applications with Flask](https://realpython.com/python-web-applications-with-flask-part-i/)  
