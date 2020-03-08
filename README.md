@@ -31,3 +31,4 @@ My Personal Wiki
 ## Lists
 - [Graffiti](/graffiti.md)
 - [Alexa Commands](/alexa.pdf)
+- [Tips](/tips.md)
