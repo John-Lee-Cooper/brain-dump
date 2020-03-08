@@ -37,6 +37,8 @@
 [Building a Text-Based RPG Engine in Python](https://levelup.gitconnected.com/building-a-text-based-rpg-engine-in-python-e571c94500b0)  
 [Dashboards in Python for Beginners and Everyone Else using Dash](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644)  
 [Building a Python UI for Comparing Data](https://towardsdatascience.com/building-a-python-ui-for-comparing-data-13c10693d9e4)  
+[The easiest way to download YouTube videos using Python](https://towardsdatascience.com/the-easiest-way-to-download-youtube-videos-using-python-2640958318ab)  
+[Types at the edges in Python – MeadSteve's Dev Blog](http://blog.meadsteve.dev/programming/2020/02/10/types-at-the-edges-in-python/)  
 
 ## Data
 
@@ -59,3 +61,4 @@
 [donkeycar: Open source hardware and software platform to build a small scale self driving car.](https://github.com/autorope/donkeycar)  
 [How to Negotiate Better Salary as a Developer.](https://medium.com/swlh/how-to-negotiate-better-salary-as-a-developer-1d5d08968fe)  
 [8 ways to do asynchronous processing in Android and counting](https://android.jlelse.eu/8-ways-to-do-asynchronous-processing-in-android-and-counting-f634dc6fae4e)  
+
