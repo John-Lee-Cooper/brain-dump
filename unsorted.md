@@ -23,6 +23,10 @@
 [OpenCV 3 Image Noise Reduction : Non-local Means Denoising Algorothm](https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Non-local_Means_Denoising_Algorithm_Noise_Reduction.php)  
 [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/thsant/scipy4cv/blob/master/03._OpenCV.ipynb)  
 [How I (Sort of) Learned Computer Vision in a Couple Months](https://towardsdatascience.com/how-i-sort-of-learned-computer-vision-in-a-month-c3faec83b3d6)  
+[Skeletons](https://raw.githubusercontent.com/ahmet2mir/flask-skeleton/master/Makefile)  
+[Histogram Equalization](https://scikit-image.org/docs/stable/auto_examples/color_exposure/plot_equalize.html#sphx-glr-auto-examples-color-exposure-plot-equalize-py)  
+[Filtering regional maxima](https://scikit-image.org/docs/stable/auto_examples/color_exposure/plot_regional_maxima.html#sphx-glr-auto-examples-color-exposure-plot-regional-maxima-py)  
+
 ### CV Projects
 
 [People-Detector: High level python that tells you which files contain people.](https://github.com/humandecoded/People-Detector)  
@@ -37,6 +41,7 @@
 [Understanding Best Practice Python Tooling by Comparing Popular Project Templates](https://medium.com/better-programming/understanding-best-practice-python-tooling-by-comparing-popular-project-templates-6eba49229106)  
 :star: [Building a Python UI for Comparing Data](https://towardsdatascience.com/building-a-python-ui-for-comparing-data-13c10693d9e4)  
 [Types at the edges in Python](http://blog.meadsteve.dev/programming/2020/02/10/types-at-the-edges-in-python/)  
+[Advanced usage of Python requests - timeouts, retries, hooks](https://findwork.dev/blog/advanced-usage-python-requests-timeouts-retries-hooks/)  
 
 ### Python CLI
 
@@ -60,6 +65,7 @@
 [Dashboards in Python for Beginners and Everyone Else using Dash](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644)  
 [Build a web data dashboard in just minutes with Python](https://towardsdatascience.com/build-a-web-data-dashboard-in-just-minutes-with-python-d722076aee2b)  
 [Learn HiPlot in 6 mins Python Library for Machine Learning Visualizations](https://levelup.gitconnected.com/learn-hiplot-in-6-mins-facebooks-python-library-for-machine-learning-visualizations-330129d558ac)  
+[Dashboards in Python for Beginners using Dash](https://medium.com/swlh/dashboards-in-python-for-beginners-using-dash-responsive-mobile-dashboards-with-bootstrap-css-2a0d05a53cf6)  
 
 ## Mac
 
@@ -72,3 +78,4 @@
 [donkeycar: Open source hardware and software platform to build a small scale self driving car.](https://github.com/autorope/donkeycar)  
 [How to Negotiate Better Salary as a Developer.](https://medium.com/swlh/how-to-negotiate-better-salary-as-a-developer-1d5d08968fe)  
 [8 ways to do asynchronous processing in Android and counting](https://android.jlelse.eu/8-ways-to-do-asynchronous-processing-in-android-and-counting-f634dc6fae4e)  
+[How To Commit Your Cloud Credentials To Version Control Systems](https://medium.com/towards-artificial-intelligence/how-to-safely-commit-your-aws-credentials-to-github-21d3bf7771e7)  
