@@ -234,9 +234,9 @@
 
 ### GUI - QT - Kivy
 
-[Learn How to Quickly Create UIs in Python]( https://towardsdatascience.com/learn-how-to-quickly-create-uis-in-python-a97ae1394d5)  
+[PySimpleGUI: How to Quickly Create UIs]( https://towardsdatascience.com/learn-how-to-quickly-create-uis-in-python-a97ae1394d5)  
+
 [Python and PyQt: Building a GUI Desktop Calculator](https://realpython.com/python-pyqt-gui-calculator/)  
-:star: [Image Processing with Opencv and PyQT](http://computeraptor.com/projects/image-processing-with-opencv-and-pyqt-using-python/)  
 :star: [Using PyQt to build a GUI for your webcam](https://www.pythonforthelab.com/blog/step-by-step-guide-to-building-a-gui/)  
 [Qt for Python GettingStarted](https://wiki.qt.io/Qt_for_Python/GettingStarted)  
 [The Independent Qt Tutorial - Chapter 3](http://www.digitalfanatics.org/projects/qt_tutorial/chapter03.html)  

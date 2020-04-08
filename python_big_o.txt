@@ -1,0 +1,31 @@
+List Operations
+
+  1. Insert: It’s Big-O Notation Is O(n)
+  2. Get Item: It’s Big-O Notation Is O(1)
+  3. Delete Item: It’s Big-O Notation Is O(n)
+  4. Iteration: It’s Big-O Notation Is O(n)
+  5. Get Length: It’s Big-O Notation Is O(1)
+
+
+Set Operations
+
+Sets are also one of the most widely used data collections in Python. A set is essentially an unordered collection. Set does not permit duplicates and hence each item in a set is unique. Set supports many mathematical operations such as union, difference, the intersection of sets and so on.
+
+  1. Check for item in set: It’s Big-O Notation Is O(1)
+  2. Difference of set A from B: It’s Big-O Notation Is O(length of A)
+  3. Intersection of set A and B: It’s Big-O Notation Is O(minimum of the length of either A or B)
+  4. Union of set A and B: It’s Big-O Notation Is O(N) with respect to length(A) + length(B)
+
+
+Dictionary Operations
+
+Lastly, I wanted to provide an overview of the dictionary data collection. Dictionary is a key-value pair collection. Keys are unique in a dictionary to prevent item collision. It is an extremely useful data collection.
+Dictionaries are indexed by keys, where the keys could be strings, numbers or even tuples with strings, numbers or tuples.
+We can perform a number of operations on a dictionary such as storing a value for a key, or retrieving an item based on a key, or iterating over the items and so on.
+common dictionary time complexities:
+
+  1. Get Item: It’s Big-O Notation Is O(1)
+  2. Set Item: It’s Big-O Notation Is O(1)
+  3. Delete Item: It’s Big-O Notation Is O(1)
+  4. Iterate Over Dictionary: It’s Big-O Notation Is O(n)
+
