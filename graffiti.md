@@ -1362,3 +1362,6 @@ You will be a winner today.  Pick a fight with a four-year-old.
 You worry to much about your job.  Stop it.  You are not paid enough to worry.
 You would be in over your head in a parking lot puddle. 
 Zero Defects: The result of shutting down a production line.
+
+I bought my friend an elephant for his room. He said, "Thanks." I said, "Don’t mention it."
+I taught a wolf to meditate. Now he’s Aware Wolf.

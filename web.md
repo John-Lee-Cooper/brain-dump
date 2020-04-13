@@ -9,6 +9,13 @@
 
 ## Flask
 
+[How To Use Flask-WTForms](https://medium.com/better-programming/how-to-use-flask-wtforms-faab71d5a034)  
+[Python Web Applications With Flask](https://realpython.com/python-web-applications-with-flask-part-ii/)  
+[Python Web Applications With Flask](https://realpython.com/python-web-applications-with-flask-part-iii/)  
+[flask-skeleton: Flask skeleton using Bootstrap, SCSS, Docker, console and rotating file logging](https://github.com/ahmet2mir/flask-skeleton)  
+[Handling Email Confirmation During Registration in Flask](https://realpython.com/handling-email-confirmation-in-flask/)  
+[Adding a Custom Stripe Checkout to a Flask App](https://testdriven.io/blog/adding-a-custom-stripe-checkout-to-a-flask-app/)  
+[simple-flask-s3-uploader: Simple and easy to use Flask app to upload files to Amazon S3](https://github.com/jelmerdejong/simple-flask-s3-uploader)  
 [Explore Flask](http://exploreflask.com/en/latest/)
 [Awesome Flask List](https://github.com/mjhea0/awesome-flask)  
 [A curated list of awesome Flask resources and plugins](https://github.com/humiaozuzu/awesome-flask)  
@@ -26,6 +33,13 @@
 [How to build a web app using Python’s Flask and Google App Engine](https://medium.freecodecamp.org/how-to-build-a-web-app-using-pythons-flask-and-google-app-engine-52b1bb82b221)  
 [Setting Up a Flask Application in Visual Studio Code](https://blog.miguelgrinberg.com/post/setting-up-a-flask-application-in-visual-studio-code)  
 [Flask-AppBuilder — Flask AppBuilder](http://flask-appbuilder.readthedocs.io/en/latest/)  
+
+### Flask Blueprints
+
+[flask-app-blueprint: Flask App Blueprint / Boilerplate including user registration/login,](https://github.com/jelmerdejong/flask-app-blueprint)  
+[flask-bones: An example of a large scale Flask application using blueprints and extensions.](https://github.com/cburmeister/flask-bones)  
+[Use a Flask Blueprint to Architect Your Applications](https://realpython.com/flask-blueprint/)  
+[flask-boilerplate: Boilerplate template for a Python Flask application](https://github.com/realpython/flask-boilerplate)
 
 ### Flask API
 
@@ -82,3 +96,4 @@
 [Razor](http://haacked.com/archive/2011/01/06/razor-syntax-quick-reference.aspx)  
 [LINQ](http://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)  
 [How we do MVC – View models](http://lostechies.com/jimmybogard/2009/06/30/how-we-do-mvc-view-models/)  
+

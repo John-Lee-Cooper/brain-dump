@@ -2,6 +2,14 @@
 
 ## General
 
+[OpenCV 3 with Python Tutorial - Mean Shift Tracking](https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_mean_shift_tracking_segmentation.php)  
+[OpenCV 3 Image Noise Reduction : Non-local Means Denoising Algorothm](https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Non-local_Means_Denoising_Algorithm_Noise_Reduction.php)  
+[Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/thsant/scipy4cv/blob/master/03._OpenCV.ipynb)  
+[How I (Sort of) Learned Computer Vision in a Couple Months](https://towardsdatascience.com/how-i-sort-of-learned-computer-vision-in-a-month-c3faec83b3d6)  
+[Skeletons](https://raw.githubusercontent.com/ahmet2mir/flask-skeleton/master/Makefile)  
+[Histogram Equalization](https://scikit-image.org/docs/stable/auto_examples/color_exposure/plot_equalize.html#sphx-glr-auto-examples-color-exposure-plot-equalize-py)  
+[Filtering regional maxima](https://scikit-image.org/docs/stable/auto_examples/color_exposure/plot_regional_maxima.html#sphx-glr-auto-examples-color-exposure-plot-regional-maxima-py)  
+[Traditional Face Detection With Python](https://realpython.com/courses/traditional-face-detection-python/)  
 [Deep Dive into the Computer Vision World: Part 3]( https://towardsdatascience.com/deep-dive-into-the-computer-vision-world-part-3-abd7fd2c64ef)  
 [Computer Vision Part 2: An Overview]( https://medium.com/overture-ai/part-2-overview-of-computer-vision-methods-69c56843c567)  
 [Video processing pipeline using OpenCV and python generators](https://medium.com/deepvisionguru/video-processing-pipeline-with-opencv-ac10187d75b)  
@@ -155,3 +163,9 @@
 [Non-maximum Suppression (NMS)](https://towardsdatascience.com/non-maximum-suppression-nms-93ce178e177c)  
 
 [openCV Sudoku solver](https://github.com/neeru1207/AI_Sudoku)
+
+### CV Projects
+
+[People-Detector: High level python that tells you which files contain people.](https://github.com/humandecoded/People-Detector)  
+[DIY license plate reader with a Raspberry Pi](https://towardsdatascience.com/i-built-a-diy-license-plate-reader-with-a-raspberry-pi-and-machine-learning-7e428d3c7401)  
+

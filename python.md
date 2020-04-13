@@ -2,6 +2,18 @@
 
 ## General
 
+[A Guide to Unicode, UTF-8 and Strings in Python](https://link.medium.com/HmKj2iKL33)  
+[Serverless Python](https://pycoders.com/link/3461/bt0qtb8ar0)  
+[Data Dog: Optimize Python Application Performance](https://www.datadoghq.com/dg/apm/python-application-performance/)  
+[Automating Every Aspect of Your Python Project](https://towardsdatascience.com/automating-every-aspect-of-your-python-project-6517336af9da)  
+[Understanding Best Practice Python Tooling by Comparing Popular Project Templates](https://medium.com/better-programming/understanding-best-practice-python-tooling-by-comparing-popular-project-templates-6eba49229106)  
+:star: [Building a Python UI for Comparing Data](https://towardsdatascience.com/building-a-python-ui-for-comparing-data-13c10693d9e4)  
+[Types at the edges in Python](http://blog.meadsteve.dev/programming/2020/02/10/types-at-the-edges-in-python/)  
+[Advanced usage of Python requests - timeouts, retries, hooks](https://findwork.dev/blog/advanced-usage-python-requests-timeouts-retries-hooks/)  
+[Things I Wish They Told Me About Multiprocessing in Python](https://www.cloudcity.io/blog/2019/02/27/things-i-wish-they-told-me-about-multiprocessing-in-python/)  
+[Designing Intelligent Python Dictionaries](https://link.medium.com/ycuGnlwas5)  
+[python data classess](https://realpython.com/python-data-classes/)  
+
 [Python Tooling Makes a Project Tick](https://medium.com/georgian-impact-blog/python-tooling-makes-a-project-tick-181d567eea44)  
 [Expert python topics](http://dev.libreneitor.com/expert-python-topics-you-should-know/)  
 [Python Development Setup](https://realpython.com/learning-paths/perfect-your-python-development-setup/)  
@@ -43,6 +55,31 @@
 
 [Setting Up Vim as a Python IDE](https://pycoders.com/link/636/bt0qtb8ar0)  
 [A guide to modern Web Development with (Neo)vim](https://medium.freecodecamp.org/a-guide-to-modern-web-development-with-neo-vim-333f7efbf8e2)  
+
+### Python Packages
+[psutil](https://pypi.org/project/psutil/)  
+
+### Python CLI
+
+[rich](https://pypi.org/project/rich/)  
+[emoji](https://pypi.org/project/emoji/)  
+[Rich: Python library for rich text and beautiful formatting](https://github.com/willmcgugan/rich)  
+[Typer](https://typer.tiangolo.com/tutorial/)  
+[Quick: Qt5 GUI generator for ClicK](https://github.com/szsdk/quick)  
+[A simple way to create python CLI app](https://towardsdatascience.com/a-simple-way-to-create-python-cli-app-1a4492c164b6)  
+
+### Python GUI
+
+[Python GUI with PyQT/PySide2](https://medium.com/swlh/python-gui-with-pyqt-pyside2-5cca38d739fa)  
+[Python for the Lab Step by Step Guide to Building a GUI](https://www.pythonforthelab.com/blog/step-by-step-guide-to-building-a-gui/)  
+[python - How to combine OpenCV with PyQt to create a simple GUI?](https://stackoverflow.com/questions/28282434/how-to-combine-opencv-with-pyqt-to-create-a-simple-gui)  
+
+### Python Projects
+
+:star: [Alexa Python Development: Build and Deploy an Alexa Skill](https://realpython.com/alexa-python-skill/)  
+[Download YouTube videos using Python](https://towardsdatascience.com/the-easiest-way-to-download-youtube-videos-using-python-2640958318ab)  
+[Create Animated Images Using Python](https://medium.com/swlh/python-animated-images-6a85b9b68f86)  
+[Building a Text-Based RPG Engine in Python](https://levelup.gitconnected.com/building-a-text-based-rpg-engine-in-python-e571c94500b0)  
 
 ### Network
 
@@ -271,7 +308,8 @@
 
 ### Plotting  
 
-[Effectively Using�Matplotlib](https://pbpython.com/effective-matplotlib.html)  
+[Making Plots in Jupyter Notebook Beautiful & More Meaningful](https://towardsdatascience.com/making-plots-in-jupyter-notebook-beautiful-more-meaningful-23c8a35c0d5d)  
+[Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)  
 :star: [Pylustrator is a program to style your Matplotlib](https://pylustrator.readthedocs.io/en/latest/)  
 [Python’s One Liner graph creation library with animations Hans Rosling Style](https://towardsdatascience.com/pythons-one-liner-graph-creation-library-with-animations-hans-rosling-style-f2cb50490396?source=safariShare-8a8b134a2c85-1557363626)  
 [Animations with Matplotlib](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)  
@@ -313,3 +351,5 @@
 [PyPI Download Stats](https://pypistats.org/)  
 [Ultimate Setup for Your Next Python Project](https://towardsdatascience.com/ultimate-setup-for-your-next-python-project-179bda8a7c2c)  
 [Dashboards in Python for Beginners and Everyone Else using Dash](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644)  
+
+
