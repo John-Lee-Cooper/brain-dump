@@ -68,11 +68,33 @@
 [Quick: Qt5 GUI generator for ClicK](https://github.com/szsdk/quick)  
 [A simple way to create python CLI app](https://towardsdatascience.com/a-simple-way-to-create-python-cli-app-1a4492c164b6)  
 
-### Python GUI
-
-[Python GUI with PyQT/PySide2](https://medium.com/swlh/python-gui-with-pyqt-pyside2-5cca38d739fa)  
+## Python GUI
+[PySimpleGUI: How to Quickly Create UIs]( https://towardsdatascience.com/learn-how-to-quickly-create-uis-in-python-a97ae1394d5)  
 [Python for the Lab Step by Step Guide to Building a GUI](https://www.pythonforthelab.com/blog/step-by-step-guide-to-building-a-gui/)  
+[Create User Interfaces With Python](https://pycoders.com/link/518/bt0qtb8ar0)  
+
+### Kivy
+[Build a Mobile Application With the Kivy Python Framework](https://realpython.com/mobile-app-kivy-python/)  
+
+### QT
+[Python GUI with PyQT/PySide2](https://medium.com/swlh/python-gui-with-pyqt-pyside2-5cca38d739fa)  
 [python - How to combine OpenCV with PyQt to create a simple GUI?](https://stackoverflow.com/questions/28282434/how-to-combine-opencv-with-pyqt-to-create-a-simple-gui)  
+[Python and PyQt: Building a GUI Desktop Calculator](https://realpython.com/python-pyqt-gui-calculator/)  
+:star: [Using PyQt to build a GUI for your webcam](https://www.pythonforthelab.com/blog/step-by-step-guide-to-building-a-gui/)  
+[Qt for Python GettingStarted](https://wiki.qt.io/Qt_for_Python/GettingStarted)  
+[The Independent Qt Tutorial - Chapter 3](http://www.digitalfanatics.org/projects/qt_tutorial/chapter03.html)  
+[The Independent Qt Tutorial - TOC](http://www.digitalfanatics.org/projects/qt_tutorial/index.html)  
+[Eli Bendersky's website » Passing extra arguments to PyQt slots](http://eli.thegreenplace.net/2011/04/25/passing-extra-arguments-to-pyqt-slot/)  
+[Developer Guides Qt Wiki](http://qt-project.org/wiki/Developer-Guides)  
+[Layout management in Qt4](http://zetcode.com/gui/qt4/layoutmanagement/)  
+[PyQt4 tutorial](http://zetcode.com/gui/pyqt4/)  
+[QFileSystemModel - Adding Custom Columns](http://qt-project.org/forums/viewthread/13094)  
+[The PyQt4 tutorial](http://zetcode.com/tutorials/pyqt4/)  
+[PyQt4 tutorial](http://zetcode.com/gui/pyqt4/)  
+[PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)  
+[Develop Your Python GUI Applications With Qt](https://pycoders.com/link/699/bt0qtb8ar0)  
+[Python Qt Tutorial: Create a Simple GUI Chat Client](https://pycoders.com/link/170/bt0qtb8ar0)  
+
 
 ### Python Projects
 
@@ -269,28 +291,6 @@
 [Jupyter on Raspberry](https://www.hackster.io/mjrobot/rpi-physical-computing-using-jupyter-notebook-056fa8)  
 [Exploratory comptuing](http://mbakker7.github.io/exploratory_computing_with_python/)  
 
-### GUI - QT - Kivy
-
-[PySimpleGUI: How to Quickly Create UIs]( https://towardsdatascience.com/learn-how-to-quickly-create-uis-in-python-a97ae1394d5)  
-
-[Python and PyQt: Building a GUI Desktop Calculator](https://realpython.com/python-pyqt-gui-calculator/)  
-:star: [Using PyQt to build a GUI for your webcam](https://www.pythonforthelab.com/blog/step-by-step-guide-to-building-a-gui/)  
-[Qt for Python GettingStarted](https://wiki.qt.io/Qt_for_Python/GettingStarted)  
-[The Independent Qt Tutorial - Chapter 3](http://www.digitalfanatics.org/projects/qt_tutorial/chapter03.html)  
-[The Independent Qt Tutorial - TOC](http://www.digitalfanatics.org/projects/qt_tutorial/index.html)  
-[Eli Bendersky's website » Passing extra arguments to PyQt slots](http://eli.thegreenplace.net/2011/04/25/passing-extra-arguments-to-pyqt-slot/)  
-[Developer Guides Qt Wiki](http://qt-project.org/wiki/Developer-Guides)  
-[Layout management in Qt4](http://zetcode.com/gui/qt4/layoutmanagement/)  
-[PyQt4 tutorial](http://zetcode.com/gui/pyqt4/)  
-[QFileSystemModel - Adding Custom Columns](http://qt-project.org/forums/viewthread/13094)  
-[The PyQt4 tutorial](http://zetcode.com/tutorials/pyqt4/)  
-[PyQt4 tutorial](http://zetcode.com/gui/pyqt4/)  
-[PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)  
-[Develop Your Python GUI Applications With Qt](https://pycoders.com/link/699/bt0qtb8ar0)  
-[Create User Interfaces With Python](https://pycoders.com/link/518/bt0qtb8ar0)  
-[Python Qt Tutorial: Create a Simple GUI Chat Client](https://pycoders.com/link/170/bt0qtb8ar0)  
-[Build a Mobile Application With the Kivy Python Framework](https://realpython.com/mobile-app-kivy-python/)  
-
 ## Software Engineering  
 
 [Design Better Forms – UX Collective](https://uxdesign.cc/design-better-forms-96fadca0f49c)  
@@ -306,26 +306,33 @@
 [19 Incredibly Useful Websites You’ll Wish You Knew Earlier](https://medium.com/swlh/19-incredibly-useful-websites-youll-wish-you-knew-earlier-aff5d0f8255b)  
 [6 AI Subscriptions to keep you Informed – Becoming Human Artificial Intelligence Magazine](https://becominghuman.ai/6-ai-subscriptions-to-keep-you-informed-4cfc6cb024a)  
 
-### Plotting  
+## Plotting  
 
+### Matplotlib  
 [Making Plots in Jupyter Notebook Beautiful & More Meaningful](https://towardsdatascience.com/making-plots-in-jupyter-notebook-beautiful-more-meaningful-23c8a35c0d5d)  
-[Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)  
-:star: [Pylustrator is a program to style your Matplotlib](https://pylustrator.readthedocs.io/en/latest/)  
-[Python’s One Liner graph creation library with animations Hans Rosling Style](https://towardsdatascience.com/pythons-one-liner-graph-creation-library-with-animations-hans-rosling-style-f2cb50490396?source=safariShare-8a8b134a2c85-1557363626)  
+:star: [Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)  
+[Pylustrator is a program to style your Matplotlib](https://pylustrator.readthedocs.io/en/latest/)  
+
 [Animations with Matplotlib](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)  
 [Top 50 matplotlib Visualizations - The Master Plots (w/ Full Python Code) | ML+](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)  
 [Python Matplotlib | Data visualizations In Python With Matplotlib | Edureka](https://www.edureka.co/blog/python-matplotlib-tutorial/)  
 [fontweight](https://matplotlib.org/api/font_manager_api.html)  
 [Advanced Visualization for Data Scientists with Matplotlib](https://medium.com/sfu-big-data/advanced-visualization-for-data-scientists-with-matplotlib-15c28863c41c?source=safariShare-8a8b134a2c85-1553350259)  
-[Simple Method of Creating Animated Graphs – Towards Data Science](https://towardsdatascience.com/simple-method-of-creating-animated-graphs-127c11f58cc5)  
-[5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)  
 [“Artist” in Matplotlib — something I wanted to know before spending tremendous hours on googling…](https://towardsdatascience.com/artist-in-matplotlib-something-i-wanted-to-know-before-spending-tremendous-hours-on-googling-ca3ab05ab08d)  
 [Data Visualization using Matplotlib – Towards Data Science](https://towardsdatascience.com/data-visualization-using-matplotlib-16f1aae5ce70)  
 [Introduction to Matplotlib — Data Visualization in Python](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39)  
+[Your Ultimate Guide to Matplotlib – Towards Data Science](https://towardsdatascience.com/all-your-matplotlib-questions-answered-420dd95cb4ff)  
+
+### Plotly  
+[Python’s One Liner graph creation library with animations Hans Rosling Style](https://towardsdatascience.com/pythons-one-liner-graph-creation-library-with-animations-hans-rosling-style-f2cb50490396?source=safariShare-8a8b134a2c85-1557363626)  
+[Introduction to Interactive Time Series Visualizations with Plotly in Python](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)  
+
+### Other  
+
+[Simple Method of Creating Animated Graphs – Towards Data Science](https://towardsdatascience.com/simple-method-of-creating-animated-graphs-127c11f58cc5)  
+[5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)  
 [Histograms and Density Plots in Python – Towards Data Science](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)  
 [Visualizing Data with Pairs Plots in Python – Towards Data Science](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)  
-[Your Ultimate Guide to Matplotlib – Towards Data Science](https://towardsdatascience.com/all-your-matplotlib-questions-answered-420dd95cb4ff)  
-[Introduction to Interactive Time Series Visualizations with Plotly in Python](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)  
 [How to Create Animated Graphs in Python – Towards Data Science](https://towardsdatascience.com/how-to-create-animated-graphs-in-python-bb619cc2dec1)  
 [The Next Level of Data Visualization in Python – Towards Data Science](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)  
 [Data Visualization with Bokeh in Python, Part I Getting Started](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4)  
