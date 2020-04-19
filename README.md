@@ -31,6 +31,7 @@ My Personal Wiki
 - [pyenv and pipenv](/pyenv.md)
 - [Markdown](/markdown.md)
 - [Emoji](/emoji.md)
+- [iPython](/ipython.md)
 
 ## Lists
 

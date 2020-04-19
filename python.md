@@ -1,5 +1,9 @@
 # Python
 
+## new
+
+[Inheritance and Composition: A Python OOP Guide](https://realpython.com/courses/inheritance-composition-python/)
+
 ## General
 
 [A Guide to Unicode, UTF-8 and Strings in Python](https://link.medium.com/HmKj2iKL33)  
@@ -52,9 +56,6 @@
 [Improve Your Code With Atomic Functions](https://pycoders.com/link/679/bt0qtb8ar0)  
 
 [Sending Emails With Python](https://pycoders.com/link/424/bt0qtb8ar0)  
-
-[Setting Up Vim as a Python IDE](https://pycoders.com/link/636/bt0qtb8ar0)  
-[A guide to modern Web Development with (Neo)vim](https://medium.freecodecamp.org/a-guide-to-modern-web-development-with-neo-vim-333f7efbf8e2)  
 
 ### Python Packages
 [psutil](https://pypi.org/project/psutil/)  
@@ -248,7 +249,6 @@
 
 ### Tools
 
-[VIM and Python](https://realpython.com/vim-and-python-a-match-made-in-heaven/#syntax-checkinghighlighting)  
 [Simplify Your Python Developer Environment](https://medium.com/homeaway-tech-blog/simplify-your-python-developer-environment-aba90f32dddb)  
 [Comparing Python Virtual Environment Tools](https://towardsdatascience.com/comparing-python-virtual-environment-tools-9a6543643a44)  
 [Wily Code Complexity](https://www.podcastinit.com/wily-code-complexity-episode-195/)  
@@ -258,13 +258,11 @@
 [PyDebug](https://github.com/benmezger/pydebug)  
 [faulthandler — Dump the Python traceback — Python 3.7.3 documentation](https://docs.python.org/3/library/faulthandler.html)  
 
-### Python Blogs
-
-[10 python blogs worth following](http://freepythontips.wordpress.com/2013/07/31/10-python-blogs-worth-following/)  
-[Import Python Weekly Newsletter. Subscribe Now.](http://importpython.com/newsletter/)  
-[Real Python Blog](https://realpython.com/blog/)  
-[Python Module of the Week - Python Module of the Week](https://pymotw.com/2/contents.html)  
-[Bites of Code](http://bitesofcode.blogspot.com/)  
+### IDE
+[VIM and Python](https://realpython.com/vim-and-python-a-match-made-in-heaven/#syntax-checkinghighlighting)  
+[VIM and Python – A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven/)  
+[Setting Up Vim as a Python IDE](https://pycoders.com/link/636/bt0qtb8ar0)  
+[A guide to modern Web Development with (Neo)vim](https://medium.freecodecamp.org/a-guide-to-modern-web-development-with-neo-vim-333f7efbf8e2)  
 
 ### PyCharm
 
@@ -290,6 +288,14 @@
 [How to Interact with Jupyter GUI](https://medium.com/@jdchipox/how-to-interact-with-jupyter-33a98686f24e)  
 [Jupyter on Raspberry](https://www.hackster.io/mjrobot/rpi-physical-computing-using-jupyter-notebook-056fa8)  
 [Exploratory comptuing](http://mbakker7.github.io/exploratory_computing_with_python/)  
+
+### Python Blogs
+
+[10 python blogs worth following](http://freepythontips.wordpress.com/2013/07/31/10-python-blogs-worth-following/)  
+[Import Python Weekly Newsletter. Subscribe Now.](http://importpython.com/newsletter/)  
+[Real Python Blog](https://realpython.com/blog/)  
+[Python Module of the Week - Python Module of the Week](https://pymotw.com/2/contents.html)  
+[Bites of Code](http://bitesofcode.blogspot.com/)  
 
 ## Software Engineering  
 
