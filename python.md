@@ -28,7 +28,8 @@
 [Writing sustainable Python scripts](https://vincent.bernat.ch/en/blog/2019-sustainable-python-script)  
 [36 Amazing Python Open Source Projects](https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450)  
 [Edit your videos AUTOMATICALLY with this Python code](https://towardsdatascience.com/edit-your-videos-automatically-with-this-python-code-c704cc413a1)  
-[IPython as a system shell — IPython 3.2.1 documentation](https://ipython.org/ipython-doc/3/interactive/shell.html)  
+
+
 [Python Interview Question Post- Mortem](https://pycoders.com/link/135/bt0qtb8ar0)  
 [pycon 2018 - YouTube](https://www.youtube.com/results?search_query=pycon+2018)  
 [Introduction to functional programming with Python examples](https://itnext.io/introduction-to-functional-programming-with-python-examples-83f33308856a)  
@@ -59,16 +60,20 @@
 
 ### Python Packages
 
+[PyPI Download Stats](https://pypistats.org/)  
 [psutil](https://pypi.org/project/psutil/)  
 
-### Python CLI
+### Command Line Interface (CLI)
 
 [rich](https://pypi.org/project/rich/)  
 [emoji](https://pypi.org/project/emoji/)  
 [Rich: Python library for rich text and beautiful formatting](https://github.com/willmcgugan/rich)  
-[Typer](https://typer.tiangolo.com/tutorial/)  
+:star: [Typer CLI](https://typer.tiangolo.com/)  
 [Quick: Qt5 GUI generator for ClicK](https://github.com/szsdk/quick)  
+:star: [Click Completion](https://github.com/click-contrib/click-completion)  
 [A simple way to create python CLI app](https://towardsdatascience.com/a-simple-way-to-create-python-cli-app-1a4492c164b6)  
+[How to Write Perfect Python Command-line Interfaces](https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2)  
+[Building Beautiful Command Line Interfaces with Python](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df)  
 
 ## Python GUI
 
@@ -139,6 +144,7 @@
 
 ### Testing
 
+[Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/)  
 [wytest Testmon](https://github.com/tarpas/pytest-testmon)  
 [Advanced Python Testing](https://joshpeak.net/posts/2019-06-18-Advanced-python-testing.html)  
 [Automation Testing with Pytest](https://medium.com/tenable-techblog/automation-testing-with-pytest-444c8b34ead2)  
@@ -181,6 +187,7 @@
 [itertools — Functions creating iterators for efficient looping — Python 2.7.9 documentation](https://docs.python.org/2/library/itertools.html)  
 [Why You Should Be Using Pathlib](https://pycoders.com/link/508/bt0qtb8ar0)  
 
+[Regular Expressions: Regexes in Python](https://realpython.com/preview/regex-python/)  
 :star: [GitHub - johannestaas/pire: Python Interactive Regular Expressions](https://github.com/johannestaas/pire)  
 
 ### Libraries
@@ -195,9 +202,6 @@
 :star: [SQLAlchemy ORM Tutorial for Python Developers](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/)  
 :star: [SQLAlchemy — Python Tutorial](https://towardsdatascience.com/sqlalchemy-python-tutorial-79a577141a91)  
 
-:star: [Typer CLI](https://typer.tiangolo.com/)  
-:star: [Click Completion](https://github.com/click-contrib/click-completion)  
-[Building Beautiful Command Line Interfaces with Python](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df)  
 
 [vispy](http://api.vispy.org/en/latest/)  
 
@@ -272,6 +276,11 @@
 
 [Productivity Guide](http://www.jetbrains.com/pycharm/webhelp/productivity-guide.html)  
 [PyCharm Tutorials - PyCharm - Confluence](http://confluence.jetbrains.com/display/PYH/PyCharm+Tutorials)  
+
+### iPython
+
+[IPython as a system shell — IPython 3.2.1 documentation](https://ipython.org/ipython-doc/3/interactive/shell.html)  
+[Built-in magic commands - IPython 7.13.0 documentation](https://ipython.readthedocs.io/en/stable/interactive/magics.html)  
 
 ### Jupyter
 
@@ -362,20 +371,10 @@
 [Why You Need Python Environments and How to Manage Them with Conda](https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)  
 [First Crack - A simple static blogging engine in Python](https://bitbucket.org/zjszewczyk/firstcrack-public/src/master/)  
 
-### Command line
-
-[How to Write Perfect Python Command-line Interfaces](https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2)  
-[Building Beautiful Command Line Interfaces with Python](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df)  
-
 ### Unsorted
 
-[Built-in magic commands - IPython 7.13.0 documentation](https://ipython.readthedocs.io/en/stable/interactive/magics.html)  
 [Three Ways of Storing and Accessing Lots of Images in Python](https://realpython.com/storing-images-in-python/)  
 [Build a Recommendation Engine With Collaborative Filtering](https://realpython.com/build-recommendation-engine-collaborative-filtering/)  
 [python games by example](https://pypi.org/project/gamesbyexample/)  
-[PyPI Download Stats](https://pypistats.org/)  
 [Ultimate Setup for Your Next Python Project](https://towardsdatascience.com/ultimate-setup-for-your-next-python-project-179bda8a7c2c)  
-[Dashboards in Python for Beginners and Everyone Else using Dash](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644)  
 [Best Practices for Working with Configuration in Python Applications | Preferred Networks Research & Development](https://tech.preferred.jp/en/blog/working-with-configuration-in-python/)  
-[Regular Expressions: Regexes in Python](https://realpython.com/preview/regex-python/)  
-[Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/)  
