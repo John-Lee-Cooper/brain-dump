@@ -451,6 +451,7 @@ This command will prompt you a question for each part of the code (hunk) you cha
 
 ## Git Links
 
+[How To Commit Your Cloud Credentials To Version Control Systems](https://medium.com/towards-artificial-intelligence/how-to-safely-commit-your-aws-credentials-to-github-21d3bf7771e7)  
 [Using Git Tags To Version Coding Tutorials](https://medium.com/@emmawedekind/using-git-tags-to-version-coding-tutorials-cf9ff28fad4f)  
 [How to Host Your Website On Github Pages For Free](https://medium.com/swlh/how-to-host-your-website-on-github-pages-for-free-3302b0fe8956)  
 [Intro to Interactive Rebasing in Git and Customizing Vim Preferences](https://medium.com/@lucaspenzeymoog/intro-to-interactive-rebasing-in-git-and-customizing-vim-preferences-b6e2f0309e31)  

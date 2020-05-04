@@ -58,6 +58,7 @@
 [Sending Emails With Python](https://pycoders.com/link/424/bt0qtb8ar0)  
 
 ### Python Packages
+
 [psutil](https://pypi.org/project/psutil/)  
 
 ### Python CLI
@@ -70,14 +71,17 @@
 [A simple way to create python CLI app](https://towardsdatascience.com/a-simple-way-to-create-python-cli-app-1a4492c164b6)  
 
 ## Python GUI
+
 [PySimpleGUI: How to Quickly Create UIs]( https://towardsdatascience.com/learn-how-to-quickly-create-uis-in-python-a97ae1394d5)  
 [Python for the Lab Step by Step Guide to Building a GUI](https://www.pythonforthelab.com/blog/step-by-step-guide-to-building-a-gui/)  
 [Create User Interfaces With Python](https://pycoders.com/link/518/bt0qtb8ar0)  
 
 ### Kivy
+
 [Build a Mobile Application With the Kivy Python Framework](https://realpython.com/mobile-app-kivy-python/)  
 
 ### QT
+
 [Python GUI with PyQT/PySide2](https://medium.com/swlh/python-gui-with-pyqt-pyside2-5cca38d739fa)  
 [python - How to combine OpenCV with PyQt to create a simple GUI?](https://stackoverflow.com/questions/28282434/how-to-combine-opencv-with-pyqt-to-create-a-simple-gui)  
 [Python and PyQt: Building a GUI Desktop Calculator](https://realpython.com/python-pyqt-gui-calculator/)  
@@ -95,7 +99,6 @@
 [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)  
 [Develop Your Python GUI Applications With Qt](https://pycoders.com/link/699/bt0qtb8ar0)  
 [Python Qt Tutorial: Create a Simple GUI Chat Client](https://pycoders.com/link/170/bt0qtb8ar0)  
-
 
 ### Python Projects
 
@@ -259,6 +262,7 @@
 [faulthandler — Dump the Python traceback — Python 3.7.3 documentation](https://docs.python.org/3/library/faulthandler.html)  
 
 ### IDE
+
 [VIM and Python](https://realpython.com/vim-and-python-a-match-made-in-heaven/#syntax-checkinghighlighting)  
 [VIM and Python – A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven/)  
 [Setting Up Vim as a Python IDE](https://pycoders.com/link/636/bt0qtb8ar0)  
@@ -271,6 +275,8 @@
 
 ### Jupyter
 
+[Interactive Controls in Jupyter Notebooks](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6)  
+[jupyter-widgets/tutorial: A tutorial for widgets](https://github.com/jupyter-widgets/tutorial)  
 [The top 5 Magic Commands for Jupyter Notebooks](https://towardsdatascience.com/the-top-5-magic-commands-for-jupyter-notebooks-2bf0c5ae4bb8?source=linkShare-8a8b134a2c85-1550717520)  
 [Interactive Controls for Jupyter Notebooks](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6?source=linkShare-8a8b134a2c85-1550444943)  
 [jupyter widgets](http://www.blog.pythonlibrary.org/2018/10/24/working-with-jupyter-notebook-widgets/)  
@@ -314,7 +320,11 @@
 
 ## Plotting  
 
+[Crisp python plots based on visualization theory](https://towardsdatascience.com/crisp-python-plots-based-on-visualization-theory-5ac3a82c398e)  
+[Visualizing COVID-19 Data Beautifully in Python (in 5 Minutes or Less!!](https://towardsdatascience.com/visualizing-covid-19-data-beautifully-in-python-in-5-minutes-or-less-affc361b2c6a)  
+
 ### Matplotlib  
+
 [Making Plots in Jupyter Notebook Beautiful & More Meaningful](https://towardsdatascience.com/making-plots-in-jupyter-notebook-beautiful-more-meaningful-23c8a35c0d5d)  
 :star: [Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)  
 [Pylustrator is a program to style your Matplotlib](https://pylustrator.readthedocs.io/en/latest/)  
@@ -330,10 +340,11 @@
 [Your Ultimate Guide to Matplotlib – Towards Data Science](https://towardsdatascience.com/all-your-matplotlib-questions-answered-420dd95cb4ff)  
 
 ### Plotly  
+
 [Python’s One Liner graph creation library with animations Hans Rosling Style](https://towardsdatascience.com/pythons-one-liner-graph-creation-library-with-animations-hans-rosling-style-f2cb50490396?source=safariShare-8a8b134a2c85-1557363626)  
 [Introduction to Interactive Time Series Visualizations with Plotly in Python](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)  
 
-### Other  
+### Other 2
 
 [Simple Method of Creating Animated Graphs – Towards Data Science](https://towardsdatascience.com/simple-method-of-creating-animated-graphs-127c11f58cc5)  
 [5 Quick and Easy Data Visualizations in Python with Code](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)  
@@ -358,11 +369,13 @@
 
 ### Unsorted
 
+[Built-in magic commands - IPython 7.13.0 documentation](https://ipython.readthedocs.io/en/stable/interactive/magics.html)  
 [Three Ways of Storing and Accessing Lots of Images in Python](https://realpython.com/storing-images-in-python/)  
 [Build a Recommendation Engine With Collaborative Filtering](https://realpython.com/build-recommendation-engine-collaborative-filtering/)  
 [python games by example](https://pypi.org/project/gamesbyexample/)  
 [PyPI Download Stats](https://pypistats.org/)  
 [Ultimate Setup for Your Next Python Project](https://towardsdatascience.com/ultimate-setup-for-your-next-python-project-179bda8a7c2c)  
 [Dashboards in Python for Beginners and Everyone Else using Dash](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644)  
-
-
+[Best Practices for Working with Configuration in Python Applications | Preferred Networks Research & Development](https://tech.preferred.jp/en/blog/working-with-configuration-in-python/)  
+[Regular Expressions: Regexes in Python](https://realpython.com/preview/regex-python/)  
+[Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/)  

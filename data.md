@@ -1,11 +1,21 @@
-## Data
+# Data
+
 [Cleaning and prepping data with python for data science best practices and helpful packages](https://medium.com/@rrfd/cleaning-and-prepping-data-with-python-for-data-science-best-practices-and-helpful-packages-af1edfbe2a3)  
 [Quality Over Quantity Building The Perfect Data Science Project](https://towardsdatascience.com/quality-over-quantity-building-the-perfect-data-science-project-993ccc0b1241?source=linkShare-8a8b134a2c85-1550444990)  
 [Hitchhiker's guide to Exploratory Data Analysis – Towards Data Science](https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-6e8d896d3f7e)  
 [Understanding Descriptive Statistics – Towards Data Science](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291)  
 [Introducing the Open-Source Big Nerd Ranch Core Data Stack](https://www.bignerdranch.com/blog/introducing-the-big-nerd-ranch-core-data-stack/#shared_store)  
 
+## Numpy
+
+[Numpy Array Cookbook: Generating and Manipulating Arrays in Python](https://towardsdatascience.com/numpy-array-cookbook-generating-and-manipulating-arrays-in-python-2195c3988b09)  
+[NumPy: the absolute basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html)  
+
 ## Pandas
+
+[The Pandas DataFrame: Make Working With Data Delightful](https://realpython.com/pandas-dataframe/)  
+[A plugin for Flake8 that checks pandas code](https://github.com/deppen8/pandas-vet)  
+[My Python Pandas Cheat Sheet](https://towardsdatascience.com/my-python-pandas-cheat-sheet-746b11e44368?source=userActivityShare-8a8b134a2c85-1585786069&_branch_match_id=774049771753842851&gi=24ff3467d47c)  
 [Scalable Python Code with Pandas UDFs](https://towardsdatascience.com/scalable-python-code-with-pandas-udfs-a-data-science-application-dd515a628896)  
 [Did You Know Pandas Can Do So Much?](https://medium.com/fintechexplained/did-you-know-pandas-can-do-so-much-f65dc7db3051?source=safariShare-8a8b134a2c85-1553350499)
 [! Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428?source=linkShare-8a8b134a2c85-1549763977)  
@@ -23,6 +33,7 @@
 [The Simple Yet Practical Data Cleaning Codes – Towards Data Science](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)  
 
 ### GeoPandas  
+
 [Geo libraries in Python](https://blog.goodaudience.com/geo-libraries-in-python-plotting-current-fires-bffef9fe3fb7)  
 [Plotting business locations on maps using multiple Plotting libraries in Python](https://towardsdatascience.com/plotting-business-locations-on-maps-using-multiple-plotting-libraries-in-python-45a00ea770af)  
 [Making 3 Easy Maps With Python](https://towardsdatascience.com/making-3-easy-maps-with-python-fb7dfb1036?source=safariShare-8a8b134a2c85-1557002600)  
@@ -34,6 +45,7 @@
 [Heat Map your Google Payments with Python](https://towardsdatascience.com/heat-map-your-google-payments-with-python-54ed110854d?source=linkShare-8a8b134a2c85-1550453089)  
 
 ### Maps  
+
 [A Complete Guide to an Interactive Geographical Map using Python](https://towardsdatascience.com/a-complete-guide-to-an-interactive-geographical-map-using-python-f4c5197e23e0?source=linkShare-8a8b134a2c85-1550431912)  
 [Geographical Data Visualization with Mapbox – Hackers and Slackers](https://hackingandslacking.com/geographical-data-visualization-with-mapbox-6ef564ebc51e)  
 [Satellite Imagery analysis with Python – Analytics Vidhya – Medium](https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32)  
@@ -42,7 +54,14 @@
 [Mapping Geograph Data in Python – Towards Data Science](https://towardsdatascience.com/mapping-geograph-data-in-python-610a963d2d7f)  
 [Analyzing my Google Location History – Towards Data Science](https://towardsdatascience.com/analyzing-my-google-location-history-d3a5c56c7b70)  
 
+## Dashboards
+
+[Dashboards in Python for Beginners and Everyone Else using Dash](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644)  
+[Build a web data dashboard in just minutes with Python](https://towardsdatascience.com/build-a-web-data-dashboard-in-just-minutes-with-python-d722076aee2b)  
+[Dashboards in Python for Beginners using Dash](https://medium.com/swlh/dashboards-in-python-for-beginners-using-dash-responsive-mobile-dashboards-with-bootstrap-css-2a0d05a53cf6)  
+[Learn HiPlot in 6 mins Python Library for Machine Learning Visualizations](https://levelup.gitconnected.com/learn-hiplot-in-6-mins-facebooks-python-library-for-machine-learning-visualizations-330129d558ac)  
+
 ## Dask  
+
 [How to Run Parallel Data Analysis in Python using Dask Dataframes](https://towardsdatascience.com/trying-out-dask-dataframes-in-python-for-fast-data-analysis-in-parallel-aa960c18a915)  
 [Why every Data Scientist should use Dask – Towards Data Science](https://towardsdatascience.com/why-every-data-scientist-should-use-dask-81b2b850e15b)  
-

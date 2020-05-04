@@ -173,3 +173,12 @@
 [People-Detector: High level python that tells you which files contain people.](https://github.com/humandecoded/People-Detector)  
 [DIY license plate reader with a Raspberry Pi](https://towardsdatascience.com/i-built-a-diy-license-plate-reader-with-a-raspberry-pi-and-machine-learning-7e428d3c7401)  
 
+## Unsorted
+
+[opencv-proto idlesign/opencv-proto](https://github.com/idlesign/opencv-proto/blob/master/README.rst)  
+[Learning computer vision](https://towardsdatascience.com/learning-computer-vision-41398ad9941f)  
+[Machine Learning for Computer Vision](https://heartbeat.fritz.ai/machine-learning-for-computer-vision-foundations-and-use-cases-3d6a62c8a3a7?source=userActivityShare-8a8b134a2c85-1586564884&_branch_match_id=777316399878707371&gi=325d8f61fa9)  
+[Saliency Based Image Segmentation](https://towardsdatascience.com/saliency-based-image-segmentation-473b4cb31774?source=userActivityShare-8a8b134a2c85-1586564808&_branch_match_id=777316071683892751&gi=18b9951cc0fd)  
+[The Ancient Secrets of Computer Vision 4 by Joseph Redmon](https://heartbeat.fritz.ai/the-ancient-secrets-of-computer-vision-4-by-joseph-redmon-convolutions-546f4032f335)  
+[Robust image classification with a small data set](https://medium.com/sciforce/robust-image-classification-with-a-small-data-set-be4de9897495)  
+[How to embed Detectron2 in your computer vision project](https://medium.com/deepvisionguru/how-to-embed-detectron2-in-your-computer-vision-project-817f29149461)  

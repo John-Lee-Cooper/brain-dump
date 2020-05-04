@@ -40,6 +40,7 @@
 
 ## Agile and Scrum
 
+[scrum-tools](https://pypi.org/project/scrum-tools/)  
 [Don’t run project retros, play Dungeons and Dragons](https://uxplanet.org/dont-run-project-retros-play-dungeons-and-dragons-bae43d3df7f3)  
 [Effective Sprint Retrospectives](http://msdn.microsoft.com/en-us/library/vstudio/jj620912.aspx)  
 [Sprint retrospective irrespective - a consistent post-sprint event](http://www.axisagile.com/blog/retrospectives-reviews/sprint-retrospective-irrespective/)  
@@ -71,6 +72,9 @@
 
 ## Android
 
+[Learning Android Development in 2018](https://android.jlelse.eu/learning-android-development-in-2018-part-1-83a514f6a205)  
+[Android Notifications in 5 Minutes](https://medium.com/atomic-robot/android-notifications-in-5-minutes-4d16d39894a1)  
+[8 ways to do asynchronous processing in Android and counting](https://android.jlelse.eu/8-ways-to-do-asynchronous-processing-in-android-and-counting-f634dc6fae4e)  
 [Profiling your App with Android Studio](https://heartbeat.fritz.ai/profiling-your-app-with-android-studio-7accc268cb98?source=linkShare-8a8b134a2c85-1550453296)  
 [Supporting Multiple Screens](https://developer.android.com/guide/practices/screens_support.html)  
 [Android Development](http://www.vogella.com/tutorials/android.html)  
@@ -84,6 +88,10 @@
 
 ## IOS
 
+[How to make a Mac OS X .app with a shell script?](https://apple.stackexchange.com/questions/224394/how-to-make-a-mac-os-x-app-with-a-shell-script)  
+[Mac Automation Scripting Guide: Saving a Script](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/SaveaScript.html)  
+[How to create simple Mac apps from shell scripts](https://mathiasbynens.be/notes/shell-script-mac-apps)  
+[It's time to start talking to your iPhone again (How to use Siri Shortcuts)](https://blog.prototypr.io/its-time-to-start-talking-to-your-iphone-again-how-to-use-siri-shortcuts-c98540edd55e)  
 [Alfred - Productivity App for macOS](https://www.alfredapp.com/)  
 [Upgrading Bash on macOS](https://itnext.io/upgrading-bash-on-macos-7138bd1066ba)  
 [Start Developing iOS Apps Today](https://developer.apple.com/library/ios/ipad/#documentation/iPhone/Conceptual/iPhone101/index.html)  
@@ -147,6 +155,9 @@
 
 ## Gaming
 
+[Steam Community Guide : Splendor Strategy and Tactics](https://steamcommunity.com/sharedfiles/filedetails/?id=776697941)  
+[The Splendor "Color Wheel"](https://boardgamegeek.com/thread/1295681/splendor-color-wheel-some-observations)  
+[How to Host a Live Clue Game](https://ourpastimes.com/cards-rules-intrigue-clue-6743043.html)  
 [Risk Game Strategy Guides](http://www.totaldiplomacy.com/RiskStrategyGuides/tabid/68/Default.aspx)  
 [Strategy :: Lux Wiki](http://sillysoft.net/wiki/?Strategy)  
 [Texas Hold em Poker: Rules, Holdem Strategy Tips](http://www.pokersyte.com/holdem.htm)  
@@ -178,6 +189,9 @@
 
 ## Software Engineering
 
+[65 Lessons from 50 Years of Software Experience](https://medium.com/swlh/62-lessons-from-50-years-of-software-experience-2db0f400f706)  
+[Web Architecture 101 - Storyblocks Product & Engineering](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)  
+[19 Incredibly Useful Websites You'll Wish You Knew Earlier](https://medium.com/swlh/19-incredibly-useful-websites-youll-wish-you-knew-earlier-aff5d0f8255b)  
 [5 Powerful Habits of Successful Developers.](https://medium.com/swlh/5-powerful-habits-of-successful-developers-1c0e32659ea3)  
 [5 Things Better than a Computer Science Degree – Better Programming](https://medium.com/better-programming/5-things-better-than-computer-science-degree-f8acb8061c09?source=safariShare-8a8b134a2c85-1559349407)  
 [Everyday Activities to Help You Become a Better Developer](https://medium.com/better-programming/everyday-activities-to-become-a-better-developer-3d00ec8d14a5)  
@@ -201,3 +215,11 @@
 [2](https://aws-amplify.github.io/docs/?fromawsmobiledocs=true)  
 [3](https://grokonez.com/android/uploaddownload-files-images-amazon-s3-android)  
 [4](https://www.youtube.com/watch?reload=9&v=x3VBosHm7n8)  ## SW Developer
+
+
+## Unsorted
+
+[moderngl: Modern OpenGL binding for python](https://github.com/moderngl/moderngl)  
+[donkeycar: Open source hardware and software platform to build a small scale self driving car.](https://github.com/autorope/donkeycar)  
+[8 Great Websites to Learn New Tech Skills During the Covid-19 Pandemic](https://medium.com/better-programming/7-great-websites-to-learn-new-tech-skills-c36f39de55b9)  
+[python-fire/guide.md at master](https://github.com/google/python-fire/blob/master/docs/guide.md)  

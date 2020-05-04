@@ -30,6 +30,7 @@ You can see all [Python machine learning posts here](http://machinelearningmaste
 
 ## Machine Learning2
 
+[awesome-machine-learning/books.md at master](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)  
 :star: [Machine Learning in Python Step by Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)  
 [Machine Learning from First Principles](https://towardsdatascience.com/machine-learning-from-first-principles-51a5e75a3c47?source=linkShare-8a8b134a2c85-1550452947)  
 [4 Machine Learning Techniques with Python](https://medium.com/@rinu.gour123/4-machine-learning-techniques-with-python-ceee451b0085?source=linkShare-8a8b134a2c85-1550452893)  
