@@ -157,7 +157,6 @@
 
 [Steam Community Guide : Splendor Strategy and Tactics](https://steamcommunity.com/sharedfiles/filedetails/?id=776697941)  
 [The Splendor "Color Wheel"](https://boardgamegeek.com/thread/1295681/splendor-color-wheel-some-observations)  
-[How to Host a Live Clue Game](https://ourpastimes.com/cards-rules-intrigue-clue-6743043.html)  
 [Risk Game Strategy Guides](http://www.totaldiplomacy.com/RiskStrategyGuides/tabid/68/Default.aspx)  
 [Strategy :: Lux Wiki](http://sillysoft.net/wiki/?Strategy)  
 [Texas Hold em Poker: Rules, Holdem Strategy Tips](http://www.pokersyte.com/holdem.htm)  
