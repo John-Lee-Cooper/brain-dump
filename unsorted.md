@@ -4,9 +4,11 @@
 ## Pandas
 
 [My top 4 functions to style the Pandas Dataframe](https://towardsdatascience.com/my-top-4-functions-to-style-the-pandas-dataframe-932cdc79be39)  
+[Plotting in Pandas Just Got Prettier](https://towardsdatascience.com/plotting-in-pandas-just-got-prettier-289d0e0fe5c0)
 
 ## Plot
 
+[dexplot/README.md](https://github.com/dexplo/dexplot/blob/master/README.md)
 [Python Data Analysis with Pandas and Matplotlib](https://ourcodingclub.github.io/tutorials/pandas-python-intro/)  
 [Making Matplotlib Beautiful By DefaultScience](https://towardsdatascience.com/making-matplotlib-beautiful-by-default-d0d41e3534fd)  
 [Your Ultimate Python Visualization Cheat-Sheet](https://medium.com/analytics-vidhya/your-ultimate-python-visualization-cheat-sheet-663318470db)  
@@ -17,7 +19,7 @@
 [An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)  
 
 ## Flask
-
+[Hacking and Slacking Flask](https://hackingandslacking.com/tagged/flask)  
 [The End of Flask in Data Science](https://towardsdatascience.com/the-end-of-flask-in-data-science-738920090ed9)  
 [Configuring Your Flask Application](https://hackingandslacking.com/configuring-your-flask-application-4e5341d7affb)  
 [Combining Flask and Vue | TestDriven.io](https://testdriven.io/blog/combine-flask-vue/)  
@@ -54,6 +56,7 @@
 [Color correction in Opencv with color correction matrix](https://stackoverflow.com/questions/47939482/color-correction-in-opencv-with-color-correction-matrix)  
 [Real time face recognition with CPU](?https://towardsdatascience.com/real-time-face-recognition-with-cpu-983d35cc3ec5)  
 [OpenCV VirtualPen](https://github.com/spmallick/learnopencv/tree/master/Creating-a-Virtual-Pen-and-Eraser?ck_subscriber_id=272180843)  
+[Practical Image Process with OpenCV](https://towardsdatascience.com/practical-image-process-with-opencv-8405772c603e)
 
 ## Docker
 
@@ -79,4 +82,7 @@
 ## Data Science
 [5 Free Books for Learning Python for Data Science](https://towardsdatascience.com/5-free-books-for-learning-python-for-data-science-87be443c084)  
 
+
+
+[PySimpleGUI: The Simple Way to Create a GUI With Python](https://realpython.com/preview/pysimplegui-python/)  
 
