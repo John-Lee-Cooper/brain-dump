@@ -74,6 +74,8 @@
 
 ## Python CLI
 
+[Cement Framework](https://builtoncement.com/)  
+[Gooey GUI](https://github.com/chriskiehl/Gooey)  
 [tabulate: Pretty-print tabular data in Python](https://github.com/astanin/python-tabulate)  
 
 ## Software Engineerning
@@ -98,3 +100,6 @@
 [5 Free Books for Learning Python for Data Science](https://towardsdatascience.com/5-free-books-for-learning-python-for-data-science-87be443c084)  
 
 
+[Making 1 million requests with aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html)  
+[Android Interview Questions](https://android.jlelse.eu/android-interview-questions-cheat-sheet-96ea01c88def)  
+[Humble Bundle](https://www.humblebundle.com/software/python-programming-software)  
