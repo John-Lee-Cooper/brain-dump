@@ -90,6 +90,12 @@
 
 [Dual Boot is Dead: Windows and Linux are now One.](https(//towardsdatascience.com/dual-boot-is-dead-windows-and-linux-are-now-one-27555902a128)  
 
+## Android
+
+[Improve the UI Performance of Your Android App](https://medium.com/better-programming/android-ui-performance-11b57ac4af8c)  
+[Android Styling: Common Theme Attributes](https://medium.com/androiddevelopers/android-styling-common-theme-attributes-8f7c50c9eaba)  
+[Android Interview Questions](https://android.jlelse.eu/android-interview-questions-cheat-sheet-96ea01c88def)  
+
 ## Android Camera API
 
 [Conquering Android Camera APIs | Infinum](https://infinum.com/the-capsized-eight/conquering-android-camera-api)  
@@ -101,5 +107,6 @@
 
 
 [Making 1 million requests with aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html)  
-[Android Interview Questions](https://android.jlelse.eu/android-interview-questions-cheat-sheet-96ea01c88def)  
+[The Best Accessory for Your iPad Pro: The Raspberry Pi 4](https://medium.com/macoclock/the-best-accessory-for-your-ipad-pro-the-raspberry-pi-4-3269c98498f6)  
 [Humble Bundle](https://www.humblebundle.com/software/python-programming-software)  
+[Machine Learning and Data Science free online courses ](https://towardsdatascience.com/machine-learning-free-online-courses-from-beginner-to-advanced-f50982dce950)  
