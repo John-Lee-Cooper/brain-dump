@@ -88,7 +88,7 @@
 
 ## WSL
 
-[Dual Boot is Dead: Windows and Linux are now One.](https(//towardsdatascience.com/dual-boot-is-dead-windows-and-linux-are-now-one-27555902a128)  
+[Windows and Linux are now One](https(//towardsdatascience.com/dual-boot-is-dead-windows-and-linux-are-now-one-27555902a128)  
 
 ## Android
 
