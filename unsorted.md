@@ -8,11 +8,27 @@
 
 ## Plot
 
-[dexplot/README.md](https://github.com/dexplo/dexplot/blob/master/README.md)  
+### Matplotlib
 [Python Data Analysis with Pandas and Matplotlib](https://ourcodingclub.github.io/tutorials/pandas-python-intro/)  
 [Making Matplotlib Beautiful By DefaultScience](https://towardsdatascience.com/making-matplotlib-beautiful-by-default-d0d41e3534fd)  
 [Your Ultimate Python Visualization Cheat-Sheet](https://medium.com/analytics-vidhya/your-ultimate-python-visualization-cheat-sheet-663318470db)  
-[How to Create Animate Graphs in Python](https://towardsdatascience.com/learn-how-to-create-animated-graphs-in-python-fce780421afe)  
+[How to Create Animated Graphs in Python](https://towardsdatascience.com/learn-how-to-create-animated-graphs-in-python-fce780421afe)  
+
+[Matplotlib Axes](https://matplotlib.org/api/axes_api.html)  
+[Matplotlib Artist](https://matplotlib.org/api/text_api.html#matplotlib.text.Text)  
+[Matplotlib Text Properties and Layout](https://matplotlib.org/users/text_props.html)  
+[Matplotlib Event Handling](https://matplotlib.org/users/event_handling.html)  
+[Matplotlib Default Style](https://matplotlib.org/users/dflt_style_changes.html)  
+
+
+### Plotly
+[Plotly Bubble Charts and Hover Text](http://nbviewer.ipython.org/gist/jackparmer/7729584)  
+[Pandas and Plotly](http://nbviewer.ipython.org/gist/nipunreddevil/7734529)  
+
+### Other
+[dexplot/README.md](https://github.com/dexplo/dexplot/blob/master/README.md)  
+[Bokeh](https://bokeh.pydata.org/en/latest/)  
+
 
 ## Git
 
@@ -88,7 +104,7 @@
 
 ## WSL
 
-[Windows and Linux are now One](https(//towardsdatascience.com/dual-boot-is-dead-windows-and-linux-are-now-one-27555902a128)  
+[Windows and Linux are now One](https://towardsdatascience.com/dual-boot-is-dead-windows-and-linux-are-now-one-27555902a128)  
 
 ## Android
 
