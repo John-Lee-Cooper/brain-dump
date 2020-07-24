@@ -126,3 +126,9 @@
 [The Best Accessory for Your iPad Pro: The Raspberry Pi 4](https://medium.com/macoclock/the-best-accessory-for-your-ipad-pro-the-raspberry-pi-4-3269c98498f6)  
 [Humble Bundle](https://www.humblebundle.com/software/python-programming-software)  
 [Machine Learning and Data Science free online courses ](https://towardsdatascience.com/machine-learning-free-online-courses-from-beginner-to-advanced-f50982dce950)  
+
+
+
+[Carbon | Create and share beautiful images of your source code](https://carbon.now.sh)  
+[termtosvg: Record terminal sessions as SVG animations](https://github.com/nbedos/termtosvg)  
+
