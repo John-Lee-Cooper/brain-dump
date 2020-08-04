@@ -60,7 +60,7 @@
 [Build a web data dashboard in just minutes with Python](https://towardsdatascience.com/build-a-web-data-dashboard-in-just-minutes-with-python-d722076aee2b)  
 [Dashboards in Python for Beginners using Dash](https://medium.com/swlh/dashboards-in-python-for-beginners-using-dash-responsive-mobile-dashboards-with-bootstrap-css-2a0d05a53cf6)  
 [Learn HiPlot in 6 mins Python Library for Machine Learning Visualizations](https://levelup.gitconnected.com/learn-hiplot-in-6-mins-facebooks-python-library-for-machine-learning-visualizations-330129d558ac)  
-[Dashboards in Python for Beginners and Everyone Else using Dash](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644) 
+[dash](github.com/plotly/dash) 
 
 ## Dask  
 

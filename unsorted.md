@@ -27,6 +27,7 @@
 ### Plotly
 [Plotly Bubble Charts and Hover Text](http://nbviewer.ipython.org/gist/jackparmer/7729584)  
 [Pandas and Plotly](http://nbviewer.ipython.org/gist/nipunreddevil/7734529)  
+[Violin Plots Plotly](https://plotly.com/python/violin/)  
 
 ### Other
 [dexplot/README.md](https://github.com/dexplo/dexplot/blob/master/README.md)  
@@ -36,6 +37,9 @@
 ## Git
 
 [An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)  
+[Git Pretty](http://justinhileman.info/article/git-pretty/git-pretty.png)  
+[Dangit, git!](https://gumroad.com/l/dangit-git)  
+[Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)  
 
 ## Flask
 [Hacking and Slacking Flask](https://hackingandslacking.com/tagged/flask)  
@@ -45,6 +49,8 @@
 
 ## Python
 
+[Factory Pattern Without Switch and If-Else](https://medium.com/swlh/factory-pattern-without-switch-this-is-how-it-should-be-done-cd895e356f44)  
+[The ultimate guide to writing better Python code](https://towardsdatascience.com/the-ultimate-guide-to-writing-better-python-code-1362a1209e5a)  
 [Your Purchases - Real Python](https://realpython.com/account/purchases/)  
 [The many ways to pass code to Python from the terminal](https://snarky.ca/the-many-ways-to-pass-code-to-python-from-the-terminal/)  
 [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)  
@@ -114,6 +120,7 @@
 [Improve the UI Performance of Your Android App](https://medium.com/better-programming/android-ui-performance-11b57ac4af8c)  
 [Android Styling: Common Theme Attributes](https://medium.com/androiddevelopers/android-styling-common-theme-attributes-8f7c50c9eaba)  
 [Android Interview Questions](https://android.jlelse.eu/android-interview-questions-cheat-sheet-96ea01c88def)  
+[Context and memory leaks in Android](https://medium.com/swlh/context-and-memory-leaks-in-android-82a39ed33002)  
 
 ## Android Camera API
 
@@ -135,12 +142,6 @@
 [Carbon | Create and share beautiful images of your source code](https://carbon.now.sh)  
 [termtosvg: Record terminal sessions as SVG animations](https://github.com/nbedos/termtosvg)  
 
-[Violin Plots Plotly](https://plotly.com/python/violin/)  
-[Context and memory leaks in Android](https://medium.com/swlh/context-and-memory-leaks-in-android-82a39ed33002)  
-[Git Pretty](http://justinhileman.info/article/git-pretty/git-pretty.png)  
-[Dangit, git!](https://gumroad.com/l/dangit-git)  
-[Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)  
-[Factory Pattern Without Switch and If-Else](https://medium.com/swlh/factory-pattern-without-switch-this-is-how-it-should-be-done-cd895e356f44)  
-[The ultimate guide to writing better Python code](https://towardsdatascience.com/the-ultimate-guide-to-writing-better-python-code-1362a1209e5a)  
+
 [Stop writing your own user authentication code](https://medium.com/better-programming/stop-writing-your-own-user-authentication-code-e8bb50388ec4)  
 [image - Formula to determine brightness of RGB color](https://stackoverflow.com/questions/596216/formula-to-determine-brightness-of-rgb-color)  
