@@ -132,16 +132,22 @@
 [5 Free Books for Learning Python for Data Science](https://towardsdatascience.com/5-free-books-for-learning-python-for-data-science-87be443c084)  
 
 
+## Dash
+[Build a live polling web app with Python]( https://pusher.com/tutorials/live-poll-python)  
+[How To Build A Dashboard In Python - Plotly Dash Step-by-Step Tutorial]( https://www.statworx.com/de/blog/how-to-build-a-dashboard-in-python-plotly-dash-step-by-step-tutorial/)  
+[Build Stunning Interactive Web Data Dashboards]( https://medium.com/@agilbert.agtech/build-stunning-interactive-web-data-dashboards-with-python-plotly-and-dash-fcbdc09ba318)  
+
+
 [Making 1 million requests with aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html)  
 [The Best Accessory for Your iPad Pro: The Raspberry Pi 4](https://medium.com/macoclock/the-best-accessory-for-your-ipad-pro-the-raspberry-pi-4-3269c98498f6)  
 [Humble Bundle](https://www.humblebundle.com/software/python-programming-software)  
 [Machine Learning and Data Science free online courses ](https://towardsdatascience.com/machine-learning-free-online-courses-from-beginner-to-advanced-f50982dce950)  
 
-
-
 [Carbon | Create and share beautiful images of your source code](https://carbon.now.sh)  
 [termtosvg: Record terminal sessions as SVG animations](https://github.com/nbedos/termtosvg)  
-
-
 [Stop writing your own user authentication code](https://medium.com/better-programming/stop-writing-your-own-user-authentication-code-e8bb50388ec4)  
-[image - Formula to determine brightness of RGB color](https://stackoverflow.com/questions/596216/formula-to-determine-brightness-of-rgb-color)  
+[Formula to determine brightness of RGB color](https://stackoverflow.com/questions/596216/formula-to-determine-brightness-of-rgb-color)  
+[Create HTML profiling reports from pandas DataFrame objects]( https://github.com/pandas-profiling/pandas-profiling)  
+[Data Structures in Python]( https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html)  
+[8 Advanced Python Logging Features](https://towardsdatascience.com/8-advanced-python-logging-features-that-you-shouldnt-miss-a68a5ef1b62d)  
+
