@@ -3,12 +3,16 @@
 
 ## Pandas
 
+[Create HTML profiling reports from pandas DataFrame objects]( https://github.com/pandas-profiling/pandas-profiling)  
 [My top 4 functions to style the Pandas Dataframe](https://towardsdatascience.com/my-top-4-functions-to-style-the-pandas-dataframe-932cdc79be39)  
 [Plotting in Pandas Just Got Prettier](https://towardsdatascience.com/plotting-in-pandas-just-got-prettier-289d0e0fe5c0)
 
 ## Plot
 
 ### Matplotlib
+[Visualizing Prim's algorithm with networkx and matplotlib](https://kylekizirian.github.io/prims-algorithm.html)  
+[How to use custom png image marker with plot?](https://stackoverflow.com/questions/2318288/how-to-use-custom-png-image-marker-with-plot)  
+[Matplotlib: How to plot images instead of points?](https://stackoverflow.com/questions/22566284/matplotlib-how-to-plot-images-instead-of-points)  
 [Python Data Analysis with Pandas and Matplotlib](https://ourcodingclub.github.io/tutorials/pandas-python-intro/)  
 [Making Matplotlib Beautiful By DefaultScience](https://towardsdatascience.com/making-matplotlib-beautiful-by-default-d0d41e3534fd)  
 [Your Ultimate Python Visualization Cheat-Sheet](https://medium.com/analytics-vidhya/your-ultimate-python-visualization-cheat-sheet-663318470db)  
@@ -23,11 +27,21 @@
 [Matplotlib Event Handling](https://matplotlib.org/users/event_handling.html)  
 [Matplotlib Default Style](https://matplotlib.org/users/dflt_style_changes.html)  
 
-
 ### Plotly
+[4 Ways To Improve Your Plotly Graphs](https://hackersandslackers.com/4-ways-to-improve-your-plotly-graphs/)  
 [Plotly Bubble Charts and Hover Text](http://nbviewer.ipython.org/gist/jackparmer/7729584)  
 [Pandas and Plotly](http://nbviewer.ipython.org/gist/nipunreddevil/7734529)  
 [Violin Plots Plotly](https://plotly.com/python/violin/)  
+
+## Dash
+[Integrate Plotly Dash Into Your Flask App](https://hackersandslackers.com/plotly-dash-with-flask/)  
+[How to embed a Dash app into an existing Flask app](https://medium.com/@olegkomarov_77860/how-to-embed-a-dash-app-into-an-existing-flask-app-ea05d7a2210b)  
+[Integrating Dash with Existing Web Apps](https://dash.plotly.com/integrating-dash)  
+[Integrate Plotly Dash Into Your Flask App](https://hackersandslackers.com/plotly-dash-with-flask/)  
+[Build a live polling web app with Python]( https://pusher.com/tutorials/live-poll-python)  
+[How To Build A Dashboard In Python - Plotly Dash Step-by-Step Tutorial]( https://www.statworx.com/de/blog/how-to-build-a-dashboard-in-python-plotly-dash-step-by-step-tutorial/)  
+[Build Stunning Interactive Web Data Dashboards]( https://medium.com/@agilbert.agtech/build-stunning-interactive-web-data-dashboards-with-python-plotly-and-dash-fcbdc09ba318)  
+
 
 ### Other
 [dexplot/README.md](https://github.com/dexplo/dexplot/blob/master/README.md)  
@@ -42,13 +56,19 @@
 [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)  
 
 ## Flask
+[Build Flask Apps Series](https://hackersandslackers.com/series/build-flask-apps/)  
+[Mastering SQLAlchemy Series](https://hackersandslackers.com/series/mastering-sqlalchemy)  
+[FastAPI for Flask Users](https://amitness.com/2020/06/fastapi-vs-flask/)  
 [Hacking and Slacking Flask](https://hackingandslacking.com/tagged/flask)  
 [The End of Flask in Data Science](https://towardsdatascience.com/the-end-of-flask-in-data-science-738920090ed9)  
 [Configuring Your Flask Application](https://hackingandslacking.com/configuring-your-flask-application-4e5341d7affb)  
 [Combining Flask and Vue | TestDriven.io](https://testdriven.io/blog/combine-flask-vue/)  
+[Stop writing your own user authentication code](https://medium.com/better-programming/stop-writing-your-own-user-authentication-code-e8bb50388ec4)  
 
 ## Python
 
+[Humble Bundle](https://www.humblebundle.com/software/python-programming-software)  
+[Data Structures in Python]( https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html)  
 [Factory Pattern Without Switch and If-Else](https://medium.com/swlh/factory-pattern-without-switch-this-is-how-it-should-be-done-cd895e356f44)  
 [The ultimate guide to writing better Python code](https://towardsdatascience.com/the-ultimate-guide-to-writing-better-python-code-1362a1209e5a)  
 [Your Purchases - Real Python](https://realpython.com/account/purchases/)  
@@ -68,7 +88,14 @@
 [Advanced Python: Itertools Library - The Gem Of Python Language](https://medium.com/fintechexplained/advanced-python-itertools-library-the-gem-of-python-language-99da37dfcca2)  
 [YouTube Downloader with Python](https://towardsdatascience.com/build-a-youtube-downloader-with-python-8ef2e6915d97)  
 
-## Python Libraries
+### Python Core
+
+[8 Advanced Python Logging Features](https://towardsdatascience.com/8-advanced-python-logging-features-that-you-shouldnt-miss-a68a5ef1b62d)  
+[Tips and Tricks for Handling Logging Files in Python](https://medium.com/better-programming/tips-and-tricks-for-handling-logging-files-in-python-b48be3d553ad)  
+[Making 1 million requests with aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html)  
+
+### Python Libraries
+
 [Automate Your Python Script with Process Manager 2 (PM2)](https://towardsdatascience.com/automate-your-python-script-with-pm2-463238ea0b65)  
 [Nox documentation](https://nox.thea.codes/en/stable/tutorial.html)  
 [SSH & SCP in Python with Paramiko](https://hackersandslackers.com/automate-ssh-scp-python-paramiko/)  
@@ -77,6 +104,8 @@
 
 ## CV
 
+[Formula to determine brightness of RGB color](https://stackoverflow.com/questions/596216/formula-to-determine-brightness-of-rgb-color)  
+[CVPR 2020: The Top Object Detection Papers](https://heartbeat.fritz.ai/cvpr-2020-the-top-object-detection-papers-f920a6e41233)  
 [Image Augmentation Mastering: 15+ Techniques and Useful Functions with Python Codes](https://towardsdatascience.com/image-augmentation-mastering-15-techniques-and-useful-functions-with-python-codes-44c3f8c1ea1f)  
 [Computer Vision and Deep Learning: From Image to Video Analysis](https://heartbeat.fritz.ai/computer-vision-from-image-to-video-analysis-d1339cf23961)  
 
@@ -94,6 +123,7 @@
 
 ## Python GUI
 
+[How to use the easiest GUI of your life in Python](https://codeburst.io/how-to-use-the-easiest-gui-of-your-life-in-python-d3762270a2a0)  
 [Python for Android: Start Building Kivy Cross-Platform Applications](https://towardsdatascience.com/python-for-android-start-building-kivy-cross-platform-applications-6cf867d44612)  
 [PySimpleGUI: The Simple Way to Create a GUI With Python](https://realpython.com/preview/pysimplegui-python/)  
 
@@ -130,24 +160,23 @@
 ## Data Science
 
 [5 Free Books for Learning Python for Data Science](https://towardsdatascience.com/5-free-books-for-learning-python-for-data-science-87be443c084)  
-
-
-## Dash
-[Build a live polling web app with Python]( https://pusher.com/tutorials/live-poll-python)  
-[How To Build A Dashboard In Python - Plotly Dash Step-by-Step Tutorial]( https://www.statworx.com/de/blog/how-to-build-a-dashboard-in-python-plotly-dash-step-by-step-tutorial/)  
-[Build Stunning Interactive Web Data Dashboards]( https://medium.com/@agilbert.agtech/build-stunning-interactive-web-data-dashboards-with-python-plotly-and-dash-fcbdc09ba318)  
-
-
-[Making 1 million requests with aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html)  
-[The Best Accessory for Your iPad Pro: The Raspberry Pi 4](https://medium.com/macoclock/the-best-accessory-for-your-ipad-pro-the-raspberry-pi-4-3269c98498f6)  
-[Humble Bundle](https://www.humblebundle.com/software/python-programming-software)  
 [Machine Learning and Data Science free online courses ](https://towardsdatascience.com/machine-learning-free-online-courses-from-beginner-to-advanced-f50982dce950)  
+
+## Packages / Blogs
 
 [Carbon | Create and share beautiful images of your source code](https://carbon.now.sh)  
 [termtosvg: Record terminal sessions as SVG animations](https://github.com/nbedos/termtosvg)  
-[Stop writing your own user authentication code](https://medium.com/better-programming/stop-writing-your-own-user-authentication-code-e8bb50388ec4)  
-[Formula to determine brightness of RGB color](https://stackoverflow.com/questions/596216/formula-to-determine-brightness-of-rgb-color)  
-[Create HTML profiling reports from pandas DataFrame objects]( https://github.com/pandas-profiling/pandas-profiling)  
-[Data Structures in Python]( https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html)  
-[8 Advanced Python Logging Features](https://towardsdatascience.com/8-advanced-python-logging-features-that-you-shouldnt-miss-a68a5ef1b62d)  
+[How to package Python apps with BeeWare Briefcase](https://www.infoworld.com/article/3570295/how-to-package-python-apps-with-beeware-briefcase.html?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20200815+prog+nl&mkt_tok=eyJpIjoiTTJSaVlqRmxZbVF6TnpVNSIsInQiOiJkNjFBb1wvWGRGUXpKR2FNb0xvbFwvK251cE00TjRVdlE1RjhtdGpCNW5GQ0trM0tIWUJjSG1lbEpJTFJxNEQwcHpcLzA2dXBZRjdTUmZQV3RBZkhrajNLblNTcTJiRjZFeTE2TjYzZXNHeTNoazdRaDdVYnFPVnVyXC8zb3VkSWpJRHkifQ%3D%3D)  
+[Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)  
+
+## Jobs
+
+[30 Python Interview Questions that Worth Reading](https://towardsdatascience.com/30-python-interview-questions-that-worth-reading-63b868e682e5)  
+[My Advice After Interviewing 100+ Software Engineers](https://medium.com/swlh/my-advice-after-interviewing-100-software-engineers-e34bc3cbc669)  
+
+## Raspberry
+
+[The Best Accessory for Your iPad Pro: The Raspberry Pi 4](https://medium.com/macoclock/the-best-accessory-for-your-ipad-pro-the-raspberry-pi-4-3269c98498f6)  
+
+
 
