@@ -5,6 +5,7 @@
 [Hitchhiker's guide to Exploratory Data Analysis – Towards Data Science](https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-6e8d896d3f7e)  
 [Understanding Descriptive Statistics – Towards Data Science](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291)  
 [Introducing the Open-Source Big Nerd Ranch Core Data Stack](https://www.bignerdranch.com/blog/introducing-the-big-nerd-ranch-core-data-stack/#shared_store)  
+[Learn HiPlot in 6 mins Python Library for Machine Learning Visualizations](https://levelup.gitconnected.com/learn-hiplot-in-6-mins-facebooks-python-library-for-machine-learning-visualizations-330129d558ac)  
 
 ## Numpy
 
@@ -59,7 +60,6 @@
 [Dashboards in Python for Beginners and Everyone Else using Dash](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644)  
 [Build a web data dashboard in just minutes with Python](https://towardsdatascience.com/build-a-web-data-dashboard-in-just-minutes-with-python-d722076aee2b)  
 [Dashboards in Python for Beginners using Dash](https://medium.com/swlh/dashboards-in-python-for-beginners-using-dash-responsive-mobile-dashboards-with-bootstrap-css-2a0d05a53cf6)  
-[Learn HiPlot in 6 mins Python Library for Machine Learning Visualizations](https://levelup.gitconnected.com/learn-hiplot-in-6-mins-facebooks-python-library-for-machine-learning-visualizations-330129d558ac)  
 [dash](github.com/plotly/dash) 
 
 ## Dask  

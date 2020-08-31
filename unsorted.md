@@ -28,19 +28,19 @@
 [Matplotlib Default Style](https://matplotlib.org/users/dflt_style_changes.html)  
 
 ### Plotly
-[4 Ways To Improve Your Plotly Graphs](https://hackersandslackers.com/4-ways-to-improve-your-plotly-graphs/)  
+:star: [4 Ways To Improve Your Plotly Graphs](https://hackersandslackers.com/4-ways-to-improve-your-plotly-graphs/)  
 [Plotly Bubble Charts and Hover Text](http://nbviewer.ipython.org/gist/jackparmer/7729584)  
 [Pandas and Plotly](http://nbviewer.ipython.org/gist/nipunreddevil/7734529)  
 [Violin Plots Plotly](https://plotly.com/python/violin/)  
 
 ## Dash
-[Integrate Plotly Dash Into Your Flask App](https://hackersandslackers.com/plotly-dash-with-flask/)  
-[How to embed a Dash app into an existing Flask app](https://medium.com/@olegkomarov_77860/how-to-embed-a-dash-app-into-an-existing-flask-app-ea05d7a2210b)  
+:star: [Integrate Plotly Dash Into Your Flask App](https://hackersandslackers.com/plotly-dash-with-flask/)  
+:star: [How to embed a Dash app into an existing Flask app](https://medium.com/@olegkomarov_77860/how-to-embed-a-dash-app-into-an-existing-flask-app-ea05d7a2210b)  
 [Integrating Dash with Existing Web Apps](https://dash.plotly.com/integrating-dash)  
-[Integrate Plotly Dash Into Your Flask App](https://hackersandslackers.com/plotly-dash-with-flask/)  
-[Build a live polling web app with Python]( https://pusher.com/tutorials/live-poll-python)  
 [How To Build A Dashboard In Python - Plotly Dash Step-by-Step Tutorial]( https://www.statworx.com/de/blog/how-to-build-a-dashboard-in-python-plotly-dash-step-by-step-tutorial/)  
 [Build Stunning Interactive Web Data Dashboards]( https://medium.com/@agilbert.agtech/build-stunning-interactive-web-data-dashboards-with-python-plotly-and-dash-fcbdc09ba318)  
+
+[Build a live polling web app with Python]( https://pusher.com/tutorials/live-poll-python)  
 
 
 ### Other
