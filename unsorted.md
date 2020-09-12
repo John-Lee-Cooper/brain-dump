@@ -10,6 +10,7 @@
 ## Plot
 
 ### Matplotlib
+[Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)  
 [Visualizing Prim's algorithm with networkx and matplotlib](https://kylekizirian.github.io/prims-algorithm.html)  
 [How to use custom png image marker with plot?](https://stackoverflow.com/questions/2318288/how-to-use-custom-png-image-marker-with-plot)  
 [Matplotlib: How to plot images instead of points?](https://stackoverflow.com/questions/22566284/matplotlib-how-to-plot-images-instead-of-points)  
@@ -179,4 +180,9 @@
 [The Best Accessory for Your iPad Pro: The Raspberry Pi 4](https://medium.com/macoclock/the-best-accessory-for-your-ipad-pro-the-raspberry-pi-4-3269c98498f6)  
 
 
+## Game AI
 
+[Simple Splendor AI](https://boardgamegeek.com/thread/1995798/simple-splendor-ai)  
+[Reinforcement Learning for the Game of Splendor](https://maxcandocia.com/article/2018/May/04/reinforcement-learning-for-splendor/)  
+[using event-value functions for playing Splendor](https://deepai.org/publication/rinascimento-using-event-value-functions-for-playing-splendor)  
+[The States of Splendor: Searching Game Trees with Partial Information](https://www.researchgate.net/publication/306058411_The_States_of_Splendor_Searching_Game_Trees_with_Partial_Information)  
