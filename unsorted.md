@@ -57,6 +57,10 @@
 [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)  
 
 ## Flask
+[Boilerplate template for a Python Flask application](https://github.com/realpython/flask-boilerplate)  
+[A simple Flask boilerplate app](https://github.com/hack4impact/flask-base)  
+[A solid foundation for your flask app](https://github.com/JackStouffer/Flask-Foundation)  
+[Fbone - a Flask starter](https://github.com/imwilsonxu/fbone)  
 [Build Flask Apps Series](https://hackersandslackers.com/series/build-flask-apps/)  
 [Mastering SQLAlchemy Series](https://hackersandslackers.com/series/mastering-sqlalchemy)  
 [FastAPI for Flask Users](https://amitness.com/2020/06/fastapi-vs-flask/)  
@@ -186,3 +190,10 @@
 [Reinforcement Learning for the Game of Splendor](https://maxcandocia.com/article/2018/May/04/reinforcement-learning-for-splendor/)  
 [using event-value functions for playing Splendor](https://deepai.org/publication/rinascimento-using-event-value-functions-for-playing-splendor)  
 [The States of Splendor: Searching Game Trees with Partial Information](https://www.researchgate.net/publication/306058411_The_States_of_Splendor_Searching_Game_Trees_with_Partial_Information)  
+
+
+
+[4 Reasons to Use PyCharm for Your Next Python Project](https://towardsdatascience.com/4-tips-to-get-the-best-out-of-pycharm-99dd5d01932d)  
+[Use pywinauto to Automate Programs in Windows](https://medium.com/better-programming/use-pywinauto-to-automate-programs-in-windows-7d4a7eb082a5)  
+[Amazon Wants to Make You an ML Practitioner](https://towardsdatascience.com/amazon-wants-to-make-you-an-ml-practitioner-for-free-552c46cea9ba)  
+[Make an AI Tracker in 23 Lines of Code in Python](https://codeburst.io/make-an-ai-tracker-7dc1c5afccc5)  
