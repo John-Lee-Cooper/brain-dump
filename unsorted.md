@@ -6,10 +6,15 @@
 [Create HTML profiling reports from pandas DataFrame objects]( https://github.com/pandas-profiling/pandas-profiling)  
 [My top 4 functions to style the Pandas Dataframe](https://towardsdatascience.com/my-top-4-functions-to-style-the-pandas-dataframe-932cdc79be39)  
 [Plotting in Pandas Just Got Prettier](https://towardsdatascience.com/plotting-in-pandas-just-got-prettier-289d0e0fe5c0)
+[Plot With Pandas: Python Data Visualization for Beginners](https://realpython.com/pandas-plot-python/)  
 
 ## Plot
 
+[No More Basic Plots Please. A Quick Guide to Upgrade Your Data](https://medium.com/python-in-plain-english/no-more-basic-plots-please-59ecc8ac0508)  
+
 ### Matplotlib
+
+[What's new in Matplotlib 3](https://towardsdatascience.com/whats-new-in-matplotlib-3-1b3b03f18ddc)  
 [Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)  
 [Visualizing Prim's algorithm with networkx and matplotlib](https://kylekizirian.github.io/prims-algorithm.html)  
 [How to use custom png image marker with plot?](https://stackoverflow.com/questions/2318288/how-to-use-custom-png-image-marker-with-plot)  
@@ -29,25 +34,28 @@
 [Matplotlib Default Style](https://matplotlib.org/users/dflt_style_changes.html)  
 
 ### Plotly
+
 :star: [4 Ways To Improve Your Plotly Graphs](https://hackersandslackers.com/4-ways-to-improve-your-plotly-graphs/)  
 [Plotly Bubble Charts and Hover Text](http://nbviewer.ipython.org/gist/jackparmer/7729584)  
 [Pandas and Plotly](http://nbviewer.ipython.org/gist/nipunreddevil/7734529)  
 [Violin Plots Plotly](https://plotly.com/python/violin/)  
 
 ## Dash
+
 :star: [Integrate Plotly Dash Into Your Flask App](https://hackersandslackers.com/plotly-dash-with-flask/)  
 :star: [How to embed a Dash app into an existing Flask app](https://medium.com/@olegkomarov_77860/how-to-embed-a-dash-app-into-an-existing-flask-app-ea05d7a2210b)  
 [Integrating Dash with Existing Web Apps](https://dash.plotly.com/integrating-dash)  
 [How To Build A Dashboard In Python - Plotly Dash Step-by-Step Tutorial]( https://www.statworx.com/de/blog/how-to-build-a-dashboard-in-python-plotly-dash-step-by-step-tutorial/)  
 [Build Stunning Interactive Web Data Dashboards]( https://medium.com/@agilbert.agtech/build-stunning-interactive-web-data-dashboards-with-python-plotly-and-dash-fcbdc09ba318)  
+[How to Create a Dashboard to Dominate the Stock Market Using Python and Dash](https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=app_email_share)  
+[Building Dashboards using Dash](https://towardsdatascience.com/building-dashboards-using-dash-200-lines-of-code-ae0be08d805b)  
 
 [Build a live polling web app with Python]( https://pusher.com/tutorials/live-poll-python)  
 
-
 ### Other
+
 [dexplot/README.md](https://github.com/dexplo/dexplot/blob/master/README.md)  
 [Bokeh](https://bokeh.pydata.org/en/latest/)  
-
 
 ## Git
 
@@ -56,24 +64,25 @@
 [Dangit, git!](https://gumroad.com/l/dangit-git)  
 [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)  
 
-
 ## Flask
 
-
 ### Starter
+
+[flask-boilerplate](https://github.com/realpython/flask-boilerplate/blob/master/models.py)  
 [Boilerplate template for a Python Flask application](https://github.com/realpython/flask-boilerplate)  
 [A simple Flask boilerplate app](https://github.com/hack4impact/flask-base)  
 [A solid foundation for your flask app](https://github.com/JackStouffer/Flask-Foundation)  
 [Fbone - a Flask starter](https://github.com/imwilsonxu/fbone)  
 
-
 ### Extensions
+
 [Command Line Interface](https://flask.palletsprojects.com/en/1.1.x/cli/)  
 [Debug Toolbar](https://flask-debugtoolbar.readthedocs.io/en/latest/)  
 [Assets](https://flask-assets.readthedocs.io/en/latest/)  
 
-
 ### Other
+
+[Using Google Login With Flask](https://realpython.com/courses/using-google-login-flask/)  
 [Build Flask Apps Series](https://hackersandslackers.com/series/build-flask-apps/)  
 [Mastering SQLAlchemy Series](https://hackersandslackers.com/series/mastering-sqlalchemy)  
 [FastAPI for Flask Users](https://amitness.com/2020/06/fastapi-vs-flask/)  
@@ -82,7 +91,6 @@
 [Configuring Your Flask Application](https://hackingandslacking.com/configuring-your-flask-application-4e5341d7affb)  
 [Combining Flask and Vue | TestDriven.io](https://testdriven.io/blog/combine-flask-vue/)  
 [Stop writing your own user authentication code](https://medium.com/better-programming/stop-writing-your-own-user-authentication-code-e8bb50388ec4)  
-
 
 ## Python
 
@@ -96,6 +104,7 @@
 [Why Bother Using Property Decorators in Python?](https://medium.com/better-programming/why-bother-using-property-decorators-in-python-935c425f86ed)  
 [Handling exceptions in Python a cleaner way, using Decorators](https://medium.com/swlh/handling-exceptions-in-python-a-cleaner-way-using-decorators-fae22aa0abec)  
 [The Curious Case of Python's Context Manager](https://rednafi.github.io/digressions/python/2020/03/26/python-contextmanager.html)  
+[The Magic of Python Context Managers](https://martinheinz.dev/blog/34)  
 [Effortless Concurrency with Python's concurrent.futures](https://rednafi.github.io/digressions/python/2020/04/21/python-concurrent-futures.html)  
 [Turn Python Scripts into Beautiful ML Tools](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace)  
 [Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/preview/regex-python-part-2/)  
@@ -107,6 +116,10 @@
 [Advanced Python: Itertools Library - The Gem Of Python Language](https://medium.com/fintechexplained/advanced-python-itertools-library-the-gem-of-python-language-99da37dfcca2)  
 [YouTube Downloader with Python](https://towardsdatascience.com/build-a-youtube-downloader-with-python-8ef2e6915d97)  
 
+### Python Tools
+
+[Auto-Documenting a Python Project Using Sphinx](https://medium.com/better-programming/auto-documenting-a-python-project-using-sphinx-8878f9ddc6e9)  
+
 ### Python Core
 
 [8 Advanced Python Logging Features](https://towardsdatascience.com/8-advanced-python-logging-features-that-you-shouldnt-miss-a68a5ef1b62d)  
@@ -115,6 +128,7 @@
 
 ### Python Libraries
 
+[NumPy: the absolute basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html)  
 [Automate Your Python Script with Process Manager 2 (PM2)](https://towardsdatascience.com/automate-your-python-script-with-pm2-463238ea0b65)  
 [Nox documentation](https://nox.thea.codes/en/stable/tutorial.html)  
 [SSH & SCP in Python with Paramiko](https://hackersandslackers.com/automate-ssh-scp-python-paramiko/)  
@@ -127,6 +141,8 @@
 [CVPR 2020: The Top Object Detection Papers](https://heartbeat.fritz.ai/cvpr-2020-the-top-object-detection-papers-f920a6e41233)  
 [Image Augmentation Mastering: 15+ Techniques and Useful Functions with Python Codes](https://towardsdatascience.com/image-augmentation-mastering-15-techniques-and-useful-functions-with-python-codes-44c3f8c1ea1f)  
 [Computer Vision and Deep Learning: From Image to Video Analysis](https://heartbeat.fritz.ai/computer-vision-from-image-to-video-analysis-d1339cf23961)  
+[Make an AI Tracker in 23 Lines of Code in Python](https://codeburst.io/make-an-ai-tracker-7dc1c5afccc5)  
+[Real-time Object Detection using SSD MobileNet V2 on Video Streams](https://heartbeat.fritz.ai/real-time-object-detection-using-ssd-mobilenet-v2-on-video-streams-3bfc1577399c)  
 
 ## OpenCV
 
@@ -190,6 +206,7 @@
 
 ## Jobs
 
+[10 Algorithms To Solve Before your Python Coding Interview](https://towardsdatascience.com/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27)  
 [30 Python Interview Questions that Worth Reading](https://towardsdatascience.com/30-python-interview-questions-that-worth-reading-63b868e682e5)  
 [My Advice After Interviewing 100+ Software Engineers](https://medium.com/swlh/my-advice-after-interviewing-100-software-engineers-e34bc3cbc669)  
 
@@ -205,10 +222,13 @@
 [using event-value functions for playing Splendor](https://deepai.org/publication/rinascimento-using-event-value-functions-for-playing-splendor)  
 [The States of Splendor: Searching Game Trees with Partial Information](https://www.researchgate.net/publication/306058411_The_States_of_Splendor_Searching_Game_Trees_with_Partial_Information)  
 
-
+## Unsorted 
 
 [Everything you need to learn Markdown](https://www.markdownguide.org/)  
 [4 Reasons to Use PyCharm for Your Next Python Project](https://towardsdatascience.com/4-tips-to-get-the-best-out-of-pycharm-99dd5d01932d)  
 [Use pywinauto to Automate Programs in Windows](https://medium.com/better-programming/use-pywinauto-to-automate-programs-in-windows-7d4a7eb082a5)  
 [Amazon Wants to Make You an ML Practitioner](https://towardsdatascience.com/amazon-wants-to-make-you-an-ml-practitioner-for-free-552c46cea9ba)  
-[Make an AI Tracker in 23 Lines of Code in Python](https://codeburst.io/make-an-ai-tracker-7dc1c5afccc5)  
+[Things I Wished More Developers Knew About Databases](https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=app_email_share)
+[CI/CD Best Practices. Continuous Integration and Continuous](https://blog.bitsrc.io/ci-cd-best-practices-bca0ef665677)  
+[Use Chrome DevTools Like a Senior Frontend Developer](https://medium.com/javascript-in-plain-english/use-chrome-devtools-like-a-senior-frontend-developer-99a4740674)  
+[Beyond the Cache with Python](https://redislabs.com/blog/beyond-the-cache-with-python/)  
