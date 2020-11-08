@@ -3,6 +3,7 @@
 
 ## Pandas
 
+[An Ultimate Cheat Sheet for Data Visualization in Pandas](https://towardsdatascience.com/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-4010e1b16b5c)   
 [Create HTML profiling reports from pandas DataFrame objects]( https://github.com/pandas-profiling/pandas-profiling)  
 [My top 4 functions to style the Pandas Dataframe](https://towardsdatascience.com/my-top-4-functions-to-style-the-pandas-dataframe-932cdc79be39)  
 [Plotting in Pandas Just Got Prettier](https://towardsdatascience.com/plotting-in-pandas-just-got-prettier-289d0e0fe5c0)
@@ -14,6 +15,7 @@
 
 ### Matplotlib
 
+[Plotting Data With Seaborn and Pandas](https://hackingandslacking.com/plotting-data-with-seaborn-and-pandas-d2499fdf6f01)   
 [What's new in Matplotlib 3](https://towardsdatascience.com/whats-new-in-matplotlib-3-1b3b03f18ddc)  
 [Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)  
 [Visualizing Prim's algorithm with networkx and matplotlib](https://kylekizirian.github.io/prims-algorithm.html)  
@@ -80,6 +82,11 @@
 [Debug Toolbar](https://flask-debugtoolbar.readthedocs.io/en/latest/)  
 [Assets](https://flask-assets.readthedocs.io/en/latest/)  
 
+### Testing
+
+[Unit Testing in Python Patching, Mocks and Dependency Injection](https://levelup.gitconnected.com/unit-testing-in-python-mocking-patching-and-dependency-injection-301280db2fed)   
+[Combining Flask and Vue | TestDriven.io](https://testdriven.io/blog/combine-flask-vue/)  
+
 ### Other
 
 [Using Google Login With Flask](https://realpython.com/courses/using-google-login-flask/)  
@@ -89,11 +96,11 @@
 [Hacking and Slacking Flask](https://hackingandslacking.com/tagged/flask)  
 [The End of Flask in Data Science](https://towardsdatascience.com/the-end-of-flask-in-data-science-738920090ed9)  
 [Configuring Your Flask Application](https://hackingandslacking.com/configuring-your-flask-application-4e5341d7affb)  
-[Combining Flask and Vue | TestDriven.io](https://testdriven.io/blog/combine-flask-vue/)  
 [Stop writing your own user authentication code](https://medium.com/better-programming/stop-writing-your-own-user-authentication-code-e8bb50388ec4)  
 
 ## Python
 
+[You Should Start Using Type Annotations in Python](https://www.google.com/url?q=https://towardsdatascience.com/python-type-annotations-and-why-you-should-use-them-6f647c6b4e9c&source=gmail-imap&ust=1605376915000000&usg=AOvVaw3ajx4PHwcQw_3M4qgcHT4W)   
 [Humble Bundle](https://www.humblebundle.com/software/python-programming-software)  
 [Data Structures in Python]( https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html)  
 [Factory Pattern Without Switch and If-Else](https://medium.com/swlh/factory-pattern-without-switch-this-is-how-it-should-be-done-cd895e356f44)  
@@ -128,6 +135,7 @@
 
 ### Python Libraries
 
+[Fluent NumPy](https://medium.com/analytics-vidhya/fluent-numpy-187cc14f2832)   
 [NumPy: the absolute basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html)  
 [Automate Your Python Script with Process Manager 2 (PM2)](https://towardsdatascience.com/automate-your-python-script-with-pm2-463238ea0b65)  
 [Nox documentation](https://nox.thea.codes/en/stable/tutorial.html)  
@@ -146,6 +154,10 @@
 
 ## OpenCV
 
+[Solving Mazes With Python. Using Dijkstra Algorithm and OpenCV](https://towardsdatascience.com/solving-mazes-with-python-f7a412f2493f)  
+[Custom Object Detection Using Keras and OpenCV](https://towardsdatascience.com/how-to-build-a-weapon-detection-system-using-keras-and-opencv-67b19234e3dd)  
+[Medial axis skeletonization  skimage v0.12.2 docs](https://scikit-image.org/docs/0.12.x/auto_examples/edges/plot_medial_transform.html)   
+[OpenCV-Python: Skeletonization using OpenCV-Python](http://opencvpython.blogspot.com/2012/05/skeletonization-using-opencv-python.html)   
 [Gamma](http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/)  
 [Color correction in Opencv with color correction matrix](https://stackoverflow.com/questions/47939482/color-correction-in-opencv-with-color-correction-matrix)  
 [Real time face recognition with CPU](?https://towardsdatascience.com/real-time-face-recognition-with-cpu-983d35cc3ec5)  
@@ -154,6 +166,7 @@
 
 ## Docker
 
+[Getting Started with Docker for Data Scientists](https://www.google.com/url?q=https://towardsdatascience.com/getting-started-with-docker-for-data-scientists-a2ed505e2a09&source=gmail-imap&ust=1605376913000000&usg=AOvVaw1wPYnQSY9iZCIegIC9KZQH)   
 [Python HOW: Starting with Docker - The Startup - Medium](https://medium.com/swlh/python-how-starting-with-docker-d2be73d9ae92)  
 
 ## Python GUI
@@ -164,6 +177,10 @@
 
 ## Python CLI
 
+[Packaging in Python: Tools and Formats](https://www.google.com/url?q=https://towardsdatascience.com/packaging-in-python-tools-and-formats-743ead5f39ee&source=gmail-imap&ust=1605376910000000&usg=AOvVaw0tI6bixKizxutg58QluWU6)   
+[Setuptools Integration Click Documentation (7.x)](https://www.google.com/url?q=https://click.palletsprojects.com/en/7.x/setuptools/&source=gmail-imap&ust=1605229345000000&usg=AOvVaw1v86qfaa8ee9BsnNH_CUDQ)   
+[Command Line Scripts](https://www.google.com/url?q=https://www.geeksforgeeks.org/command-line-scripts-python-packaging/&source=gmail-imap&ust=1605229239000000&usg=AOvVaw2torjUuf7OAI2D3I-D5QOJ)   
+[Command Line Scripts Python Packaging Tutorial](http://python-packaging.readthedocs.io/en/latest/command-line-scripts.html)   
 [Cement Framework](https://builtoncement.com/)  
 [Gooey GUI](https://github.com/chriskiehl/Gooey)  
 [tabulate: Pretty-print tabular data in Python](https://github.com/astanin/python-tabulate)  
@@ -178,6 +195,7 @@
 
 ## WSL
 
+[Use pywinauto to Automate Programs in Windows](https://medium.com/better-programming/use-pywinauto-to-automate-programs-in-windows-7d4a7eb082a5)  
 [Windows and Linux are now One](https://towardsdatascience.com/dual-boot-is-dead-windows-and-linux-are-now-one-27555902a128)  
 
 ## Android
@@ -222,16 +240,20 @@
 [using event-value functions for playing Splendor](https://deepai.org/publication/rinascimento-using-event-value-functions-for-playing-splendor)  
 [The States of Splendor: Searching Game Trees with Partial Information](https://www.researchgate.net/publication/306058411_The_States_of_Splendor_Searching_Game_Trees_with_Partial_Information)  
 
+## Web
+[8 Common Web Development Mistakes](https://www.google.com/url?q=https://medium.com/better-programming/8-common-web-development-mistakes-87800f80d8e&source=gmail-imap&ust=1605376912000000&usg=AOvVaw3P7476f2F6bzaYXWwHqsQV)   
+
 ## Unsorted 
 
 [Everything you need to learn Markdown](https://www.markdownguide.org/)  
 [4 Reasons to Use PyCharm for Your Next Python Project](https://towardsdatascience.com/4-tips-to-get-the-best-out-of-pycharm-99dd5d01932d)  
-[Use pywinauto to Automate Programs in Windows](https://medium.com/better-programming/use-pywinauto-to-automate-programs-in-windows-7d4a7eb082a5)  
 [Amazon Wants to Make You an ML Practitioner](https://towardsdatascience.com/amazon-wants-to-make-you-an-ml-practitioner-for-free-552c46cea9ba)  
-[Things I Wished More Developers Knew About Databases](https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=app_email_share)
+[Things I Wished More Developers Knew About Databases](https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=app_email_share)  
 [CI/CD Best Practices. Continuous Integration and Continuous](https://blog.bitsrc.io/ci-cd-best-practices-bca0ef665677)  
 [Beyond the Cache with Python](https://redislabs.com/blog/beyond-the-cache-with-python/)  
-[Solving Mazes With Python. Using Dijkstra Algorithm and OpenCV](https://towardsdatascience.com/solving-mazes-with-python-f7a412f2493f)  
-[Custom Object Detection Using Keras and OpenCV](https://towardsdatascience.com/how-to-build-a-weapon-detection-system-using-keras-and-opencv-67b19234e3dd)  
-[End-to-end Object Detection Using EfficientDet on Raspberry 1](https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=app_email_share)  
-[End-to-end Object Detection Using EfficientDet on Raspberry 2](https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3Dios_app%26utm_medium%3Demail%26utm_campaign%3Dios_app_email_share)  
+[6 Significant Computer Vision Problems Solved by ML](https://www.google.com/url?q=https://heartbeat.fritz.ai/6-significant-computer-vision-problems-solved-by-ml-623eb50544c5&source=gmail-imap&ust=1605221493000000&usg=AOvVaw1GWcBZVJpO6tTzImLHbiIf)   
+[How to make your own Instagram filter with facial recognition using python](https://towardsdatascience.com/how-to-make-your-own-instagram-filter-with-facial-recognition-from-scratch-using-python-d3a42029e65b)   
+[Using joblib to speed up your Python pipelines](https://towardsdatascience.com/using-joblib-to-speed-up-your-python-pipelines-dd97440c653d)   
+[Python Packages: Five Real Python Favorites](https://realpython.com/python-packages/)   
+[Next level data visualization](https://link.medium.com/0EwvRIzGTab)   
+[Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://link.medium.com/ZXxLbGuGTab)   
