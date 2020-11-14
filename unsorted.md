@@ -61,12 +61,20 @@
 
 ## Git
 
+[How To Commit Your Cloud Credentials To Version Control Systems](https://medium.com/towards-artificial-intelligence/how-to-safely-commit-your-aws-credentials-to-github-21d3bf7771e7)  
 [An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)  
 [Git Pretty](http://justinhileman.info/article/git-pretty/git-pretty.png)  
 [Dangit, git!](https://gumroad.com/l/dangit-git)  
 [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)  
 
 ## Flask
+
+[Using Google Login With Flask](https://realpython.com/courses/using-google-login-flask/)  
+[Build Flask Apps Series](https://hackersandslackers.com/series/build-flask-apps/)  
+[FastAPI for Flask Users](https://amitness.com/2020/06/fastapi-vs-flask/)  
+[Hacking and Slacking Flask](https://hackingandslacking.com/tagged/flask)  
+[The End of Flask in Data Science](https://towardsdatascience.com/the-end-of-flask-in-data-science-738920090ed9)  
+[Configuring Your Flask Application](https://hackingandslacking.com/configuring-your-flask-application-4e5341d7affb)  
 
 ### Starter
 
@@ -84,21 +92,30 @@
 
 ### Testing
 
+[Learning Python Test Automation](https://www.google.com/url?q=https://automationpanda.com/2020/11/09/learning-python-test-automation/&source=gmail-imap&ust=1605655558000000&usg=AOvVaw1s4LR1vIQtngzhHTzP0Tsh)  
 [Unit Testing in Python Patching, Mocks and Dependency Injection](https://levelup.gitconnected.com/unit-testing-in-python-mocking-patching-and-dependency-injection-301280db2fed)   
 [Combining Flask and Vue | TestDriven.io](https://testdriven.io/blog/combine-flask-vue/)  
 
-### Other
 
-[Using Google Login With Flask](https://realpython.com/courses/using-google-login-flask/)  
-[Build Flask Apps Series](https://hackersandslackers.com/series/build-flask-apps/)  
+
+## SQL
+
 [Mastering SQLAlchemy Series](https://hackersandslackers.com/series/mastering-sqlalchemy)  
-[FastAPI for Flask Users](https://amitness.com/2020/06/fastapi-vs-flask/)  
-[Hacking and Slacking Flask](https://hackingandslacking.com/tagged/flask)  
-[The End of Flask in Data Science](https://towardsdatascience.com/the-end-of-flask-in-data-science-738920090ed9)  
-[Configuring Your Flask Application](https://hackingandslacking.com/configuring-your-flask-application-4e5341d7affb)  
-[Stop writing your own user authentication code](https://medium.com/better-programming/stop-writing-your-own-user-authentication-code-e8bb50388ec4)  
+[Data Management With Python, SQLite, and SQLAlchemy](https://realpython.com/python-sqlite-sqlalchemy/)  
+[Things I Wished More Developers Knew About Databases](https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=app_email_share)  
+
 
 ## Python
+
+[Beyond the Cache with Python](https://redislabs.com/blog/beyond-the-cache-with-python/)  
+[Using joblib to speed up your Python pipelines](https://towardsdatascience.com/using-joblib-to-speed-up-your-python-pipelines-dd97440c653d)   
+[Next level data visualization](https://link.medium.com/0EwvRIzGTab)   
+[Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://link.medium.com/ZXxLbGuGTab)   
+[4 Reasons to Use PyCharm for Your Next Python Project](https://towardsdatascience.com/4-tips-to-get-the-best-out-of-pycharm-99dd5d01932d)  
+
+[Python Packages: Five Real Python Favorites](https://realpython.com/python-packages/)   
+[7 Cool Python Tricks That You (Probably) Didn't Know](https://towardsdatascience.com/7-cool-python-tricks-that-you-probably-didnt-know-634ae56112be)  
+[5 Python Tricks To Make Your Life More Productive](https://towardsdatascience.com/5-python-tricks-to-make-your-life-more-productive-974ebeb54a53)  
 
 [You Should Start Using Type Annotations in Python](https://www.google.com/url?q=https://towardsdatascience.com/python-type-annotations-and-why-you-should-use-them-6f647c6b4e9c&source=gmail-imap&ust=1605376915000000&usg=AOvVaw3ajx4PHwcQw_3M4qgcHT4W)   
 [Humble Bundle](https://www.humblebundle.com/software/python-programming-software)  
@@ -154,6 +171,14 @@
 
 ## OpenCV
 
+[Looking for a thinning/skeletonizing algorithm with opencv in python.](https://www.google.com/url?q=http://answers.opencv.org/question/163561/looking-for-a-thinningskeletonizing-algorithm-with-opencv-in-python/&source=gmail-imap&ust=1605449194000000&usg=AOvVaw1J8nlFAFEv7DPu2kUt4P4K)  
+[Is there any build-in function can do skeletonization in openCV?](https://www.google.com/url?q=https://stackoverflow.com/questions/33095476/is-there-any-build-in-function-can-do-skeletonization-in-opencv&source=gmail-imap&ust=1605486213000000&usg=AOvVaw0cUVG5-lTdnlc7gW_nbwYT)  
+[Is there a Guo Hall thinning method in openCV 3.1.0?](https://www.google.com/url?q=http://answers.opencv.org/question/84435/is-there-a-guo-hall-thinning-method-in-opencv-310/&source=gmail-imap&ust=1605486696000000&usg=AOvVaw25RF3FWYGaY1B4jI9OLx1y)  
+[Thinning](https://www.google.com/url?q=https://citeseerx.ist.psu.edu/viewdoc/download?doi%3D10.1.1.232.1226%26rep%3Drep1%26type%3Dpdf&source=gmail-imap&ust=1605487467000000&usg=AOvVaw16-4ymqVP3FgYuitWXcoz5)  
+[Real-Time Head Pose Estimation in Python](https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=app_email_share)  
+[High-Resolution 3D Human Digitization from A Single Image.](https://www.google.com/url?q=https://github.com/facebookresearch/pifuhd&source=gmail-imap&ust=1605655629000000&usg=AOvVaw30kX0wr_WRBdJbL22WI-yP)  
+[How to make your own Instagram filter with facial recognition using python](https://towardsdatascience.com/how-to-make-your-own-instagram-filter-with-facial-recognition-from-scratch-using-python-d3a42029e65b)   
+[6 Significant Computer Vision Problems Solved by ML](https://www.google.com/url?q=https://heartbeat.fritz.ai/6-significant-computer-vision-problems-solved-by-ml-623eb50544c5&source=gmail-imap&ust=1605221493000000&usg=AOvVaw1GWcBZVJpO6tTzImLHbiIf)   
 [Solving Mazes With Python. Using Dijkstra Algorithm and OpenCV](https://towardsdatascience.com/solving-mazes-with-python-f7a412f2493f)  
 [Custom Object Detection Using Keras and OpenCV](https://towardsdatascience.com/how-to-build-a-weapon-detection-system-using-keras-and-opencv-67b19234e3dd)  
 [Medial axis skeletonization  skimage v0.12.2 docs](https://scikit-image.org/docs/0.12.x/auto_examples/edges/plot_medial_transform.html)   
@@ -166,6 +191,7 @@
 
 ## Docker
 
+[Containerizing Python Web Application](https://medium.com/swlh/containerizing-python-web-application-1052e61cf201)  
 [Getting Started with Docker for Data Scientists](https://www.google.com/url?q=https://towardsdatascience.com/getting-started-with-docker-for-data-scientists-a2ed505e2a09&source=gmail-imap&ust=1605376913000000&usg=AOvVaw1wPYnQSY9iZCIegIC9KZQH)   
 [Python HOW: Starting with Docker - The Startup - Medium](https://medium.com/swlh/python-how-starting-with-docker-d2be73d9ae92)  
 
@@ -191,6 +217,7 @@
 
 ## CI 
 
+[CI/CD Best Practices. Continuous Integration and Continuous](https://blog.bitsrc.io/ci-cd-best-practices-bca0ef665677)  
 [Learn How to Setup a CI CD Pipeline From Scratch](https://medium.com/edureka/ci-cd-pipeline-5508227b19ca)  
 
 ## WSL
@@ -199,6 +226,10 @@
 [Windows and Linux are now One](https://towardsdatascience.com/dual-boot-is-dead-windows-and-linux-are-now-one-27555902a128)  
 
 ## Android
+
+[8 ways to do asynchronous processing in Android and counting](https://android.jlelse.eu/8-ways-to-do-asynchronous-processing-in-android-and-counting-f634dc6fae4e)  
+[How to repeat notification daily on specific time in android through background service](https://stackoverflow.com/questions/23440251/how-to-repeat-notification-daily-on-specific-time-in-android-through-background)  
+[Android Notifications Tutorial: Getting Started](https://www.raywenderlich.com/1214490-android-notifications-tutorial-getting-started)  
 
 [Improve the UI Performance of Your Android App](https://medium.com/better-programming/android-ui-performance-11b57ac4af8c)  
 [Android Styling: Common Theme Attributes](https://medium.com/androiddevelopers/android-styling-common-theme-attributes-8f7c50c9eaba)  
@@ -242,18 +273,16 @@
 
 ## Web
 [8 Common Web Development Mistakes](https://www.google.com/url?q=https://medium.com/better-programming/8-common-web-development-mistakes-87800f80d8e&source=gmail-imap&ust=1605376912000000&usg=AOvVaw3P7476f2F6bzaYXWwHqsQV)   
+[Stop writing your own user authentication code](https://medium.com/better-programming/stop-writing-your-own-user-authentication-code-e8bb50388ec4)  
+[Everything you need to learn Markdown](https://www.markdownguide.org/)  
+[Building A Lightweight Blogging CMS In 10 Lines of Code](https://www.google.com/url?q=https://www.oneword.domains/blog/lightweight-cms&source=gmail-imap&ust=1605655518000000&usg=AOvVaw18huYYupekHK0zCM_eGBtb)  
+[EndlessTrax/pyanchor: Find your broken links, so users don't.](https://www.google.com/url?q=https://github.com/EndlessTrax/pyanchor&source=gmail-imap&ust=1605655699000000&usg=AOvVaw0R8QACLSL0WU7oWJbv0RvB)  
 
 ## Unsorted 
 
-[Everything you need to learn Markdown](https://www.markdownguide.org/)  
-[4 Reasons to Use PyCharm for Your Next Python Project](https://towardsdatascience.com/4-tips-to-get-the-best-out-of-pycharm-99dd5d01932d)  
 [Amazon Wants to Make You an ML Practitioner](https://towardsdatascience.com/amazon-wants-to-make-you-an-ml-practitioner-for-free-552c46cea9ba)  
-[Things I Wished More Developers Knew About Databases](https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=app_email_share)  
-[CI/CD Best Practices. Continuous Integration and Continuous](https://blog.bitsrc.io/ci-cd-best-practices-bca0ef665677)  
-[Beyond the Cache with Python](https://redislabs.com/blog/beyond-the-cache-with-python/)  
-[6 Significant Computer Vision Problems Solved by ML](https://www.google.com/url?q=https://heartbeat.fritz.ai/6-significant-computer-vision-problems-solved-by-ml-623eb50544c5&source=gmail-imap&ust=1605221493000000&usg=AOvVaw1GWcBZVJpO6tTzImLHbiIf)   
-[How to make your own Instagram filter with facial recognition using python](https://towardsdatascience.com/how-to-make-your-own-instagram-filter-with-facial-recognition-from-scratch-using-python-d3a42029e65b)   
-[Using joblib to speed up your Python pipelines](https://towardsdatascience.com/using-joblib-to-speed-up-your-python-pipelines-dd97440c653d)   
-[Python Packages: Five Real Python Favorites](https://realpython.com/python-packages/)   
-[Next level data visualization](https://link.medium.com/0EwvRIzGTab)   
-[Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://link.medium.com/ZXxLbGuGTab)   
+
+[Law of Large Numbers and the Central Limit Theorem (With Python)](https://www.google.com/url?q=https://randomvariable.cc/law-of-large-numbers-central-limit-theorem-python/&source=gmail-imap&ust=1605655452000000&usg=AOvVaw2qIC5NoJjQ2f3dk4p1UAD9)  
+
+[Doing key-driver analysis in python](https://www.google.com/url?q=https://towardsdatascience.com/key-driver-analysis-in-python-788beb9b8a7d&source=gmail-imap&ust=1605655340000000&usg=AOvVaw06pv28Ih-P3jXkEnQNtiLY)  
+
