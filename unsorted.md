@@ -69,6 +69,7 @@
 
 ## Flask
 
+[Flask-Admin](https://www.google.com/url?q=http://mrjoes.github.io/2013/10/21/flask-admin-107.html&source=gmail-imap&ust=1606052448000000&usg=AOvVaw1dtC_lwKUffLgqDVtzHCcj)  
 [Using Google Login With Flask](https://realpython.com/courses/using-google-login-flask/)  
 [Build Flask Apps Series](https://hackersandslackers.com/series/build-flask-apps/)  
 [FastAPI for Flask Users](https://amitness.com/2020/06/fastapi-vs-flask/)  
@@ -107,6 +108,7 @@
 
 ## Python
 
+[Python Tutorial](https://www.google.com/url?q=https://www.bogotobogo.com/python/pytut.php&source=gmail-imap&ust=1606072280000000&usg=AOvVaw1qXpPxIA14AhuzD_IDITE-)  
 [Beyond the Cache with Python](https://redislabs.com/blog/beyond-the-cache-with-python/)  
 [Using joblib to speed up your Python pipelines](https://towardsdatascience.com/using-joblib-to-speed-up-your-python-pipelines-dd97440c653d)   
 [Next level data visualization](https://link.medium.com/0EwvRIzGTab)   
@@ -117,6 +119,7 @@
 [7 Cool Python Tricks That You (Probably) Didn't Know](https://towardsdatascience.com/7-cool-python-tricks-that-you-probably-didnt-know-634ae56112be)  
 [5 Python Tricks To Make Your Life More Productive](https://towardsdatascience.com/5-python-tricks-to-make-your-life-more-productive-974ebeb54a53)  
 
+[Type hints cheat sheet](https://www.google.com/url?q=https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html&source=gmail-imap&ust=1606072450000000&usg=AOvVaw2M5QPOuJZTNa5ojqvWyG6m)  
 [You Should Start Using Type Annotations in Python](https://www.google.com/url?q=https://towardsdatascience.com/python-type-annotations-and-why-you-should-use-them-6f647c6b4e9c&source=gmail-imap&ust=1605376915000000&usg=AOvVaw3ajx4PHwcQw_3M4qgcHT4W)   
 [Humble Bundle](https://www.humblebundle.com/software/python-programming-software)  
 [Data Structures in Python]( https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html)  
@@ -171,6 +174,10 @@
 
 ## OpenCV
 
+[Image Histogram](https://www.google.com/url?q=https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_image_histogram_calcHist.php&source=gmail-imap&ust=1606072950000000&usg=AOvVaw334HcnigYw0E-NvnD2fuYw)  
+[Computer Vision techniques](https://www.google.com/url?q=https://github.com/ioangatop/ComputerVision&source=gmail-imap&ust=1606072117000000&usg=AOvVaw2fTyItuHzELc1B5YyCcsc-)  
+[OpenCV Tutorials Archives](https://www.google.com/url?q=http://amin-ahmadi.com/category/tutorials/opencv-tutorials/&source=gmail-imap&ust=1606072027000000&usg=AOvVaw1nxXR69zOKEVlnmQGT-7qJ)  
+[OpenCV Web Apps](https://www.google.com/url?q=http://videocortex.io/2017/opencv-web-app/&source=gmail-imap&ust=1606071836000000&usg=AOvVaw1LFX91q6-3qicFO2jC8nDl)  
 [Looking for a thinning/skeletonizing algorithm with opencv in python.](https://www.google.com/url?q=http://answers.opencv.org/question/163561/looking-for-a-thinningskeletonizing-algorithm-with-opencv-in-python/&source=gmail-imap&ust=1605449194000000&usg=AOvVaw1J8nlFAFEv7DPu2kUt4P4K)  
 [Is there any build-in function can do skeletonization in openCV?](https://www.google.com/url?q=https://stackoverflow.com/questions/33095476/is-there-any-build-in-function-can-do-skeletonization-in-opencv&source=gmail-imap&ust=1605486213000000&usg=AOvVaw0cUVG5-lTdnlc7gW_nbwYT)  
 [Is there a Guo Hall thinning method in openCV 3.1.0?](https://www.google.com/url?q=http://answers.opencv.org/question/84435/is-there-a-guo-hall-thinning-method-in-opencv-310/&source=gmail-imap&ust=1605486696000000&usg=AOvVaw25RF3FWYGaY1B4jI9OLx1y)  
@@ -197,6 +204,7 @@
 
 ## Python GUI
 
+[Gooey: Turn (almost) any Python command line program into a full GUI application with one line](https://www.google.com/url?q=https://github.com/chriskiehl/Gooey&source=gmail-imap&ust=1606051722000000&usg=AOvVaw2mbK8YA0_Jnb_YZOn-q2iB)  
 [How to use the easiest GUI of your life in Python](https://codeburst.io/how-to-use-the-easiest-gui-of-your-life-in-python-d3762270a2a0)  
 [Python for Android: Start Building Kivy Cross-Platform Applications](https://towardsdatascience.com/python-for-android-start-building-kivy-cross-platform-applications-6cf867d44612)  
 [PySimpleGUI: The Simple Way to Create a GUI With Python](https://realpython.com/preview/pysimplegui-python/)  
@@ -227,6 +235,8 @@
 
 ## Android
 
+[Android Interview Questions](https://www.google.com/url?q=https://android.jlelse.eu/android-interview-questions-cheat-sheet-96ea01c88def&source=gmail-imap&ust=1606011609000000&usg=AOvVaw3ZHGqVJSbrlPybAeUBIOxT)  
+[Developing IoT apps: finding your IoT devices with Android](https://www.google.com/url?q=https://cheesecakelabs.com/blog/developing-iot-apps-connecting-smart-devices/&source=gmail-imap&ust=1606072357000000&usg=AOvVaw3CUsWGTAbTs4XwkUafjltn)  
 [8 ways to do asynchronous processing in Android and counting](https://android.jlelse.eu/8-ways-to-do-asynchronous-processing-in-android-and-counting-f634dc6fae4e)  
 [How to repeat notification daily on specific time in android through background service](https://stackoverflow.com/questions/23440251/how-to-repeat-notification-daily-on-specific-time-in-android-through-background)  
 [Android Notifications Tutorial: Getting Started](https://www.raywenderlich.com/1214490-android-notifications-tutorial-getting-started)  
@@ -272,6 +282,7 @@
 [The States of Splendor: Searching Game Trees with Partial Information](https://www.researchgate.net/publication/306058411_The_States_of_Splendor_Searching_Game_Trees_with_Partial_Information)  
 
 ## Web
+[MkDocs](https://www.google.com/url?q=https://www.mkdocs.org/&source=gmail-imap&ust=1606071979000000&usg=AOvVaw0HkhqLB23jhJE__W_7utaq)  
 [8 Common Web Development Mistakes](https://www.google.com/url?q=https://medium.com/better-programming/8-common-web-development-mistakes-87800f80d8e&source=gmail-imap&ust=1605376912000000&usg=AOvVaw3P7476f2F6bzaYXWwHqsQV)   
 [Stop writing your own user authentication code](https://medium.com/better-programming/stop-writing-your-own-user-authentication-code-e8bb50388ec4)  
 [Everything you need to learn Markdown](https://www.markdownguide.org/)  
@@ -281,8 +292,9 @@
 ## Unsorted 
 
 [Amazon Wants to Make You an ML Practitioner](https://towardsdatascience.com/amazon-wants-to-make-you-an-ml-practitioner-for-free-552c46cea9ba)  
-
 [Law of Large Numbers and the Central Limit Theorem (With Python)](https://www.google.com/url?q=https://randomvariable.cc/law-of-large-numbers-central-limit-theorem-python/&source=gmail-imap&ust=1605655452000000&usg=AOvVaw2qIC5NoJjQ2f3dk4p1UAD9)  
-
 [Doing key-driver analysis in python](https://www.google.com/url?q=https://towardsdatascience.com/key-driver-analysis-in-python-788beb9b8a7d&source=gmail-imap&ust=1605655340000000&usg=AOvVaw06pv28Ih-P3jXkEnQNtiLY)  
+[Documentation for Visual Studio Code](https://www.google.com/url?q=https://code.visualstudio.com/docs?start%3Dtrue&source=gmail-imap&ust=1606072396000000&usg=AOvVaw2WZLsd7GTIUC7-_OTd4TOQ)  
+[macOS Tutorials](https://www.google.com/url?q=https://www.raywenderlich.com/macos&source=gmail-imap&ust=1606072977000000&usg=AOvVaw3UKUi9w02Gb-i8oPYDeEyp)  
+[Step by Step Guide to Building a GUI](https://www.google.com/url?q=https://www.pythonforthelab.com/blog/step-by-step-guide-to-building-a-gui/&source=gmail-imap&ust=1606072717000000&usg=AOvVaw1JCtC-LelL_v7TVu8UVMIR)  
 
