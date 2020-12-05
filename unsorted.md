@@ -27,6 +27,7 @@
 [How to Create Animated Graphs in Python](https://towardsdatascience.com/learn-how-to-create-animated-graphs-in-python-fce780421afe)  
 [Artists in plt](https://dev.to/skotaro/artist-in-matplotlib---something-i-wanted-to-know-before-spending-tremendous-hours-on-googling-how-tos--31oo)  
 
+[Data Visualization Cheat Sheet with Seaborn and Matplotlib](https://www.google.com/url?q=https://towardsdatascience.com/data-visualization-cheat-sheet-with-seaborn-and-matplotlib-70cac11c6517&source=gmail-imap&ust=1606355270000000&usg=AOvVaw3-HdwARXxgKMYT4NmfIDLO)  
 [Matplotlib Tutorials](https://matplotlib.org/tutorials/index.html)  
 [Matplotlib Axes](https://matplotlib.org/api/axes_api.html)  
 [Matplotlib Artist](https://matplotlib.org/api/artist_api.html?)  
@@ -41,9 +42,11 @@
 [Plotly Bubble Charts and Hover Text](http://nbviewer.ipython.org/gist/jackparmer/7729584)  
 [Pandas and Plotly](http://nbviewer.ipython.org/gist/nipunreddevil/7734529)  
 [Violin Plots Plotly](https://plotly.com/python/violin/)  
+[Building Interactive Dashboard with Plotly and Streamlit](https://medium.com/swlh/building-interactive-dashboard-with-plotly-and-streamlit-2c390bcfd41a)  
 
 ## Dash
 
+[Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter](https://towardsdatascience.com/streamlit-vs-dash-vs-shiny-vs-voila-vs-flask-vs-jupyter-24739ab5d569?_branch_match_id=863207638385823812&source=userActivityShare-8a8b134a2c85-1607043080&gi=7ce7b7c7a297)  
 :star: [Integrate Plotly Dash Into Your Flask App](https://hackersandslackers.com/plotly-dash-with-flask/)  
 :star: [How to embed a Dash app into an existing Flask app](https://medium.com/@olegkomarov_77860/how-to-embed-a-dash-app-into-an-existing-flask-app-ea05d7a2210b)  
 [Integrating Dash with Existing Web Apps](https://dash.plotly.com/integrating-dash)  
@@ -77,6 +80,14 @@
 [The End of Flask in Data Science](https://towardsdatascience.com/the-end-of-flask-in-data-science-738920090ed9)  
 [Configuring Your Flask Application](https://hackingandslacking.com/configuring-your-flask-application-4e5341d7affb)  
 
+### Testing
+
+[Flask - Testing our Hello World app](https://riptutorial.com/flask/example/4122/testing-our-hello-world-app)  
+[Testing Flask Applications](https://flask.palletsprojects.com/en/1.1.x/testing/)  
+[Python 3 Flask boilerplate with py.test](https://www.python-boilerplate.com/py3+flask+pytest/)  
+[Testing a Flask Application using pytest](https://www.patricksoftwareblog.com/testing-a-flask-application-using-pytest/)  
+[flask-pytest-example: Small example of a Flask app using pytest to test routing and requests, GET and POST](https://github.com/aaronjolson/flask-pytest-example)  
+
 ### Starter
 
 [flask-boilerplate](https://github.com/realpython/flask-boilerplate/blob/master/models.py)  
@@ -108,12 +119,22 @@
 
 ## Python
 
+[Learn to Write Functions Others Can Use in Python](https://towardsdatascience.com/learn-to-write-functions-others-can-use-in-python-353011f6a8d5)  
+[Python Type Checking](https://testdriven.io/blog/python-type-checking/)  
+[Top Design Patterns in Python](https://medium.com/python-pandemonium/top-design-patterns-in-python-9778843d5451)  
+[Writing iTerm2 Python scripts](https://cgamesplay.com/post/2020/11/25/iterm-plugins/)  
+[functools, reduce](https://www.google.com/url?q=https://medium.com/python-in-plain-english/pythons-amazing-functools-module-3c4602f09b15&source=gmail-imap&ust=1606614805000000&usg=AOvVaw28x1dzFoVaEtBCjq6DBOqX)  
+[A Curated List of 57 Amazing GitHub Repositories for Every Python Developer](https://medium.com/better-programming/a-curated-list-of-57-amazing-github-repositories-for-every-python-developer-67dc2cd8d0bc)  
 [Python Tutorial](https://www.google.com/url?q=https://www.bogotobogo.com/python/pytut.php&source=gmail-imap&ust=1606072280000000&usg=AOvVaw1qXpPxIA14AhuzD_IDITE-)  
 [Beyond the Cache with Python](https://redislabs.com/blog/beyond-the-cache-with-python/)  
 [Using joblib to speed up your Python pipelines](https://towardsdatascience.com/using-joblib-to-speed-up-your-python-pipelines-dd97440c653d)   
 [Next level data visualization](https://link.medium.com/0EwvRIzGTab)   
 [Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://link.medium.com/ZXxLbGuGTab)   
+
+### PyCharm
 [4 Reasons to Use PyCharm for Your Next Python Project](https://towardsdatascience.com/4-tips-to-get-the-best-out-of-pycharm-99dd5d01932d)  
+[Features - PyCharm](https://www.jetbrains.com/pycharm/features/)  
+[PyCharm: the Python IDE for Professional Developers by JetBrains](https://www.google.com/url?q=https://www.jetbrains.com/pycharm/promo/&source=gmail-imap&ust=1606614908000000&usg=AOvVaw3XG2rKpU7fUe-ggksSU8dY)  
 
 [Python Packages: Five Real Python Favorites](https://realpython.com/python-packages/)   
 [7 Cool Python Tricks That You (Probably) Didn't Know](https://towardsdatascience.com/7-cool-python-tricks-that-you-probably-didnt-know-634ae56112be)  
@@ -155,13 +176,16 @@
 
 ### Python Libraries
 
-[Fluent NumPy](https://medium.com/analytics-vidhya/fluent-numpy-187cc14f2832)   
-[NumPy: the absolute basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html)  
+#### NumPy
 [Automate Your Python Script with Process Manager 2 (PM2)](https://towardsdatascience.com/automate-your-python-script-with-pm2-463238ea0b65)  
 [Nox documentation](https://nox.thea.codes/en/stable/tutorial.html)  
 [SSH & SCP in Python with Paramiko](https://hackersandslackers.com/automate-ssh-scp-python-paramiko/)  
 [Pedantic Configuration Management with Pydantic](https://rednafi.github.io/digressions/python/2020/06/03/python-configs.html)  
 [pydantic](https://pydantic-docs.helpmanual.io/)  
+[Fluent NumPy](https://medium.com/analytics-vidhya/fluent-numpy-187cc14f2832)   
+[NumPy: the absolute basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html)  
+[Diving into NumPy. A glance over an important library]()  
+[numpy](https://www.google.com/url?q=https://towardsdatascience.com/diving-into-numpy-b92abfd7a00f&source=gmail-imap&ust=1606174106000000&usg=AOvVaw21ZsJO6_h1DgKYXKUnsiVO)  
 
 ## CV
 
@@ -174,6 +198,7 @@
 
 ## OpenCV
 
+[Building Blocks of Image Segmentation](https://heartbeat.fritz.ai/building-blocks-of-image-segmentation-88dfcf4898b1)  
 [Image Histogram](https://www.google.com/url?q=https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_image_histogram_calcHist.php&source=gmail-imap&ust=1606072950000000&usg=AOvVaw334HcnigYw0E-NvnD2fuYw)  
 [Computer Vision techniques](https://www.google.com/url?q=https://github.com/ioangatop/ComputerVision&source=gmail-imap&ust=1606072117000000&usg=AOvVaw2fTyItuHzELc1B5YyCcsc-)  
 [OpenCV Tutorials Archives](https://www.google.com/url?q=http://amin-ahmadi.com/category/tutorials/opencv-tutorials/&source=gmail-imap&ust=1606072027000000&usg=AOvVaw1nxXR69zOKEVlnmQGT-7qJ)  
@@ -204,10 +229,12 @@
 
 ## Python GUI
 
+[Create a Simple Python GUI With These Open Source Projects](https://medium.com/swlh/create-a-simple-python-gui-with-these-open-source-projects-7957813a107a)  
 [Gooey: Turn (almost) any Python command line program into a full GUI application with one line](https://www.google.com/url?q=https://github.com/chriskiehl/Gooey&source=gmail-imap&ust=1606051722000000&usg=AOvVaw2mbK8YA0_Jnb_YZOn-q2iB)  
 [How to use the easiest GUI of your life in Python](https://codeburst.io/how-to-use-the-easiest-gui-of-your-life-in-python-d3762270a2a0)  
 [Python for Android: Start Building Kivy Cross-Platform Applications](https://towardsdatascience.com/python-for-android-start-building-kivy-cross-platform-applications-6cf867d44612)  
 [PySimpleGUI: The Simple Way to Create a GUI With Python](https://realpython.com/preview/pysimplegui-python/)  
+[Create Quick and Powerful GUIs Using Dear PyGui](https://www.google.com/url?q=https://medium.com/datadriveninvestor/create-quick-and-powerful-guis-using-dear-pygui-in-python-713cc138bf5a&source=gmail-imap&ust=1606614822000000&usg=AOvVaw1l7rsj1J3jflbNOTLaoqSQ)  
 
 ## Python CLI
 
@@ -222,6 +249,7 @@
 ## Software Engineerning
 
 [The S.O.L.I.D Principles in Pictures](https://link.medium.com/Edsmv10sM6) 
+[Improving Your Team's Code Review Culture](https://link.medium.com/nX1hij4UTbb)  
 
 ## CI 
 
@@ -282,12 +310,17 @@
 [The States of Splendor: Searching Game Trees with Partial Information](https://www.researchgate.net/publication/306058411_The_States_of_Splendor_Searching_Game_Trees_with_Partial_Information)  
 
 ## Web
+[10 Web Development Trends Every CTO Should Expect in 2021](https://medium.com/swlh/10-web-development-trends-every-cto-should-expect-in-2021-ddcb460d4b84)  
 [MkDocs](https://www.google.com/url?q=https://www.mkdocs.org/&source=gmail-imap&ust=1606071979000000&usg=AOvVaw0HkhqLB23jhJE__W_7utaq)  
 [8 Common Web Development Mistakes](https://www.google.com/url?q=https://medium.com/better-programming/8-common-web-development-mistakes-87800f80d8e&source=gmail-imap&ust=1605376912000000&usg=AOvVaw3P7476f2F6bzaYXWwHqsQV)   
 [Stop writing your own user authentication code](https://medium.com/better-programming/stop-writing-your-own-user-authentication-code-e8bb50388ec4)  
 [Everything you need to learn Markdown](https://www.markdownguide.org/)  
 [Building A Lightweight Blogging CMS In 10 Lines of Code](https://www.google.com/url?q=https://www.oneword.domains/blog/lightweight-cms&source=gmail-imap&ust=1605655518000000&usg=AOvVaw18huYYupekHK0zCM_eGBtb)  
 [EndlessTrax/pyanchor: Find your broken links, so users don't.](https://www.google.com/url?q=https://github.com/EndlessTrax/pyanchor&source=gmail-imap&ust=1605655699000000&usg=AOvVaw0R8QACLSL0WU7oWJbv0RvB)  
+
+## Oauth
+[OAuth 1 Workflow  Requests-OAuthlib 1.0.0 documentation](https://requests-oauthlib.readthedocs.io/en/latest/oauth1_workflow.html)  
+[rauth: A Python library for OAuth 1.0/a, 2.0, and Ofly.](https://github.com/litl/rauth)  
 
 ## Unsorted 
 
@@ -297,4 +330,5 @@
 [Documentation for Visual Studio Code](https://www.google.com/url?q=https://code.visualstudio.com/docs?start%3Dtrue&source=gmail-imap&ust=1606072396000000&usg=AOvVaw2WZLsd7GTIUC7-_OTd4TOQ)  
 [macOS Tutorials](https://www.google.com/url?q=https://www.raywenderlich.com/macos&source=gmail-imap&ust=1606072977000000&usg=AOvVaw3UKUi9w02Gb-i8oPYDeEyp)  
 [Step by Step Guide to Building a GUI](https://www.google.com/url?q=https://www.pythonforthelab.com/blog/step-by-step-guide-to-building-a-gui/&source=gmail-imap&ust=1606072717000000&usg=AOvVaw1JCtC-LelL_v7TVu8UVMIR)  
+
 
