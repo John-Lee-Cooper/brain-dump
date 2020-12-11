@@ -1,5 +1,77 @@
-
 # Unsorted
+
+## Python
+
+[Top Design Patterns in Python](https://medium.com/python-pandemonium/top-design-patterns-in-python-9778843d5451)  
+[Top Design Patterns in Python](https://medium.com/python-pandemonium/top-design-patterns-in-python-9778843d5451)  
+[Writing iTerm2 Python scripts](https://cgamesplay.com/post/2020/11/25/iterm-plugins/)  
+[functools, reduce](https://www.google.com/url?q=https://medium.com/python-in-plain-english/pythons-amazing-functools-module-3c4602f09b15&source=gmail-imap&ust=1606614805000000&usg=AOvVaw28x1dzFoVaEtBCjq6DBOqX)  
+[A Curated List of 57 Amazing GitHub Repositories for Every Python Developer](https://medium.com/better-programming/a-curated-list-of-57-amazing-github-repositories-for-every-python-developer-67dc2cd8d0bc)  
+[Python Tutorial](https://www.google.com/url?q=https://www.bogotobogo.com/python/pytut.php&source=gmail-imap&ust=1606072280000000&usg=AOvVaw1qXpPxIA14AhuzD_IDITE-)  
+[Beyond the Cache with Python](https://redislabs.com/blog/beyond-the-cache-with-python/)  
+[Using joblib to speed up your Python pipelines](https://towardsdatascience.com/using-joblib-to-speed-up-your-python-pipelines-dd97440c653d)   
+[Next level data visualization](https://link.medium.com/0EwvRIzGTab)   
+[Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://link.medium.com/ZXxLbGuGTab)   
+[High-Throughput Game Message Server with Python websockets](https://mortoray.com/2020/12/06/high-throughput-game-message-server-with-python-websockets/)  
+
+[Python Packages: Five Real Python Favorites](https://realpython.com/python-packages/)   
+[7 Cool Python Tricks That You (Probably) Didn't Know](https://towardsdatascience.com/7-cool-python-tricks-that-you-probably-didnt-know-634ae56112be)  
+[5 Python Tricks To Make Your Life More Productive](https://towardsdatascience.com/5-python-tricks-to-make-your-life-more-productive-974ebeb54a53)  
+
+### Type Hints
+[Python Type Checking](https://testdriven.io/blog/python-type-checking/)  
+[Type hints cheat sheet](https://www.google.com/url?q=https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html&source=gmail-imap&ust=1606072450000000&usg=AOvVaw2M5QPOuJZTNa5ojqvWyG6m)  
+[You Should Start Using Type Annotations in Python](https://www.google.com/url?q=https://towardsdatascience.com/python-type-annotations-and-why-you-should-use-them-6f647c6b4e9c&source=gmail-imap&ust=1605376915000000&usg=AOvVaw3ajx4PHwcQw_3M4qgcHT4W)   
+
+[Humble Bundle](https://www.humblebundle.com/software/python-programming-software)  
+[Data Structures in Python]( https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html)  
+[Factory Pattern Without Switch and If-Else](https://medium.com/swlh/factory-pattern-without-switch-this-is-how-it-should-be-done-cd895e356f44)  
+[The ultimate guide to writing better Python code](https://towardsdatascience.com/the-ultimate-guide-to-writing-better-python-code-1362a1209e5a)  
+[Your Purchases - Real Python](https://realpython.com/account/purchases/)  
+[The many ways to pass code to Python from the terminal](https://snarky.ca/the-many-ways-to-pass-code-to-python-from-the-terminal/)  
+[Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)  
+[Why Bother Using Property Decorators in Python?](https://medium.com/better-programming/why-bother-using-property-decorators-in-python-935c425f86ed)  
+[Handling exceptions in Python a cleaner way, using Decorators](https://medium.com/swlh/handling-exceptions-in-python-a-cleaner-way-using-decorators-fae22aa0abec)  
+[The Curious Case of Python's Context Manager](https://rednafi.github.io/digressions/python/2020/03/26/python-contextmanager.html)  
+[The Magic of Python Context Managers](https://martinheinz.dev/blog/34)  
+[Effortless Concurrency with Python's concurrent.futures](https://rednafi.github.io/digressions/python/2020/04/21/python-concurrent-futures.html)  
+[Turn Python Scripts into Beautiful ML Tools](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace)  
+[Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/preview/regex-python-part-2/)  
+[Step-up Your RegEx Game in Python](https://towardsdatascience.com/step-up-your-regex-game-in-python-1ec20c5d65f)  
+[Why You Should Use More Enums In Python](https://florian-dahlitz.de/blog/why-you-should-use-more-enums-in-python)  
+[Packaging and Shipping Python Apps for the Desktop](https://heartbeat.fritz.ai/packaging-and-shipping-python-apps-for-the-desktop-a418489b854)  
+[How to Build And Publish Command-Line Applications With Python](https://towardsdatascience.com/how-to-build-and-publish-command-line-applications-with-python-96065049abc1)  
+[Python vs JavaScript for Pythonistas](https://realpython.com/python-vs-javascript/)  
+[Advanced Python: Itertools Library - The Gem Of Python Language](https://medium.com/fintechexplained/advanced-python-itertools-library-the-gem-of-python-language-99da37dfcca2)  
+[YouTube Downloader with Python](https://towardsdatascience.com/build-a-youtube-downloader-with-python-8ef2e6915d97)  
+
+### Python Tools
+
+[Auto-Documenting a Python Project Using Sphinx](https://medium.com/better-programming/auto-documenting-a-python-project-using-sphinx-8878f9ddc6e9)  
+
+### PyCharm
+[4 Reasons to Use PyCharm for Your Next Python Project](https://towardsdatascience.com/4-tips-to-get-the-best-out-of-pycharm-99dd5d01932d)  
+[Features - PyCharm](https://www.jetbrains.com/pycharm/features/)  
+[PyCharm: the Python IDE for Professional Developers by JetBrains](https://www.google.com/url?q=https://www.jetbrains.com/pycharm/promo/&source=gmail-imap&ust=1606614908000000&usg=AOvVaw3XG2rKpU7fUe-ggksSU8dY)  
+
+### Python Core
+
+[8 Advanced Python Logging Features](https://towardsdatascience.com/8-advanced-python-logging-features-that-you-shouldnt-miss-a68a5ef1b62d)  
+[Tips and Tricks for Handling Logging Files in Python](https://medium.com/better-programming/tips-and-tricks-for-handling-logging-files-in-python-b48be3d553ad)  
+[Making 1 million requests with aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html)  
+
+### Python Libraries
+
+#### NumPy
+[Automate Your Python Script with Process Manager 2 (PM2)](https://towardsdatascience.com/automate-your-python-script-with-pm2-463238ea0b65)  
+[Nox documentation](https://nox.thea.codes/en/stable/tutorial.html)  
+[SSH & SCP in Python with Paramiko](https://hackersandslackers.com/automate-ssh-scp-python-paramiko/)  
+[Pedantic Configuration Management with Pydantic](https://rednafi.github.io/digressions/python/2020/06/03/python-configs.html)  
+[pydantic](https://pydantic-docs.helpmanual.io/)  
+[Fluent NumPy](https://medium.com/analytics-vidhya/fluent-numpy-187cc14f2832)   
+[NumPy: the absolute basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html)  
+[Diving into NumPy. A glance over an important library]()  
+[numpy](https://www.google.com/url?q=https://towardsdatascience.com/diving-into-numpy-b92abfd7a00f&source=gmail-imap&ust=1606174106000000&usg=AOvVaw21ZsJO6_h1DgKYXKUnsiVO)  
 
 ## Pandas
 
@@ -62,14 +134,6 @@
 [dexplot/README.md](https://github.com/dexplo/dexplot/blob/master/README.md)  
 [Bokeh](https://bokeh.pydata.org/en/latest/)  
 
-## Git
-
-[How To Commit Your Cloud Credentials To Version Control Systems](https://medium.com/towards-artificial-intelligence/how-to-safely-commit-your-aws-credentials-to-github-21d3bf7771e7)  
-[An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)  
-[Git Pretty](http://justinhileman.info/article/git-pretty/git-pretty.png)  
-[Dangit, git!](https://gumroad.com/l/dangit-git)  
-[Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)  
-
 ## Flask
 
 [Flask-Admin](https://www.google.com/url?q=http://mrjoes.github.io/2013/10/21/flask-admin-107.html&source=gmail-imap&ust=1606052448000000&usg=AOvVaw1dtC_lwKUffLgqDVtzHCcj)  
@@ -109,86 +173,29 @@
 [Combining Flask and Vue | TestDriven.io](https://testdriven.io/blog/combine-flask-vue/)  
 
 
+## Python GUI
 
-## SQL
+[Create a Simple Python GUI With These Open Source Projects](https://medium.com/swlh/create-a-simple-python-gui-with-these-open-source-projects-7957813a107a)  
+[Gooey: Turn (almost) any Python command line program into a full GUI application with one line](https://www.google.com/url?q=https://github.com/chriskiehl/Gooey&source=gmail-imap&ust=1606051722000000&usg=AOvVaw2mbK8YA0_Jnb_YZOn-q2iB)  
+[How to use the easiest GUI of your life in Python](https://codeburst.io/how-to-use-the-easiest-gui-of-your-life-in-python-d3762270a2a0)  
+[Python for Android: Start Building Kivy Cross-Platform Applications](https://towardsdatascience.com/python-for-android-start-building-kivy-cross-platform-applications-6cf867d44612)  
+[PySimpleGUI: The Simple Way to Create a GUI With Python](https://realpython.com/preview/pysimplegui-python/)  
+[Create Quick and Powerful GUIs Using Dear PyGui](https://www.google.com/url?q=https://medium.com/datadriveninvestor/create-quick-and-powerful-guis-using-dear-pygui-in-python-713cc138bf5a&source=gmail-imap&ust=1606614822000000&usg=AOvVaw1l7rsj1J3jflbNOTLaoqSQ)  
 
-[Mastering SQLAlchemy Series](https://hackersandslackers.com/series/mastering-sqlalchemy)  
-[Data Management With Python, SQLite, and SQLAlchemy](https://realpython.com/python-sqlite-sqlalchemy/)  
-[Things I Wished More Developers Knew About Databases](https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=app_email_share)  
+## Python CLI
 
+[Packaging in Python: Tools and Formats](https://www.google.com/url?q=https://towardsdatascience.com/packaging-in-python-tools-and-formats-743ead5f39ee&source=gmail-imap&ust=1605376910000000&usg=AOvVaw0tI6bixKizxutg58QluWU6)   
+[Setuptools Integration Click Documentation (7.x)](https://www.google.com/url?q=https://click.palletsprojects.com/en/7.x/setuptools/&source=gmail-imap&ust=1605229345000000&usg=AOvVaw1v86qfaa8ee9BsnNH_CUDQ)   
+[Command Line Scripts](https://www.google.com/url?q=https://www.geeksforgeeks.org/command-line-scripts-python-packaging/&source=gmail-imap&ust=1605229239000000&usg=AOvVaw2torjUuf7OAI2D3I-D5QOJ)   
+[Command Line Scripts Python Packaging Tutorial](http://python-packaging.readthedocs.io/en/latest/command-line-scripts.html)   
+[Cement Framework](https://builtoncement.com/)  
+[Gooey GUI](https://github.com/chriskiehl/Gooey)  
+[tabulate: Pretty-print tabular data in Python](https://github.com/astanin/python-tabulate)  
 
-## Python
-
-[Learn to Write Functions Others Can Use in Python](https://towardsdatascience.com/learn-to-write-functions-others-can-use-in-python-353011f6a8d5)  
-[Python Type Checking](https://testdriven.io/blog/python-type-checking/)  
-[Top Design Patterns in Python](https://medium.com/python-pandemonium/top-design-patterns-in-python-9778843d5451)  
-[Writing iTerm2 Python scripts](https://cgamesplay.com/post/2020/11/25/iterm-plugins/)  
-[functools, reduce](https://www.google.com/url?q=https://medium.com/python-in-plain-english/pythons-amazing-functools-module-3c4602f09b15&source=gmail-imap&ust=1606614805000000&usg=AOvVaw28x1dzFoVaEtBCjq6DBOqX)  
-[A Curated List of 57 Amazing GitHub Repositories for Every Python Developer](https://medium.com/better-programming/a-curated-list-of-57-amazing-github-repositories-for-every-python-developer-67dc2cd8d0bc)  
-[Python Tutorial](https://www.google.com/url?q=https://www.bogotobogo.com/python/pytut.php&source=gmail-imap&ust=1606072280000000&usg=AOvVaw1qXpPxIA14AhuzD_IDITE-)  
-[Beyond the Cache with Python](https://redislabs.com/blog/beyond-the-cache-with-python/)  
-[Using joblib to speed up your Python pipelines](https://towardsdatascience.com/using-joblib-to-speed-up-your-python-pipelines-dd97440c653d)   
-[Next level data visualization](https://link.medium.com/0EwvRIzGTab)   
-[Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://link.medium.com/ZXxLbGuGTab)   
-
-### PyCharm
-[4 Reasons to Use PyCharm for Your Next Python Project](https://towardsdatascience.com/4-tips-to-get-the-best-out-of-pycharm-99dd5d01932d)  
-[Features - PyCharm](https://www.jetbrains.com/pycharm/features/)  
-[PyCharm: the Python IDE for Professional Developers by JetBrains](https://www.google.com/url?q=https://www.jetbrains.com/pycharm/promo/&source=gmail-imap&ust=1606614908000000&usg=AOvVaw3XG2rKpU7fUe-ggksSU8dY)  
-
-[Python Packages: Five Real Python Favorites](https://realpython.com/python-packages/)   
-[7 Cool Python Tricks That You (Probably) Didn't Know](https://towardsdatascience.com/7-cool-python-tricks-that-you-probably-didnt-know-634ae56112be)  
-[5 Python Tricks To Make Your Life More Productive](https://towardsdatascience.com/5-python-tricks-to-make-your-life-more-productive-974ebeb54a53)  
-
-[Type hints cheat sheet](https://www.google.com/url?q=https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html&source=gmail-imap&ust=1606072450000000&usg=AOvVaw2M5QPOuJZTNa5ojqvWyG6m)  
-[You Should Start Using Type Annotations in Python](https://www.google.com/url?q=https://towardsdatascience.com/python-type-annotations-and-why-you-should-use-them-6f647c6b4e9c&source=gmail-imap&ust=1605376915000000&usg=AOvVaw3ajx4PHwcQw_3M4qgcHT4W)   
-[Humble Bundle](https://www.humblebundle.com/software/python-programming-software)  
-[Data Structures in Python]( https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html)  
-[Factory Pattern Without Switch and If-Else](https://medium.com/swlh/factory-pattern-without-switch-this-is-how-it-should-be-done-cd895e356f44)  
-[The ultimate guide to writing better Python code](https://towardsdatascience.com/the-ultimate-guide-to-writing-better-python-code-1362a1209e5a)  
-[Your Purchases - Real Python](https://realpython.com/account/purchases/)  
-[The many ways to pass code to Python from the terminal](https://snarky.ca/the-many-ways-to-pass-code-to-python-from-the-terminal/)  
-[Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)  
-[Why Bother Using Property Decorators in Python?](https://medium.com/better-programming/why-bother-using-property-decorators-in-python-935c425f86ed)  
-[Handling exceptions in Python a cleaner way, using Decorators](https://medium.com/swlh/handling-exceptions-in-python-a-cleaner-way-using-decorators-fae22aa0abec)  
-[The Curious Case of Python's Context Manager](https://rednafi.github.io/digressions/python/2020/03/26/python-contextmanager.html)  
-[The Magic of Python Context Managers](https://martinheinz.dev/blog/34)  
-[Effortless Concurrency with Python's concurrent.futures](https://rednafi.github.io/digressions/python/2020/04/21/python-concurrent-futures.html)  
-[Turn Python Scripts into Beautiful ML Tools](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace)  
-[Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/preview/regex-python-part-2/)  
-[Step-up Your RegEx Game in Python](https://towardsdatascience.com/step-up-your-regex-game-in-python-1ec20c5d65f)  
-[Why You Should Use More Enums In Python](https://florian-dahlitz.de/blog/why-you-should-use-more-enums-in-python)  
-[Packaging and Shipping Python Apps for the Desktop](https://heartbeat.fritz.ai/packaging-and-shipping-python-apps-for-the-desktop-a418489b854)  
-[How to Build And Publish Command-Line Applications With Python](https://towardsdatascience.com/how-to-build-and-publish-command-line-applications-with-python-96065049abc1)  
-[Python vs JavaScript for Pythonistas](https://realpython.com/python-vs-javascript/)  
-[Advanced Python: Itertools Library - The Gem Of Python Language](https://medium.com/fintechexplained/advanced-python-itertools-library-the-gem-of-python-language-99da37dfcca2)  
-[YouTube Downloader with Python](https://towardsdatascience.com/build-a-youtube-downloader-with-python-8ef2e6915d97)  
-
-### Python Tools
-
-[Auto-Documenting a Python Project Using Sphinx](https://medium.com/better-programming/auto-documenting-a-python-project-using-sphinx-8878f9ddc6e9)  
-
-### Python Core
-
-[8 Advanced Python Logging Features](https://towardsdatascience.com/8-advanced-python-logging-features-that-you-shouldnt-miss-a68a5ef1b62d)  
-[Tips and Tricks for Handling Logging Files in Python](https://medium.com/better-programming/tips-and-tricks-for-handling-logging-files-in-python-b48be3d553ad)  
-[Making 1 million requests with aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html)  
-
-### Python Libraries
-
-#### NumPy
-[Automate Your Python Script with Process Manager 2 (PM2)](https://towardsdatascience.com/automate-your-python-script-with-pm2-463238ea0b65)  
-[Nox documentation](https://nox.thea.codes/en/stable/tutorial.html)  
-[SSH & SCP in Python with Paramiko](https://hackersandslackers.com/automate-ssh-scp-python-paramiko/)  
-[Pedantic Configuration Management with Pydantic](https://rednafi.github.io/digressions/python/2020/06/03/python-configs.html)  
-[pydantic](https://pydantic-docs.helpmanual.io/)  
-[Fluent NumPy](https://medium.com/analytics-vidhya/fluent-numpy-187cc14f2832)   
-[NumPy: the absolute basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html)  
-[Diving into NumPy. A glance over an important library]()  
-[numpy](https://www.google.com/url?q=https://towardsdatascience.com/diving-into-numpy-b92abfd7a00f&source=gmail-imap&ust=1606174106000000&usg=AOvVaw21ZsJO6_h1DgKYXKUnsiVO)  
 
 ## CV
 
+[Add A New Dimension To Your Photos Using Python](https://medium.com/robotacademy/add-a-new-dimension-to-your-photos-using-python-4baf7a0a607a)  
 [Formula to determine brightness of RGB color](https://stackoverflow.com/questions/596216/formula-to-determine-brightness-of-rgb-color)  
 [CVPR 2020: The Top Object Detection Papers](https://heartbeat.fritz.ai/cvpr-2020-the-top-object-detection-papers-f920a6e41233)  
 [Image Augmentation Mastering: 15+ Techniques and Useful Functions with Python Codes](https://towardsdatascience.com/image-augmentation-mastering-15-techniques-and-useful-functions-with-python-codes-44c3f8c1ea1f)  
@@ -198,6 +205,7 @@
 
 ## OpenCV
 
+[Blending Two Images using OpenCV](https://towardsdatascience.com/python-for-art-blending-two-images-using-opencv-d1fdfd584efd)  
 [Building Blocks of Image Segmentation](https://heartbeat.fritz.ai/building-blocks-of-image-segmentation-88dfcf4898b1)  
 [Image Histogram](https://www.google.com/url?q=https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_image_histogram_calcHist.php&source=gmail-imap&ust=1606072950000000&usg=AOvVaw334HcnigYw0E-NvnD2fuYw)  
 [Computer Vision techniques](https://www.google.com/url?q=https://github.com/ioangatop/ComputerVision&source=gmail-imap&ust=1606072117000000&usg=AOvVaw2fTyItuHzELc1B5YyCcsc-)  
@@ -227,24 +235,21 @@
 [Getting Started with Docker for Data Scientists](https://www.google.com/url?q=https://towardsdatascience.com/getting-started-with-docker-for-data-scientists-a2ed505e2a09&source=gmail-imap&ust=1605376913000000&usg=AOvVaw1wPYnQSY9iZCIegIC9KZQH)   
 [Python HOW: Starting with Docker - The Startup - Medium](https://medium.com/swlh/python-how-starting-with-docker-d2be73d9ae92)  
 
-## Python GUI
+## Git
 
-[Create a Simple Python GUI With These Open Source Projects](https://medium.com/swlh/create-a-simple-python-gui-with-these-open-source-projects-7957813a107a)  
-[Gooey: Turn (almost) any Python command line program into a full GUI application with one line](https://www.google.com/url?q=https://github.com/chriskiehl/Gooey&source=gmail-imap&ust=1606051722000000&usg=AOvVaw2mbK8YA0_Jnb_YZOn-q2iB)  
-[How to use the easiest GUI of your life in Python](https://codeburst.io/how-to-use-the-easiest-gui-of-your-life-in-python-d3762270a2a0)  
-[Python for Android: Start Building Kivy Cross-Platform Applications](https://towardsdatascience.com/python-for-android-start-building-kivy-cross-platform-applications-6cf867d44612)  
-[PySimpleGUI: The Simple Way to Create a GUI With Python](https://realpython.com/preview/pysimplegui-python/)  
-[Create Quick and Powerful GUIs Using Dear PyGui](https://www.google.com/url?q=https://medium.com/datadriveninvestor/create-quick-and-powerful-guis-using-dear-pygui-in-python-713cc138bf5a&source=gmail-imap&ust=1606614822000000&usg=AOvVaw1l7rsj1J3jflbNOTLaoqSQ)  
+[The Top 3 Tricks to Keep Your Git History Clean](https://medium.com/@msehovic92/the-top-3-tricks-to-keep-your-git-history-clean-6d341dc12b35)  
+[How To Commit Your Cloud Credentials To Version Control Systems](https://medium.com/towards-artificial-intelligence/how-to-safely-commit-your-aws-credentials-to-github-21d3bf7771e7)  
+[An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)  
+[Git Pretty](http://justinhileman.info/article/git-pretty/git-pretty.png)  
+[Dangit, git!](https://gumroad.com/l/dangit-git)  
+[Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)  
 
-## Python CLI
+## SQL
 
-[Packaging in Python: Tools and Formats](https://www.google.com/url?q=https://towardsdatascience.com/packaging-in-python-tools-and-formats-743ead5f39ee&source=gmail-imap&ust=1605376910000000&usg=AOvVaw0tI6bixKizxutg58QluWU6)   
-[Setuptools Integration Click Documentation (7.x)](https://www.google.com/url?q=https://click.palletsprojects.com/en/7.x/setuptools/&source=gmail-imap&ust=1605229345000000&usg=AOvVaw1v86qfaa8ee9BsnNH_CUDQ)   
-[Command Line Scripts](https://www.google.com/url?q=https://www.geeksforgeeks.org/command-line-scripts-python-packaging/&source=gmail-imap&ust=1605229239000000&usg=AOvVaw2torjUuf7OAI2D3I-D5QOJ)   
-[Command Line Scripts Python Packaging Tutorial](http://python-packaging.readthedocs.io/en/latest/command-line-scripts.html)   
-[Cement Framework](https://builtoncement.com/)  
-[Gooey GUI](https://github.com/chriskiehl/Gooey)  
-[tabulate: Pretty-print tabular data in Python](https://github.com/astanin/python-tabulate)  
+[Mastering SQLAlchemy Series](https://hackersandslackers.com/series/mastering-sqlalchemy)  
+[Data Management With Python, SQLite, and SQLAlchemy](https://realpython.com/python-sqlite-sqlalchemy/)  
+[Things I Wished More Developers Knew About Databases](https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=app_email_share)  
+
 
 ## Software Engineerning
 
@@ -299,6 +304,7 @@
 
 ## Raspberry
 
+[Build a Surveillance System Using Raspberry Pi, NodeJS and Pir Sensor](https://link.medium.com/eB9UHXdv5bb)  
 [The Best Accessory for Your iPad Pro: The Raspberry Pi 4](https://medium.com/macoclock/the-best-accessory-for-your-ipad-pro-the-raspberry-pi-4-3269c98498f6)  
 
 
@@ -310,6 +316,7 @@
 [The States of Splendor: Searching Game Trees with Partial Information](https://www.researchgate.net/publication/306058411_The_States_of_Splendor_Searching_Game_Trees_with_Partial_Information)  
 
 ## Web
+[A guide of UI design trends for 2021](https://uxdesign.cc/a-guide-of-ui-design-trends-for-2021-637ac038cb99)  
 [10 Web Development Trends Every CTO Should Expect in 2021](https://medium.com/swlh/10-web-development-trends-every-cto-should-expect-in-2021-ddcb460d4b84)  
 [MkDocs](https://www.google.com/url?q=https://www.mkdocs.org/&source=gmail-imap&ust=1606071979000000&usg=AOvVaw0HkhqLB23jhJE__W_7utaq)  
 [8 Common Web Development Mistakes](https://www.google.com/url?q=https://medium.com/better-programming/8-common-web-development-mistakes-87800f80d8e&source=gmail-imap&ust=1605376912000000&usg=AOvVaw3P7476f2F6bzaYXWwHqsQV)   
@@ -330,5 +337,6 @@
 [Documentation for Visual Studio Code](https://www.google.com/url?q=https://code.visualstudio.com/docs?start%3Dtrue&source=gmail-imap&ust=1606072396000000&usg=AOvVaw2WZLsd7GTIUC7-_OTd4TOQ)  
 [macOS Tutorials](https://www.google.com/url?q=https://www.raywenderlich.com/macos&source=gmail-imap&ust=1606072977000000&usg=AOvVaw3UKUi9w02Gb-i8oPYDeEyp)  
 [Step by Step Guide to Building a GUI](https://www.google.com/url?q=https://www.pythonforthelab.com/blog/step-by-step-guide-to-building-a-gui/&source=gmail-imap&ust=1606072717000000&usg=AOvVaw1JCtC-LelL_v7TVu8UVMIR)  
+[The Essential Bash Cheat Sheet](https://medium.com/better-programming/the-essential-bash-cheat-sheet-e1c3df06560)  
 
 
