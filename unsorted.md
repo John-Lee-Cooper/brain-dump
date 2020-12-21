@@ -3,7 +3,6 @@
 ## Python
 
 [Top Design Patterns in Python](https://medium.com/python-pandemonium/top-design-patterns-in-python-9778843d5451)  
-[Top Design Patterns in Python](https://medium.com/python-pandemonium/top-design-patterns-in-python-9778843d5451)  
 [Writing iTerm2 Python scripts](https://cgamesplay.com/post/2020/11/25/iterm-plugins/)  
 [functools, reduce](https://www.google.com/url?q=https://medium.com/python-in-plain-english/pythons-amazing-functools-module-3c4602f09b15&source=gmail-imap&ust=1606614805000000&usg=AOvVaw28x1dzFoVaEtBCjq6DBOqX)  
 [A Curated List of 57 Amazing GitHub Repositories for Every Python Developer](https://medium.com/better-programming/a-curated-list-of-57-amazing-github-repositories-for-every-python-developer-67dc2cd8d0bc)  
@@ -21,7 +20,7 @@
 ### Type Hints
 [Python Type Checking](https://testdriven.io/blog/python-type-checking/)  
 [Type hints cheat sheet](https://www.google.com/url?q=https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html&source=gmail-imap&ust=1606072450000000&usg=AOvVaw2M5QPOuJZTNa5ojqvWyG6m)  
-[You Should Start Using Type Annotations in Python](https://www.google.com/url?q=https://towardsdatascience.com/python-type-annotations-and-why-you-should-use-them-6f647c6b4e9c&source=gmail-imap&ust=1605376915000000&usg=AOvVaw3ajx4PHwcQw_3M4qgcHT4W)   
+
 
 [Humble Bundle](https://www.humblebundle.com/software/python-programming-software)  
 [Data Structures in Python]( https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html)  
