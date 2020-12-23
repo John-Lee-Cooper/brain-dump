@@ -3,46 +3,27 @@
 ## Python
 
 [Top Design Patterns in Python](https://medium.com/python-pandemonium/top-design-patterns-in-python-9778843d5451)  
-[Top Design Patterns in Python](https://medium.com/python-pandemonium/top-design-patterns-in-python-9778843d5451)  
-[Writing iTerm2 Python scripts](https://cgamesplay.com/post/2020/11/25/iterm-plugins/)  
+[Factory Pattern Without Switch and If-Else](https://medium.com/swlh/factory-pattern-without-switch-this-is-how-it-should-be-done-cd895e356f44)  
+
 [functools, reduce](https://www.google.com/url?q=https://medium.com/python-in-plain-english/pythons-amazing-functools-module-3c4602f09b15&source=gmail-imap&ust=1606614805000000&usg=AOvVaw28x1dzFoVaEtBCjq6DBOqX)  
-[A Curated List of 57 Amazing GitHub Repositories for Every Python Developer](https://medium.com/better-programming/a-curated-list-of-57-amazing-github-repositories-for-every-python-developer-67dc2cd8d0bc)  
+[Advanced Python: Itertools Library - The Gem Of Python Language](https://medium.com/fintechexplained/advanced-python-itertools-library-the-gem-of-python-language-99da37dfcca2)  
+
+[Your Purchases - Real Python](https://realpython.com/account/purchases/)  
 [Python Tutorial](https://www.google.com/url?q=https://www.bogotobogo.com/python/pytut.php&source=gmail-imap&ust=1606072280000000&usg=AOvVaw1qXpPxIA14AhuzD_IDITE-)  
-[Beyond the Cache with Python](https://redislabs.com/blog/beyond-the-cache-with-python/)  
-[Using joblib to speed up your Python pipelines](https://towardsdatascience.com/using-joblib-to-speed-up-your-python-pipelines-dd97440c653d)   
-[Next level data visualization](https://link.medium.com/0EwvRIzGTab)   
+
+[Data Structures in Python]( https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html)  
 [Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://link.medium.com/ZXxLbGuGTab)   
 [High-Throughput Game Message Server with Python websockets](https://mortoray.com/2020/12/06/high-throughput-game-message-server-with-python-websockets/)  
 
-[Python Packages: Five Real Python Favorites](https://realpython.com/python-packages/)   
-[7 Cool Python Tricks That You (Probably) Didn't Know](https://towardsdatascience.com/7-cool-python-tricks-that-you-probably-didnt-know-634ae56112be)  
-[5 Python Tricks To Make Your Life More Productive](https://towardsdatascience.com/5-python-tricks-to-make-your-life-more-productive-974ebeb54a53)  
-
-### Type Hints
-[Python Type Checking](https://testdriven.io/blog/python-type-checking/)  
-[Type hints cheat sheet](https://www.google.com/url?q=https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html&source=gmail-imap&ust=1606072450000000&usg=AOvVaw2M5QPOuJZTNa5ojqvWyG6m)  
-[You Should Start Using Type Annotations in Python](https://www.google.com/url?q=https://towardsdatascience.com/python-type-annotations-and-why-you-should-use-them-6f647c6b4e9c&source=gmail-imap&ust=1605376915000000&usg=AOvVaw3ajx4PHwcQw_3M4qgcHT4W)   
-
 [Humble Bundle](https://www.humblebundle.com/software/python-programming-software)  
-[Data Structures in Python]( https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html)  
-[Factory Pattern Without Switch and If-Else](https://medium.com/swlh/factory-pattern-without-switch-this-is-how-it-should-be-done-cd895e356f44)  
-[The ultimate guide to writing better Python code](https://towardsdatascience.com/the-ultimate-guide-to-writing-better-python-code-1362a1209e5a)  
-[Your Purchases - Real Python](https://realpython.com/account/purchases/)  
-[The many ways to pass code to Python from the terminal](https://snarky.ca/the-many-ways-to-pass-code-to-python-from-the-terminal/)  
+
 [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)  
-[Why Bother Using Property Decorators in Python?](https://medium.com/better-programming/why-bother-using-property-decorators-in-python-935c425f86ed)  
-[Handling exceptions in Python a cleaner way, using Decorators](https://medium.com/swlh/handling-exceptions-in-python-a-cleaner-way-using-decorators-fae22aa0abec)  
-[The Curious Case of Python's Context Manager](https://rednafi.github.io/digressions/python/2020/03/26/python-contextmanager.html)  
-[The Magic of Python Context Managers](https://martinheinz.dev/blog/34)  
-[Effortless Concurrency with Python's concurrent.futures](https://rednafi.github.io/digressions/python/2020/04/21/python-concurrent-futures.html)  
-[Turn Python Scripts into Beautiful ML Tools](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace)  
-[Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/preview/regex-python-part-2/)  
-[Step-up Your RegEx Game in Python](https://towardsdatascience.com/step-up-your-regex-game-in-python-1ec20c5d65f)  
-[Why You Should Use More Enums In Python](https://florian-dahlitz.de/blog/why-you-should-use-more-enums-in-python)  
+
+[The many ways to pass code to Python from the terminal](https://snarky.ca/the-many-ways-to-pass-code-to-python-from-the-terminal/)  
 [Packaging and Shipping Python Apps for the Desktop](https://heartbeat.fritz.ai/packaging-and-shipping-python-apps-for-the-desktop-a418489b854)  
 [How to Build And Publish Command-Line Applications With Python](https://towardsdatascience.com/how-to-build-and-publish-command-line-applications-with-python-96065049abc1)  
+
 [Python vs JavaScript for Pythonistas](https://realpython.com/python-vs-javascript/)  
-[Advanced Python: Itertools Library - The Gem Of Python Language](https://medium.com/fintechexplained/advanced-python-itertools-library-the-gem-of-python-language-99da37dfcca2)  
 [YouTube Downloader with Python](https://towardsdatascience.com/build-a-youtube-downloader-with-python-8ef2e6915d97)  
 
 ### Python Tools
@@ -50,11 +31,29 @@
 [Auto-Documenting a Python Project Using Sphinx](https://medium.com/better-programming/auto-documenting-a-python-project-using-sphinx-8878f9ddc6e9)  
 
 ### PyCharm
+
 [4 Reasons to Use PyCharm for Your Next Python Project](https://towardsdatascience.com/4-tips-to-get-the-best-out-of-pycharm-99dd5d01932d)  
 [Features - PyCharm](https://www.jetbrains.com/pycharm/features/)  
 [PyCharm: the Python IDE for Professional Developers by JetBrains](https://www.google.com/url?q=https://www.jetbrains.com/pycharm/promo/&source=gmail-imap&ust=1606614908000000&usg=AOvVaw3XG2rKpU7fUe-ggksSU8dY)  
 
 ### Python Core
+
+[Python Type Checking](https://testdriven.io/blog/python-type-checking/)  
+[Type hints cheat sheet](https://www.google.com/url?q=https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html&source=gmail-imap&ust=1606072450000000&usg=AOvVaw2M5QPOuJZTNa5ojqvWyG6m)  
+
+[Why Bother Using Property Decorators in Python?](https://medium.com/better-programming/why-bother-using-property-decorators-in-python-935c425f86ed)  
+[Handling exceptions in Python a cleaner way, using Decorators](https://medium.com/swlh/handling-exceptions-in-python-a-cleaner-way-using-decorators-fae22aa0abec)  
+
+[The Curious Case of Python’s Context Manager](https://rednafi.github.io/digressions/python/2020/03/26/python-contextmanager.html)  
+[The Magic of Python Context Managers](https://martinheinz.dev/blog/34)  
+
+[Effortless Concurrency with Python’s concurrent.futures](https://rednafi.github.io/digressions/python/2020/04/21/python-concurrent-futures.html)  
+[Turn Python Scripts into Beautiful ML Tools](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace)  
+
+[Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/preview/regex-python-part-2/)  
+[Step-up Your RegEx Game in Python](https://towardsdatascience.com/step-up-your-regex-game-in-python-1ec20c5d65f)  
+
+[Why You Should Use More Enums In Python](https://florian-dahlitz.de/blog/why-you-should-use-more-enums-in-python)  
 
 [8 Advanced Python Logging Features](https://towardsdatascience.com/8-advanced-python-logging-features-that-you-shouldnt-miss-a68a5ef1b62d)  
 [Tips and Tricks for Handling Logging Files in Python](https://medium.com/better-programming/tips-and-tricks-for-handling-logging-files-in-python-b48be3d553ad)  
@@ -62,7 +61,13 @@
 
 ### Python Libraries
 
+[A Curated List of 57 Amazing GitHub Repositories for Every Python Developer](https://medium.com/better-programming/a-curated-list-of-57-amazing-github-repositories-for-every-python-developer-67dc2cd8d0bc)  
+
+[Redis - Beyond the Cache with Python](https://redislabs.com/blog/beyond-the-cache-with-python/)  
+[Using joblib to speed up your Python pipelines](https://towardsdatascience.com/using-joblib-to-speed-up-your-python-pipelines-dd97440c653d)   
+
 #### NumPy
+
 [Automate Your Python Script with Process Manager 2 (PM2)](https://towardsdatascience.com/automate-your-python-script-with-pm2-463238ea0b65)  
 [Nox documentation](https://nox.thea.codes/en/stable/tutorial.html)  
 [SSH & SCP in Python with Paramiko](https://hackersandslackers.com/automate-ssh-scp-python-paramiko/)  
@@ -72,18 +77,25 @@
 [NumPy: the absolute basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html)  
 [Diving into NumPy. A glance over an important library]()  
 [numpy](https://www.google.com/url?q=https://towardsdatascience.com/diving-into-numpy-b92abfd7a00f&source=gmail-imap&ust=1606174106000000&usg=AOvVaw21ZsJO6_h1DgKYXKUnsiVO)  
-
 ## Pandas
 
 [An Ultimate Cheat Sheet for Data Visualization in Pandas](https://towardsdatascience.com/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-4010e1b16b5c)   
 [Create HTML profiling reports from pandas DataFrame objects]( https://github.com/pandas-profiling/pandas-profiling)  
 [My top 4 functions to style the Pandas Dataframe](https://towardsdatascience.com/my-top-4-functions-to-style-the-pandas-dataframe-932cdc79be39)  
-[Plotting in Pandas Just Got Prettier](https://towardsdatascience.com/plotting-in-pandas-just-got-prettier-289d0e0fe5c0)
+[Plotting in Pandas Just Got Prettier](https://towardsdatascience.com/plotting-in-pandas-just-got-prettier-289d0e0fe5c0)  
 [Plot With Pandas: Python Data Visualization for Beginners](https://realpython.com/pandas-plot-python/)  
+
+## Data Science
+
+[5 Free Books for Learning Python for Data Science](https://towardsdatascience.com/5-free-books-for-learning-python-for-data-science-87be443c084)  
+[Machine Learning and Data Science free online courses](https://towardsdatascience.com/machine-learning-free-online-courses-from-beginner-to-advanced-f50982dce950)  
 
 ## Plot
 
+[Next level data visualization](https://link.medium.com/0EwvRIzGTab)   
 [No More Basic Plots Please. A Quick Guide to Upgrade Your Data](https://medium.com/python-in-plain-english/no-more-basic-plots-please-59ecc8ac0508)  
+[dexplot/README.md](https://github.com/dexplo/dexplot/blob/master/README.md)  
+[Bokeh](https://bokeh.pydata.org/en/latest/)  
 
 ### Matplotlib
 
@@ -129,11 +141,6 @@
 
 [Build a live polling web app with Python]( https://pusher.com/tutorials/live-poll-python)  
 
-### Other
-
-[dexplot/README.md](https://github.com/dexplo/dexplot/blob/master/README.md)  
-[Bokeh](https://bokeh.pydata.org/en/latest/)  
-
 ## Flask
 
 [Flask-Admin](https://www.google.com/url?q=http://mrjoes.github.io/2013/10/21/flask-admin-107.html&source=gmail-imap&ust=1606052448000000&usg=AOvVaw1dtC_lwKUffLgqDVtzHCcj)  
@@ -172,6 +179,22 @@
 [Unit Testing in Python Patching, Mocks and Dependency Injection](https://levelup.gitconnected.com/unit-testing-in-python-mocking-patching-and-dependency-injection-301280db2fed)   
 [Combining Flask and Vue | TestDriven.io](https://testdriven.io/blog/combine-flask-vue/)  
 
+## SQL
+
+[Mastering SQLAlchemy Series](https://hackersandslackers.com/series/mastering-sqlalchemy)  
+[Data Management With Python, SQLite, and SQLAlchemy](https://realpython.com/python-sqlite-sqlalchemy/)  
+[Things I Wished More Developers Knew About Databases](https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=app_email_share)  
+
+## Web
+
+[A guide of UI design trends for 2021](https://uxdesign.cc/a-guide-of-ui-design-trends-for-2021-637ac038cb99)  
+[10 Web Development Trends Every CTO Should Expect in 2021](https://medium.com/swlh/10-web-development-trends-every-cto-should-expect-in-2021-ddcb460d4b84)  
+[MkDocs](https://www.google.com/url?q=https://www.mkdocs.org/&source=gmail-imap&ust=1606071979000000&usg=AOvVaw0HkhqLB23jhJE__W_7utaq)  
+[8 Common Web Development Mistakes](https://www.google.com/url?q=https://medium.com/better-programming/8-common-web-development-mistakes-87800f80d8e&source=gmail-imap&ust=1605376912000000&usg=AOvVaw3P7476f2F6bzaYXWwHqsQV)   
+[Stop writing your own user authentication code](https://medium.com/better-programming/stop-writing-your-own-user-authentication-code-e8bb50388ec4)  
+[Everything you need to learn Markdown](https://www.markdownguide.org/)  
+[Building A Lightweight Blogging CMS In 10 Lines of Code](https://www.google.com/url?q=https://www.oneword.domains/blog/lightweight-cms&source=gmail-imap&ust=1605655518000000&usg=AOvVaw18huYYupekHK0zCM_eGBtb)  
+[EndlessTrax/pyanchor: Find your broken links, so users don’t.](https://www.google.com/url?q=https://github.com/EndlessTrax/pyanchor&source=gmail-imap&ust=1605655699000000&usg=AOvVaw0R8QACLSL0WU7oWJbv0RvB)  
 
 ## Python GUI
 
@@ -191,7 +214,6 @@
 [Cement Framework](https://builtoncement.com/)  
 [Gooey GUI](https://github.com/chriskiehl/Gooey)  
 [tabulate: Pretty-print tabular data in Python](https://github.com/astanin/python-tabulate)  
-
 
 ## CV
 
@@ -227,7 +249,7 @@
 [Color correction in Opencv with color correction matrix](https://stackoverflow.com/questions/47939482/color-correction-in-opencv-with-color-correction-matrix)  
 [Real time face recognition with CPU](?https://towardsdatascience.com/real-time-face-recognition-with-cpu-983d35cc3ec5)  
 [OpenCV VirtualPen](https://github.com/spmallick/learnopencv/tree/master/Creating-a-Virtual-Pen-and-Eraser?ck_subscriber_id=272180843)  
-[Practical Image Process with OpenCV](https://towardsdatascience.com/practical-image-process-with-opencv-8405772c603e)
+[Practical Image Process with OpenCV](https://towardsdatascience.com/practical-image-process-with-opencv-8405772c603e)  
 
 ## Docker
 
@@ -243,13 +265,6 @@
 [Git Pretty](http://justinhileman.info/article/git-pretty/git-pretty.png)  
 [Dangit, git!](https://gumroad.com/l/dangit-git)  
 [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)  
-
-## SQL
-
-[Mastering SQLAlchemy Series](https://hackersandslackers.com/series/mastering-sqlalchemy)  
-[Data Management With Python, SQLite, and SQLAlchemy](https://realpython.com/python-sqlite-sqlalchemy/)  
-[Things I Wished More Developers Knew About Databases](https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=app_email_share)  
-
 
 ## Software Engineerning
 
@@ -284,11 +299,6 @@
 [Conquering Android Camera APIs | Infinum](https://infinum.com/the-capsized-eight/conquering-android-camera-api)  
 [Display a camera preview with PreviewView](https://medium.com/androiddevelopers/display-a-camera-preview-with-previewview-86562433d86c)  
 
-## Data Science
-
-[5 Free Books for Learning Python for Data Science](https://towardsdatascience.com/5-free-books-for-learning-python-for-data-science-87be443c084)  
-[Machine Learning and Data Science free online courses ](https://towardsdatascience.com/machine-learning-free-online-courses-from-beginner-to-advanced-f50982dce950)  
-
 ## Packages / Blogs
 
 [Carbon | Create and share beautiful images of your source code](https://carbon.now.sh)  
@@ -307,7 +317,6 @@
 [Build a Surveillance System Using Raspberry Pi, NodeJS and Pir Sensor](https://link.medium.com/eB9UHXdv5bb)  
 [The Best Accessory for Your iPad Pro: The Raspberry Pi 4](https://medium.com/macoclock/the-best-accessory-for-your-ipad-pro-the-raspberry-pi-4-3269c98498f6)  
 
-
 ## Game AI
 
 [Simple Splendor AI](https://boardgamegeek.com/thread/1995798/simple-splendor-ai)  
@@ -315,17 +324,8 @@
 [using event-value functions for playing Splendor](https://deepai.org/publication/rinascimento-using-event-value-functions-for-playing-splendor)  
 [The States of Splendor: Searching Game Trees with Partial Information](https://www.researchgate.net/publication/306058411_The_States_of_Splendor_Searching_Game_Trees_with_Partial_Information)  
 
-## Web
-[A guide of UI design trends for 2021](https://uxdesign.cc/a-guide-of-ui-design-trends-for-2021-637ac038cb99)  
-[10 Web Development Trends Every CTO Should Expect in 2021](https://medium.com/swlh/10-web-development-trends-every-cto-should-expect-in-2021-ddcb460d4b84)  
-[MkDocs](https://www.google.com/url?q=https://www.mkdocs.org/&source=gmail-imap&ust=1606071979000000&usg=AOvVaw0HkhqLB23jhJE__W_7utaq)  
-[8 Common Web Development Mistakes](https://www.google.com/url?q=https://medium.com/better-programming/8-common-web-development-mistakes-87800f80d8e&source=gmail-imap&ust=1605376912000000&usg=AOvVaw3P7476f2F6bzaYXWwHqsQV)   
-[Stop writing your own user authentication code](https://medium.com/better-programming/stop-writing-your-own-user-authentication-code-e8bb50388ec4)  
-[Everything you need to learn Markdown](https://www.markdownguide.org/)  
-[Building A Lightweight Blogging CMS In 10 Lines of Code](https://www.google.com/url?q=https://www.oneword.domains/blog/lightweight-cms&source=gmail-imap&ust=1605655518000000&usg=AOvVaw18huYYupekHK0zCM_eGBtb)  
-[EndlessTrax/pyanchor: Find your broken links, so users don't.](https://www.google.com/url?q=https://github.com/EndlessTrax/pyanchor&source=gmail-imap&ust=1605655699000000&usg=AOvVaw0R8QACLSL0WU7oWJbv0RvB)  
-
 ## Oauth
+
 [OAuth 1 Workflow  Requests-OAuthlib 1.0.0 documentation](https://requests-oauthlib.readthedocs.io/en/latest/oauth1_workflow.html)  
 [rauth: A Python library for OAuth 1.0/a, 2.0, and Ofly.](https://github.com/litl/rauth)  
 
@@ -338,5 +338,3 @@
 [macOS Tutorials](https://www.google.com/url?q=https://www.raywenderlich.com/macos&source=gmail-imap&ust=1606072977000000&usg=AOvVaw3UKUi9w02Gb-i8oPYDeEyp)  
 [Step by Step Guide to Building a GUI](https://www.google.com/url?q=https://www.pythonforthelab.com/blog/step-by-step-guide-to-building-a-gui/&source=gmail-imap&ust=1606072717000000&usg=AOvVaw1JCtC-LelL_v7TVu8UVMIR)  
 [The Essential Bash Cheat Sheet](https://medium.com/better-programming/the-essential-bash-cheat-sheet-e1c3df06560)  
-
-
