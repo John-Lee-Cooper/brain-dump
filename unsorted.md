@@ -77,8 +77,10 @@
 [NumPy: the absolute basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html)  
 [Diving into NumPy. A glance over an important library]()  
 [numpy](https://www.google.com/url?q=https://towardsdatascience.com/diving-into-numpy-b92abfd7a00f&source=gmail-imap&ust=1606174106000000&usg=AOvVaw21ZsJO6_h1DgKYXKUnsiVO)  
+
 ## Pandas
 
+[Cleaner Data Analysis with Pandas Using Pipes](https://towardsdatascience.com/cleaner-data-analysis-with-pandas-using-pipes-4d73770fbf3c)  
 [An Ultimate Cheat Sheet for Data Visualization in Pandas](https://towardsdatascience.com/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-4010e1b16b5c)   
 [Create HTML profiling reports from pandas DataFrame objects]( https://github.com/pandas-profiling/pandas-profiling)  
 [My top 4 functions to style the Pandas Dataframe](https://towardsdatascience.com/my-top-4-functions-to-style-the-pandas-dataframe-932cdc79be39)  
@@ -338,3 +340,12 @@
 [macOS Tutorials](https://www.google.com/url?q=https://www.raywenderlich.com/macos&source=gmail-imap&ust=1606072977000000&usg=AOvVaw3UKUi9w02Gb-i8oPYDeEyp)  
 [Step by Step Guide to Building a GUI](https://www.google.com/url?q=https://www.pythonforthelab.com/blog/step-by-step-guide-to-building-a-gui/&source=gmail-imap&ust=1606072717000000&usg=AOvVaw1JCtC-LelL_v7TVu8UVMIR)  
 [The Essential Bash Cheat Sheet](https://medium.com/better-programming/the-essential-bash-cheat-sheet-e1c3df06560)  
+[Guide For An Effective Code Review](https://link.medium.com/LrkbsKXzAcb)  
+
+[How to Vim](https://link.medium.com/nRC37EUzAcb)  
+[How Google Play Music and Google Photos Convinced Me to Create My Own Cloud](https://debugger.medium.com/google-has-finally-convinced-me-to-create-my-own-cloud-85a80b0e8f40)  
+[Image Processing for Python - Adjusting to the Ground Truth](https://towardsdatascience.com/image-processing-for-python-adjusting-to-the-ground-truth-d0275e4f253e)  
+[Python decorator to parallelize any IO heavy function](https://medium.com/analytics-vidhya/python-decorator-to-parallelize-any-function-23e5036fb6a)  
+[questionary: Python library to build pretty command line user prompts](https://github.com/tmbo/questionary)  
+[10 Principles for Typography in UI Design](https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd)  
+[pyfiglet: An implementation of figlet written in Python](https://github.com/pwaller/pyfiglet
