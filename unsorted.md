@@ -2,6 +2,8 @@
 
 ## Python
 
+[Python 3.9.1 Documentation](https://docs.python.org/3/)  
+[Python Programming Language - GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar)  
 [Top Design Patterns in Python](https://medium.com/python-pandemonium/top-design-patterns-in-python-9778843d5451)  
 [Factory Pattern Without Switch and If-Else](https://medium.com/swlh/factory-pattern-without-switch-this-is-how-it-should-be-done-cd895e356f44)  
 
@@ -22,13 +24,21 @@
 [The many ways to pass code to Python from the terminal](https://snarky.ca/the-many-ways-to-pass-code-to-python-from-the-terminal/)  
 [Packaging and Shipping Python Apps for the Desktop](https://heartbeat.fritz.ai/packaging-and-shipping-python-apps-for-the-desktop-a418489b854)  
 [How to Build And Publish Command-Line Applications With Python](https://towardsdatascience.com/how-to-build-and-publish-command-line-applications-with-python-96065049abc1)  
+[Python decorator to parallelize any IO heavy function](https://medium.com/analytics-vidhya/python-decorator-to-parallelize-any-function-23e5036fb6a)  
 
 [Python vs JavaScript for Pythonistas](https://realpython.com/python-vs-javascript/)  
 [YouTube Downloader with Python](https://towardsdatascience.com/build-a-youtube-downloader-with-python-8ef2e6915d97)  
 
+### Packaging
+
+[How To Package Your Python Code - Python Packaging Tutorial](https://python-packaging.readthedocs.io/en/latest/index.html)  
+[Command Line Scripts | Python Packaging](https://www.geeksforgeeks.org/command-line-scripts-python-packaging/)  
+[Getting Started With setuptools and setup.py](https://pythonhosted.org/an_example_pypi_project/setuptools.html)  
+
 ### Python Tools
 
 [Auto-Documenting a Python Project Using Sphinx](https://medium.com/better-programming/auto-documenting-a-python-project-using-sphinx-8878f9ddc6e9)  
+[Nox documentation](https://nox.thea.codes/en/stable/tutorial.html)  
 
 ### PyCharm
 
@@ -65,13 +75,13 @@
 
 [Redis - Beyond the Cache with Python](https://redislabs.com/blog/beyond-the-cache-with-python/)  
 [Using joblib to speed up your Python pipelines](https://towardsdatascience.com/using-joblib-to-speed-up-your-python-pipelines-dd97440c653d)   
+[Automate Your Python Script with Process Manager 2 (PM2)](https://towardsdatascience.com/automate-your-python-script-with-pm2-463238ea0b65)  
+[SSH & SCP in Python with Paramiko](https://hackersandslackers.com/automate-ssh-scp-python-paramiko/)  
+[Pedantic Configuration Management with Pydantic](https://rednafi.github.io/digressions/python/2020/06/03/python-configs.html)  
 
 #### NumPy
 
-[Automate Your Python Script with Process Manager 2 (PM2)](https://towardsdatascience.com/automate-your-python-script-with-pm2-463238ea0b65)  
-[Nox documentation](https://nox.thea.codes/en/stable/tutorial.html)  
-[SSH & SCP in Python with Paramiko](https://hackersandslackers.com/automate-ssh-scp-python-paramiko/)  
-[Pedantic Configuration Management with Pydantic](https://rednafi.github.io/digressions/python/2020/06/03/python-configs.html)  
+[NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)  
 [pydantic](https://pydantic-docs.helpmanual.io/)  
 [Fluent NumPy](https://medium.com/analytics-vidhya/fluent-numpy-187cc14f2832)   
 [NumPy: the absolute basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html)  
@@ -145,6 +155,7 @@
 
 ## Flask
 
+[Flask-Meld: Meld is a full-stack framework for Flask](https://github.com/mikeabrahamsen/Flask-Meld)  
 [Flask-Admin](https://www.google.com/url?q=http://mrjoes.github.io/2013/10/21/flask-admin-107.html&source=gmail-imap&ust=1606052448000000&usg=AOvVaw1dtC_lwKUffLgqDVtzHCcj)  
 [Using Google Login With Flask](https://realpython.com/courses/using-google-login-flask/)  
 [Build Flask Apps Series](https://hackersandslackers.com/series/build-flask-apps/)  
@@ -189,6 +200,7 @@
 
 ## Web
 
+[The Most Detailed Selenium WebDriver Tutorial With Python | by Sarah Elson | Python In Plain English | Dec, 2020 | Medium](https://medium.com/python-in-plain-english/the-most-detailed-selenium-webdriver-tutorial-with-python-18d27dbd95fb)  
 [A guide of UI design trends for 2021](https://uxdesign.cc/a-guide-of-ui-design-trends-for-2021-637ac038cb99)  
 [10 Web Development Trends Every CTO Should Expect in 2021](https://medium.com/swlh/10-web-development-trends-every-cto-should-expect-in-2021-ddcb460d4b84)  
 [MkDocs](https://www.google.com/url?q=https://www.mkdocs.org/&source=gmail-imap&ust=1606071979000000&usg=AOvVaw0HkhqLB23jhJE__W_7utaq)  
@@ -209,6 +221,7 @@
 
 ## Python CLI
 
+[questionary: Python library to build pretty command line user prompts](https://github.com/tmbo/questionary)  
 [Packaging in Python: Tools and Formats](https://www.google.com/url?q=https://towardsdatascience.com/packaging-in-python-tools-and-formats-743ead5f39ee&source=gmail-imap&ust=1605376910000000&usg=AOvVaw0tI6bixKizxutg58QluWU6)   
 [Setuptools Integration Click Documentation (7.x)](https://www.google.com/url?q=https://click.palletsprojects.com/en/7.x/setuptools/&source=gmail-imap&ust=1605229345000000&usg=AOvVaw1v86qfaa8ee9BsnNH_CUDQ)   
 [Command Line Scripts](https://www.google.com/url?q=https://www.geeksforgeeks.org/command-line-scripts-python-packaging/&source=gmail-imap&ust=1605229239000000&usg=AOvVaw2torjUuf7OAI2D3I-D5QOJ)   
@@ -229,6 +242,7 @@
 
 ## OpenCV
 
+:star:[Python for the Lab | Step by Step Guide to Building a GUI](https://www.pythonforthelab.com/blog/step-by-step-guide-to-building-a-gui/)  
 [Blending Two Images using OpenCV](https://towardsdatascience.com/python-for-art-blending-two-images-using-opencv-d1fdfd584efd)  
 [Building Blocks of Image Segmentation](https://heartbeat.fritz.ai/building-blocks-of-image-segmentation-88dfcf4898b1)  
 [Image Histogram](https://www.google.com/url?q=https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_image_histogram_calcHist.php&source=gmail-imap&ust=1606072950000000&usg=AOvVaw334HcnigYw0E-NvnD2fuYw)  
@@ -334,12 +348,11 @@
 ## Unsorted 
 
 [Amazon Wants to Make You an ML Practitioner](https://towardsdatascience.com/amazon-wants-to-make-you-an-ml-practitioner-for-free-552c46cea9ba)  
-[Law of Large Numbers and the Central Limit Theorem (With Python)](https://www.google.com/url?q=https://randomvariable.cc/law-of-large-numbers-central-limit-theorem-python/&source=gmail-imap&ust=1605655452000000&usg=AOvVaw2qIC5NoJjQ2f3dk4p1UAD9)  
 [Doing key-driver analysis in python](https://www.google.com/url?q=https://towardsdatascience.com/key-driver-analysis-in-python-788beb9b8a7d&source=gmail-imap&ust=1605655340000000&usg=AOvVaw06pv28Ih-P3jXkEnQNtiLY)  
+[Law of Large Numbers and the Central Limit Theorem (With Python)](https://www.google.com/url?q=https://randomvariable.cc/law-of-large-numbers-central-limit-theorem-python/&source=gmail-imap&ust=1605655452000000&usg=AOvVaw2qIC5NoJjQ2f3dk4p1UAD9)  
 [Documentation for Visual Studio Code](https://www.google.com/url?q=https://code.visualstudio.com/docs?start%3Dtrue&source=gmail-imap&ust=1606072396000000&usg=AOvVaw2WZLsd7GTIUC7-_OTd4TOQ)  
 
 [Image Processing for Python - Adjusting to the Ground Truth](https://towardsdatascience.com/image-processing-for-python-adjusting-to-the-ground-truth-d0275e4f253e)  
-[Python decorator to parallelize any IO heavy function](https://medium.com/analytics-vidhya/python-decorator-to-parallelize-any-function-23e5036fb6a)  
-[questionary: Python library to build pretty command line user prompts](https://github.com/tmbo/questionary)  
 [10 Principles for Typography in UI Design](https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd)  
 [pyfiglet: An implementation of figlet written in Python](https://github.com/pwaller/pyfiglet)  
+
