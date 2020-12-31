@@ -337,15 +337,9 @@
 [Law of Large Numbers and the Central Limit Theorem (With Python)](https://www.google.com/url?q=https://randomvariable.cc/law-of-large-numbers-central-limit-theorem-python/&source=gmail-imap&ust=1605655452000000&usg=AOvVaw2qIC5NoJjQ2f3dk4p1UAD9)  
 [Doing key-driver analysis in python](https://www.google.com/url?q=https://towardsdatascience.com/key-driver-analysis-in-python-788beb9b8a7d&source=gmail-imap&ust=1605655340000000&usg=AOvVaw06pv28Ih-P3jXkEnQNtiLY)  
 [Documentation for Visual Studio Code](https://www.google.com/url?q=https://code.visualstudio.com/docs?start%3Dtrue&source=gmail-imap&ust=1606072396000000&usg=AOvVaw2WZLsd7GTIUC7-_OTd4TOQ)  
-[macOS Tutorials](https://www.google.com/url?q=https://www.raywenderlich.com/macos&source=gmail-imap&ust=1606072977000000&usg=AOvVaw3UKUi9w02Gb-i8oPYDeEyp)  
-[Step by Step Guide to Building a GUI](https://www.google.com/url?q=https://www.pythonforthelab.com/blog/step-by-step-guide-to-building-a-gui/&source=gmail-imap&ust=1606072717000000&usg=AOvVaw1JCtC-LelL_v7TVu8UVMIR)  
-[The Essential Bash Cheat Sheet](https://medium.com/better-programming/the-essential-bash-cheat-sheet-e1c3df06560)  
-[Guide For An Effective Code Review](https://link.medium.com/LrkbsKXzAcb)  
 
-[How to Vim](https://link.medium.com/nRC37EUzAcb)  
-[How Google Play Music and Google Photos Convinced Me to Create My Own Cloud](https://debugger.medium.com/google-has-finally-convinced-me-to-create-my-own-cloud-85a80b0e8f40)  
 [Image Processing for Python - Adjusting to the Ground Truth](https://towardsdatascience.com/image-processing-for-python-adjusting-to-the-ground-truth-d0275e4f253e)  
 [Python decorator to parallelize any IO heavy function](https://medium.com/analytics-vidhya/python-decorator-to-parallelize-any-function-23e5036fb6a)  
 [questionary: Python library to build pretty command line user prompts](https://github.com/tmbo/questionary)  
 [10 Principles for Typography in UI Design](https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd)  
-[pyfiglet: An implementation of figlet written in Python](https://github.com/pwaller/pyfiglet
+[pyfiglet: An implementation of figlet written in Python](https://github.com/pwaller/pyfiglet)  
