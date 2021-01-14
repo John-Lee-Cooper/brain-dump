@@ -24,7 +24,7 @@
 [Python vs JavaScript for Pythonistas](https://realpython.com/python-vs-javascript/)  
 [YouTube Downloader with Python](https://towardsdatascience.com/build-a-youtube-downloader-with-python-8ef2e6915d97)  
 
-### Packaging
+### Python Packaging
 
 [Automatically Build and Deploy Your Python Application in 4 Easy Steps](https://medium.com/better-programming/automatically-build-and-deploy-your-python-application-in-4-easy-steps-88084fc07d54)  
 [Command Line Scripts Python Packaging Tutorial](http://python-packaging.readthedocs.io/en/latest/command-line-scripts.html)   
@@ -63,7 +63,7 @@
 [The Curious Case of Python’s Context Manager](https://rednafi.github.io/digressions/python/2020/03/26/python-contextmanager.html)  
 [The Magic of Python Context Managers](https://martinheinz.dev/blog/34)  
 
-[Effortless Concurrency with Python’s concurrent.futures](https://rednafi.github.io/digressions/python/2020/04/21/python-concurrent-futures.html)  
+[Effortless Concurrency with Python concurrent.futures](https://rednafi.github.io/digressions/python/2020/04/21/python-concurrent-futures.html)  
 [Turn Python Scripts into Beautiful ML Tools](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace)  
 
 [Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/preview/regex-python-part-2/)  
@@ -103,7 +103,12 @@
 [Gooey GUI](https://github.com/chriskiehl/Gooey)  
 [tabulate: Pretty-print tabular data in Python](https://github.com/astanin/python-tabulate)  
 
-#### NumPy
+## Data Science
+
+[5 Free Books for Learning Python for Data Science](https://towardsdatascience.com/5-free-books-for-learning-python-for-data-science-87be443c084)  
+[Machine Learning and Data Science free online courses](https://towardsdatascience.com/machine-learning-free-online-courses-from-beginner-to-advanced-f50982dce950)
+
+## NumPy
 
 [A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy/)  
 [NumPy Tutorial: Your First Steps Into Data Science in Python](https://realpython.com/numpy-tutorial/)  
@@ -122,11 +127,6 @@
 [My top 4 functions to style the Pandas Dataframe](https://towardsdatascience.com/my-top-4-functions-to-style-the-pandas-dataframe-932cdc79be39)  
 [Plotting in Pandas Just Got Prettier](https://towardsdatascience.com/plotting-in-pandas-just-got-prettier-289d0e0fe5c0)  
 [Plot With Pandas: Python Data Visualization for Beginners](https://realpython.com/pandas-plot-python/)  
-
-## Data Science
-
-[5 Free Books for Learning Python for Data Science](https://towardsdatascience.com/5-free-books-for-learning-python-for-data-science-87be443c084)  
-[Machine Learning and Data Science free online courses](https://towardsdatascience.com/machine-learning-free-online-courses-from-beginner-to-advanced-f50982dce950)  
 
 ## Plot
 
@@ -190,7 +190,7 @@
 [The End of Flask in Data Science](https://towardsdatascience.com/the-end-of-flask-in-data-science-738920090ed9)  
 [Configuring Your Flask Application](https://hackingandslacking.com/configuring-your-flask-application-4e5341d7affb)  
 
-### Testing
+### Flask Testing
 
 [Flask - Testing our Hello World app](https://riptutorial.com/flask/example/4122/testing-our-hello-world-app)  
 [Testing Flask Applications](https://flask.palletsprojects.com/en/1.1.x/testing/)  
@@ -198,7 +198,7 @@
 [Testing a Flask Application using pytest](https://www.patricksoftwareblog.com/testing-a-flask-application-using-pytest/)  
 [flask-pytest-example: Small example of a Flask app using pytest to test routing and requests, GET and POST](https://github.com/aaronjolson/flask-pytest-example)  
 
-### Starter
+### Flask Starter
 
 [flask-boilerplate](https://github.com/realpython/flask-boilerplate/blob/master/models.py)  
 [Boilerplate template for a Python Flask application](https://github.com/realpython/flask-boilerplate)  
@@ -206,17 +206,11 @@
 [A solid foundation for your flask app](https://github.com/JackStouffer/Flask-Foundation)  
 [Fbone - a Flask starter](https://github.com/imwilsonxu/fbone)  
 
-### Extensions
+### Flask Extensions
 
 [Command Line Interface](https://flask.palletsprojects.com/en/1.1.x/cli/)  
 [Debug Toolbar](https://flask-debugtoolbar.readthedocs.io/en/latest/)  
 [Assets](https://flask-assets.readthedocs.io/en/latest/)  
-
-### Testing
-
-[Learning Python Test Automation](https://www.google.com/url?q=https://automationpanda.com/2020/11/09/learning-python-test-automation/&source=gmail-imap&ust=1605655558000000&usg=AOvVaw1s4LR1vIQtngzhHTzP0Tsh)  
-[Unit Testing in Python Patching, Mocks and Dependency Injection](https://levelup.gitconnected.com/unit-testing-in-python-mocking-patching-and-dependency-injection-301280db2fed)   
-[Combining Flask and Vue | TestDriven.io](https://testdriven.io/blog/combine-flask-vue/)  
 
 ## SQL
 
@@ -226,7 +220,7 @@
 
 ## Web
 
-[The Most Detailed Selenium WebDriver Tutorial With Python | by Sarah Elson | Python In Plain English | Dec, 2020 | Medium](https://medium.com/python-in-plain-english/the-most-detailed-selenium-webdriver-tutorial-with-python-18d27dbd95fb)  
+[The Most Detailed Selenium WebDriver Tutorial With Python](https://medium.com/python-in-plain-english/the-most-detailed-selenium-webdriver-tutorial-with-python-18d27dbd95fb)  
 [A guide of UI design trends for 2021](https://uxdesign.cc/a-guide-of-ui-design-trends-for-2021-637ac038cb99)  
 [10 Web Development Trends Every CTO Should Expect in 2021](https://medium.com/swlh/10-web-development-trends-every-cto-should-expect-in-2021-ddcb460d4b84)  
 [MkDocs](https://www.google.com/url?q=https://www.mkdocs.org/&source=gmail-imap&ust=1606071979000000&usg=AOvVaw0HkhqLB23jhJE__W_7utaq)  
@@ -234,7 +228,7 @@
 [Stop writing your own user authentication code](https://medium.com/better-programming/stop-writing-your-own-user-authentication-code-e8bb50388ec4)  
 [Everything you need to learn Markdown](https://www.markdownguide.org/)  
 [Building A Lightweight Blogging CMS In 10 Lines of Code](https://www.google.com/url?q=https://www.oneword.domains/blog/lightweight-cms&source=gmail-imap&ust=1605655518000000&usg=AOvVaw18huYYupekHK0zCM_eGBtb)  
-[EndlessTrax/pyanchor: Find your broken links, so users don’t.](https://www.google.com/url?q=https://github.com/EndlessTrax/pyanchor&source=gmail-imap&ust=1605655699000000&usg=AOvVaw0R8QACLSL0WU7oWJbv0RvB)  
+[EndlessTrax/pyanchor: Find your broken links, so users don't.](https://www.google.com/url?q=https://github.com/EndlessTrax/pyanchor&source=gmail-imap&ust=1605655699000000&usg=AOvVaw0R8QACLSL0WU7oWJbv0RvB)  
 
 ## CV
 
@@ -290,15 +284,25 @@
 [Dangit, git!](https://gumroad.com/l/dangit-git)  
 [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)  
 
-## Software Engineerning
+## Software Engineering
 
-[The S.O.L.I.D Principles in Pictures](https://link.medium.com/Edsmv10sM6) 
+[The S.O.L.I.D Principles in Pictures](https://link.medium.com/Edsmv10sM6)  
 [Improving Your Team's Code Review Culture](https://link.medium.com/nX1hij4UTbb)  
 
-## CI 
+### Testing
+
+[Learning Python Test Automation](https://www.google.com/url?q=https://automationpanda.com/2020/11/09/learning-python-test-automation/&source=gmail-imap&ust=1605655558000000&usg=AOvVaw1s4LR1vIQtngzhHTzP0Tsh)  
+[Unit Testing in Python Patching, Mocks and Dependency Injection](https://levelup.gitconnected.com/unit-testing-in-python-mocking-patching-and-dependency-injection-301280db2fed)
+
+## CI
 
 [CI/CD Best Practices. Continuous Integration and Continuous](https://blog.bitsrc.io/ci-cd-best-practices-bca0ef665677)  
 [Learn How to Setup a CI CD Pipeline From Scratch](https://medium.com/edureka/ci-cd-pipeline-5508227b19ca)  
+
+## Oauth
+
+[OAuth 1 Workflow  Requests-OAuthlib 1.0.0 documentation](https://requests-oauthlib.readthedocs.io/en/latest/oauth1_workflow.html)  
+[rauth: A Python library for OAuth 1.0/a, 2.0, and Ofly.](https://github.com/litl/rauth)
 
 ## WSL
 
@@ -323,7 +327,12 @@
 [Conquering Android Camera APIs | Infinum](https://infinum.com/the-capsized-eight/conquering-android-camera-api)  
 [Display a camera preview with PreviewView](https://medium.com/androiddevelopers/display-a-camera-preview-with-previewview-86562433d86c)  
 
-## Packages / Blogs
+## Raspberry
+
+[Build a Surveillance System Using Raspberry Pi, NodeJS and Pir Sensor](https://link.medium.com/eB9UHXdv5bb)  
+[The Best Accessory for Your iPad Pro: The Raspberry Pi 4](https://medium.com/macoclock/the-best-accessory-for-your-ipad-pro-the-raspberry-pi-4-3269c98498f6)
+
+## Blogs
 
 [Carbon | Create and share beautiful images of your source code](https://carbon.now.sh)  
 [termtosvg: Record terminal sessions as SVG animations](https://github.com/nbedos/termtosvg)  
@@ -335,11 +344,6 @@
 [30 Python Interview Questions that Worth Reading](https://towardsdatascience.com/30-python-interview-questions-that-worth-reading-63b868e682e5)  
 [My Advice After Interviewing 100+ Software Engineers](https://medium.com/swlh/my-advice-after-interviewing-100-software-engineers-e34bc3cbc669)  
 
-## Raspberry
-
-[Build a Surveillance System Using Raspberry Pi, NodeJS and Pir Sensor](https://link.medium.com/eB9UHXdv5bb)  
-[The Best Accessory for Your iPad Pro: The Raspberry Pi 4](https://medium.com/macoclock/the-best-accessory-for-your-ipad-pro-the-raspberry-pi-4-3269c98498f6)  
-
 ## Game AI
 
 [Simple Splendor AI](https://boardgamegeek.com/thread/1995798/simple-splendor-ai)  
@@ -347,12 +351,7 @@
 [using event-value functions for playing Splendor](https://deepai.org/publication/rinascimento-using-event-value-functions-for-playing-splendor)  
 [The States of Splendor: Searching Game Trees with Partial Information](https://www.researchgate.net/publication/306058411_The_States_of_Splendor_Searching_Game_Trees_with_Partial_Information)  
 
-## Oauth
-
-[OAuth 1 Workflow  Requests-OAuthlib 1.0.0 documentation](https://requests-oauthlib.readthedocs.io/en/latest/oauth1_workflow.html)  
-[rauth: A Python library for OAuth 1.0/a, 2.0, and Ofly.](https://github.com/litl/rauth)  
-
-## Unsorted 
+## Unsorted
 
 [Amazon Wants to Make You an ML Practitioner](https://towardsdatascience.com/amazon-wants-to-make-you-an-ml-practitioner-for-free-552c46cea9ba)  
 [Doing key-driver analysis in python](https://www.google.com/url?q=https://towardsdatascience.com/key-driver-analysis-in-python-788beb9b8a7d&source=gmail-imap&ust=1605655340000000&usg=AOvVaw06pv28Ih-P3jXkEnQNtiLY)  
@@ -360,7 +359,7 @@
 [Documentation for Visual Studio Code](https://www.google.com/url?q=https://code.visualstudio.com/docs?start%3Dtrue&source=gmail-imap&ust=1606072396000000&usg=AOvVaw2WZLsd7GTIUC7-_OTd4TOQ)  
 [10 Principles for Typography in UI Design](https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd)  
 [pyfiglet: An implementation of figlet written in Python](https://github.com/pwaller/pyfiglet)  
-[pytudes/Advent-2020.ipynb at master � norvig/pytudes](https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb)  
+[pytudes/Advent-2020.ipynb at master � norvig/pytudes](https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb)  
 [6 YAML Features most programmers don't know](https://levelup.gitconnected.com/6-yaml-features-most-programmers-dont-know-164762343af3)  
 [GitHub - termgraph: a python command-line tool which draws basic graphs in the terminal](https://github.com/mkaz/termgraph)  
 [GitHub - cutie: Command line User Tools for Input Easification](https://github.com/Kamik423/cutie)  
