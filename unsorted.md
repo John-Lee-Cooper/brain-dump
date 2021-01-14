@@ -17,13 +17,8 @@
 [Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://link.medium.com/ZXxLbGuGTab)   
 [High-Throughput Game Message Server with Python websockets](https://mortoray.com/2020/12/06/high-throughput-game-message-server-with-python-websockets/)  
 
-[Humble Bundle](https://www.humblebundle.com/software/python-programming-software)  
-
 [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)  
 
-[The many ways to pass code to Python from the terminal](https://snarky.ca/the-many-ways-to-pass-code-to-python-from-the-terminal/)  
-[Packaging and Shipping Python Apps for the Desktop](https://heartbeat.fritz.ai/packaging-and-shipping-python-apps-for-the-desktop-a418489b854)  
-[How to Build And Publish Command-Line Applications With Python](https://towardsdatascience.com/how-to-build-and-publish-command-line-applications-with-python-96065049abc1)  
 [Python decorator to parallelize any IO heavy function](https://medium.com/analytics-vidhya/python-decorator-to-parallelize-any-function-23e5036fb6a)  
 
 [Python vs JavaScript for Pythonistas](https://realpython.com/python-vs-javascript/)  
@@ -31,23 +26,34 @@
 
 ### Packaging
 
+[Automatically Build and Deploy Your Python Application in 4 Easy Steps](https://medium.com/better-programming/automatically-build-and-deploy-your-python-application-in-4-easy-steps-88084fc07d54)  
+[Command Line Scripts Python Packaging Tutorial](http://python-packaging.readthedocs.io/en/latest/command-line-scripts.html)   
+[How to package Python apps with BeeWare Briefcase](https://www.infoworld.com/article/3570295/how-to-package-python-apps-with-beeware-briefcase.html?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20200815+prog+nl&mkt_tok=eyJpIjoiTTJSaVlqRmxZbVF6TnpVNSIsInQiOiJkNjFBb1wvWGRGUXpKR2FNb0xvbFwvK251cE00TjRVdlE1RjhtdGpCNW5GQ0trM0tIWUJjSG1lbEpJTFJxNEQwcHpcLzA2dXBZRjdTUmZQV3RBZkhrajNLblNTcTJiRjZFeTE2TjYzZXNHeTNoazdRaDdVYnFPVnVyXC8zb3VkSWpJRHkifQ%3D%3D)  
+[Command Line Scripts](https://www.google.com/url?q=https://www.geeksforgeeks.org/command-line-scripts-python-packaging/&source=gmail-imap&ust=1605229239000000&usg=AOvVaw2torjUuf7OAI2D3I-D5QOJ)   
+[The many ways to pass code to Python from the terminal](https://snarky.ca/the-many-ways-to-pass-code-to-python-from-the-terminal/)  
+[Packaging and Shipping Python Apps for the Desktop](https://heartbeat.fritz.ai/packaging-and-shipping-python-apps-for-the-desktop-a418489b854)  
+[How to Build And Publish Command-Line Applications With Python](https://towardsdatascience.com/how-to-build-and-publish-command-line-applications-with-python-96065049abc1)  
+[Packaging in Python: Tools and Formats](https://www.google.com/url?q=https://towardsdatascience.com/packaging-in-python-tools-and-formats-743ead5f39ee&source=gmail-imap&ust=1605376910000000&usg=AOvVaw0tI6bixKizxutg58QluWU6)   
 [How To Package Your Python Code - Python Packaging Tutorial](https://python-packaging.readthedocs.io/en/latest/index.html)  
 [Command Line Scripts | Python Packaging](https://www.geeksforgeeks.org/command-line-scripts-python-packaging/)  
 [Getting Started With setuptools and setup.py](https://pythonhosted.org/an_example_pypi_project/setuptools.html)  
 
 ### Python Tools
 
+[Float vs Decimal in Python](https://www.laac.dev/blog/float-vs-decimal-python/)  
 [Auto-Documenting a Python Project Using Sphinx](https://medium.com/better-programming/auto-documenting-a-python-project-using-sphinx-8878f9ddc6e9)  
 [Nox documentation](https://nox.thea.codes/en/stable/tutorial.html)  
 
 ### PyCharm
 
+[PyCharm Professional](https://medium.com/python-in-plain-english/pycharm-professional-python-editors-in-review-b978f0e5c4ba)  
 [4 Reasons to Use PyCharm for Your Next Python Project](https://towardsdatascience.com/4-tips-to-get-the-best-out-of-pycharm-99dd5d01932d)  
 [Features - PyCharm](https://www.jetbrains.com/pycharm/features/)  
 [PyCharm: the Python IDE for Professional Developers by JetBrains](https://www.google.com/url?q=https://www.jetbrains.com/pycharm/promo/&source=gmail-imap&ust=1606614908000000&usg=AOvVaw3XG2rKpU7fUe-ggksSU8dY)  
 
 ### Python Core
 
+[5 Levels of Handling Date and Time in Python](https://medium.com/techtofreedom/5-levels-of-handling-date-and-time-in-python-46b601e47f65)  
 [Python Type Checking](https://testdriven.io/blog/python-type-checking/)  
 [Type hints cheat sheet](https://www.google.com/url?q=https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html&source=gmail-imap&ust=1606072450000000&usg=AOvVaw2M5QPOuJZTNa5ojqvWyG6m)  
 
@@ -79,8 +85,28 @@
 [SSH & SCP in Python with Paramiko](https://hackersandslackers.com/automate-ssh-scp-python-paramiko/)  
 [Pedantic Configuration Management with Pydantic](https://rednafi.github.io/digressions/python/2020/06/03/python-configs.html)  
 
+## Python GUI
+
+[Create a Simple Python GUI With These Open Source Projects](https://medium.com/swlh/create-a-simple-python-gui-with-these-open-source-projects-7957813a107a)  
+[Gooey: Turn (almost) any Python command line program into a full GUI application with one line](https://www.google.com/url?q=https://github.com/chriskiehl/Gooey&source=gmail-imap&ust=1606051722000000&usg=AOvVaw2mbK8YA0_Jnb_YZOn-q2iB)  
+[How to use the easiest GUI of your life in Python](https://codeburst.io/how-to-use-the-easiest-gui-of-your-life-in-python-d3762270a2a0)  
+[Python for Android: Start Building Kivy Cross-Platform Applications](https://towardsdatascience.com/python-for-android-start-building-kivy-cross-platform-applications-6cf867d44612)  
+[PySimpleGUI: The Simple Way to Create a GUI With Python](https://realpython.com/preview/pysimplegui-python/)  
+[Create Quick and Powerful GUIs Using Dear PyGui](https://www.google.com/url?q=https://medium.com/datadriveninvestor/create-quick-and-powerful-guis-using-dear-pygui-in-python-713cc138bf5a&source=gmail-imap&ust=1606614822000000&usg=AOvVaw1l7rsj1J3jflbNOTLaoqSQ)  
+
+## Python CLI
+
+[Building Rich Console Interfaces in Python](https://medium.com/trabe/building-rich-console-interfaces-in-python-16338cc30eaa)  
+[questionary: Python library to build pretty command line user prompts](https://github.com/tmbo/questionary)  
+[Setuptools Integration Click Documentation (7.x)](https://www.google.com/url?q=https://click.palletsprojects.com/en/7.x/setuptools/&source=gmail-imap&ust=1605229345000000&usg=AOvVaw1v86qfaa8ee9BsnNH_CUDQ)   
+[Cement Framework](https://builtoncement.com/)  
+[Gooey GUI](https://github.com/chriskiehl/Gooey)  
+[tabulate: Pretty-print tabular data in Python](https://github.com/astanin/python-tabulate)  
+
 #### NumPy
 
+[A Visual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy/)  
+[NumPy Tutorial: Your First Steps Into Data Science in Python](https://realpython.com/numpy-tutorial/)  
 [NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)  
 [pydantic](https://pydantic-docs.helpmanual.io/)  
 [Fluent NumPy](https://medium.com/analytics-vidhya/fluent-numpy-187cc14f2832)   
@@ -210,28 +236,10 @@
 [Building A Lightweight Blogging CMS In 10 Lines of Code](https://www.google.com/url?q=https://www.oneword.domains/blog/lightweight-cms&source=gmail-imap&ust=1605655518000000&usg=AOvVaw18huYYupekHK0zCM_eGBtb)  
 [EndlessTrax/pyanchor: Find your broken links, so users donâ€™t.](https://www.google.com/url?q=https://github.com/EndlessTrax/pyanchor&source=gmail-imap&ust=1605655699000000&usg=AOvVaw0R8QACLSL0WU7oWJbv0RvB)  
 
-## Python GUI
-
-[Create a Simple Python GUI With These Open Source Projects](https://medium.com/swlh/create-a-simple-python-gui-with-these-open-source-projects-7957813a107a)  
-[Gooey: Turn (almost) any Python command line program into a full GUI application with one line](https://www.google.com/url?q=https://github.com/chriskiehl/Gooey&source=gmail-imap&ust=1606051722000000&usg=AOvVaw2mbK8YA0_Jnb_YZOn-q2iB)  
-[How to use the easiest GUI of your life in Python](https://codeburst.io/how-to-use-the-easiest-gui-of-your-life-in-python-d3762270a2a0)  
-[Python for Android: Start Building Kivy Cross-Platform Applications](https://towardsdatascience.com/python-for-android-start-building-kivy-cross-platform-applications-6cf867d44612)  
-[PySimpleGUI: The Simple Way to Create a GUI With Python](https://realpython.com/preview/pysimplegui-python/)  
-[Create Quick and Powerful GUIs Using Dear PyGui](https://www.google.com/url?q=https://medium.com/datadriveninvestor/create-quick-and-powerful-guis-using-dear-pygui-in-python-713cc138bf5a&source=gmail-imap&ust=1606614822000000&usg=AOvVaw1l7rsj1J3jflbNOTLaoqSQ)  
-
-## Python CLI
-
-[questionary: Python library to build pretty command line user prompts](https://github.com/tmbo/questionary)  
-[Packaging in Python: Tools and Formats](https://www.google.com/url?q=https://towardsdatascience.com/packaging-in-python-tools-and-formats-743ead5f39ee&source=gmail-imap&ust=1605376910000000&usg=AOvVaw0tI6bixKizxutg58QluWU6)   
-[Setuptools Integration Click Documentation (7.x)](https://www.google.com/url?q=https://click.palletsprojects.com/en/7.x/setuptools/&source=gmail-imap&ust=1605229345000000&usg=AOvVaw1v86qfaa8ee9BsnNH_CUDQ)   
-[Command Line Scripts](https://www.google.com/url?q=https://www.geeksforgeeks.org/command-line-scripts-python-packaging/&source=gmail-imap&ust=1605229239000000&usg=AOvVaw2torjUuf7OAI2D3I-D5QOJ)   
-[Command Line Scripts Python Packaging Tutorial](http://python-packaging.readthedocs.io/en/latest/command-line-scripts.html)   
-[Cement Framework](https://builtoncement.com/)  
-[Gooey GUI](https://github.com/chriskiehl/Gooey)  
-[tabulate: Pretty-print tabular data in Python](https://github.com/astanin/python-tabulate)  
-
 ## CV
 
+[Turn Photos into Cartoons Using Python](https://towardsdatascience.com/turn-photos-into-cartoons-using-python-bb1a9f578a7e?_branch_match_id=874407754349889736&source=userActivityShare-8a8b134a2c85-1609713274&gi=ed711c523383)  
+[Image Processing for Python - Adjusting to the Ground Truth](https://towardsdatascience.com/image-processing-for-python-adjusting-to-the-ground-truth-d0275e4f253e)  
 [Add A New Dimension To Your Photos Using Python](https://medium.com/robotacademy/add-a-new-dimension-to-your-photos-using-python-4baf7a0a607a)  
 [Formula to determine brightness of RGB color](https://stackoverflow.com/questions/596216/formula-to-determine-brightness-of-rgb-color)  
 [CVPR 2020: The Top Object Detection Papers](https://heartbeat.fritz.ai/cvpr-2020-the-top-object-detection-papers-f920a6e41233)  
@@ -319,7 +327,6 @@
 
 [Carbon | Create and share beautiful images of your source code](https://carbon.now.sh)  
 [termtosvg: Record terminal sessions as SVG animations](https://github.com/nbedos/termtosvg)  
-[How to package Python apps with BeeWare Briefcase](https://www.infoworld.com/article/3570295/how-to-package-python-apps-with-beeware-briefcase.html?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20200815+prog+nl&mkt_tok=eyJpIjoiTTJSaVlqRmxZbVF6TnpVNSIsInQiOiJkNjFBb1wvWGRGUXpKR2FNb0xvbFwvK251cE00TjRVdlE1RjhtdGpCNW5GQ0trM0tIWUJjSG1lbEpJTFJxNEQwcHpcLzA2dXBZRjdTUmZQV3RBZkhrajNLblNTcTJiRjZFeTE2TjYzZXNHeTNoazdRaDdVYnFPVnVyXC8zb3VkSWpJRHkifQ%3D%3D)  
 [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)  
 
 ## Jobs
@@ -351,8 +358,15 @@
 [Doing key-driver analysis in python](https://www.google.com/url?q=https://towardsdatascience.com/key-driver-analysis-in-python-788beb9b8a7d&source=gmail-imap&ust=1605655340000000&usg=AOvVaw06pv28Ih-P3jXkEnQNtiLY)  
 [Law of Large Numbers and the Central Limit Theorem (With Python)](https://www.google.com/url?q=https://randomvariable.cc/law-of-large-numbers-central-limit-theorem-python/&source=gmail-imap&ust=1605655452000000&usg=AOvVaw2qIC5NoJjQ2f3dk4p1UAD9)  
 [Documentation for Visual Studio Code](https://www.google.com/url?q=https://code.visualstudio.com/docs?start%3Dtrue&source=gmail-imap&ust=1606072396000000&usg=AOvVaw2WZLsd7GTIUC7-_OTd4TOQ)  
-
-[Image Processing for Python - Adjusting to the Ground Truth](https://towardsdatascience.com/image-processing-for-python-adjusting-to-the-ground-truth-d0275e4f253e)  
 [10 Principles for Typography in UI Design](https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd)  
 [pyfiglet: An implementation of figlet written in Python](https://github.com/pwaller/pyfiglet)  
-
+[pytudes/Advent-2020.ipynb at master · norvig/pytudes](https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb)  
+[6 YAML Features most programmers don't know](https://levelup.gitconnected.com/6-yaml-features-most-programmers-dont-know-164762343af3)  
+[GitHub - termgraph: a python command-line tool which draws basic graphs in the terminal](https://github.com/mkaz/termgraph)  
+[GitHub - cutie: Command line User Tools for Input Easification](https://github.com/Kamik423/cutie)  
+[GitHub - pixel2style2pixel: a StyleGAN Encoder](https://github.com/eladrich/pixel2style2pixel)  
+[GitHub - quokka: LOOKING FOR NEW MAINTAINER](https://github.com/quokkaproject/quokka)  
+[GitHub - pychubby: Automated face warping tool.](https://github.com/jankrepl/pychubby)  
+[GitHub - pigar: A tool to generate requirements.txt for your Python](https://github.com/damnever/pigar)  
+[GitHub - jarun/googler: Google from the terminal](https://github.com/jarun/googler)  
+[App Generator](https://github.com/app-generator?tab=repositories)  
