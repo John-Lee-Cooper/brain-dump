@@ -1,6 +1,7 @@
 # Unsorted
 
 ## Python
+[GitHub - pigar: A tool to generate requirements.txt for your Python](https://github.com/damnever/pigar)  
 
 [Python 3.9.1 Documentation](https://docs.python.org/3/)  
 [Python Programming Language - GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar)  
@@ -96,6 +97,9 @@
 
 ## Python CLI
 
+[GitHub - termgraph: a python command-line tool which draws basic graphs in the terminal](https://github.com/mkaz/termgraph)  
+[GitHub - cutie: Command line User Tools for Input Easification](https://github.com/Kamik423/cutie)  
+[CLI documentation ](https://plot-cli.readthedocs.io/en/stable/examples.html#line-graph)  
 [Building Rich Console Interfaces in Python](https://medium.com/trabe/building-rich-console-interfaces-in-python-16338cc30eaa)  
 [questionary: Python library to build pretty command line user prompts](https://github.com/tmbo/questionary)  
 [Setuptools Integration Click Documentation (7.x)](https://www.google.com/url?q=https://click.palletsprojects.com/en/7.x/setuptools/&source=gmail-imap&ust=1605229345000000&usg=AOvVaw1v86qfaa8ee9BsnNH_CUDQ)   
@@ -130,6 +134,7 @@
 
 ## Plot
 
+[PyQtGraph](https://www.geeksforgeeks.org/pyqtgraph-setting-symbol-of-line-in-line-graph/?ref=rp)  
 [Next level data visualization](https://link.medium.com/0EwvRIzGTab)   
 [No More Basic Plots Please. A Quick Guide to Upgrade Your Data](https://medium.com/python-in-plain-english/no-more-basic-plots-please-59ecc8ac0508)  
 [dexplot/README.md](https://github.com/dexplo/dexplot/blob/master/README.md)  
@@ -232,6 +237,10 @@
 
 ## CV
 
+[GitHub - pixel2style2pixel: a StyleGAN Encoder](https://github.com/eladrich/pixel2style2pixel)  
+[PyPi - cv2utils](https://pypi.org/project/cv2utils/)  
+[PyPi - cv2operator](https://pypi.org/project/cv2operator/)  
+[Edit Your Old Photos with Machine Learning](https://towardsdatascience.com/edit-your-old-photos-with-machine-learning-computational-photography-7ef27f40cfdf?gi=a9502b243302)  
 [Turn Photos into Cartoons Using Python](https://towardsdatascience.com/turn-photos-into-cartoons-using-python-bb1a9f578a7e?_branch_match_id=874407754349889736&source=userActivityShare-8a8b134a2c85-1609713274&gi=ed711c523383)  
 [Image Processing for Python - Adjusting to the Ground Truth](https://towardsdatascience.com/image-processing-for-python-adjusting-to-the-ground-truth-d0275e4f253e)  
 [Add A New Dimension To Your Photos Using Python](https://medium.com/robotacademy/add-a-new-dimension-to-your-photos-using-python-4baf7a0a607a)  
@@ -277,6 +286,8 @@
 
 ## Git
 
+[Git Commands to Live By. The cheat sheet that goes beyond Git](https://medium.com/better-programming/git-commands-to-live-by-349ab1fe3139)  
+[GitHub - cvlab: CV Lab - Computer Vision Laboratory](https://github.com/cvlab-ai/cvlab#installation)  
 [The Top 3 Tricks to Keep Your Git History Clean](https://medium.com/@msehovic92/the-top-3-tricks-to-keep-your-git-history-clean-6d341dc12b35)  
 [How To Commit Your Cloud Credentials To Version Control Systems](https://medium.com/towards-artificial-intelligence/how-to-safely-commit-your-aws-credentials-to-github-21d3bf7771e7)  
 [An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)  
@@ -359,13 +370,9 @@
 [Documentation for Visual Studio Code](https://www.google.com/url?q=https://code.visualstudio.com/docs?start%3Dtrue&source=gmail-imap&ust=1606072396000000&usg=AOvVaw2WZLsd7GTIUC7-_OTd4TOQ)  
 [10 Principles for Typography in UI Design](https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd)  
 [pyfiglet: An implementation of figlet written in Python](https://github.com/pwaller/pyfiglet)  
-[pytudes/Advent-2020.ipynb at master � norvig/pytudes](https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb)  
+[pytudes](https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb)  
 [6 YAML Features most programmers don't know](https://levelup.gitconnected.com/6-yaml-features-most-programmers-dont-know-164762343af3)  
-[GitHub - termgraph: a python command-line tool which draws basic graphs in the terminal](https://github.com/mkaz/termgraph)  
-[GitHub - cutie: Command line User Tools for Input Easification](https://github.com/Kamik423/cutie)  
-[GitHub - pixel2style2pixel: a StyleGAN Encoder](https://github.com/eladrich/pixel2style2pixel)  
-[GitHub - quokka: LOOKING FOR NEW MAINTAINER](https://github.com/quokkaproject/quokka)  
+[GitHub - quokka](https://github.com/quokkaproject/quokka)  
 [GitHub - pychubby: Automated face warping tool.](https://github.com/jankrepl/pychubby)  
-[GitHub - pigar: A tool to generate requirements.txt for your Python](https://github.com/damnever/pigar)  
 [GitHub - jarun/googler: Google from the terminal](https://github.com/jarun/googler)  
-[App Generator](https://github.com/app-generator?tab=repositories)  
+[GitHub - App Generator](https://github.com/app-generator?tab=repositories)  
