@@ -1,12 +1,13 @@
 # Unsorted
 
-## Python
-[GitHub - pigar: A tool to generate requirements.txt for your Python](https://github.com/damnever/pigar)  
 
-[Python 3.9.1 Documentation](https://docs.python.org/3/)  
-[Python Programming Language - GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar)  
+### Design Patterns
 [Top Design Patterns in Python](https://medium.com/python-pandemonium/top-design-patterns-in-python-9778843d5451)  
 [Factory Pattern Without Switch and If-Else](https://medium.com/swlh/factory-pattern-without-switch-this-is-how-it-should-be-done-cd895e356f44)  
+
+
+## Python
+[Python Programming Language - GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar)  
 
 [functools, reduce](https://www.google.com/url?q=https://medium.com/python-in-plain-english/pythons-amazing-functools-module-3c4602f09b15&source=gmail-imap&ust=1606614805000000&usg=AOvVaw28x1dzFoVaEtBCjq6DBOqX)  
 [Advanced Python: Itertools Library - The Gem Of Python Language](https://medium.com/fintechexplained/advanced-python-itertools-library-the-gem-of-python-language-99da37dfcca2)  
@@ -165,7 +166,7 @@
 
 ### Plotly
 
-:star: [4 Ways To Improve Your Plotly Graphs](https://hackersandslackers.com/4-ways-to-improve-your-plotly-graphs/)  
+[4 Ways To Improve Your Plotly Graphs](https://hackersandslackers.com/4-ways-to-improve-your-plotly-graphs/)  
 [Plotly Bubble Charts and Hover Text](http://nbviewer.ipython.org/gist/jackparmer/7729584)  
 [Pandas and Plotly](http://nbviewer.ipython.org/gist/nipunreddevil/7734529)  
 [Violin Plots Plotly](https://plotly.com/python/violin/)  
@@ -174,8 +175,8 @@
 ## Dash
 
 [Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter](https://towardsdatascience.com/streamlit-vs-dash-vs-shiny-vs-voila-vs-flask-vs-jupyter-24739ab5d569?_branch_match_id=863207638385823812&source=userActivityShare-8a8b134a2c85-1607043080&gi=7ce7b7c7a297)  
-:star: [Integrate Plotly Dash Into Your Flask App](https://hackersandslackers.com/plotly-dash-with-flask/)  
-:star: [How to embed a Dash app into an existing Flask app](https://medium.com/@olegkomarov_77860/how-to-embed-a-dash-app-into-an-existing-flask-app-ea05d7a2210b)  
+[Integrate Plotly Dash Into Your Flask App](https://hackersandslackers.com/plotly-dash-with-flask/)  
+[How to embed a Dash app into an existing Flask app](https://medium.com/@olegkomarov_77860/how-to-embed-a-dash-app-into-an-existing-flask-app-ea05d7a2210b)  
 [Integrating Dash with Existing Web Apps](https://dash.plotly.com/integrating-dash)  
 [How To Build A Dashboard In Python - Plotly Dash Step-by-Step Tutorial]( https://www.statworx.com/de/blog/how-to-build-a-dashboard-in-python-plotly-dash-step-by-step-tutorial/)  
 [Build Stunning Interactive Web Data Dashboards]( https://medium.com/@agilbert.agtech/build-stunning-interactive-web-data-dashboards-with-python-plotly-and-dash-fcbdc09ba318)  
@@ -194,6 +195,7 @@
 [Hacking and Slacking Flask](https://hackingandslacking.com/tagged/flask)  
 [The End of Flask in Data Science](https://towardsdatascience.com/the-end-of-flask-in-data-science-738920090ed9)  
 [Configuring Your Flask Application](https://hackingandslacking.com/configuring-your-flask-application-4e5341d7affb)  
+[6 YAML Features most programmers don't know](https://levelup.gitconnected.com/6-yaml-features-most-programmers-dont-know-164762343af3)  
 
 ### Flask Testing
 
@@ -227,6 +229,7 @@
 
 [The Most Detailed Selenium WebDriver Tutorial With Python](https://medium.com/python-in-plain-english/the-most-detailed-selenium-webdriver-tutorial-with-python-18d27dbd95fb)  
 [A guide of UI design trends for 2021](https://uxdesign.cc/a-guide-of-ui-design-trends-for-2021-637ac038cb99)  
+[10 Principles for Typography in UI Design](https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd)  
 [10 Web Development Trends Every CTO Should Expect in 2021](https://medium.com/swlh/10-web-development-trends-every-cto-should-expect-in-2021-ddcb460d4b84)  
 [MkDocs](https://www.google.com/url?q=https://www.mkdocs.org/&source=gmail-imap&ust=1606071979000000&usg=AOvVaw0HkhqLB23jhJE__W_7utaq)  
 [8 Common Web Development Mistakes](https://www.google.com/url?q=https://medium.com/better-programming/8-common-web-development-mistakes-87800f80d8e&source=gmail-imap&ust=1605376912000000&usg=AOvVaw3P7476f2F6bzaYXWwHqsQV)   
@@ -236,39 +239,35 @@
 [EndlessTrax/pyanchor: Find your broken links, so users don't.](https://www.google.com/url?q=https://github.com/EndlessTrax/pyanchor&source=gmail-imap&ust=1605655699000000&usg=AOvVaw0R8QACLSL0WU7oWJbv0RvB)  
 
 ## CV
-
-[GitHub - pixel2style2pixel: a StyleGAN Encoder](https://github.com/eladrich/pixel2style2pixel)  
-[PyPi - cv2utils](https://pypi.org/project/cv2utils/)  
-[PyPi - cv2operator](https://pypi.org/project/cv2operator/)  
-[Edit Your Old Photos with Machine Learning](https://towardsdatascience.com/edit-your-old-photos-with-machine-learning-computational-photography-7ef27f40cfdf?gi=a9502b243302)  
-[Turn Photos into Cartoons Using Python](https://towardsdatascience.com/turn-photos-into-cartoons-using-python-bb1a9f578a7e?_branch_match_id=874407754349889736&source=userActivityShare-8a8b134a2c85-1609713274&gi=ed711c523383)  
-[Image Processing for Python - Adjusting to the Ground Truth](https://towardsdatascience.com/image-processing-for-python-adjusting-to-the-ground-truth-d0275e4f253e)  
-[Add A New Dimension To Your Photos Using Python](https://medium.com/robotacademy/add-a-new-dimension-to-your-photos-using-python-4baf7a0a607a)  
 [Formula to determine brightness of RGB color](https://stackoverflow.com/questions/596216/formula-to-determine-brightness-of-rgb-color)  
-[CVPR 2020: The Top Object Detection Papers](https://heartbeat.fritz.ai/cvpr-2020-the-top-object-detection-papers-f920a6e41233)  
-[Image Augmentation Mastering: 15+ Techniques and Useful Functions with Python Codes](https://towardsdatascience.com/image-augmentation-mastering-15-techniques-and-useful-functions-with-python-codes-44c3f8c1ea1f)  
-[Computer Vision and Deep Learning: From Image to Video Analysis](https://heartbeat.fritz.ai/computer-vision-from-image-to-video-analysis-d1339cf23961)  
-[Make an AI Tracker in 23 Lines of Code in Python](https://codeburst.io/make-an-ai-tracker-7dc1c5afccc5)  
 [Real-time Object Detection using SSD MobileNet V2 on Video Streams](https://heartbeat.fritz.ai/real-time-object-detection-using-ssd-mobilenet-v2-on-video-streams-3bfc1577399c)  
+[Add A New Dimension To Your Photos Using Python](https://medium.com/robotacademy/add-a-new-dimension-to-your-photos-using-python-4baf7a0a607a)  
+[pixel2style2pixel: a StyleGAN Encoder](https://github.com/eladrich/pixel2style2pixel)  
+[CVPR 2020: The Top Object Detection Papers](https://heartbeat.fritz.ai/cvpr-2020-the-top-object-detection-papers-f920a6e41233)  
+[Computer Vision and Deep Learning: From Image to Video Analysis](https://heartbeat.fritz.ai/computer-vision-from-image-to-video-analysis-d1339cf23961)  
+[Building Blocks of Image Segmentation](https://heartbeat.fritz.ai/building-blocks-of-image-segmentation-88dfcf4898b1)  
+[OpenCV Web Apps](http://videocortex.io/2017/opencv-web-app/)  
+
+### Demo
+
+:star:[cv2operator](https://github.com/moicci/cv2operator)  
+:star:[Turn Photos into Cartoons Using Python](https://towardsdatascience.com/turn-photos-into-cartoons-using-python-bb1a9f578a7e?_branch_match_id=874407754349889736&source=userActivityShare-8a8b134a2c85-1609713274&gi=ed711c523383)  
+:star:[Image Processing for Python - Adjusting to the Ground Truth](https://towardsdatascience.com/image-processing-for-python-adjusting-to-the-ground-truth-d0275e4f253e)  
+:star:[Denoising Photos with Machine Learning](https://towardsdatascience.com/edit-your-old-photos-with-machine-learning-computational-photography-7ef27f40cfdf?gi=a9502b243302)  
+:star:[cv2utils - face detectors](https://github.com/luizcarloscf/cv2utils)  
+:star:[Make an AI Tracker in 23 Lines of Code in Python](https://codeburst.io/make-an-ai-tracker-7dc1c5afccc5)  
+:star:[How to make your own Instagram filter with facial recognition using python](https://towardsdatascience.com/how-to-make-your-own-instagram-filter-with-facial-recognition-from-scratch-using-python-d3a42029e65b)   
 
 ## OpenCV
 
+:star:[Image Augmentation Mastering: 15+ Techniques and Useful Functions with Python Codes](https://towardsdatascience.com/image-augmentation-mastering-15-techniques-and-useful-functions-with-python-codes-44c3f8c1ea1f)  
 :star:[Python for the Lab | Step by Step Guide to Building a GUI](https://www.pythonforthelab.com/blog/step-by-step-guide-to-building-a-gui/)  
-[Blending Two Images using OpenCV](https://towardsdatascience.com/python-for-art-blending-two-images-using-opencv-d1fdfd584efd)  
-[Building Blocks of Image Segmentation](https://heartbeat.fritz.ai/building-blocks-of-image-segmentation-88dfcf4898b1)  
-[Image Histogram](https://www.google.com/url?q=https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_image_histogram_calcHist.php&source=gmail-imap&ust=1606072950000000&usg=AOvVaw334HcnigYw0E-NvnD2fuYw)  
-[Computer Vision techniques](https://www.google.com/url?q=https://github.com/ioangatop/ComputerVision&source=gmail-imap&ust=1606072117000000&usg=AOvVaw2fTyItuHzELc1B5YyCcsc-)  
-[OpenCV Tutorials Archives](https://www.google.com/url?q=http://amin-ahmadi.com/category/tutorials/opencv-tutorials/&source=gmail-imap&ust=1606072027000000&usg=AOvVaw1nxXR69zOKEVlnmQGT-7qJ)  
-[OpenCV Web Apps](https://www.google.com/url?q=http://videocortex.io/2017/opencv-web-app/&source=gmail-imap&ust=1606071836000000&usg=AOvVaw1LFX91q6-3qicFO2jC8nDl)  
-[Looking for a thinning/skeletonizing algorithm with opencv in python.](https://www.google.com/url?q=http://answers.opencv.org/question/163561/looking-for-a-thinningskeletonizing-algorithm-with-opencv-in-python/&source=gmail-imap&ust=1605449194000000&usg=AOvVaw1J8nlFAFEv7DPu2kUt4P4K)  
-[Is there any build-in function can do skeletonization in openCV?](https://www.google.com/url?q=https://stackoverflow.com/questions/33095476/is-there-any-build-in-function-can-do-skeletonization-in-opencv&source=gmail-imap&ust=1605486213000000&usg=AOvVaw0cUVG5-lTdnlc7gW_nbwYT)  
-[Is there a Guo Hall thinning method in openCV 3.1.0?](https://www.google.com/url?q=http://answers.opencv.org/question/84435/is-there-a-guo-hall-thinning-method-in-opencv-310/&source=gmail-imap&ust=1605486696000000&usg=AOvVaw25RF3FWYGaY1B4jI9OLx1y)  
-[Thinning](https://www.google.com/url?q=https://citeseerx.ist.psu.edu/viewdoc/download?doi%3D10.1.1.232.1226%26rep%3Drep1%26type%3Dpdf&source=gmail-imap&ust=1605487467000000&usg=AOvVaw16-4ymqVP3FgYuitWXcoz5)  
-[Real-Time Head Pose Estimation in Python](https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=app_email_share)  
-[High-Resolution 3D Human Digitization from A Single Image.](https://www.google.com/url?q=https://github.com/facebookresearch/pifuhd&source=gmail-imap&ust=1605655629000000&usg=AOvVaw30kX0wr_WRBdJbL22WI-yP)  
-[How to make your own Instagram filter with facial recognition using python](https://towardsdatascience.com/how-to-make-your-own-instagram-filter-with-facial-recognition-from-scratch-using-python-d3a42029e65b)   
+[Image Histogram](https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_image_histogram_calcHist.php)  
+[Computer Vision techniques](https://github.com/ioangatop/ComputerVision)  
+[High-Resolution 3D Human Digitization from A Single Image.](https://github.com/facebookresearch/pifuhd)  
+
+[Real-Time Head Pose Estimation in Python](https://towardsdatascience.com/real-time-head-pose-estimation-in-python-e52db1bc606a)  
 [6 Significant Computer Vision Problems Solved by ML](https://www.google.com/url?q=https://heartbeat.fritz.ai/6-significant-computer-vision-problems-solved-by-ml-623eb50544c5&source=gmail-imap&ust=1605221493000000&usg=AOvVaw1GWcBZVJpO6tTzImLHbiIf)   
-[Solving Mazes With Python. Using Dijkstra Algorithm and OpenCV](https://towardsdatascience.com/solving-mazes-with-python-f7a412f2493f)  
 [Custom Object Detection Using Keras and OpenCV](https://towardsdatascience.com/how-to-build-a-weapon-detection-system-using-keras-and-opencv-67b19234e3dd)  
 [Medial axis skeletonization  skimage v0.12.2 docs](https://scikit-image.org/docs/0.12.x/auto_examples/edges/plot_medial_transform.html)   
 [OpenCV-Python: Skeletonization using OpenCV-Python](http://opencvpython.blogspot.com/2012/05/skeletonization-using-opencv-python.html)   
@@ -277,6 +276,12 @@
 [Real time face recognition with CPU](?https://towardsdatascience.com/real-time-face-recognition-with-cpu-983d35cc3ec5)  
 [OpenCV VirtualPen](https://github.com/spmallick/learnopencv/tree/master/Creating-a-Virtual-Pen-and-Eraser?ck_subscriber_id=272180843)  
 [Practical Image Process with OpenCV](https://towardsdatascience.com/practical-image-process-with-opencv-8405772c603e)  
+
+### Thinning
+[Opencv thinning/skeletonizing algorithm](https://answers.opencv.org/question/163561/looking-for-a-thinningskeletonizing-algorithm-with-opencv-in-python/)  
+[Opency skeletonization in openCV?](https://stackoverflow.com/questions/33095476/is-there-any-build-in-function-can-do-skeletonization-in-opencv)  
+[Is there a Guo Hall thinning method in openCV 3.1.0?](https://answers.opencv.org/question/84435/is-there-a-guo-hall-thinning-method-in-opencv-310/)  
+[Thinning](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.232.1226&rep=rep1&type=pdf)  
 
 ## Docker
 
@@ -368,11 +373,10 @@
 [Doing key-driver analysis in python](https://www.google.com/url?q=https://towardsdatascience.com/key-driver-analysis-in-python-788beb9b8a7d&source=gmail-imap&ust=1605655340000000&usg=AOvVaw06pv28Ih-P3jXkEnQNtiLY)  
 [Law of Large Numbers and the Central Limit Theorem (With Python)](https://www.google.com/url?q=https://randomvariable.cc/law-of-large-numbers-central-limit-theorem-python/&source=gmail-imap&ust=1605655452000000&usg=AOvVaw2qIC5NoJjQ2f3dk4p1UAD9)  
 [Documentation for Visual Studio Code](https://www.google.com/url?q=https://code.visualstudio.com/docs?start%3Dtrue&source=gmail-imap&ust=1606072396000000&usg=AOvVaw2WZLsd7GTIUC7-_OTd4TOQ)  
-[10 Principles for Typography in UI Design](https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd)  
+
 [pyfiglet: An implementation of figlet written in Python](https://github.com/pwaller/pyfiglet)  
 [pytudes](https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb)  
-[6 YAML Features most programmers don't know](https://levelup.gitconnected.com/6-yaml-features-most-programmers-dont-know-164762343af3)  
 [GitHub - quokka](https://github.com/quokkaproject/quokka)  
-[GitHub - pychubby: Automated face warping tool.](https://github.com/jankrepl/pychubby)  
-[GitHub - jarun/googler: Google from the terminal](https://github.com/jarun/googler)  
 [GitHub - App Generator](https://github.com/app-generator?tab=repositories)  
+
+[GitHub - pychubby: Automated face warping tool.](https://github.com/jankrepl/pychubby)  
