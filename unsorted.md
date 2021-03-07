@@ -73,6 +73,7 @@
 
 [Why You Should Use More Enums In Python](https://florian-dahlitz.de/blog/why-you-should-use-more-enums-in-python)  
 
+[Python Logging: In-Depth Tutorial](https://www.toptal.com/python/in-depth-python-logging)  
 [8 Advanced Python Logging Features](https://towardsdatascience.com/8-advanced-python-logging-features-that-you-shouldnt-miss-a68a5ef1b62d)  
 [Tips and Tricks for Handling Logging Files in Python](https://medium.com/better-programming/tips-and-tricks-for-handling-logging-files-in-python-b48be3d553ad)  
 [Making 1 million requests with aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html)  
@@ -188,6 +189,7 @@
 
 ## Flask
 
+[Google Web App Flask](https://realpython.com/python-web-applications/#brush-up-on-the-basics)  
 [Flask-Meld: Meld is a full-stack framework for Flask](https://github.com/mikeabrahamsen/Flask-Meld)  
 [Flask-Admin](https://www.google.com/url?q=http://mrjoes.github.io/2013/10/21/flask-admin-107.html&source=gmail-imap&ust=1606052448000000&usg=AOvVaw1dtC_lwKUffLgqDVtzHCcj)  
 [Using Google Login With Flask](https://realpython.com/courses/using-google-login-flask/)  
@@ -206,8 +208,10 @@
 [Testing a Flask Application using pytest](https://www.patricksoftwareblog.com/testing-a-flask-application-using-pytest/)  
 [flask-pytest-example: Small example of a Flask app using pytest to test routing and requests, GET and POST](https://github.com/aaronjolson/flask-pytest-example)  
 
-### Flask Starter
+### Flask Templates
 
+[Set Editor Templates - View topic - Fluxx Template (Updated Oct 25 2013)](http://msetemps.sourceforge.net/phpBB3/viewtopic.php?f=28&t=428)  
+[Black flask template](https://github.com/app-generator/flask-black-dashboard)  
 [Boilerplate template for a Python Flask application](https://github.com/realpython/flask-boilerplate)  
 [A simple Flask boilerplate app](https://github.com/hack4impact/flask-base)  
 [A solid foundation for your flask app](https://github.com/JackStouffer/Flask-Foundation)  
@@ -234,6 +238,7 @@
 
 ## Web
 
+[quokka - python cms](https://github.com/quokkaproject/quokka)  
 [The Most Detailed Selenium WebDriver Tutorial With Python](https://medium.com/python-in-plain-english/the-most-detailed-selenium-webdriver-tutorial-with-python-18d27dbd95fb)  
 [A guide of UI design trends for 2021](https://uxdesign.cc/a-guide-of-ui-design-trends-for-2021-637ac038cb99)  
 [10 Principles for Typography in UI Design](https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd)  
@@ -309,6 +314,7 @@
 
 ## Software Engineering
 
+[Software Development Principles That Should Be Embraced Daily](https://betterprogramming.pub/7-software-development-principles-that-should-be-embraced-daily-c26a94ec4ecc)  
 [The S.O.L.I.D Principles in Pictures](https://link.medium.com/Edsmv10sM6)  
 [Improving Your Team's Code Review Culture](https://link.medium.com/nX1hij4UTbb)  
 
@@ -369,6 +375,7 @@
 
 ## Game AI
 
+[and Classical Planning](http://www.cs.cmu.edu/~15381-s19/assignments/programming/logic_plan/index.html)  
 [-solver.py](https://gist.github.com/nickponline/9c91fe65fef5b58ae1b0)  
 [to Convert a Formula to CNF](https://www.cs.jhu.edu/~jason/tutorials/convert-to-CNF.html)  
 [SAT-Solver](https://nickp.svbtle.com/sudoku-satsolver)  
@@ -391,34 +398,26 @@
 ## Unsorted Python
 [Doing key-driver analysis in python](https://www.google.com/url?q=https://towardsdatascience.com/key-driver-analysis-in-python-788beb9b8a7d&source=gmail-imap&ust=1605655340000000&usg=AOvVaw06pv28Ih-P3jXkEnQNtiLY)  
 [Law of Large Numbers and the Central Limit Theorem (With Python)](https://www.google.com/url?q=https://randomvariable.cc/law-of-large-numbers-central-limit-theorem-python/&source=gmail-imap&ust=1605655452000000&usg=AOvVaw2qIC5NoJjQ2f3dk4p1UAD9)  
+[Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)  
+[Gradient Descent Algorithm With Python and NumPy](https://realpython.com/gradient-descent-algorithm-python/)  
 [pyfiglet: An implementation of figlet written in Python](https://github.com/pwaller/pyfiglet)  
 [pytudes](https://github.com/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb)  
 [Machine Learning Course in Python](https://towardsdatascience.com/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f)  
-[Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)  
 [Quick Way to Build Applications in Python](https://towardsdatascience.com/a-quick-way-to-build-applications-in-python-51d5ef477d88)  
 [Coding Tools for Your Python Developer Sandbox](https://medium.com/better-programming/seventeen-coding-tools-for-your-python-developer-sandbox-35d033c3075a)  
-[the Best Practice of Object-Oriented Python - Attr](https://towardsdatascience.com/probably-the-best-practice-of-object-oriented-python-attr-d8c26c0e8a4)  
 [6 Things to Know to Get Started With Python Data Classes](https://medium.com/better-programming/6-things-to-know-to-get-started-with-python-data-classes-c795bf7e0a74)  
-[Gradient Descent Algorithm With Python and NumPy](https://realpython.com/gradient-descent-algorithm-python/)  
-[Web Applications: Deploy Your Script as a Flask App](https://realpython.com/python-web-applications/#brush-up-on-the-basics)  
-[Python Logging: In-Depth Tutorial](https://www.toptal.com/python/in-depth-python-logging)  
 [GitHub - pychubby: Automated face warping tool.](https://github.com/jankrepl/pychubby)  
+[- joowani/colorpedia: Command-line tool for looking up colors, shades and palettes.](https://github.com/joowani/colorpedia)  
 
 ## Unsorted
 
-[GitHub - quokka](https://github.com/quokkaproject/quokka)  
-[GitHub - App Generator](https://github.com/app-generator?tab=repositories)  
+[python wed App Generators](https://github.com/app-generator?tab=repositories)  
 [Amazon Wants to Make You an ML Practitioner](https://towardsdatascience.com/amazon-wants-to-make-you-an-ml-practitioner-for-free-552c46cea9ba)  
 [Documentation for Visual Studio Code](https://www.google.com/url?q=https://code.visualstudio.com/docs?start%3Dtrue&source=gmail-imap&ust=1606072396000000&usg=AOvVaw2WZLsd7GTIUC7-_OTd4TOQ)  
 
 [tds archive](https://towardsdatascience.com/archive)  
 [A curated list of awesome JSON datasets](https://github.com/jdorfman/awesome-json-datasets)  
-[Black flask](https://github.com/app-generator/flask-black-dashboard)  
-[Software Development Principles That Should Be Embraced Daily](https://betterprogramming.pub/7-software-development-principles-that-should-be-embraced-daily-c26a94ec4ecc)  
 [Need a Password Manager](https://debugger.medium.com/you-need-a-password-manager-just-dont-use-lastpass-4b4ef3d485f)  
-[and Classical Planning](http://www.cs.cmu.edu/~15381-s19/assignments/programming/logic_plan/index.html)  
-[- joowani/colorpedia: Command-line tool for looking up colors, shades and palettes.](https://github.com/joowani/colorpedia)  
 [a README](https://www.makeareadme.com/)  
-[Set Editor Templates - View topic - Fluxx Template (Updated Oct 25 2013)](http://msetemps.sourceforge.net/phpBB3/viewtopic.php?f=28&t=428)  
 [IoT apps: finding your IoT devices with Android](https://cheesecakelabs.com/blog/developing-iot-apps-connecting-smart-devices/)  
 [to Become a Top Open-Source Developer](https://www.google.com/url?q=https://medium.com/swlh/how-to-become-a-top-open-source-developer-7fa305c0b6ae&source=gmail-imap&ust=1605834256000000&usg=AOvVaw2WLJv-YF51ywQTWo0hMxZj)  
