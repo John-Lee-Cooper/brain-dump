@@ -58,10 +58,12 @@
 [5 Levels of Handling Date and Time in Python](https://medium.com/techtofreedom/5-levels-of-handling-date-and-time-in-python-46b601e47f65)  
 [Python Type Checking](https://testdriven.io/blog/python-type-checking/)  
 [Type hints cheat sheet](https://www.google.com/url?q=https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html&source=gmail-imap&ust=1606072450000000&usg=AOvVaw2M5QPOuJZTNa5ojqvWyG6m)  
+[Typing](https://www.pythonsheets.com/notes/python-typing.html)
+[typing - Support for type hints](https://docs.python.org/3/library/typing.html)
+[Python Type Checking (Guide)](https://realpython.com/python-type-checking/
 
 [Why Bother Using Property Decorators in Python?](https://medium.com/better-programming/why-bother-using-property-decorators-in-python-935c425f86ed)  
 [Handling exceptions in Python a cleaner way, using Decorators](https://medium.com/swlh/handling-exceptions-in-python-a-cleaner-way-using-decorators-fae22aa0abec)  
-
 [The Curious Case of Python’s Context Manager](https://rednafi.github.io/digressions/python/2020/03/26/python-contextmanager.html)  
 [The Magic of Python Context Managers](https://martinheinz.dev/blog/34)  
 
@@ -103,6 +105,7 @@
 [GitHub - cutie: Command line User Tools for Input Easification](https://github.com/Kamik423/cutie)  
 [CLI documentation ](https://plot-cli.readthedocs.io/en/stable/examples.html#line-graph)  
 [Building Rich Console Interfaces in Python](https://medium.com/trabe/building-rich-console-interfaces-in-python-16338cc30eaa)  
+[Building Rich terminal dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)  
 [questionary: Python library to build pretty command line user prompts](https://github.com/tmbo/questionary)  
 [Setuptools Integration Click Documentation (7.x)](https://www.google.com/url?q=https://click.palletsprojects.com/en/7.x/setuptools/&source=gmail-imap&ust=1605229345000000&usg=AOvVaw1v86qfaa8ee9BsnNH_CUDQ)   
 [Cement Framework](https://builtoncement.com/)  
@@ -168,6 +171,7 @@
 
 ### Plotly
 
+[Create Cloud-hosted Charts with Plotly Chart Studio](https://hackingandslacking.com/create-cloud-hosted-charts-with-plotly-chart-studio-c59bc7eff1dd)
 [4 Ways To Improve Your Plotly Graphs](https://hackersandslackers.com/4-ways-to-improve-your-plotly-graphs/)  
 [Plotly Bubble Charts and Hover Text](http://nbviewer.ipython.org/gist/jackparmer/7729584)  
 [Pandas and Plotly](http://nbviewer.ipython.org/gist/nipunreddevil/7734529)  
@@ -232,6 +236,8 @@
 
 ## SQL
 
+[Databases in Python Made Easy with SQLAlchemy](https://hackingandslacking.com/databases-in-python-made-easy-with-sqlalchemy-3c958657b325)
+[Implement ORM Data Models with SQLAlchemy](https://hackingandslacking.com/implement-orm-data-models-with-sqlalchemy-bea18a4733da)
 [Mastering SQLAlchemy Series](https://hackersandslackers.com/series/mastering-sqlalchemy)  
 [Data Management With Python, SQLite, and SQLAlchemy](https://realpython.com/python-sqlite-sqlalchemy/)  
 [Things I Wished More Developers Knew About Databases](https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=app_email_share)  
@@ -430,4 +436,7 @@
 [Migrate from Flask-Bootstrap](https://bootstrap-flask.readthedocs.io/en/stable/migrate.html)  
 [Simple Interactive SVG Application with Flask and Jinja](http://connor-johnson.com/2015/03/23/simple-interactive-svg-application-with-flask-and-jinja/)  
 [PyCon 2021 Welcome To PyCon US 2021](https://us.pycon.org/2021/)  
-[Building Rich terminal dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)  
+[Setting Up Sphinx Documentation](http://connor-johnson.com/2016/11/21/setting-up-sphinx-documentation/#more-1473)
+[Build a Python Directory Tree Generator for the Command Line](https://realpython.com/directory-tree-generator-python/)
+[Resolve Git conflicts](https://www.jetbrains.com/help/pycharm/resolve-conflicts.html#CRLF_warning)
+
