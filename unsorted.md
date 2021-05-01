@@ -440,3 +440,12 @@
 [Build a Python Directory Tree Generator for the Command Line](https://realpython.com/directory-tree-generator-python/)
 [Resolve Git conflicts](https://www.jetbrains.com/help/pycharm/resolve-conflicts.html#CRLF_warning)
 
+[Stop using print, start using loguru in Python](https://handyman.dulare.com/stop-using-print-start-using-loguru-in-python/)  
+[Don't Use Recursion In Python Any More](https://towardsdatascience.com/dont-use-recursion-in-python-any-more-918aad95094c)  
+[Creating SSH keys](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html)  
+[How To Set Up SSH Keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-2)  
+[The Next Level of Data Visualization in Python](<https://link.medium.com/TtBCQLKlUfb>)  
+[The Next Level of Data Visualization in Python](<https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=app_email_share>  )  
+[The Next Level of Data Visualization in Python](<https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3Dios_app%26utm_medium%3Demail%26utm_campaign%3Dios_app_email_share> )  
+[pytudes: considerable difficulty, to perfect particular skills.](https://github.com/norvig/pytudes)  
+[3 Tools to Track and Visualize the Execution of your Python Code](https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e)  
