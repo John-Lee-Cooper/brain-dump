@@ -114,6 +114,7 @@
 
 ## Data Science
 
+[Genetic Algorithms in Elixir by Sean Moriarity](https://medium.com/pragmatic-programmers/table-of-contents-879fc8614df)  
 [5 Free Books for Learning Python for Data Science](https://towardsdatascience.com/5-free-books-for-learning-python-for-data-science-87be443c084)  
 [Machine Learning and Data Science free online courses](https://towardsdatascience.com/machine-learning-free-online-courses-from-beginner-to-advanced-f50982dce950)
 
@@ -171,6 +172,7 @@
 
 ### Plotly
 
+[Web Visualization with Plotly and Flask.](https://towardsdatascience.com/web-visualization-with-plotly-and-flask-3660abf9c946)  
 [Create Cloud-hosted Charts with Plotly Chart Studio](https://hackingandslacking.com/create-cloud-hosted-charts-with-plotly-chart-studio-c59bc7eff1dd)
 [4 Ways To Improve Your Plotly Graphs](https://hackersandslackers.com/4-ways-to-improve-your-plotly-graphs/)  
 [Plotly Bubble Charts and Hover Text](http://nbviewer.ipython.org/gist/jackparmer/7729584)  
@@ -244,6 +246,7 @@
 
 ## Web
 
+[htmx](https://htmx.org/reference/)  
 [quokka - python cms](https://github.com/quokkaproject/quokka)  
 [The Most Detailed Selenium WebDriver Tutorial With Python](https://medium.com/python-in-plain-english/the-most-detailed-selenium-webdriver-tutorial-with-python-18d27dbd95fb)  
 [A guide of UI design trends for 2021](https://uxdesign.cc/a-guide-of-ui-design-trends-for-2021-637ac038cb99)  
@@ -257,6 +260,8 @@
 [EndlessTrax/pyanchor: Find your broken links, so users don't.](https://www.google.com/url?q=https://github.com/EndlessTrax/pyanchor&source=gmail-imap&ust=1605655699000000&usg=AOvVaw0R8QACLSL0WU7oWJbv0RvB)  
 
 ## CV
+[Dewarping Documents with AI.](https://heartbeat.fritz.ai/dewarping-documents-with-ai-748a34f471b)  
+[Film simulations from scratch using Python](https://kevinmartinjose.com/2021/04/27/film-simulations-from-scratch-using-python/)  
 [Formula to determine brightness of RGB color](https://stackoverflow.com/questions/596216/formula-to-determine-brightness-of-rgb-color)  
 [Real-time Object Detection using SSD MobileNet V2 on Video Streams](https://heartbeat.fritz.ai/real-time-object-detection-using-ssd-mobilenet-v2-on-video-streams-3bfc1577399c)  
 [Add A New Dimension To Your Photos Using Python](https://medium.com/robotacademy/add-a-new-dimension-to-your-photos-using-python-4baf7a0a607a)  
@@ -303,6 +308,7 @@
 
 ## Docker
 
+[awesome-compose](https://github.com/docker/awesome-compose)  
 [Containerizing Python Web Application](https://medium.com/swlh/containerizing-python-web-application-1052e61cf201)  
 [Getting Started with Docker for Data Scientists](https://www.google.com/url?q=https://towardsdatascience.com/getting-started-with-docker-for-data-scientists-a2ed505e2a09&source=gmail-imap&ust=1605376913000000&usg=AOvVaw1wPYnQSY9iZCIegIC9KZQH)   
 [Python HOW: Starting with Docker - The Startup - Medium](https://medium.com/swlh/python-how-starting-with-docker-d2be73d9ae92)  
@@ -442,10 +448,12 @@
 
 [Stop using print, start using loguru in Python](https://handyman.dulare.com/stop-using-print-start-using-loguru-in-python/)  
 [Don't Use Recursion In Python Any More](https://towardsdatascience.com/dont-use-recursion-in-python-any-more-918aad95094c)  
-[Creating SSH keys](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html)  
-[How To Set Up SSH Keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-2)  
 [The Next Level of Data Visualization in Python](<https://link.medium.com/TtBCQLKlUfb>)  
-[The Next Level of Data Visualization in Python](<https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=app_email_share>  )  
-[The Next Level of Data Visualization in Python](<https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3Dios_app%26utm_medium%3Demail%26utm_campaign%3Dios_app_email_share> )  
 [pytudes: considerable difficulty, to perfect particular skills.](https://github.com/norvig/pytudes)  
 [3 Tools to Track and Visualize the Execution of your Python Code](https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e)  
+
+[My New Python Project Checklist. When building a new project,](https://python.plainenglish.io/a-python-project-checklist-91242b4a2ca3)  
+[Start Managing Your Python Dependencies Using Poetry](https://python.plainenglish.io/start-managing-your-dependencies-using-poetry-in-python-b2f1e227fcf7)  
+[Visualize dependencies between Python Modules](https://medium.com/illumination/visualize-dependencies-between-python-modules-d6e8e9a92c50)  
+[3 Techniques to Effortlessly Import and Execute Python Modules](https://towardsdatascience.com/3-advance-techniques-to-effortlessly-import-and-execute-your-python-modules-ccdcba017b0c)  
+[GitHub - piku/piku: The tiniest PaaS you've ever seen.](https://github.com/piku/piku)  
