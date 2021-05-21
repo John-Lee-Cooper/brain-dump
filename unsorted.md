@@ -454,6 +454,12 @@
 
 [My New Python Project Checklist. When building a new project,](https://python.plainenglish.io/a-python-project-checklist-91242b4a2ca3)  
 [Start Managing Your Python Dependencies Using Poetry](https://python.plainenglish.io/start-managing-your-dependencies-using-poetry-in-python-b2f1e227fcf7)  
-[Visualize dependencies between Python Modules](https://medium.com/illumination/visualize-dependencies-between-python-modules-d6e8e9a92c50)  
 [3 Techniques to Effortlessly Import and Execute Python Modules](https://towardsdatascience.com/3-advance-techniques-to-effortlessly-import-and-execute-your-python-modules-ccdcba017b0c)  
 [GitHub - piku/piku: The tiniest PaaS you've ever seen.](https://github.com/piku/piku)  
+[Multi-processing Image Evolution In Python](https://medium.com/analytics-vidhya/multi-processing-image-evolution-in-python-be5e7eedded5)  
+[Flask 2.0, Werkzeug 2.0, Jinja 3.0, Click 8.0, ItsDangerous 2.0, and MarkupSafe 2.0](https://palletsprojects.com/blog/flask-2-0-released/)  
+[Internet Speed Test using Python](https://ayushi7rawat.medium.com/internet-speed-test-using-python-15b8f2e6bbef)  
+[Md docs typer](https://github.com/bruce-szalwinski/mkdocs-typer)  
+[Shapes that are filled rectangle](https://chart-studio.plotly.com/~empet/14945/shapes-that-are-filled-rectangle/#/)  
+[Async in Flask 2.0](https://testdriven.io/blog/flask-async/)  
+[Python Clean Code: 6 Best Practices to Make Your Python Functions More Readable](https://towardsdatascience.com/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60)  
