@@ -1,13 +1,14 @@
 # Unsorted
 
-
-### Design Patterns
-[Design Patterns Every Developer Should Learn](https://javascript.plainenglish.io/5-design-patterns-every-developer-should-learn-a02835d15159)  
-[Top Design Patterns in Python](https://medium.com/python-pandemonium/top-design-patterns-in-python-9778843d5451)  
-[Factory Pattern Without Switch and If-Else](https://medium.com/swlh/factory-pattern-without-switch-this-is-how-it-should-be-done-cd895e356f44)  
-
-
 ## Python
+[11 Refactoring Patterns To Elevate Your Python Code](https://betterprogramming.pub/11-refactoring-patterns-to-elevate-your-python-code-a47dbe5826d)  
+[Stop using print, start using loguru in Python](https://handyman.dulare.com/stop-using-print-start-using-loguru-in-python/)  
+[Don't Use Recursion In Python Any More](https://towardsdatascience.com/dont-use-recursion-in-python-any-more-918aad95094c)  
+[Python Clean Code: 6 Best Practices to Make Your Python Functions More Readable](https://towardsdatascience.com/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60)  
+[Python beyond beginner stage. So you've started using Python.](https://towardsdatascience.com/python-beyond-beginner-stage-good-practices-and-tools-75ddd55b445d)  
+[20 Type Hinting Techniques and Tools for Better Python Code](https://betterprogramming.pub/twenty-type-hinting-techniques-and-tools-for-better-python-code-e877e0b0c679)  
+[Simple Must-Have Python Multiprocessing](https://dk-wei.medium.com/simple-must-have-python-multiprocessing-90329dc0a0b8)  
+[6 Things You Need to Know To Run Commands From Python](https://medium.com/pythonland/6-things-you-need-to-know-to-run-commands-from-python-4ed5bc4c58a1)  
 [Python Programming Language - GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar)  
 
 [functools, reduce](https://www.google.com/url?q=https://medium.com/python-in-plain-english/pythons-amazing-functools-module-3c4602f09b15&source=gmail-imap&ust=1606614805000000&usg=AOvVaw28x1dzFoVaEtBCjq6DBOqX)  
@@ -16,7 +17,7 @@
 [Your Purchases - Real Python](https://realpython.com/account/purchases/)  
 [Python Tutorial](https://www.google.com/url?q=https://www.bogotobogo.com/python/pytut.php&source=gmail-imap&ust=1606072280000000&usg=AOvVaw1qXpPxIA14AhuzD_IDITE-)  
 
-[Data Structures in Python]( https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html)  
+[Data Structures in Python](https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html)  
 [Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://link.medium.com/ZXxLbGuGTab)   
 
 [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)  
@@ -27,17 +28,27 @@
 [YouTube Downloader with Python](https://towardsdatascience.com/build-a-youtube-downloader-with-python-8ef2e6915d97)  
 
 ### Python Packaging
-
+[How to make an awesome Python package](https://antonz.org/python-packaging/)  
+[Setting Up Sphinx Documentation](http://connor-johnson.com/2016/11/21/setting-up-sphinx-documentation/#more-1473)
+[pypa/pipx: Install and Run Python Applications in Isolated Environments](https://github.com/pypa/pipx)  
+[3 Techniques to Effortlessly Import and Execute Python Modules](https://towardsdatascience.com/3-advance-techniques-to-effortlessly-import-and-execute-your-python-modules-ccdcba017b0c)  
 [Automatically Build and Deploy Your Python Application in 4 Easy Steps](https://medium.com/better-programming/automatically-build-and-deploy-your-python-application-in-4-easy-steps-88084fc07d54)  
+[My New Python Project Checklist. When building a new project,](https://python.plainenglish.io/a-python-project-checklist-91242b4a2ca3)  
+[Ultimate Setup for Your Next Python Project](https://towardsdatascience.com/ultimate-setup-for-your-next-python-project-179bda8a7c2c)  
+
+[Start Managing Your Python Dependencies Using Poetry](https://python.plainenglish.io/start-managing-your-dependencies-using-poetry-in-python-b2f1e227fcf7)  
+[Stop using Pip, use Poetry Instead!](https://nanthony007.medium.com/stop-using-pip-use-poetry-instead-db7164f4fc72)  
+
 [Command Line Scripts Python Packaging Tutorial](http://python-packaging.readthedocs.io/en/latest/command-line-scripts.html)   
-[How to package Python apps with BeeWare Briefcase](https://www.infoworld.com/article/3570295/how-to-package-python-apps-with-beeware-briefcase.html?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20200815+prog+nl&mkt_tok=eyJpIjoiTTJSaVlqRmxZbVF6TnpVNSIsInQiOiJkNjFBb1wvWGRGUXpKR2FNb0xvbFwvK251cE00TjRVdlE1RjhtdGpCNW5GQ0trM0tIWUJjSG1lbEpJTFJxNEQwcHpcLzA2dXBZRjdTUmZQV3RBZkhrajNLblNTcTJiRjZFeTE2TjYzZXNHeTNoazdRaDdVYnFPVnVyXC8zb3VkSWpJRHkifQ%3D%3D)  
 [Command Line Scripts](https://www.google.com/url?q=https://www.geeksforgeeks.org/command-line-scripts-python-packaging/&source=gmail-imap&ust=1605229239000000&usg=AOvVaw2torjUuf7OAI2D3I-D5QOJ)   
-[The many ways to pass code to Python from the terminal](https://snarky.ca/the-many-ways-to-pass-code-to-python-from-the-terminal/)  
-[Packaging and Shipping Python Apps for the Desktop](https://heartbeat.fritz.ai/packaging-and-shipping-python-apps-for-the-desktop-a418489b854)  
+[Command Line Scripts | Python Packaging](https://www.geeksforgeeks.org/command-line-scripts-python-packaging/)  
 [How to Build And Publish Command-Line Applications With Python](https://towardsdatascience.com/how-to-build-and-publish-command-line-applications-with-python-96065049abc1)  
+[The many ways to pass code to Python from the terminal](https://snarky.ca/the-many-ways-to-pass-code-to-python-from-the-terminal/)  
+
+[How to package Python apps with BeeWare Briefcase](https://www.infoworld.com/article/3570295/how-to-package-python-apps-with-beeware-briefcase.html?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20200815+prog+nl&mkt_tok=eyJpIjoiTTJSaVlqRmxZbVF6TnpVNSIsInQiOiJkNjFBb1wvWGRGUXpKR2FNb0xvbFwvK251cE00TjRVdlE1RjhtdGpCNW5GQ0trM0tIWUJjSG1lbEpJTFJxNEQwcHpcLzA2dXBZRjdTUmZQV3RBZkhrajNLblNTcTJiRjZFeTE2TjYzZXNHeTNoazdRaDdVYnFPVnVyXC8zb3VkSWpJRHkifQ%3D%3D)  
+[Packaging and Shipping Python Apps for the Desktop](https://heartbeat.fritz.ai/packaging-and-shipping-python-apps-for-the-desktop-a418489b854)  
 [Packaging in Python: Tools and Formats](https://www.google.com/url?q=https://towardsdatascience.com/packaging-in-python-tools-and-formats-743ead5f39ee&source=gmail-imap&ust=1605376910000000&usg=AOvVaw0tI6bixKizxutg58QluWU6)   
 [How To Package Your Python Code - Python Packaging Tutorial](https://python-packaging.readthedocs.io/en/latest/index.html)  
-[Command Line Scripts | Python Packaging](https://www.geeksforgeeks.org/command-line-scripts-python-packaging/)  
 [Getting Started With setuptools and setup.py](https://pythonhosted.org/an_example_pypi_project/setuptools.html)  
 
 ### Python Tools
@@ -48,6 +59,7 @@
 
 ### PyCharm
 
+[PyCharm 2021.1 Is Out!](https://blog.jetbrains.com/pycharm/2021/04/pycharm-2021-1/)  
 [PyCharm Professional](https://medium.com/python-in-plain-english/pycharm-professional-python-editors-in-review-b978f0e5c4ba)  
 [4 Reasons to Use PyCharm for Your Next Python Project](https://towardsdatascience.com/4-tips-to-get-the-best-out-of-pycharm-99dd5d01932d)  
 [Features - PyCharm](https://www.jetbrains.com/pycharm/features/)  
@@ -133,7 +145,7 @@
 
 [Cleaner Data Analysis with Pandas Using Pipes](https://towardsdatascience.com/cleaner-data-analysis-with-pandas-using-pipes-4d73770fbf3c)  
 [An Ultimate Cheat Sheet for Data Visualization in Pandas](https://towardsdatascience.com/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-4010e1b16b5c)   
-[Create HTML profiling reports from pandas DataFrame objects]( https://github.com/pandas-profiling/pandas-profiling)  
+[Create HTML profiling reports from pandas DataFrame objects](https://github.com/pandas-profiling/pandas-profiling)  
 [My top 4 functions to style the Pandas Dataframe](https://towardsdatascience.com/my-top-4-functions-to-style-the-pandas-dataframe-932cdc79be39)  
 [Plotting in Pandas Just Got Prettier](https://towardsdatascience.com/plotting-in-pandas-just-got-prettier-289d0e0fe5c0)  
 [Plot With Pandas: Python Data Visualization for Beginners](https://realpython.com/pandas-plot-python/)  
@@ -186,15 +198,21 @@
 [Integrate Plotly Dash Into Your Flask App](https://hackersandslackers.com/plotly-dash-with-flask/)  
 [How to embed a Dash app into an existing Flask app](https://medium.com/@olegkomarov_77860/how-to-embed-a-dash-app-into-an-existing-flask-app-ea05d7a2210b)  
 [Integrating Dash with Existing Web Apps](https://dash.plotly.com/integrating-dash)  
-[How To Build A Dashboard In Python - Plotly Dash Step-by-Step Tutorial]( https://www.statworx.com/de/blog/how-to-build-a-dashboard-in-python-plotly-dash-step-by-step-tutorial/)  
-[Build Stunning Interactive Web Data Dashboards]( https://medium.com/@agilbert.agtech/build-stunning-interactive-web-data-dashboards-with-python-plotly-and-dash-fcbdc09ba318)  
+[How To Build A Dashboard In Python - Plotly Dash Step-by-Step Tutorial](https://www.statworx.com/de/blog/how-to-build-a-dashboard-in-python-plotly-dash-step-by-step-tutorial/)  
+[Build Stunning Interactive Web Data Dashboards](https://medium.com/@agilbert.agtech/build-stunning-interactive-web-data-dashboards-with-python-plotly-and-dash-fcbdc09ba318)  
 [How to Create a Dashboard to Dominate the Stock Market Using Python and Dash](https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=app_email_share)  
 [Building Dashboards using Dash](https://towardsdatascience.com/building-dashboards-using-dash-200-lines-of-code-ae0be08d805b)  
 
-[Build a live polling web app with Python]( https://pusher.com/tutorials/live-poll-python)  
+[Build a live polling web app with Python](https://pusher.com/tutorials/live-poll-python)  
 
 ## Flask
 
+[Migrate from Flask-Bootstrap](https://bootstrap-flask.readthedocs.io/en/stable/migrate.html)  
+[Simple Interactive SVG Application with Flask and Jinja](http://connor-johnson.com/2015/03/23/simple-interactive-svg-application-with-flask-and-jinja/)  
+[Flask 2.0, Werkzeug 2.0, Jinja 3.0, Click 8.0, ItsDangerous 2.0, and MarkupSafe 2.0](https://palletsprojects.com/blog/flask-2-0-released/)  
+[Async in Flask 2.0](https://testdriven.io/blog/flask-async/)  
+[How to insert a Python graph into an HTML Web Site](https://towardsdatascience.com/how-to-insert-a-python-graph-into-an-html-web-site-688754f67e1c)  
+[piku/piku: The tiniest PaaS you've ever seen.](https://github.com/piku/piku)  
 [Google Web App Flask](https://realpython.com/python-web-applications/#brush-up-on-the-basics)  
 [Flask-Meld: Meld is a full-stack framework for Flask](https://github.com/mikeabrahamsen/Flask-Meld)  
 [Flask-Admin](https://www.google.com/url?q=http://mrjoes.github.io/2013/10/21/flask-admin-107.html&source=gmail-imap&ust=1606052448000000&usg=AOvVaw1dtC_lwKUffLgqDVtzHCcj)  
@@ -260,6 +278,16 @@
 [EndlessTrax/pyanchor: Find your broken links, so users don't.](https://www.google.com/url?q=https://github.com/EndlessTrax/pyanchor&source=gmail-imap&ust=1605655699000000&usg=AOvVaw0R8QACLSL0WU7oWJbv0RvB)  
 
 ## CV
+
+[Create your own sketch with OpenCV](https://medium.com/analytics-vidhya/create-your-own-sketch-with-opencv-638a463c6ec6?source=userActivityShare-8a8b134a2c85-1622677935&_branch_match_id=928785474273424850)  
+[OpenCV TotalAccess: Instantly Watch and Label All Cameras Attached to a Computer Using this Python Code](https://gdurendal.medium.com/opencv-totalaccess-instantly-watch-and-label-all-cameras-attached-to-a-computer-using-this-python-b2d64da8f879)  
+[Pixels, Arrays, and Images. An Introduction to Computer Vision](https://levelup.gitconnected.com/pixels-arrays-and-images-ef3f03638fe7)  
+[Detecting deforestation from satellite images](https://towardsdatascience.com/detecting-deforestation-from-satellite-images-7aa6dfbd9f61)  
+[Enhancing Thermal Images. We humans cannot see the infrared](https://robertvandevlasakker.medium.com/enhancing-thermal-images-2ddf9d7f5d4a)  
+[Image Intensity Manipulation. What counts as intensity manipulation](https://pub.towardsai.net/image-intensity-manipulation-27c126a72d06)  
+[Introduction to Image Processing - Part 2: Image Enhancement](https://perez-aids.medium.com/introduction-to-image-processing-part-2-image-enhancement-1135a2198793)  
+[Face detection using the Haar Cascade Classifier](https://link.medium.com/iCdPwfy1ugb)  
+[Toonify(Cartoonization) Images using OpenCV and NumPy Python Libraries](https://medium.com/analytics-vidhya/toonify-cartoonization-images-using-opencv-and-numpy-python-libraries-ef460a3a0a79)  
 [Dewarping Documents with AI.](https://heartbeat.fritz.ai/dewarping-documents-with-ai-748a34f471b)  
 [Film simulations from scratch using Python](https://kevinmartinjose.com/2021/04/27/film-simulations-from-scratch-using-python/)  
 [Formula to determine brightness of RGB color](https://stackoverflow.com/questions/596216/formula-to-determine-brightness-of-rgb-color)  
@@ -283,6 +311,7 @@
 
 ## OpenCV
 
+[Building a SET Solver Using Python and OpenCV](https://medium.com/swlh/building-a-set-solver-using-python-and-opencv-4413389e7fdd)  
 :star:[Image Augmentation Mastering: 15+ Techniques and Useful Functions with Python Codes](https://towardsdatascience.com/image-augmentation-mastering-15-techniques-and-useful-functions-with-python-codes-44c3f8c1ea1f)  
 :star:[Python for the Lab | Step by Step Guide to Building a GUI](https://www.pythonforthelab.com/blog/step-by-step-guide-to-building-a-gui/)  
 [Image Histogram](https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_image_histogram_calcHist.php)  
@@ -301,6 +330,7 @@
 [Practical Image Process with OpenCV](https://towardsdatascience.com/practical-image-process-with-opencv-8405772c603e)  
 
 ### Thinning
+
 [Opencv thinning/skeletonizing algorithm](https://answers.opencv.org/question/163561/looking-for-a-thinningskeletonizing-algorithm-with-opencv-in-python/)  
 [Opency skeletonization in openCV?](https://stackoverflow.com/questions/33095476/is-there-any-build-in-function-can-do-skeletonization-in-opencv)  
 [Is there a Guo Hall thinning method in openCV 3.1.0?](https://answers.opencv.org/question/84435/is-there-a-guo-hall-thinning-method-in-opencv-310/)  
@@ -315,6 +345,7 @@
 
 ## Git
 
+[Resolve Git conflicts](https://www.jetbrains.com/help/pycharm/resolve-conflicts.html#CRLF_warning)
 [Git Commands to Live By. The cheat sheet that goes beyond Git](https://medium.com/better-programming/git-commands-to-live-by-349ab1fe3139)  
 [GitHub - cvlab: CV Lab - Computer Vision Laboratory](https://github.com/cvlab-ai/cvlab#installation)  
 [The Top 3 Tricks to Keep Your Git History Clean](https://medium.com/@msehovic92/the-top-3-tricks-to-keep-your-git-history-clean-6d341dc12b35)  
@@ -323,6 +354,13 @@
 [Git Pretty](http://justinhileman.info/article/git-pretty/git-pretty.png)  
 [Dangit, git!](https://gumroad.com/l/dangit-git)  
 [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)  
+
+### Design Patterns
+
+[Design Patterns Every Developer Should Learn](https://javascript.plainenglish.io/5-design-patterns-every-developer-should-learn-a02835d15159)  
+[Top Design Patterns in Python](https://medium.com/python-pandemonium/top-design-patterns-in-python-9778843d5451)  
+[Factory Pattern Without Switch and If-Else](https://medium.com/swlh/factory-pattern-without-switch-this-is-how-it-should-be-done-cd895e356f44)  
+
 
 ## Software Engineering
 
@@ -350,8 +388,13 @@
 [Use pywinauto to Automate Programs in Windows](https://medium.com/better-programming/use-pywinauto-to-automate-programs-in-windows-7d4a7eb082a5)  
 [Windows and Linux are now One](https://towardsdatascience.com/dual-boot-is-dead-windows-and-linux-are-now-one-27555902a128)  
 
+## IOS
+
+[Pass The Swift Code Review: Dictionary Edition](https://stevenpcurtis.medium.com/pass-the-swift-code-review-dictionary-edition-25191edb3ff6)  
+
 ## Android
 
+[IoT apps: finding your IoT devices with Android](https://cheesecakelabs.com/blog/developing-iot-apps-connecting-smart-devices/)  
 [Android Interview Questions](https://www.google.com/url?q=https://android.jlelse.eu/android-interview-questions-cheat-sheet-96ea01c88def&source=gmail-imap&ust=1606011609000000&usg=AOvVaw3ZHGqVJSbrlPybAeUBIOxT)  
 [Developing IoT apps: finding your IoT devices with Android](https://www.google.com/url?q=https://cheesecakelabs.com/blog/developing-iot-apps-connecting-smart-devices/&source=gmail-imap&ust=1606072357000000&usg=AOvVaw3CUsWGTAbTs4XwkUafjltn)  
 [8 ways to do asynchronous processing in Android and counting](https://android.jlelse.eu/8-ways-to-do-asynchronous-processing-in-android-and-counting-f634dc6fae4e)  
@@ -426,40 +469,21 @@
 [python wed App Generators](https://github.com/app-generator?tab=repositories)  
 [Amazon Wants to Make You an ML Practitioner](https://towardsdatascience.com/amazon-wants-to-make-you-an-ml-practitioner-for-free-552c46cea9ba)  
 [Documentation for Visual Studio Code](https://www.google.com/url?q=https://code.visualstudio.com/docs?start%3Dtrue&source=gmail-imap&ust=1606072396000000&usg=AOvVaw2WZLsd7GTIUC7-_OTd4TOQ)  
-
 [tds archive](https://towardsdatascience.com/archive)  
 [A curated list of awesome JSON datasets](https://github.com/jdorfman/awesome-json-datasets)  
 [Need a Password Manager](https://debugger.medium.com/you-need-a-password-manager-just-dont-use-lastpass-4b4ef3d485f)  
 [a README](https://www.makeareadme.com/)  
-[IoT apps: finding your IoT devices with Android](https://cheesecakelabs.com/blog/developing-iot-apps-connecting-smart-devices/)  
 [to Become a Top Open-Source Developer](https://www.google.com/url?q=https://medium.com/swlh/how-to-become-a-top-open-source-developer-7fa305c0b6ae&source=gmail-imap&ust=1605834256000000&usg=AOvVaw2WLJv-YF51ywQTWo0hMxZj)  
 [Sourcery blog](https://sourcery.ai/blog/)  
 [PyWebIO: Write Interactive Web App in Script Way Using Python](https://towardsdatascience.com/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e)  
-[11 Refactoring Patterns To Elevate Your Python Code](https://betterprogramming.pub/11-refactoring-patterns-to-elevate-your-python-code-a47dbe5826d)  
 [GitHub - metachris/pdfx](https://github.com/metachris/pdfx)  
-[PyCharm 2021.1 Is Out!](https://blog.jetbrains.com/pycharm/2021/04/pycharm-2021-1/)  
-[How to make an awesome Python package](https://antonz.org/python-packaging/)  
-[Migrate from Flask-Bootstrap](https://bootstrap-flask.readthedocs.io/en/stable/migrate.html)  
-[Simple Interactive SVG Application with Flask and Jinja](http://connor-johnson.com/2015/03/23/simple-interactive-svg-application-with-flask-and-jinja/)  
 [PyCon 2021 Welcome To PyCon US 2021](https://us.pycon.org/2021/)  
-[Setting Up Sphinx Documentation](http://connor-johnson.com/2016/11/21/setting-up-sphinx-documentation/#more-1473)
 [Build a Python Directory Tree Generator for the Command Line](https://realpython.com/directory-tree-generator-python/)
-[Resolve Git conflicts](https://www.jetbrains.com/help/pycharm/resolve-conflicts.html#CRLF_warning)
-
-[Stop using print, start using loguru in Python](https://handyman.dulare.com/stop-using-print-start-using-loguru-in-python/)  
-[Don't Use Recursion In Python Any More](https://towardsdatascience.com/dont-use-recursion-in-python-any-more-918aad95094c)  
 [The Next Level of Data Visualization in Python](<https://link.medium.com/TtBCQLKlUfb>)  
 [pytudes: considerable difficulty, to perfect particular skills.](https://github.com/norvig/pytudes)  
-[3 Tools to Track and Visualize the Execution of your Python Code](https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e)  
-
-[My New Python Project Checklist. When building a new project,](https://python.plainenglish.io/a-python-project-checklist-91242b4a2ca3)  
-[Start Managing Your Python Dependencies Using Poetry](https://python.plainenglish.io/start-managing-your-dependencies-using-poetry-in-python-b2f1e227fcf7)  
-[3 Techniques to Effortlessly Import and Execute Python Modules](https://towardsdatascience.com/3-advance-techniques-to-effortlessly-import-and-execute-your-python-modules-ccdcba017b0c)  
-[GitHub - piku/piku: The tiniest PaaS you've ever seen.](https://github.com/piku/piku)  
 [Multi-processing Image Evolution In Python](https://medium.com/analytics-vidhya/multi-processing-image-evolution-in-python-be5e7eedded5)  
-[Flask 2.0, Werkzeug 2.0, Jinja 3.0, Click 8.0, ItsDangerous 2.0, and MarkupSafe 2.0](https://palletsprojects.com/blog/flask-2-0-released/)  
 [Internet Speed Test using Python](https://ayushi7rawat.medium.com/internet-speed-test-using-python-15b8f2e6bbef)  
 [Md docs typer](https://github.com/bruce-szalwinski/mkdocs-typer)  
-[Shapes that are filled rectangle](https://chart-studio.plotly.com/~empet/14945/shapes-that-are-filled-rectangle/#/)  
-[Async in Flask 2.0](https://testdriven.io/blog/flask-async/)  
-[Python Clean Code: 6 Best Practices to Make Your Python Functions More Readable](https://towardsdatascience.com/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60)  
+[giswqs/leafmap: A Python package for geospatial analysis and interactive mapping with minimal coding in a Jupyter environment](https://github.com/giswqs/leafmap)  
+[Build a Bulk File Rename Tool With Python and PyQt](https://realpython.com/bulk-file-rename-tool-python/)  
+
