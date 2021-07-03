@@ -76,6 +76,7 @@
 
 [Why Bother Using Property Decorators in Python?](https://medium.com/better-programming/why-bother-using-property-decorators-in-python-935c425f86ed)  
 [Handling exceptions in Python a cleaner way, using Decorators](https://medium.com/swlh/handling-exceptions-in-python-a-cleaner-way-using-decorators-fae22aa0abec)  
+[Exceptional Code: Using try-except in Python](?https://medium.com/better-programming/exceptional-code-using-try-except-in-python-540b6416db79)  
 [The Curious Case of Python’s Context Manager](https://rednafi.github.io/digressions/python/2020/03/26/python-contextmanager.html)  
 [The Magic of Python Context Managers](https://martinheinz.dev/blog/34)  
 
@@ -248,6 +249,9 @@
 [Debug Toolbar](https://flask-debugtoolbar.readthedocs.io/en/latest/)  
 
 ## Web sockets  
+
+[Implement a WebSocket Using Flask and Socket-IO](https://medium.com/swlh/implement-a-websocket-using-flask-and-socket-io-python-76afa5bbeae1)  
+[Asynchronous updates to a webpage with Flask and Socket.io](https://www.shanelynn.ie/asynchronous-updates-to-a-webpage-with-flask-and-socket-io/)  
 [web sockets 1](https://flask-socketio.readthedocs.io/en/latest/)  
 [web sockets 2](https://www.fullstackpython.com/websockets.html)  
 [web sockets 3](https://medium.com/swlh/implement-a-websocket-using-flask-and-socket-io-python-76afa5bbeae1)  
@@ -366,6 +370,7 @@
 
 [Software Development Principles That Should Be Embraced Daily](https://betterprogramming.pub/7-software-development-principles-that-should-be-embraced-daily-c26a94ec4ecc)  
 [The S.O.L.I.D Principles in Pictures](https://link.medium.com/Edsmv10sM6)  
+[SOLID Coding in Python.](https://towardsdatascience.com/solid-coding-in-python-1281392a6a94)  
 [Improving Your Team's Code Review Culture](https://link.medium.com/nX1hij4UTbb)  
 
 ### Testing
@@ -490,6 +495,7 @@
 [Force Sphinx to interpret Markdown in Python docstrings instead of reStructuredText](https://stackoverflow.com/questions/56062402/force-sphinx-to-interpret-markdown-in-python-docstrings-instead-of-restructuredt)  
 [Should You Use Python pathlib or os?](https://betterprogramming.pub/should-you-be-using-pathlib-6f3a0fddec7e)  
 
+[Video Streaming in Web Browsers with OpenCV & Flask](https://towardsdatascience.com/video-streaming-in-web-browsers-with-opencv-flask-93a38846fe00)  
 [Drawing Bounding Box Method in Image Processing](https://pub.towardsai.net/drawing-bounding-box-method-in-image-processing-ec7487393cfa)  
 [Image Processing with Python: Object Detection using Template Matching](https://medium.com/swlh/image-processing-with-python-object-detection-using-template-matching-fa82b8c94fbd)  
 [Convert GIF to Base64 - Online Image Tools](https://onlineimagetools.com/convert-gif-to-base64)  
@@ -508,3 +514,5 @@
 [Lane detection with OpenCV](https://medium.com/nerd-for-tech/lane-detection-with-opencv-part-1-ad9ea5758c07)  
 [Real-Time Lane Detection and alerts for Autonomous Driving](https://towardsdatascience.com/real-time-lane-detection-and-alerts-for-autonomous-driving-1f0a021390ee)  
 
+
+[EndlessTrax/pyanchor: Find your broken links, so users don't.](https://github.com/EndlessTrax/pyanchor)  
