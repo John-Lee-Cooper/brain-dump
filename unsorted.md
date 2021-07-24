@@ -252,11 +252,10 @@
 
 [Implement a WebSocket Using Flask and Socket-IO](https://medium.com/swlh/implement-a-websocket-using-flask-and-socket-io-python-76afa5bbeae1)  
 [Asynchronous updates to a webpage with Flask and Socket.io](https://www.shanelynn.ie/asynchronous-updates-to-a-webpage-with-flask-and-socket-io/)  
-[web sockets 1](https://flask-socketio.readthedocs.io/en/latest/)  
-[web sockets 2](https://www.fullstackpython.com/websockets.html)  
-[web sockets 3](https://medium.com/swlh/implement-a-websocket-using-flask-and-socket-io-python-76afa5bbeae1)  
-[web sockets 4](https://pythonprogramminglanguage.com/python-flask-websocket/)  
+[flask-socketio](https://flask-socketio.readthedocs.io/en/latest/)  
 [High-Throughput Game Message Server with Python websockets](https://mortoray.com/2020/12/06/high-throughput-game-message-server-with-python-websockets/)  
+[flask-websocket](https://pythonprogramminglanguage.com/python-flask-websocket/)  
+[web sockets](https://www.fullstackpython.com/websockets.html)  
 
 ## SQL
 
@@ -514,5 +513,20 @@
 [Lane detection with OpenCV](https://medium.com/nerd-for-tech/lane-detection-with-opencv-part-1-ad9ea5758c07)  
 [Real-Time Lane Detection and alerts for Autonomous Driving](https://towardsdatascience.com/real-time-lane-detection-and-alerts-for-autonomous-driving-1f0a021390ee)  
 
+[A mini project with OpenCV in Python -Cartoonify an Image](https://medium.com/boundlessinfo/a-mini-project-with-opencv-in-python-cartoonify-an-image-d82b9ff6df70)
+[Edge-Based and Region-Based Segmentation Using Python](https://betterprogramming.pub/edge-based-and-region-based-segmentation-using-python-f5364607bff0)
+[Introduction to Image Processing: Image Segmentation 1](https://medium.com/swlh/introduction-to-image-processing-part-5-image-segmentation-1-99f93d9f7a5e)
+[Dynamic Skin Segmentation - A Threshold Approach ](https://medium.com/analytics-vidhya/a-threshold-approach-for-dynamic-skin-segmentation-f50f5df72a4a)
+[Image segmentation: change the color of your car!](https://towardsdatascience.com/image-segmentation-change-the-color-of-your-car-step-by-step-guide-ba9aa16ee52e)
+[Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+[Easiest Way to Label Your Images in Python For Free](https://towardsdatascience.com/easiest-way-to-label-your-images-in-python-for-free-e338b5b5adf3)
+[How To Use a Camera in Raspberry Pi With OpenCV](https://medium.com/vacatronics/how-to-use-a-camera-in-raspberry-pi-with-opencv-bb6cf42650da)
+[Image Processing With Python: Introduction to Computer Vision](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3)
+[Beginner's guide to learn computer vision in 2021](https://towardsdatascience.com/beginners-guide-to-learn-computer-vision-in-2021-6083ab6de6af)
 
+[Using FastAPI to Build Python Web APIs](https://realpython.com/fastapi-python-web-apis/)
+[Copilot writes a text-based game in Python ??](https://sandyuraz.com/blogs/copilot-game/)
+[The 5 Certificate to Prove Your Python Knowledge Level](https://towardsdatascience.com/the-5-certificate-to-prove-your-python-knowledge-level-c1b3b74e6d6b)
+[iTerm2 - macOS Terminal Replacement](https://iterm2.com/documentation-highlights.html)
+[GitHub - Play-online-chess-with-real-chess-board: Program that enables you to play online chess using real chess board.](https://github.com/karayaman/Play-online-chess-with-real-chess-board)
 [EndlessTrax/pyanchor: Find your broken links, so users don't.](https://github.com/EndlessTrax/pyanchor)  
