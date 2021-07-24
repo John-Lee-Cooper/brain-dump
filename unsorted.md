@@ -18,7 +18,7 @@
 [Python Tutorial](https://www.google.com/url?q=https://www.bogotobogo.com/python/pytut.php&source=gmail-imap&ust=1606072280000000&usg=AOvVaw1qXpPxIA14AhuzD_IDITE-)  
 
 [Data Structures in Python](https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html)  
-[Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://link.medium.com/ZXxLbGuGTab)   
+[Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://link.medium.com/ZXxLbGuGTab)  
 
 [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)  
 
@@ -29,7 +29,7 @@
 
 ### Python Packaging
 [How to make an awesome Python package](https://antonz.org/python-packaging/)  
-[Setting Up Sphinx Documentation](http://connor-johnson.com/2016/11/21/setting-up-sphinx-documentation/#more-1473)
+[Setting Up Sphinx Documentation](http://connor-johnson.com/2016/11/21/setting-up-sphinx-documentation/#more-1473)  
 [pypa/pipx: Install and Run Python Applications in Isolated Environments](https://github.com/pypa/pipx)  
 [3 Techniques to Effortlessly Import and Execute Python Modules](https://towardsdatascience.com/3-advance-techniques-to-effortlessly-import-and-execute-your-python-modules-ccdcba017b0c)  
 [Automatically Build and Deploy Your Python Application in 4 Easy Steps](https://medium.com/better-programming/automatically-build-and-deploy-your-python-application-in-4-easy-steps-88084fc07d54)  
@@ -39,15 +39,15 @@
 [Start Managing Your Python Dependencies Using Poetry](https://python.plainenglish.io/start-managing-your-dependencies-using-poetry-in-python-b2f1e227fcf7)  
 [Stop using Pip, use Poetry Instead!](https://nanthony007.medium.com/stop-using-pip-use-poetry-instead-db7164f4fc72)  
 
-[Command Line Scripts Python Packaging Tutorial](http://python-packaging.readthedocs.io/en/latest/command-line-scripts.html)   
-[Command Line Scripts](https://www.google.com/url?q=https://www.geeksforgeeks.org/command-line-scripts-python-packaging/&source=gmail-imap&ust=1605229239000000&usg=AOvVaw2torjUuf7OAI2D3I-D5QOJ)   
+[Command Line Scripts Python Packaging Tutorial](http://python-packaging.readthedocs.io/en/latest/command-line-scripts.html)  
+[Command Line Scripts](https://www.google.com/url?q=https://www.geeksforgeeks.org/command-line-scripts-python-packaging/&source=gmail-imap&ust=1605229239000000&usg=AOvVaw2torjUuf7OAI2D3I-D5QOJ)  
 [Command Line Scripts | Python Packaging](https://www.geeksforgeeks.org/command-line-scripts-python-packaging/)  
 [How to Build And Publish Command-Line Applications With Python](https://towardsdatascience.com/how-to-build-and-publish-command-line-applications-with-python-96065049abc1)  
 [The many ways to pass code to Python from the terminal](https://snarky.ca/the-many-ways-to-pass-code-to-python-from-the-terminal/)  
 
 [How to package Python apps with BeeWare Briefcase](https://www.infoworld.com/article/3570295/how-to-package-python-apps-with-beeware-briefcase.html?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20200815+prog+nl&mkt_tok=eyJpIjoiTTJSaVlqRmxZbVF6TnpVNSIsInQiOiJkNjFBb1wvWGRGUXpKR2FNb0xvbFwvK251cE00TjRVdlE1RjhtdGpCNW5GQ0trM0tIWUJjSG1lbEpJTFJxNEQwcHpcLzA2dXBZRjdTUmZQV3RBZkhrajNLblNTcTJiRjZFeTE2TjYzZXNHeTNoazdRaDdVYnFPVnVyXC8zb3VkSWpJRHkifQ%3D%3D)  
 [Packaging and Shipping Python Apps for the Desktop](https://heartbeat.fritz.ai/packaging-and-shipping-python-apps-for-the-desktop-a418489b854)  
-[Packaging in Python: Tools and Formats](https://www.google.com/url?q=https://towardsdatascience.com/packaging-in-python-tools-and-formats-743ead5f39ee&source=gmail-imap&ust=1605376910000000&usg=AOvVaw0tI6bixKizxutg58QluWU6)   
+[Packaging in Python: Tools and Formats](https://www.google.com/url?q=https://towardsdatascience.com/packaging-in-python-tools-and-formats-743ead5f39ee&source=gmail-imap&ust=1605376910000000&usg=AOvVaw0tI6bixKizxutg58QluWU6)  
 [How To Package Your Python Code - Python Packaging Tutorial](https://python-packaging.readthedocs.io/en/latest/index.html)  
 [Getting Started With setuptools and setup.py](https://pythonhosted.org/an_example_pypi_project/setuptools.html)  
 
@@ -70,8 +70,8 @@
 [5 Levels of Handling Date and Time in Python](https://medium.com/techtofreedom/5-levels-of-handling-date-and-time-in-python-46b601e47f65)  
 [Python Type Checking](https://testdriven.io/blog/python-type-checking/)  
 [Type hints cheat sheet](https://www.google.com/url?q=https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html&source=gmail-imap&ust=1606072450000000&usg=AOvVaw2M5QPOuJZTNa5ojqvWyG6m)  
-[Typing](https://www.pythonsheets.com/notes/python-typing.html)
-[typing - Support for type hints](https://docs.python.org/3/library/typing.html)
+[Typing](https://www.pythonsheets.com/notes/python-typing.html)  
+[typing - Support for type hints](https://docs.python.org/3/library/typing.html)  
 [Python Type Checking (Guide)](https://realpython.com/python-type-checking/
 
 [Why Bother Using Property Decorators in Python?](https://medium.com/better-programming/why-bother-using-property-decorators-in-python-935c425f86ed)  
@@ -98,7 +98,7 @@
 [A Curated List of 57 Amazing GitHub Repositories for Every Python Developer](https://medium.com/better-programming/a-curated-list-of-57-amazing-github-repositories-for-every-python-developer-67dc2cd8d0bc)  
 
 [Redis - Beyond the Cache with Python](https://redislabs.com/blog/beyond-the-cache-with-python/)  
-[Using joblib to speed up your Python pipelines](https://towardsdatascience.com/using-joblib-to-speed-up-your-python-pipelines-dd97440c653d)   
+[Using joblib to speed up your Python pipelines](https://towardsdatascience.com/using-joblib-to-speed-up-your-python-pipelines-dd97440c653d)  
 [Automate Your Python Script with Process Manager 2 (PM2)](https://towardsdatascience.com/automate-your-python-script-with-pm2-463238ea0b65)  
 [SSH & SCP in Python with Paramiko](https://hackersandslackers.com/automate-ssh-scp-python-paramiko/)  
 [Pedantic Configuration Management with Pydantic](https://rednafi.github.io/digressions/python/2020/06/03/python-configs.html)  
@@ -120,7 +120,7 @@
 [Building Rich Console Interfaces in Python](https://medium.com/trabe/building-rich-console-interfaces-in-python-16338cc30eaa)  
 [Building Rich terminal dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)  
 [questionary: Python library to build pretty command line user prompts](https://github.com/tmbo/questionary)  
-[Setuptools Integration Click Documentation (7.x)](https://www.google.com/url?q=https://click.palletsprojects.com/en/7.x/setuptools/&source=gmail-imap&ust=1605229345000000&usg=AOvVaw1v86qfaa8ee9BsnNH_CUDQ)   
+[Setuptools Integration Click Documentation (7.x)](https://www.google.com/url?q=https://click.palletsprojects.com/en/7.x/setuptools/&source=gmail-imap&ust=1605229345000000&usg=AOvVaw1v86qfaa8ee9BsnNH_CUDQ)  
 [Cement Framework](https://builtoncement.com/)  
 [Gooey GUI](https://github.com/chriskiehl/Gooey)  
 [tabulate: Pretty-print tabular data in Python](https://github.com/astanin/python-tabulate)  
@@ -129,7 +129,7 @@
 
 [Genetic Algorithms in Elixir by Sean Moriarity](https://medium.com/pragmatic-programmers/table-of-contents-879fc8614df)  
 [5 Free Books for Learning Python for Data Science](https://towardsdatascience.com/5-free-books-for-learning-python-for-data-science-87be443c084)  
-[Machine Learning and Data Science free online courses](https://towardsdatascience.com/machine-learning-free-online-courses-from-beginner-to-advanced-f50982dce950)
+[Machine Learning and Data Science free online courses](https://towardsdatascience.com/machine-learning-free-online-courses-from-beginner-to-advanced-f50982dce950)  
 
 ## NumPy
 
@@ -137,7 +137,7 @@
 [NumPy Tutorial: Your First Steps Into Data Science in Python](https://realpython.com/numpy-tutorial/)  
 [NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)  
 [pydantic](https://pydantic-docs.helpmanual.io/)  
-[Fluent NumPy](https://medium.com/analytics-vidhya/fluent-numpy-187cc14f2832)   
+[Fluent NumPy](https://medium.com/analytics-vidhya/fluent-numpy-187cc14f2832)  
 [NumPy: the absolute basics for beginners](https://numpy.org/devdocs/user/absolute_beginners.html)  
 [Diving into NumPy. A glance over an important library]()  
 [numpy](https://www.google.com/url?q=https://towardsdatascience.com/diving-into-numpy-b92abfd7a00f&source=gmail-imap&ust=1606174106000000&usg=AOvVaw21ZsJO6_h1DgKYXKUnsiVO)  
@@ -145,7 +145,7 @@
 ## Pandas
 
 [Cleaner Data Analysis with Pandas Using Pipes](https://towardsdatascience.com/cleaner-data-analysis-with-pandas-using-pipes-4d73770fbf3c)  
-[An Ultimate Cheat Sheet for Data Visualization in Pandas](https://towardsdatascience.com/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-4010e1b16b5c)   
+[An Ultimate Cheat Sheet for Data Visualization in Pandas](https://towardsdatascience.com/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-4010e1b16b5c)  
 [Create HTML profiling reports from pandas DataFrame objects](https://github.com/pandas-profiling/pandas-profiling)  
 [My top 4 functions to style the Pandas Dataframe](https://towardsdatascience.com/my-top-4-functions-to-style-the-pandas-dataframe-932cdc79be39)  
 [Plotting in Pandas Just Got Prettier](https://towardsdatascience.com/plotting-in-pandas-just-got-prettier-289d0e0fe5c0)  
@@ -154,7 +154,7 @@
 ## Plot
 
 [PyQtGraph](https://www.geeksforgeeks.org/pyqtgraph-setting-symbol-of-line-in-line-graph/?ref=rp)  
-[Next level data visualization](https://link.medium.com/0EwvRIzGTab)   
+[Next level data visualization](https://link.medium.com/0EwvRIzGTab)  
 [No More Basic Plots Please. A Quick Guide to Upgrade Your Data](https://medium.com/python-in-plain-english/no-more-basic-plots-please-59ecc8ac0508)  
 [dexplot/README.md](https://github.com/dexplo/dexplot/blob/master/README.md)  
 [Bokeh](https://bokeh.pydata.org/en/latest/)  
@@ -162,7 +162,7 @@
 ### Matplotlib
 
 [Points Example - Bringing Matplotlib to the Browser](https://mpld3.github.io/examples/drag_points.html)  
-[Plotting Data With Seaborn and Pandas](https://hackingandslacking.com/plotting-data-with-seaborn-and-pandas-d2499fdf6f01)   
+[Plotting Data With Seaborn and Pandas](https://hackingandslacking.com/plotting-data-with-seaborn-and-pandas-d2499fdf6f01)  
 [What's new in Matplotlib 3](https://towardsdatascience.com/whats-new-in-matplotlib-3-1b3b03f18ddc)  
 [Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)  
 [Visualizing Prim's algorithm with networkx and matplotlib](https://kylekizirian.github.io/prims-algorithm.html)  
@@ -186,7 +186,7 @@
 ### Plotly
 
 [Web Visualization with Plotly and Flask.](https://towardsdatascience.com/web-visualization-with-plotly-and-flask-3660abf9c946)  
-[Create Cloud-hosted Charts with Plotly Chart Studio](https://hackingandslacking.com/create-cloud-hosted-charts-with-plotly-chart-studio-c59bc7eff1dd)
+[Create Cloud-hosted Charts with Plotly Chart Studio](https://hackingandslacking.com/create-cloud-hosted-charts-with-plotly-chart-studio-c59bc7eff1dd)  
 [4 Ways To Improve Your Plotly Graphs](https://hackersandslackers.com/4-ways-to-improve-your-plotly-graphs/)  
 [Plotly Bubble Charts and Hover Text](http://nbviewer.ipython.org/gist/jackparmer/7729584)  
 [Pandas and Plotly](http://nbviewer.ipython.org/gist/nipunreddevil/7734529)  
@@ -219,7 +219,6 @@
 [Flask-Admin](https://www.google.com/url?q=http://mrjoes.github.io/2013/10/21/flask-admin-107.html&source=gmail-imap&ust=1606052448000000&usg=AOvVaw1dtC_lwKUffLgqDVtzHCcj)  
 [Using Google Login With Flask](https://realpython.com/courses/using-google-login-flask/)  
 [Build Flask Apps Series](https://hackersandslackers.com/series/build-flask-apps/)  
-[FastAPI for Flask Users](https://amitness.com/2020/06/fastapi-vs-flask/)  
 [Hacking and Slacking Flask](https://hackingandslacking.com/tagged/flask)  
 [The End of Flask in Data Science](https://towardsdatascience.com/the-end-of-flask-in-data-science-738920090ed9)  
 [Configuring Your Flask Application](https://hackingandslacking.com/configuring-your-flask-application-4e5341d7affb)  
@@ -248,6 +247,10 @@
 [Command Line Interface](https://flask.palletsprojects.com/en/1.1.x/cli/)  
 [Debug Toolbar](https://flask-debugtoolbar.readthedocs.io/en/latest/)  
 
+## Fast API
+[Using FastAPI to Build Python Web APIs](https://realpython.com/fastapi-python-web-apis/)  
+[FastAPI for Flask Users](https://amitness.com/2020/06/fastapi-vs-flask/)  
+
 ## Web sockets  
 
 [Implement a WebSocket Using Flask and Socket-IO](https://medium.com/swlh/implement-a-websocket-using-flask-and-socket-io-python-76afa5bbeae1)  
@@ -259,8 +262,8 @@
 
 ## SQL
 
-[Databases in Python Made Easy with SQLAlchemy](https://hackingandslacking.com/databases-in-python-made-easy-with-sqlalchemy-3c958657b325)
-[Implement ORM Data Models with SQLAlchemy](https://hackingandslacking.com/implement-orm-data-models-with-sqlalchemy-bea18a4733da)
+[Databases in Python Made Easy with SQLAlchemy](https://hackingandslacking.com/databases-in-python-made-easy-with-sqlalchemy-3c958657b325)  
+[Implement ORM Data Models with SQLAlchemy](https://hackingandslacking.com/implement-orm-data-models-with-sqlalchemy-bea18a4733da)  
 [Mastering SQLAlchemy Series](https://hackersandslackers.com/series/mastering-sqlalchemy)  
 [Data Management With Python, SQLite, and SQLAlchemy](https://realpython.com/python-sqlite-sqlalchemy/)  
 [Things I Wished More Developers Knew About Databases](https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=app_email_share)  
@@ -274,7 +277,7 @@
 [10 Principles for Typography in UI Design](https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd)  
 [10 Web Development Trends Every CTO Should Expect in 2021](https://medium.com/swlh/10-web-development-trends-every-cto-should-expect-in-2021-ddcb460d4b84)  
 [MkDocs](https://www.google.com/url?q=https://www.mkdocs.org/&source=gmail-imap&ust=1606071979000000&usg=AOvVaw0HkhqLB23jhJE__W_7utaq)  
-[8 Common Web Development Mistakes](https://www.google.com/url?q=https://medium.com/better-programming/8-common-web-development-mistakes-87800f80d8e&source=gmail-imap&ust=1605376912000000&usg=AOvVaw3P7476f2F6bzaYXWwHqsQV)   
+[8 Common Web Development Mistakes](https://www.google.com/url?q=https://medium.com/better-programming/8-common-web-development-mistakes-87800f80d8e&source=gmail-imap&ust=1605376912000000&usg=AOvVaw3P7476f2F6bzaYXWwHqsQV)  
 [Stop writing your own user authentication code](https://medium.com/better-programming/stop-writing-your-own-user-authentication-code-e8bb50388ec4)  
 [Everything you need to learn Markdown](https://www.markdownguide.org/)  
 [Building A Lightweight Blogging CMS In 10 Lines of Code](https://www.google.com/url?q=https://www.oneword.domains/blog/lightweight-cms&source=gmail-imap&ust=1605655518000000&usg=AOvVaw18huYYupekHK0zCM_eGBtb)  
@@ -310,7 +313,7 @@
 :star:[Denoising Photos with Machine Learning](https://towardsdatascience.com/edit-your-old-photos-with-machine-learning-computational-photography-7ef27f40cfdf?gi=a9502b243302)  
 :star:[cv2utils - face detectors](https://github.com/luizcarloscf/cv2utils)  
 :star:[Make an AI Tracker in 23 Lines of Code in Python](https://codeburst.io/make-an-ai-tracker-7dc1c5afccc5)  
-:star:[How to make your own Instagram filter with facial recognition using python](https://towardsdatascience.com/how-to-make-your-own-instagram-filter-with-facial-recognition-from-scratch-using-python-d3a42029e65b)   
+:star:[How to make your own Instagram filter with facial recognition using python](https://towardsdatascience.com/how-to-make-your-own-instagram-filter-with-facial-recognition-from-scratch-using-python-d3a42029e65b)  
 
 ## OpenCV
 
@@ -322,10 +325,10 @@
 [High-Resolution 3D Human Digitization from A Single Image.](https://github.com/facebookresearch/pifuhd)  
 
 [Real-Time Head Pose Estimation in Python](https://towardsdatascience.com/real-time-head-pose-estimation-in-python-e52db1bc606a)  
-[6 Significant Computer Vision Problems Solved by ML](https://www.google.com/url?q=https://heartbeat.fritz.ai/6-significant-computer-vision-problems-solved-by-ml-623eb50544c5&source=gmail-imap&ust=1605221493000000&usg=AOvVaw1GWcBZVJpO6tTzImLHbiIf)   
+[6 Significant Computer Vision Problems Solved by ML](https://www.google.com/url?q=https://heartbeat.fritz.ai/6-significant-computer-vision-problems-solved-by-ml-623eb50544c5&source=gmail-imap&ust=1605221493000000&usg=AOvVaw1GWcBZVJpO6tTzImLHbiIf)  
 [Custom Object Detection Using Keras and OpenCV](https://towardsdatascience.com/how-to-build-a-weapon-detection-system-using-keras-and-opencv-67b19234e3dd)  
-[Medial axis skeletonization  skimage v0.12.2 docs](https://scikit-image.org/docs/0.12.x/auto_examples/edges/plot_medial_transform.html)   
-[OpenCV-Python: Skeletonization using OpenCV-Python](http://opencvpython.blogspot.com/2012/05/skeletonization-using-opencv-python.html)   
+[Medial axis skeletonization  skimage v0.12.2 docs](https://scikit-image.org/docs/0.12.x/auto_examples/edges/plot_medial_transform.html)  
+[OpenCV-Python: Skeletonization using OpenCV-Python](http://opencvpython.blogspot.com/2012/05/skeletonization-using-opencv-python.html)  
 [Gamma](http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/)  
 [Color correction in Opencv with color correction matrix](https://stackoverflow.com/questions/47939482/color-correction-in-opencv-with-color-correction-matrix)  
 [Real time face recognition with CPU](?https://towardsdatascience.com/real-time-face-recognition-with-cpu-983d35cc3ec5)  
@@ -343,12 +346,12 @@
 
 [awesome-compose](https://github.com/docker/awesome-compose)  
 [Containerizing Python Web Application](https://medium.com/swlh/containerizing-python-web-application-1052e61cf201)  
-[Getting Started with Docker for Data Scientists](https://www.google.com/url?q=https://towardsdatascience.com/getting-started-with-docker-for-data-scientists-a2ed505e2a09&source=gmail-imap&ust=1605376913000000&usg=AOvVaw1wPYnQSY9iZCIegIC9KZQH)   
+[Getting Started with Docker for Data Scientists](https://www.google.com/url?q=https://towardsdatascience.com/getting-started-with-docker-for-data-scientists-a2ed505e2a09&source=gmail-imap&ust=1605376913000000&usg=AOvVaw1wPYnQSY9iZCIegIC9KZQH)  
 [Python HOW: Starting with Docker - The Startup - Medium](https://medium.com/swlh/python-how-starting-with-docker-d2be73d9ae92)  
 
 ## Git
 
-[Resolve Git conflicts](https://www.jetbrains.com/help/pycharm/resolve-conflicts.html#CRLF_warning)
+[Resolve Git conflicts](https://www.jetbrains.com/help/pycharm/resolve-conflicts.html#CRLF_warning)  
 [Git Commands to Live By. The cheat sheet that goes beyond Git](https://medium.com/better-programming/git-commands-to-live-by-349ab1fe3139)  
 [GitHub - cvlab: CV Lab - Computer Vision Laboratory](https://github.com/cvlab-ai/cvlab#installation)  
 [The Top 3 Tricks to Keep Your Git History Clean](https://medium.com/@msehovic92/the-top-3-tricks-to-keep-your-git-history-clean-6d341dc12b35)  
@@ -375,7 +378,7 @@
 ### Testing
 
 [Learning Python Test Automation](https://www.google.com/url?q=https://automationpanda.com/2020/11/09/learning-python-test-automation/&source=gmail-imap&ust=1605655558000000&usg=AOvVaw1s4LR1vIQtngzhHTzP0Tsh)  
-[Unit Testing in Python Patching, Mocks and Dependency Injection](https://levelup.gitconnected.com/unit-testing-in-python-mocking-patching-and-dependency-injection-301280db2fed)
+[Unit Testing in Python Patching, Mocks and Dependency Injection](https://levelup.gitconnected.com/unit-testing-in-python-mocking-patching-and-dependency-injection-301280db2fed)  
 
 ## CI
 
@@ -385,7 +388,7 @@
 ## Oauth
 
 [OAuth 1 Workflow  Requests-OAuthlib 1.0.0 documentation](https://requests-oauthlib.readthedocs.io/en/latest/oauth1_workflow.html)  
-[rauth: A Python library for OAuth 1.0/a, 2.0, and Ofly.](https://github.com/litl/rauth)
+[rauth: A Python library for OAuth 1.0/a, 2.0, and Ofly.](https://github.com/litl/rauth)  
 
 ## WSL
 
@@ -418,7 +421,7 @@
 ## Raspberry
 
 [Build a Surveillance System Using Raspberry Pi, NodeJS and Pir Sensor](https://link.medium.com/eB9UHXdv5bb)  
-[The Best Accessory for Your iPad Pro: The Raspberry Pi 4](https://medium.com/macoclock/the-best-accessory-for-your-ipad-pro-the-raspberry-pi-4-3269c98498f6)
+[The Best Accessory for Your iPad Pro: The Raspberry Pi 4](https://medium.com/macoclock/the-best-accessory-for-your-ipad-pro-the-raspberry-pi-4-3269c98498f6)  
 
 ## Blogs
 
@@ -482,7 +485,7 @@
 [PyWebIO: Write Interactive Web App in Script Way Using Python](https://towardsdatascience.com/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e)  
 [GitHub - metachris/pdfx](https://github.com/metachris/pdfx)  
 [PyCon 2021 Welcome To PyCon US 2021](https://us.pycon.org/2021/)  
-[Build a Python Directory Tree Generator for the Command Line](https://realpython.com/directory-tree-generator-python/)
+[Build a Python Directory Tree Generator for the Command Line](https://realpython.com/directory-tree-generator-python/)  
 [The Next Level of Data Visualization in Python](<https://link.medium.com/TtBCQLKlUfb>)  
 [pytudes: considerable difficulty, to perfect particular skills.](https://github.com/norvig/pytudes)  
 [Multi-processing Image Evolution In Python](https://medium.com/analytics-vidhya/multi-processing-image-evolution-in-python-be5e7eedded5)  
@@ -512,21 +515,21 @@
 [Air Piano using OpenCV and Python](https://towardsdatascience.com/air-piano-using-opencv-and-python-298cb22097d9)  
 [Lane detection with OpenCV](https://medium.com/nerd-for-tech/lane-detection-with-opencv-part-1-ad9ea5758c07)  
 [Real-Time Lane Detection and alerts for Autonomous Driving](https://towardsdatascience.com/real-time-lane-detection-and-alerts-for-autonomous-driving-1f0a021390ee)  
+[OpenCV in Python - Cartoonify an Image](https://medium.com/boundlessinfo/a-mini-project-with-opencv-in-python-cartoonify-an-image-d82b9ff6df70)  
+[Edge-Based and Region-Based Segmentation Using Python](https://betterprogramming.pub/edge-based-and-region-based-segmentation-using-python-f5364607bff0)  
+[Introduction to Image Processing: Image Segmentation](https://medium.com/swlh/introduction-to-image-processing-part-5-image-segmentation-1-99f93d9f7a5e)  
+[Dynamic Skin Segmentation - A Threshold Approach ](https://medium.com/analytics-vidhya/a-threshold-approach-for-dynamic-skin-segmentation-f50f5df72a4a)  
+[Image segmentation: change the color of your car!](https://towardsdatascience.com/image-segmentation-change-the-color-of-your-car-step-by-step-guide-ba9aa16ee52e)  
+[Image Processing With Python](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3)  
 
-[A mini project with OpenCV in Python -Cartoonify an Image](https://medium.com/boundlessinfo/a-mini-project-with-opencv-in-python-cartoonify-an-image-d82b9ff6df70)
-[Edge-Based and Region-Based Segmentation Using Python](https://betterprogramming.pub/edge-based-and-region-based-segmentation-using-python-f5364607bff0)
-[Introduction to Image Processing: Image Segmentation 1](https://medium.com/swlh/introduction-to-image-processing-part-5-image-segmentation-1-99f93d9f7a5e)
-[Dynamic Skin Segmentation - A Threshold Approach ](https://medium.com/analytics-vidhya/a-threshold-approach-for-dynamic-skin-segmentation-f50f5df72a4a)
-[Image segmentation: change the color of your car!](https://towardsdatascience.com/image-segmentation-change-the-color-of-your-car-step-by-step-guide-ba9aa16ee52e)
-[Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-[Easiest Way to Label Your Images in Python For Free](https://towardsdatascience.com/easiest-way-to-label-your-images-in-python-for-free-e338b5b5adf3)
-[How To Use a Camera in Raspberry Pi With OpenCV](https://medium.com/vacatronics/how-to-use-a-camera-in-raspberry-pi-with-opencv-bb6cf42650da)
-[Image Processing With Python: Introduction to Computer Vision](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3)
-[Beginner's guide to learn computer vision in 2021](https://towardsdatascience.com/beginners-guide-to-learn-computer-vision-in-2021-6083ab6de6af)
+[Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)  
+[Easiest Way to Label Your Images in Python For Free](https://towardsdatascience.com/easiest-way-to-label-your-images-in-python-for-free-e338b5b5adf3)  
+[Beginner's guide to computer vision](https://towardsdatascience.com/beginners-guide-to-learn-computer-vision-in-2021-6083ab6de6af)  
 
-[Using FastAPI to Build Python Web APIs](https://realpython.com/fastapi-python-web-apis/)
-[Copilot writes a text-based game in Python ??](https://sandyuraz.com/blogs/copilot-game/)
-[The 5 Certificate to Prove Your Python Knowledge Level](https://towardsdatascience.com/the-5-certificate-to-prove-your-python-knowledge-level-c1b3b74e6d6b)
-[iTerm2 - macOS Terminal Replacement](https://iterm2.com/documentation-highlights.html)
-[GitHub - Play-online-chess-with-real-chess-board: Program that enables you to play online chess using real chess board.](https://github.com/karayaman/Play-online-chess-with-real-chess-board)
+[How To Use a Camera in Raspberry Pi With OpenCV](https://medium.com/vacatronics/how-to-use-a-camera-in-raspberry-pi-with-opencv-bb6cf42650da)  
+
+[Copilot writes a text-based game in Python ??](https://sandyuraz.com/blogs/copilot-game/)  
+[The 5 Certificate to Prove Your Python Knowledge Level](https://towardsdatascience.com/the-5-certificate-to-prove-your-python-knowledge-level-c1b3b74e6d6b)  
+[iTerm2 - macOS Terminal Replacement](https://iterm2.com/documentation-highlights.html)  
+[GitHub - Play-online-chess-with-real-chess-board: Program that enables you to play online chess using real chess board.](https://github.com/karayaman/Play-online-chess-with-real-chess-board)  
 [EndlessTrax/pyanchor: Find your broken links, so users don't.](https://github.com/EndlessTrax/pyanchor)  
